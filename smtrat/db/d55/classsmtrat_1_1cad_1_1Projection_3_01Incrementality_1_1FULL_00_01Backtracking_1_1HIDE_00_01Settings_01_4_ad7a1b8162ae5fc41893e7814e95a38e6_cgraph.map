@@ -1,0 +1,10 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::reset" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::reset">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,217,120"/>
+<area shape="rect" id="node2" href="$d4/d00/classsmtrat_1_1PriorityQueue.html#a0d92ef803c599cf4386499551edb2d59" title=" " alt="" coords="307,5,469,47"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="271,71,505,98"/>
+<area shape="rect" id="node4" href="$d5/d81/classsmtrat_1_1cad_1_1ProjectionInformation.html#ab7aa6e354bfcf3d4ac52a15b9b9971ac" title=" " alt="" coords="265,123,511,164"/>
+<area shape="rect" id="node5" href="$d5/d62/classsmtrat_1_1cad_1_1ProjectionGlobalInformation.html#ad842283de8d39518e1600c5421c0b6a3" title=" " alt="" coords="575,57,785,99"/>
+<area shape="rect" id="node6" href="$d2/dcd/classsmtrat_1_1cad_1_1ProjectionLevelInformation.html#a3a8890823591d04212c343ddfbf1ab2f" title=" " alt="" coords="578,123,782,164"/>
+<area shape="rect" id="node8" href="$de/da8/classsmtrat_1_1cad_1_1ProjectionPolynomialInformation.html#ae4b5877fad152277487d0aee49318e47" title=" " alt="" coords="559,188,801,229"/>
+<area shape="rect" id="node7" href="$d2/dcd/classsmtrat_1_1cad_1_1ProjectionLevelInformation.html#a3ccd85e3ec5ebf74c1180978413e59f2" title=" " alt="" coords="849,123,1053,164"/>
+</map>

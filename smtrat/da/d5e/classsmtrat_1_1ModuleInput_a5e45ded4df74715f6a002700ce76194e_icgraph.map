@@ -1,0 +1,14 @@
+<map id="smtrat::ModuleInput::contains" name="smtrat::ModuleInput::contains">
+<area shape="rect" id="node1" title=" " alt="" coords="996,111,1151,153"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#a9b0f7ee577e90d6c2b585818d3a430a1" title="Collects the formulas in the given formula, which are part of the received formula." alt="" coords="717,5,935,32"/>
+<area shape="rect" id="node4" href="$db/d90/classsmtrat_1_1ICPModule.html#aaee4c12e1977a24015465f54bdfdec41" title=" " alt="" coords="704,57,948,127"/>
+<area shape="rect" id="node5" href="$d8/da6/classsmtrat_1_1Module.html#a9f818f3b3a9682b790bebdc66a03df94" title=" " alt="" coords="734,151,918,193"/>
+<area shape="rect" id="node12" href="$d8/da6/classsmtrat_1_1Module.html#a43f6e1e93e9cb40863ec9677bef82995" title=" " alt="" coords="737,217,915,258"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#a7a3f687410d3fe1a86725b5c135cd6b6" title=" " alt="" coords="460,5,656,32"/>
+<area shape="rect" id="node6" href="$d8/da6/classsmtrat_1_1Module.html#aa62260ca322fb39c8132b0acdecd33c3" title="Checks the received formula for consistency." alt="" coords="475,159,641,185"/>
+<area shape="rect" id="node7" href="$dc/d3b/classsmtrat_1_1PModule.html#aefe9a92e4927c92b276b2dd5a780c9c6" title="Checks the received formula for consistency." alt="" coords="237,108,411,135"/>
+<area shape="rect" id="node8" href="$d0/df0/classsmtrat_1_1Manager.html#ad4ceacd4b82f11b14ada8f3ddd969b4f" title="Checks the so far added formulas for satisfiability." alt="" coords="236,159,412,185"/>
+<area shape="rect" id="node11" href="$d1/da0/classsmtrat_1_1ThreadPool.html#a4a0cf59bebd1016f6e7e2e1fc69f40e1" title=" " alt="" coords="251,210,397,251"/>
+<area shape="rect" id="node9" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a648f0f052d65925843b52ca7c3073465" title=" " alt="" coords="17,114,177,155"/>
+<area shape="rect" id="node10" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="5,180,188,236"/>
+</map>

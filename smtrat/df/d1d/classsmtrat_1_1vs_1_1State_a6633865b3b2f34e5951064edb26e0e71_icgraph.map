@@ -1,0 +1,8 @@
+<map id="smtrat::vs::State::rSubResultCombination" name="smtrat::vs::State::rSubResultCombination">
+<area shape="rect" id="node1" title=" " alt="" coords="723,50,897,91"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a1d44b1248ab993e94ad228bda28bc9fe" title="Deletes everything originated by the given conditions in the substitution results of this state." alt="" coords="455,5,675,61"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a62b7ab69457edac098cce1101c5a4530" title="Cleans up all conditions in this state according to comparison between the corresponding constraints." alt="" coords="495,86,634,127"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad9d891684d67c8aeb241a53098bcef2b" title="Removes everything in this state originated by the given vector of conditions." alt="" coords="268,13,407,54"/>
+<area shape="rect" id="node5" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,115,220,141"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="268,137,407,178"/>
+</map>

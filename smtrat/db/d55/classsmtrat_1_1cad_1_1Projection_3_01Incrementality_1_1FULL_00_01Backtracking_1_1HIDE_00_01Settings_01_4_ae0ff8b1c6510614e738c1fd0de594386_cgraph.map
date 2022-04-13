@@ -1,0 +1,9 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::deletePolynomials" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::deletePolynomials">
+<area shape="rect" id="node1" title="Delete polynomial in mProjection and all other datastructures." alt="" coords="5,115,217,185"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#aef9b6c2f5f5023b230370b46d417c498" title=" " alt="" coords="287,5,489,47"/>
+<area shape="rect" id="node3" href="$d5/d81/classsmtrat_1_1cad_1_1ProjectionInformation.html#aac66f8818a42d06a2bc0599bf385f168" title=" " alt="" coords="265,71,511,112"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="271,137,505,163"/>
+<area shape="rect" id="node6" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a5ee8a021b8a212fe3120dd5f97800d87" title="Frees a currently used polynomial id for the given level." alt="" coords="287,188,489,229"/>
+<area shape="rect" id="node7" href="$d4/d00/classsmtrat_1_1PriorityQueue.html#a5aa8e46eb6147ae7868ec153c258e039" title=" " alt="" coords="307,253,469,295"/>
+<area shape="rect" id="node4" href="$de/da8/classsmtrat_1_1cad_1_1ProjectionPolynomialInformation.html#a11f38c5dee69abd4a0c10c0c75836997" title=" " alt="" coords="559,71,801,112"/>
+</map>

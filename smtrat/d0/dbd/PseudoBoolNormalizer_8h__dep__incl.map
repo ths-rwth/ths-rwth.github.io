@@ -1,0 +1,15 @@
+<map id="smtrat&#45;modules/PBPPModule/Encoders/PseudoBoolNormalizer.h" name="smtrat&#45;modules/PBPPModule/Encoders/PseudoBoolNormalizer.h">
+<area shape="rect" id="node1" title=" " alt="" coords="416,5,664,47"/>
+<area shape="rect" id="node2" href="$d7/dfa/MixedSignEncoder_8h.html" title=" " alt="" coords="200,95,419,136"/>
+<area shape="rect" id="node4" href="$da/dbc/PBPPModule_8h.html" title="Supports optimization." alt="" coords="401,184,612,225"/>
+<area shape="rect" id="node11" href="$da/dce/PseudoBoolNormalizer_8cpp.html" title=" " alt="" coords="494,95,757,136"/>
+<area shape="rect" id="node12" href="$d0/d23/TotalizerEncoder_8h.html" title=" " alt="" coords="781,95,992,136"/>
+<area shape="rect" id="node3" href="$d3/db6/MixedSignEncoder_8cpp.html" title=" " alt="" coords="143,184,377,225"/>
+<area shape="rect" id="node5" href="$d7/d66/PBPPModule_2Instantiation_8h.html" title=" " alt="" coords="5,273,216,315"/>
+<area shape="rect" id="node6" href="$dc/de2/PBPPModule_8cpp.html" title=" " alt="" coords="76,363,287,404"/>
+<area shape="rect" id="node7" href="$db/dc8/MAXSATBackendStrategy_8h.html" title=" " alt="" coords="291,273,495,315"/>
+<area shape="rect" id="node8" href="$d8/d60/MAXSMTPBPPStrategy_8h.html" title=" " alt="" coords="519,273,723,315"/>
+<area shape="rect" id="node9" href="$d1/d51/OptimizationStrategy_8h.html" title=" " alt="" coords="747,273,951,315"/>
+<area shape="rect" id="node10" href="$d2/dc9/PBPPStrategy_8h.html" title=" " alt="" coords="975,273,1179,315"/>
+<area shape="rect" id="node13" href="$d7/d73/TotalizerEncoder_8cpp.html" title=" " alt="" coords="775,184,998,225"/>
+</map>

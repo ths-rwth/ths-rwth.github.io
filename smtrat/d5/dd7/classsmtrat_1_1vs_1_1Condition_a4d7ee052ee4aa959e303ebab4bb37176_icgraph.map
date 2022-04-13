@@ -1,0 +1,17 @@
+<map id="smtrat::vs::Condition::getId" name="smtrat::vs::Condition::getId">
+<area shape="rect" id="node1" title=" " alt="" coords="815,327,973,368"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9b9d71dbb3cadb10bdcccdbebb955809" title="Delete everything originated by the given conditions from the entire subtree with this state as root." alt="" coords="583,123,722,164"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="310,64,449,105"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad9d891684d67c8aeb241a53098bcef2b" title="Removes everything in this state originated by the given vector of conditions." alt="" coords="310,319,449,360"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a1d44b1248ab993e94ad228bda28bc9fe" title="Deletes everything originated by the given conditions in the substitution results of this state." alt="" coords="543,254,763,310"/>
+<area shape="rect" id="node8" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#ae407f6c79921b89951ab01915c1af6dd" title="Checks if the given condition (right hand side) is greater than this condition (left hand side)." alt="" coords="573,385,732,427"/>
+<area shape="rect" id="node9" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#af5f0fe89a4701911537cdffd998bfff0" title="Checks the equality of a given condition (right hand side) with this condition (left hand side)." alt="" coords="573,451,732,492"/>
+<area shape="rect" id="node10" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="575,188,730,229"/>
+<area shape="rect" id="node12" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a62b7ab69457edac098cce1101c5a4530" title="Cleans up all conditions in this state according to comparison between the corresponding constraints." alt="" coords="583,5,722,47"/>
+<area shape="rect" id="node13" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="539,517,767,543"/>
+<area shape="rect" id="node14" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a814116ed9d89a106bc8834cbf9e56537" title="Destructor." alt="" coords="583,568,722,609"/>
+<area shape="rect" id="node15" href="$d7/de3/classsmtrat_1_1VSModule.html#a41b633ca0ce3a1d6c0f244eef87dcba2" title=" " alt="" coords="579,633,726,675"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="310,129,449,171"/>
+<area shape="rect" id="node4" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,71,220,98"/>
+<area shape="rect" id="node11" href="$d7/de3/classsmtrat_1_1VSModule.html#a879c92ff19715ba269272fad7c4d8551" title="Run the backend solvers on the conditions of the given state." alt="" coords="268,247,491,288"/>
+</map>

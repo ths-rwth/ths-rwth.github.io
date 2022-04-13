@@ -1,0 +1,14 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::addPolynomial" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::addPolynomial">
+<area shape="rect" id="node1" title="Adds the given polynomial to the projection." alt="" coords="5,141,217,212"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a9446a9fdd0c8bc75bd8592e3cdf8e691" title="Checks whether a polynomial can safely be forwarded to the next level." alt="" coords="303,5,473,47"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="271,71,505,98"/>
+<area shape="rect" id="node4" href="$d5/d81/classsmtrat_1_1cad_1_1ProjectionInformation.html#a232081e8ac648b7688c7186a0e2bcb2c" title=" " alt="" coords="265,123,511,164"/>
+<area shape="rect" id="node6" href="$d5/d81/classsmtrat_1_1cad_1_1ProjectionInformation.html#ab7aa6e354bfcf3d4ac52a15b9b9971ac" title=" " alt="" coords="265,188,511,229"/>
+<area shape="rect" id="node11" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="287,253,489,295"/>
+<area shape="rect" id="node12" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="273,319,503,346"/>
+<area shape="rect" id="node5" href="$de/da8/classsmtrat_1_1cad_1_1ProjectionPolynomialInformation.html#aa7a02f513534d9b5b05a458e4b447e22" title=" " alt="" coords="559,91,801,132"/>
+<area shape="rect" id="node7" href="$d5/d62/classsmtrat_1_1cad_1_1ProjectionGlobalInformation.html#ad842283de8d39518e1600c5421c0b6a3" title=" " alt="" coords="575,156,785,197"/>
+<area shape="rect" id="node8" href="$d2/dcd/classsmtrat_1_1cad_1_1ProjectionLevelInformation.html#a3a8890823591d04212c343ddfbf1ab2f" title=" " alt="" coords="578,221,782,263"/>
+<area shape="rect" id="node10" href="$de/da8/classsmtrat_1_1cad_1_1ProjectionPolynomialInformation.html#ae4b5877fad152277487d0aee49318e47" title=" " alt="" coords="559,287,801,328"/>
+<area shape="rect" id="node9" href="$d2/dcd/classsmtrat_1_1cad_1_1ProjectionLevelInformation.html#a3ccd85e3ec5ebf74c1180978413e59f2" title=" " alt="" coords="849,221,1053,263"/>
+</map>

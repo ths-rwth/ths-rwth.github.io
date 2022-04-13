@@ -1,0 +1,6 @@
+<map id="smtrat::Module::id" name="smtrat::Module::id">
+<area shape="rect" id="node1" title=" " alt="" coords="305,100,447,127"/>
+<area shape="rect" id="node2" href="$db/d90/classsmtrat_1_1ICPModule.html#a0a0ee50bcc0d957c26272e5817e570e8" title="Adds the specific candidate to IcpRelevantCandidates." alt="" coords="28,5,235,61"/>
+<area shape="rect" id="node3" href="$db/d90/classsmtrat_1_1ICPModule.html#a070225355a601901aeeb1f2365497334" title="Removes a candidate from the icpRelevantCandidates." alt="" coords="5,85,257,141"/>
+<area shape="rect" id="node4" href="$db/d90/classsmtrat_1_1ICPModule.html#a87044f3aad91fcf5b9476e5f85011028" title="Update all affected candidates and reinsert them into icpRelevantCandidates." alt="" coords="21,165,242,221"/>
+</map>

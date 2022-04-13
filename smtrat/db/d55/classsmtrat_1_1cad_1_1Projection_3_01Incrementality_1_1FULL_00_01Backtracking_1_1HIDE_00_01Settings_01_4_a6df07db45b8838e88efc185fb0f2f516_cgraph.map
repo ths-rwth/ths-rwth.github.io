@@ -1,0 +1,5 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::Projection" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::Projection">
+<area shape="rect" id="node1" title=" " alt="" coords="5,24,217,95"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ada124ae521cc8134c879d3eda0632577" title="Checks whether a polynomial can safely be ignored due to the bounds." alt="" coords="265,5,467,47"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a9b46a1ab575a98d6049c7cd103369d98" title="Retrieves a polynomial from its id." alt="" coords="265,71,467,112"/>
+</map>

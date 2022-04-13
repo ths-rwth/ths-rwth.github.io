@@ -1,0 +1,11 @@
+<map id="smtrat::Module::getInfeasibleSubsets" name="smtrat::Module::getInfeasibleSubsets">
+<area shape="rect" id="node1" title="Copies the infeasible subsets of the passed formula." alt="" coords="920,35,1135,76"/>
+<area shape="rect" id="node2" href="$d6/def/classsmtrat_1_1CNFerModule.html#afbf31e434a97a17b8676cd6def0d6c39" title="Checks the received formula for consistency." alt="" coords="693,5,853,47"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#abae976e2d4f316e0d6644302cfde8d70" title="Checks the received formula for consistency." alt="" coords="675,71,872,98"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html#aa62260ca322fb39c8132b0acdecd33c3" title="Checks the received formula for consistency." alt="" coords="460,71,627,98"/>
+<area shape="rect" id="node5" href="$dc/d3b/classsmtrat_1_1PModule.html#aefe9a92e4927c92b276b2dd5a780c9c6" title="Checks the received formula for consistency." alt="" coords="237,21,411,47"/>
+<area shape="rect" id="node6" href="$d0/df0/classsmtrat_1_1Manager.html#ad4ceacd4b82f11b14ada8f3ddd969b4f" title="Checks the so far added formulas for satisfiability." alt="" coords="236,71,412,98"/>
+<area shape="rect" id="node9" href="$d1/da0/classsmtrat_1_1ThreadPool.html#a4a0cf59bebd1016f6e7e2e1fc69f40e1" title=" " alt="" coords="251,123,397,164"/>
+<area shape="rect" id="node7" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a648f0f052d65925843b52ca7c3073465" title=" " alt="" coords="17,27,177,68"/>
+<area shape="rect" id="node8" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="5,93,188,149"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="smtrat::vs::splitProducts" name="smtrat::vs::splitProducts">
+<area shape="rect" id="node1" title="Splits the given constraint into a set of constraints which compare the factors of the factorization ..." alt="" coords="5,56,185,83"/>
+<area shape="rect" id="node2" href="$de/dfa/namespacesmtrat_1_1vs.html#acbf8dcaad6bf83af8821220ee4cf295e" title="For a given constraint f_1*...*f_n ~ 0 this method computes all combinations of constraints f_1 ~_1 0..." alt="" coords="233,31,468,57"/>
+<area shape="rect" id="node5" href="$de/dfa/namespacesmtrat_1_1vs.html#a911fce3f0cd9cb26aedda71156221c90" title=" " alt="" coords="277,81,425,108"/>
+<area shape="rect" id="node3" href="$de/dfa/namespacesmtrat_1_1vs.html#a5302059bfd0394db1d554c0704afc875" title=" " alt="" coords="516,5,728,32"/>
+<area shape="rect" id="node4" href="$de/dfa/namespacesmtrat_1_1vs.html#afa8e776352ceda9ed32efa46471b6d81" title=" " alt="" coords="776,5,983,32"/>
+</map>

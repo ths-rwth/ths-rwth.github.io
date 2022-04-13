@@ -1,0 +1,12 @@
+<map id="smtrat::Module::model" name="smtrat::Module::model">
+<area shape="rect" id="node1" title=" " alt="" coords="987,101,1157,127"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#a322d02dc758be4e26be6572fcffaf4d8" title="Stores the model of a backend which determined satisfiability of the passed formula in the model of t..." alt="" coords="737,5,928,47"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#ad05ee153bc7c6920b72cf310feb47881" title="Clears all assignments, if any was found." alt="" coords="729,71,937,98"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html#aedaa3a5b0c6c610e9aa4a781d138aba1" title="Stores all models of a backend in the list of all models of this module." alt="" coords="727,123,939,164"/>
+<area shape="rect" id="node9" href="$d0/df0/classsmtrat_1_1Manager.html#afc68d0ccc6b60ccf47178a80ba42560c" title=" " alt="" coords="743,193,922,219"/>
+<area shape="rect" id="node5" href="$d8/da6/classsmtrat_1_1Module.html#a66dada9417e6dcd7d96a708e600db783" title="Updates all satisfying models, if the solver has detected the consistency of the received formula,..." alt="" coords="488,119,679,160"/>
+<area shape="rect" id="node6" href="$d0/df0/classsmtrat_1_1Manager.html#aa21fb576ec948b3cc2d1ff8c6215382f" title=" " alt="" coords="239,97,440,123"/>
+<area shape="rect" id="node7" href="$d8/da6/classsmtrat_1_1Module.html#a6d534e0f7d4697bb709fd6b5d1f1b7f0" title="Prints all assignments of this module satisfying its received formula if it satisfiable and this modu..." alt="" coords="251,148,427,189"/>
+<area shape="rect" id="node8" href="$d0/df0/classsmtrat_1_1Manager.html#ac1c3c0fdbb41f6075f3807a1603d50c2" title="Prints all assignments of variables occurring in the so far added formulas to values of their domains..." alt="" coords="5,148,191,189"/>
+<area shape="rect" id="node10" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="492,185,675,241"/>
+</map>

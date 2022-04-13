@@ -1,0 +1,5 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::NONE, Backtracking::UNORDERED, Settings &gt;::getPolynomialById" name="smtrat::cad::Projection&lt; Incrementality::NONE, Backtracking::UNORDERED, Settings &gt;::getPolynomialById">
+<area shape="rect" id="node1" title="Retrieves a polynomial from its id." alt="" coords="5,13,231,83"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="279,5,513,32"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="295,57,497,98"/>
+</map>

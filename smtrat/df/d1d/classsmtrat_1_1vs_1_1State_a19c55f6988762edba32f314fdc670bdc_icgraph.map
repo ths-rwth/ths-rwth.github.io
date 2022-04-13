@@ -1,0 +1,8 @@
+<map id="smtrat::vs::State::printSubstitutionResultCombination" name="smtrat::vs::State::printSubstitutionResultCombination">
+<area shape="rect" id="node1" title="Prints the combination of substitution results used in this state." alt="" coords="655,27,909,69"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ebd8fb230b32c832382b61418b77af3" title="Prints the conditions, the substitution and the substitution results of this state." alt="" coords="468,27,607,69"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="12,5,227,32"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="281,27,420,69"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab992013899d44c280f1e6d3e370f8359" title="Prints the conditions, the substitution and the substitution results of this state and all its childr..." alt="" coords="281,93,420,134"/>
+<area shape="rect" id="node6" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="5,100,233,127"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="smtrat::vs::State::takeSubResultCombAgain" name="smtrat::vs::State::takeSubResultCombAgain">
+<area shape="rect" id="node1" title=" " alt="" coords="787,89,977,131"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#a213e44ade32987bf77615242f4d279c8" title="Inserts a state and all its successors in the ranking." alt="" coords="528,5,739,47"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="12,159,227,186"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a67752f226f01351b7771d53044394acf" title="If the state contains a substitution result, which is a conjunction of disjunctions of conjunctions o..." alt="" coords="281,123,480,164"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ebd8fb230b32c832382b61418b77af3" title="Prints the conditions, the substitution and the substitution results of this state." alt="" coords="564,207,703,248"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="311,240,450,281"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab992013899d44c280f1e6d3e370f8359" title="Prints the conditions, the substitution and the substitution results of this state and all its childr..." alt="" coords="311,305,450,347"/>
+<area shape="rect" id="node8" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="5,313,233,339"/>
+</map>

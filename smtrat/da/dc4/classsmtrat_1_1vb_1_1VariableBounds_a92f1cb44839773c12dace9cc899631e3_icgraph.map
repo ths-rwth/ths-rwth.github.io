@@ -1,0 +1,13 @@
+<map id="smtrat::vb::VariableBounds::removeBound" name="smtrat::vb::VariableBounds::removeBound">
+<area shape="rect" id="node1" title="Removes all effects the given constraint has on the variable bounds." alt="" coords="833,199,1032,240"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9b9d71dbb3cadb10bdcccdbebb955809" title="Delete everything originated by the given conditions from the entire subtree with this state as root." alt="" coords="593,31,731,72"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad9d891684d67c8aeb241a53098bcef2b" title="Removes everything in this state originated by the given vector of conditions." alt="" coords="593,96,731,137"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="585,161,739,203"/>
+<area shape="rect" id="node9" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a57961a1b4b225374e9aeabb0e3eafbda" title="Removes a constraint." alt="" coords="539,227,785,283"/>
+<area shape="rect" id="node10" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="548,307,776,334"/>
+<area shape="rect" id="node11" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a814116ed9d89a106bc8834cbf9e56537" title="Destructor." alt="" coords="593,359,731,400"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="310,5,449,47"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="310,71,449,112"/>
+<area shape="rect" id="node4" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,75,220,102"/>
+<area shape="rect" id="node8" href="$d7/de3/classsmtrat_1_1VSModule.html#a879c92ff19715ba269272fad7c4d8551" title="Run the backend solvers on the conditions of the given state." alt="" coords="268,188,491,229"/>
+</map>

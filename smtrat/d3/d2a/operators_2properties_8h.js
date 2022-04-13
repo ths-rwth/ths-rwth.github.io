@@ -1,0 +1,27 @@
+var operators_2properties_8h =
+[
+    [ "poly_sgn_inv", "d4/d3c/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1poly__sgn__inv.html", "d4/d3c/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1poly__sgn__inv" ],
+    [ "poly_irreducible_sgn_inv", "dd/d25/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1poly__irreducible__sgn__inv.html", "dd/d25/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1poly__irreducible__sgn__inv" ],
+    [ "poly_ord_inv", "de/dc9/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1poly__ord__inv.html", "de/dc9/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1poly__ord__inv" ],
+    [ "root_well_def", "da/d66/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1root__well__def.html", "da/d66/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1root__well__def" ],
+    [ "poly_pdel", "d3/d3b/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1poly__pdel.html", "d3/d3b/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1poly__pdel" ],
+    [ "cell_connected", "d4/df1/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1cell__connected.html", "d4/df1/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1cell__connected" ],
+    [ "operator<", "d3/d2a/operators_2properties_8h.html#a10480a81ff12293efc6a5f68373c91e1", null ],
+    [ "operator<", "d3/d2a/operators_2properties_8h.html#a6a602715d1c96679a43f832d7be45eb0", null ],
+    [ "operator<", "d3/d2a/operators_2properties_8h.html#a9f253e53426a4a7553f7391f45991d26", null ],
+    [ "operator<", "d3/d2a/operators_2properties_8h.html#acd093a10767564599cd3122d45aa5cf9", null ],
+    [ "operator<", "d3/d2a/operators_2properties_8h.html#ab83b5a4d29c9213272a43fa1ed20630c", null ],
+    [ "operator<", "d3/d2a/operators_2properties_8h.html#a8d5720c8a330b7fb8069d1973058a664", null ],
+    [ "operator<<", "d3/d2a/operators_2properties_8h.html#aab5e9103bf9052cde3fad2d629dddcff", null ],
+    [ "operator<<", "d3/d2a/operators_2properties_8h.html#ad0c5f5303560927fbfcedfe19c05ee9c", null ],
+    [ "operator<<", "d3/d2a/operators_2properties_8h.html#ab6407416c35c91a132a5bbbf831d771b", null ],
+    [ "operator<<", "d3/d2a/operators_2properties_8h.html#a2b11b68a9fd8143c4634c3f7affe1922", null ],
+    [ "operator<<", "d3/d2a/operators_2properties_8h.html#a736b5233e208a4a7f69965ae6a304e4a", null ],
+    [ "operator<<", "d3/d2a/operators_2properties_8h.html#af739f7f4edb48690fdbfe88e8a36f56c", null ],
+    [ "operator==", "d3/d2a/operators_2properties_8h.html#ae915369a3bb4217e43b1d7095b503d49", null ],
+    [ "operator==", "d3/d2a/operators_2properties_8h.html#ad7befa96b9520c374b5d850b973fcd2b", null ],
+    [ "operator==", "d3/d2a/operators_2properties_8h.html#a3bb70e5b7c6d72543964875a7e514d05", null ],
+    [ "operator==", "d3/d2a/operators_2properties_8h.html#aae14937b635209827d4887cd34dc473f", null ],
+    [ "operator==", "d3/d2a/operators_2properties_8h.html#a2e4adc25445c3bb65a61da36e571376c", null ],
+    [ "operator==", "d3/d2a/operators_2properties_8h.html#ab37a5f7ba45419f4cfef8d566b143ab8", null ]
+];

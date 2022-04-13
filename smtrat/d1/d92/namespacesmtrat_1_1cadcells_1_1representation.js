@@ -1,0 +1,13 @@
+var namespacesmtrat_1_1cadcells_1_1representation =
+[
+    [ "cell", "d1/ddf/structsmtrat_1_1cadcells_1_1representation_1_1cell.html", "d1/ddf/structsmtrat_1_1cadcells_1_1representation_1_1cell" ],
+    [ "cell< CellHeuristic::BIGGEST_CELL >", "d0/dbe/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL_01_4.html", "d0/dbe/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL_01_4" ],
+    [ "cell< CellHeuristic::CHAIN_EQ >", "db/d38/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1CHAIN__EQ_01_4.html", "db/d38/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1CHAIN__EQ_01_4" ],
+    [ "cell< CellHeuristic::LOWEST_DEGREE_BARRIERS >", "d6/df4/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS_01_4.html", "d6/df4/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS_01_4" ],
+    [ "cell< CellHeuristic::LOWEST_DEGREE_BARRIERS_EQ >", "d3/dde/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__EQ_01_4.html", "d3/dde/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__EQ_01_4" ],
+    [ "covering", "d0/d21/structsmtrat_1_1cadcells_1_1representation_1_1covering.html", "d0/d21/structsmtrat_1_1cadcells_1_1representation_1_1covering" ],
+    [ "covering< CoveringHeuristic::CHAIN_COVERING >", "dc/dc7/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1CHAIN__COVERING_01_4.html", "dc/dc7/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1CHAIN__COVERING_01_4" ],
+    [ "covering< CoveringHeuristic::DEFAULT_COVERING >", "df/d1a/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1DEFAULT__COVERING_01_4.html", "df/d1a/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1DEFAULT__COVERING_01_4" ],
+    [ "delineation", "d7/d49/structsmtrat_1_1cadcells_1_1representation_1_1delineation.html", "d7/d49/structsmtrat_1_1cadcells_1_1representation_1_1delineation" ],
+    [ "delineation< DelineationHeuristic::CHAIN >", "db/dcb/structsmtrat_1_1cadcells_1_1representation_1_1delineation_3_01DelineationHeuristic_1_1CHAIN_01_4.html", "db/dcb/structsmtrat_1_1cadcells_1_1representation_1_1delineation_3_01DelineationHeuristic_1_1CHAIN_01_4" ]
+];

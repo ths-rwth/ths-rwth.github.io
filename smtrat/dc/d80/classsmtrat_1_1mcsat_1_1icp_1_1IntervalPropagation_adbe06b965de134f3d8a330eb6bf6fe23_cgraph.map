@@ -1,0 +1,5 @@
+<map id="smtrat::mcsat::icp::IntervalPropagation::sample_small_rational" name="smtrat::mcsat::icp::IntervalPropagation::sample_small_rational">
+<area shape="rect" id="node1" title="Samples a rational with a small representation size." alt="" coords="5,5,184,61"/>
+<area shape="rect" id="node2" href="$d9/d9c/namespacesmtrat_1_1lra.html#a6f07c38ecba22454ac6d5c59cee8f1e1" title="Calculates the absolute value of the given Numeric." alt="" coords="232,20,353,47"/>
+<area shape="rect" id="node3" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#a123d57c87eba110786852a222651a1f1" title=" " alt="" coords="401,13,555,54"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="smtrat::ModuleInput::empty" name="smtrat::ModuleInput::empty">
+<area shape="rect" id="node1" title=" " alt="" coords="755,283,909,325"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#aa62260ca322fb39c8132b0acdecd33c3" title="Checks the received formula for consistency." alt="" coords="520,85,687,112"/>
+<area shape="rect" id="node8" href="$d6/def/classsmtrat_1_1CNFerModule.html#afbf31e434a97a17b8676cd6def0d6c39" title="Checks the received formula for consistency." alt="" coords="523,250,683,291"/>
+<area shape="rect" id="node9" href="$d8/da6/classsmtrat_1_1Module.html#a7049596a5572b50e879fbd785974cf2a" title=" " alt="" coords="500,315,707,357"/>
+<area shape="rect" id="node10" href="$d0/df0/classsmtrat_1_1Manager.html#aa2145656fcaf07ef286ff35482803e4c" title="Pops a backtrack point from the stack of backtrack points." alt="" coords="522,381,685,408"/>
+<area shape="rect" id="node14" href="$d0/df0/classsmtrat_1_1Manager.html#ae1eaf16b27ac6e8553e2a5af4ac56ac4" title=" " alt="" coords="279,459,449,485"/>
+<area shape="rect" id="node17" href="$d0/df0/classsmtrat_1_1Manager.html#a04285124f6d013acd64773f74de3ac42" title="Pushes a backtrack point to the stack of backtrack points." alt="" coords="519,199,688,225"/>
+<area shape="rect" id="node3" href="$dc/d3b/classsmtrat_1_1PModule.html#aefe9a92e4927c92b276b2dd5a780c9c6" title="Checks the received formula for consistency." alt="" coords="277,5,451,32"/>
+<area shape="rect" id="node4" href="$d0/df0/classsmtrat_1_1Manager.html#ad4ceacd4b82f11b14ada8f3ddd969b4f" title="Checks the so far added formulas for satisfiability." alt="" coords="276,56,452,83"/>
+<area shape="rect" id="node7" href="$d1/da0/classsmtrat_1_1ThreadPool.html#a4a0cf59bebd1016f6e7e2e1fc69f40e1" title=" " alt="" coords="291,107,437,149"/>
+<area shape="rect" id="node5" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a648f0f052d65925843b52ca7c3073465" title=" " alt="" coords="37,49,197,90"/>
+<area shape="rect" id="node6" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="25,137,208,193"/>
+<area shape="rect" id="node11" href="$d0/df0/classsmtrat_1_1Manager.html#aebb7b27e1a44487d7c661dd077d617a1" title=" " alt="" coords="279,291,449,317"/>
+<area shape="rect" id="node12" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a287b1f41838dd2a308f1be29899961be" title=" " alt="" coords="285,342,443,383"/>
+<area shape="rect" id="node13" href="$d0/df0/classsmtrat_1_1Manager.html#ac81d65678833958d3c18360eebc4b682" title=" " alt="" coords="283,408,445,435"/>
+<area shape="rect" id="node15" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a81deb41a432c2714b48bfad3043aec46" title=" " alt="" coords="38,418,195,459"/>
+<area shape="rect" id="node16" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a3f4af1d41d6dacf5edbd83afed58871c" title=" " alt="" coords="5,483,228,525"/>
+<area shape="rect" id="node18" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a76c609f2e097d18004ff52590fda0e77" title=" " alt="" coords="285,225,443,266"/>
+</map>

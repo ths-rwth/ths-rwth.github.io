@@ -1,0 +1,29 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title="Main program." alt="" coords="5,623,60,650"/>
+<area shape="rect" id="node2" href="$de/dcc/benchmax_8cpp.html#a92f4b8843c9d7a61aca6e151d34b3d17" title="Handles the interrupt signal." alt="" coords="158,297,265,323"/>
+<area shape="rect" id="node3" href="$de/dcc/benchmax_8cpp.html#a3ea057c6f49e14c089d66ed675437e1c" title="Initialized the application." alt="" coords="150,347,273,374"/>
+<area shape="rect" id="node18" href="$d0/d1d/namespacebenchmax.html#aa1bd8f3d469a26833cbe778e65035c67" title="Retrieved operation settings." alt="" coords="401,667,551,708"/>
+<area shape="rect" id="node19" href="$d0/d1d/namespacebenchmax.html#a40153101efcfe5c2c29a5ae16051d7b8" title="Loads benchmark files from directory specified in settings." alt="" coords="108,573,315,599"/>
+<area shape="rect" id="node24" href="$d0/d1d/namespacebenchmax.html#adabb7d816b306008fb2c714e22bd92fe" title="Load all tools from the tool settings." alt="" coords="132,725,291,751"/>
+<area shape="rect" id="node26" href="$d0/d1d/namespacebenchmax.html#a9062766f004ee238205003b2332d00ab" title="Runs a given backend on a list of tools and benchmarks." alt="" coords="121,623,301,650"/>
+<area shape="rect" id="node27" href="$d4/dbe/classbenchmax_1_1BenchmarkSet.html#af9c534f64e22b061f1be7195fd97b8e1" title="Number of files." alt="" coords="115,776,308,817"/>
+<area shape="rect" id="node4" href="$d0/d1d/namespacebenchmax.html#ad1d0b0843386b6bf1571456adbea7ab5" title="Configure default logging for benchmax." alt="" coords="369,187,583,214"/>
+<area shape="rect" id="node5" href="$d0/d1d/namespacebenchmax.html#aaa2866372fbbb87a02c2d291a05ab3a7" title="Configure quiet logging for benchmax." alt="" coords="383,238,569,265"/>
+<area shape="rect" id="node6" href="$d0/d1d/namespacebenchmax.html#a0fadece0c659c698356ce788cd090420" title="Configure verbose logging for benchmax." alt="" coords="373,289,579,315"/>
+<area shape="rect" id="node7" href="$d2/db3/namespacebenchmax_1_1settings.html#a4d839bd6a36063c94cb5fcc24214f621" title="Registers benchmark settings with the settings parser." alt="" coords="373,405,579,447"/>
+<area shape="rect" id="node10" href="$d2/db3/namespacebenchmax_1_1settings.html#ab45eff7c28fb87d3882791f4ad6490b4" title="Registers preset settings with the settings parser." alt="" coords="389,471,563,512"/>
+<area shape="rect" id="node12" href="$d2/db3/namespacebenchmax_1_1settings.html#a3eed510a63b892586848f221265ee9dd" title="Registers Slurm settings with the settings parser." alt="" coords="363,5,589,47"/>
+<area shape="rect" id="node13" href="$d2/db3/namespacebenchmax_1_1settings.html#a5ef8835ac519be557a335e705e11a712" title="Registers SSH settings with settings parser." alt="" coords="369,71,583,112"/>
+<area shape="rect" id="node14" href="$d2/db3/namespacebenchmax_1_1settings.html#a8eb10a55dda16297ed2260acd7a3da31" title="Registers tool settings with the settings parser." alt="" coords="397,340,555,381"/>
+<area shape="rect" id="node16" href="$d0/d1d/namespacebenchmax.html#a7023b801521b73ccffe81cbfbaaf3a43" title="Return the benchmark settings." alt="" coords="401,536,551,577"/>
+<area shape="rect" id="node17" href="$d0/d1d/namespacebenchmax.html#a58b2d1a63040ce6fd0e7ad5351c518a9" title="Retrieved core settings." alt="" coords="383,137,569,163"/>
+<area shape="rect" id="node8" href="$d2/db3/namespacebenchmax_1_1settings.html#a246f5b67ec2f696722fc673a5b064204" title="Postprocess benchmark settings." alt="" coords="655,398,813,454"/>
+<area shape="rect" id="node9" href="$d0/d1d/namespacebenchmax.html#aa88aac5a7dd31f3ef8eb946158937bb6" title="Computes the common prefix of two paths." alt="" coords="879,377,1077,403"/>
+<area shape="rect" id="node11" href="$d2/db3/namespacebenchmax_1_1settings.html#aeab5afa242ba2ff1eb8d8c2dfb23fe13" title="Postprocess preset settings." alt="" coords="642,479,826,520"/>
+<area shape="rect" id="node15" href="$d2/db3/namespacebenchmax_1_1settings.html#a5e7606d9b1e76bc417dd56f8a7b88617" title="Postprocess settings to compute common prefix." alt="" coords="650,332,818,373"/>
+<area shape="rect" id="node20" href="$d4/dbe/classbenchmax_1_1BenchmarkSet.html#a2218c0f69a25ced41757a7c461f43b41" title="Recursively find all benchmarks from this directory." alt="" coords="379,601,573,643"/>
+<area shape="rect" id="node21" href="$d4/dbe/classbenchmax_1_1BenchmarkSet.html#a42349ff31ba36e6082810f680a45892e" title="Recursively add all benchmarks from this path." alt="" coords="637,631,831,672"/>
+<area shape="rect" id="node22" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title=" " alt="" coords="683,579,785,606"/>
+<area shape="rect" id="node23" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title=" " alt="" coords="897,579,1059,606"/>
+<area shape="rect" id="node25" href="$d0/d1d/namespacebenchmax.html#ae21f76db52447768c6a0c40b0b939cc4" title="Returns the tool settings." alt="" coords="401,732,551,773"/>
+</map>

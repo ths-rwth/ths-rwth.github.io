@@ -1,0 +1,5 @@
+<map id="carl::VariablePool::getFreshVariable" name="carl::VariablePool::getFreshVariable">
+<area shape="rect" id="node1" title="Get a variable with was not used before and set a name for it." alt="" coords="5,39,144,80"/>
+<area shape="rect" id="node2" href="$de/d25/a01999.html#a609d1de5e480fa4d03114bc814f68021" title="Get a variable which was not used before." alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node3" href="$de/d25/a01999.html#a10bb0c1f5e012fec89190135080db04a" title="Add a name for a given Variable." alt="" coords="194,71,329,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::NONE, Backtracking::ORDERED, Settings &gt;::addPolynomial" name="smtrat::cad::Projection&lt; Incrementality::NONE, Backtracking::ORDERED, Settings &gt;::addPolynomial">
+<area shape="rect" id="node1" title="Adds the given polynomial to the projection with the given constraint id as origin." alt="" coords="5,5,204,76"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="252,27,483,54"/>
+</map>

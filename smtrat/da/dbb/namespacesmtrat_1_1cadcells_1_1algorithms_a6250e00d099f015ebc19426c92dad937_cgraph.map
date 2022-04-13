@@ -1,0 +1,18 @@
+<map id="smtrat::cadcells::algorithms::onecell" name="smtrat::cadcells::algorithms::onecell">
+<area shape="rect" id="node1" title="An MCAST&#45;style single cell explanation function." alt="" coords="5,136,209,177"/>
+<area shape="rect" id="node2" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#ad58377ad0995b2f8689f0a75e66501a3" title="Clears all projections cached with respect to this assignment." alt="" coords="257,5,528,47"/>
+<area shape="rect" id="node4" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a475a68e18b78c973b7482943751f5011" title="Clears all polynomials of the specified level and higher in the polynomial cache as well as their pro..." alt="" coords="279,71,507,112"/>
+<area shape="rect" id="node6" href="$d1/ddf/structsmtrat_1_1cadcells_1_1representation_1_1cell.html#af12dda337153df85c7b0a68e0b8223ee" title=" " alt="" coords="278,136,507,177"/>
+<area shape="rect" id="node7" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a0b5d4f3c32f7b89258e85480d15f5954" title=" " alt="" coords="279,201,507,243"/>
+<area shape="rect" id="node8" href="$d8/dcd/namespacesmtrat_1_1cadcells_1_1algorithms_1_1helper.html#ab07384a26763ca2cec7c8b79d15f4343" title="Converts a datastructures::CellDescription to a FormulaT." alt="" coords="291,267,495,308"/>
+<area shape="rect" id="node3" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a584f8f719b5619d3da1df2e4d51ee949" title=" " alt="" coords="576,5,804,47"/>
+<area shape="rect" id="node5" href="$d3/dbe/classsmtrat_1_1cadcells_1_1datastructures_1_1PolyPool.html#a545f0d2bef90299aa4b9069ec4c8b572" title=" " alt="" coords="576,71,804,112"/>
+<area shape="rect" id="node9" href="$d8/dcd/namespacesmtrat_1_1cadcells_1_1algorithms_1_1helper.html#a65888987a6b0f8f5b5a3c1339623f3f6" title="Converts an datastructures::IndexedRoot to a MultivariateRootT." alt="" coords="583,197,797,239"/>
+<area shape="rect" id="node10" href="$d1/d3d/namespacesmtrat_1_1cadcells_1_1helper.html#a127814036b6e224dc909c015c62e35c5" title=" " alt="" coords="879,139,1053,180"/>
+<area shape="rect" id="node12" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a37b3964e429be5e1d6ae414800255a11" title=" " alt="" coords="852,289,1080,331"/>
+<area shape="rect" id="node13" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a586f191f5ed99e56d916ecf6b533ceca" title="Returns the lower bound as IndexedRoot if finite or std::nullopt if the lower bound is &#45;oo." alt="" coords="576,395,804,436"/>
+<area shape="rect" id="node15" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#aa3d8b79d45b984fad62df6186b866067" title="In case of a section, the defining indexed root is returned." alt="" coords="576,314,804,370"/>
+<area shape="rect" id="node16" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a0707451850788bfae62e8d0c96821646" title="Returns the upper bound as IndexedRoot if finite or std::nullopt if the upper bound is oo." alt="" coords="576,460,804,501"/>
+<area shape="rect" id="node11" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="917,205,1015,231"/>
+<area shape="rect" id="node14" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a52fb640f3688f5a6d2f3f2cc2400c6df" title=" " alt="" coords="852,427,1080,468"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="smtrat::vs::substitutePlusEps" name="smtrat::vs::substitutePlusEps">
+<area shape="rect" id="node1" title=" " alt="" coords="5,359,216,385"/>
+<area shape="rect" id="node2" href="$de/dfa/namespacesmtrat_1_1vs.html#a911fce3f0cd9cb26aedda71156221c90" title=" " alt="" coords="832,5,980,32"/>
+<area shape="rect" id="node3" href="$de/dfa/namespacesmtrat_1_1vs.html#a4c0c28dad9c60e3264a4544af563799b" title=" " alt="" coords="288,202,472,243"/>
+<area shape="rect" id="node12" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a74c4006dbd14742413c5675ef1c05b58" title=" " alt="" coords="819,383,993,425"/>
+<area shape="rect" id="node13" href="$de/dfa/namespacesmtrat_1_1vs.html#a6b158a282f908d3583e2928aae6c1b36" title="Deals with the case, that the left hand side of the constraint to substitute is not a trivial polynom..." alt="" coords="288,410,472,451"/>
+<area shape="rect" id="node14" href="$de/dfa/namespacesmtrat_1_1vs.html#aeba1bfa00d86777d9e7dc71da63598c1" title="Deals with the case, that the left hand side of the constraint to substitute is a trivial polynomial ..." alt="" coords="264,476,496,503"/>
+<area shape="rect" id="node4" href="$de/dfa/namespacesmtrat_1_1vs.html#a25a23487625a25895ada1b61655e7ab2" title="Combines vectors." alt="" coords="573,92,725,119"/>
+<area shape="rect" id="node5" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a8ade39e64658cecbcb0fa1ec53b3029f" title=" " alt="" coords="561,143,736,185"/>
+<area shape="rect" id="node6" href="$de/dfa/namespacesmtrat_1_1vs.html#a35b39be98c4a2280062e525a80df24ba" title=" " alt="" coords="544,209,753,236"/>
+<area shape="rect" id="node11" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a6f4c7c81f16377c76f771a08ea4de671" title=" " alt="" coords="819,318,993,359"/>
+<area shape="rect" id="node7" href="$de/dfa/namespacesmtrat_1_1vs.html#ae8dd0c33ddb38b3fda6b2c539a2c1198" title="Sub&#45;method of substituteNormalSqrt, where applying the substitution led to a term containing a square..." alt="" coords="801,253,1011,294"/>
+<area shape="rect" id="node8" href="$de/dfa/namespacesmtrat_1_1vs.html#a3913d46b4f362e48f570c392fedcf1bc" title="Sub&#45;method of substituteNormalSqrt, where applying the substitution led to a term containing a square..." alt="" coords="801,57,1011,98"/>
+<area shape="rect" id="node9" href="$de/dfa/namespacesmtrat_1_1vs.html#a55664192d7101976f72ede22d667f05f" title="Sub&#45;method of substituteNormalSqrt, where applying the substitution led to a term containing a square..." alt="" coords="801,122,1011,163"/>
+<area shape="rect" id="node10" href="$de/dfa/namespacesmtrat_1_1vs.html#a1516760c1bc4592163afa785b122b85f" title="Sub&#45;method of substituteNormalSqrt, where applying the substitution led to a term containing a square..." alt="" coords="801,187,1011,229"/>
+</map>

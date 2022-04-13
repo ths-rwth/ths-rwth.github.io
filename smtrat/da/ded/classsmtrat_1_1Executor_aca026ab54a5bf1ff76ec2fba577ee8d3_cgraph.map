@@ -1,0 +1,20 @@
+<map id="smtrat::Executor::check" name="smtrat::Executor::check">
+<area shape="rect" id="node1" title=" " alt="" coords="5,329,180,355"/>
+<area shape="rect" id="node2" href="$d0/d58/classsmtrat_1_1Optimization.html#afa6dca098dc46dd6f0426580147e73f1" title=" " alt="" coords="251,5,409,47"/>
+<area shape="rect" id="node3" href="$de/de9/classsmtrat_1_1MaxSMT.html#a548374ed99c9e6af2eb572b09a46284c" title=" " alt="" coords="242,71,418,98"/>
+<area shape="rect" id="node4" href="$d0/d58/classsmtrat_1_1Optimization.html#af76ba5c20802dccac29dedb30f37f281" title=" " alt="" coords="251,123,409,164"/>
+<area shape="rect" id="node5" href="$de/de9/classsmtrat_1_1MaxSMT.html#abfb2b2464e449d26c56b54428d982dd0" title=" " alt="" coords="233,189,427,215"/>
+<area shape="rect" id="node6" href="$db/d4f/classsmtrat_1_1execution_1_1ExecutionState.html#ad203c4c69f150b1b41339814a4a28970" title=" " alt="" coords="236,291,424,332"/>
+<area shape="rect" id="node7" href="$db/d4f/classsmtrat_1_1execution_1_1ExecutionState.html#aab215a13c75ccfb8408657853f29ec13" title=" " alt="" coords="763,299,945,340"/>
+<area shape="rect" id="node10" href="$db/d4f/classsmtrat_1_1execution_1_1ExecutionState.html#a00cdd3f729eab90038e3ecc12a59948f" title=" " alt="" coords="515,349,675,405"/>
+<area shape="rect" id="node12" href="$db/d4f/classsmtrat_1_1execution_1_1ExecutionState.html#ac1b379f6b4301e192688d0f00a9b7500" title=" " alt="" coords="228,415,432,456"/>
+<area shape="rect" id="node13" href="$dc/d7e/classsmtrat_1_1parser_1_1InstructionHandler.html#a86e1479bd70785f4723c8c144256f617" title=" " alt="" coords="500,647,691,688"/>
+<area shape="rect" id="node14" href="$dc/d7e/classsmtrat_1_1parser_1_1InstructionHandler.html#a92398674ddc5d4d2dfdedbc69e57ba71" title=" " alt="" coords="235,607,425,648"/>
+<area shape="rect" id="node15" href="$da/ded/classsmtrat_1_1Executor.html#af7a70407f784d61e9b4674cbb5d24b5f" title=" " alt="" coords="235,505,425,531"/>
+<area shape="rect" id="node18" href="$dc/d7e/classsmtrat_1_1parser_1_1InstructionHandler.html#a01abcd8b63059b989d2ca0bee782dbf0" title=" " alt="" coords="235,672,425,713"/>
+<area shape="rect" id="node8" href="$db/d4f/classsmtrat_1_1execution_1_1ExecutionState.html#a6e1dbb6906cc6e03215ecb287bf2cc26" title=" " alt="" coords="511,116,679,157"/>
+<area shape="rect" id="node9" href="$db/d4f/classsmtrat_1_1execution_1_1ExecutionState.html#aef8b382f8eae987bb71d31dc408ece2e" title=" " alt="" coords="480,181,711,223"/>
+<area shape="rect" id="node11" href="$db/d4f/classsmtrat_1_1execution_1_1ExecutionState.html#a9db98acb0e02bcd2cd67caac6c3cfc83" title=" " alt="" coords="759,419,949,460"/>
+<area shape="rect" id="node16" href="$db/d4f/classsmtrat_1_1execution_1_1ExecutionState.html#ac034ae0c7178e2790f92aed6fe864e9d" title=" " alt="" coords="503,581,688,623"/>
+<area shape="rect" id="node17" href="$db/d4f/classsmtrat_1_1execution_1_1ExecutionState.html#ae66fe5a2ad4d0b6b897be1fb3f132369" title=" " alt="" coords="775,581,933,623"/>
+</map>

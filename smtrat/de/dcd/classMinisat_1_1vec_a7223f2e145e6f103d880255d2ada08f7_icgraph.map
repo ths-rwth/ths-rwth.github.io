@@ -1,0 +1,8 @@
+<map id="Minisat::vec::copyTo" name="Minisat::vec::copyTo">
+<area shape="rect" id="node1" title=" " alt="" coords="619,78,773,105"/>
+<area shape="rect" id="node2" href="$df/d4d/classsmtrat_1_1SATModule.html#ae0b6278c80e2ebedf616455fde82d7f3" title="Adds the clause of the given type with the given literals to the clauses managed by Minisat." alt="" coords="416,37,571,79"/>
+<area shape="rect" id="node6" href="$df/d4d/classsmtrat_1_1SATModule.html#a549cec09ce5fd8e3e3ff917c6bb2a6c1" title="analyze : (confl : Clause*) (out_learnt : vec&lt;Lit&gt;&amp;) (out_btlevel : int&amp;) &#45;&gt; [void]" alt="" coords="416,103,571,144"/>
+<area shape="rect" id="node3" href="$df/d4d/classsmtrat_1_1SATModule.html#afd251f99da257abbba764d580a67d01e" title=" " alt="" coords="213,5,368,47"/>
+<area shape="rect" id="node4" href="$df/d4d/classsmtrat_1_1SATModule.html#a4b10f6cdcfaf95599a44f1606f8b2af2" title=" " alt="" coords="213,71,368,112"/>
+<area shape="rect" id="node5" href="$df/d4d/classsmtrat_1_1SATModule.html#a73fcc3165e2f0d334b3ddec9a3329fef" title=" " alt="" coords="5,71,165,112"/>
+</map>

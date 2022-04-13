@@ -1,0 +1,11 @@
+<map id="smtrat::Module::rPassedFormula" name="smtrat::Module::rPassedFormula">
+<area shape="rect" id="node1" title=" " alt="" coords="741,78,973,105"/>
+<area shape="rect" id="node2" href="$d6/def/classsmtrat_1_1CNFerModule.html#afbf31e434a97a17b8676cd6def0d6c39" title="Checks the received formula for consistency." alt="" coords="503,5,663,47"/>
+<area shape="rect" id="node3" href="$dc/d3b/classsmtrat_1_1PModule.html#acf42961c1751612807fc502060e86dae" title=" " alt="" coords="493,71,673,112"/>
+<area shape="rect" id="node5" href="$d0/df0/classsmtrat_1_1Manager.html#a591271930bdbd9bd9e00de72251e8b52" title="Get the backends to call for the given problem instance required by the given module." alt="" coords="472,137,693,163"/>
+<area shape="rect" id="node4" href="$dc/d3b/classsmtrat_1_1PModule.html#aefe9a92e4927c92b276b2dd5a780c9c6" title="Checks the received formula for consistency." alt="" coords="231,78,405,105"/>
+<area shape="rect" id="node6" href="$d8/da6/classsmtrat_1_1Module.html#a0894661497e0f400e1c73290b5fd2e08" title="Informs all backends about the so far encountered constraints, which have not yet been communicated." alt="" coords="243,133,393,159"/>
+<area shape="rect" id="node9" href="$d8/da6/classsmtrat_1_1Module.html#a38d5316bcb51e44908740daea5eddac1" title="Runs the backend solvers on the passed formula." alt="" coords="212,183,424,210"/>
+<area shape="rect" id="node7" href="$db/d90/classsmtrat_1_1ICPModule.html#ab0e41a2cd8cd0acd4a43c9f86c248a75" title=" " alt="" coords="5,81,164,137"/>
+<area shape="rect" id="node8" href="$df/d4d/classsmtrat_1_1SATModule.html#abfb6c33f5feb1ac0a930de3870772b53" title="Checks the received formula for consistency." alt="" coords="7,161,162,203"/>
+</map>

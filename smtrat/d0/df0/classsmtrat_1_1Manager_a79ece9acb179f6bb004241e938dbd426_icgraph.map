@@ -1,0 +1,6 @@
+<map id="smtrat::Manager::objectiveVariable" name="smtrat::Manager::objectiveVariable">
+<area shape="rect" id="node1" title=" " alt="" coords="460,43,659,84"/>
+<area shape="rect" id="node2" href="$d0/df0/classsmtrat_1_1Manager.html#ad4ceacd4b82f11b14ada8f3ddd969b4f" title="Checks the so far added formulas for satisfiability." alt="" coords="236,50,412,77"/>
+<area shape="rect" id="node3" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a648f0f052d65925843b52ca7c3073465" title=" " alt="" coords="17,5,177,47"/>
+<area shape="rect" id="node4" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="5,71,188,127"/>
+</map>

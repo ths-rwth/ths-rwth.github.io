@@ -1,0 +1,12 @@
+<map id="smtrat::preprocess_file" name="smtrat::preprocess_file">
+<area shape="rect" id="node1" title="Loads the smt2 file specified in filename and runs the preprocessing strategy." alt="" coords="5,119,176,145"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#abb08c5f960041454bc7f185481816308" title="Parse the file and save it in formula." alt="" coords="237,93,383,120"/>
+<area shape="rect" id="node10" href="$de/dc5/namespacesmtrat.html#aa5655f85d45b7548dbdce9a7a29a5b6d" title=" " alt="" coords="224,144,396,171"/>
+<area shape="rect" id="node3" href="$da/ded/classsmtrat_1_1Executor.html#a3f01cc19fb118c15b1bca3781b68d42f" title=" " alt="" coords="444,5,660,32"/>
+<area shape="rect" id="node4" href="$dc/d7e/classsmtrat_1_1parser_1_1InstructionHandler.html#ae0bca1c077b62b499aa1f6a1be2445f5" title=" " alt="" coords="457,57,647,98"/>
+<area shape="rect" id="node5" href="$de/dc5/namespacesmtrat.html#a9361df10015ec7522a093dd611b0b16a" title=" " alt="" coords="481,123,623,149"/>
+<area shape="rect" id="node9" href="$dc/d7e/classsmtrat_1_1parser_1_1InstructionHandler.html#a5c35e500ec803ef382bbf2b299acc991" title=" " alt="" coords="457,174,647,215"/>
+<area shape="rect" id="node6" href="$de/dc5/namespacesmtrat.html#a3350833da728b595d2ed48cc184553f1" title=" " alt="" coords="708,123,876,149"/>
+<area shape="rect" id="node7" href="$d2/d53/classsmtrat_1_1parser_1_1SMTLIBParser.html#ae32097b8db5303d0833ae8416345f863" title=" " alt="" coords="924,115,1135,157"/>
+<area shape="rect" id="node8" href="$dc/d7e/classsmtrat_1_1parser_1_1InstructionHandler.html#a2e600d25b10641b3c9e83b4736a32619" title=" " alt="" coords="1183,115,1397,157"/>
+</map>

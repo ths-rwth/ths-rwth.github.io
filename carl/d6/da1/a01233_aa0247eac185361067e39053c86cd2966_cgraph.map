@@ -1,0 +1,9 @@
+<map id="carl::divide" name="carl::divide">
+<area shape="rect" id="node1" title="Divides the polynomial by the given coefficient." alt="" coords="5,56,100,83"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a26949d97442e59bac3353498d2c17d93" title=" " alt="" coords="148,56,243,83"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="499,5,625,32"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a64f6d2e32b05ab6591f3577583a8c3be" title="Checks whether a term is zero." alt="" coords="321,56,421,83"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="291,107,451,133"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="515,56,609,83"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="673,49,880,90"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="carl::MonomialPool::add" name="carl::MonomialPool::add">
+<area shape="rect" id="node1" title=" " alt="" coords="5,133,184,159"/>
+<area shape="rect" id="node2" href="$d9/dca/a01879.html#af7f6910d485ff70a4832f5ffe78b6030" title=" " alt="" coords="232,51,379,92"/>
+<area shape="rect" id="node5" href="$d1/d89/a03035.html#a0bac494107e882e1864c96692211e17b" title=" " alt="" coords="243,162,368,189"/>
+<area shape="rect" id="node3" href="$d7/d45/a03175.html#a7ffd1bad4bba6b8358a0444273eb4055" title=" " alt="" coords="427,5,605,47"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="700,13,777,39"/>
+<area shape="rect" id="node6" href="$d5/dea/a02927.html#a628941994cf797ec0738c07071411eb5" title="Retrieves the index of the first bit that is set to true." alt="" coords="454,71,578,112"/>
+<area shape="rect" id="node7" href="$d5/dea/a02927.html#a48617442a84186325efed2c8a69635f6" title="Retrieves the number of blocks used to store mData." alt="" coords="427,137,605,163"/>
+<area shape="rect" id="node8" href="$d5/dea/a02927.html#a8f800fdff578d0774d6e24fcd76418ff" title="Resets a bit to false." alt="" coords="449,187,583,214"/>
+<area shape="rect" id="node10" href="$d5/dea/a02927.html#a896f5f79d53d884b5f2da45b7100f9af" title="Resize the Bitset to hold at least num_bits bits. New bits are set to the given value." alt="" coords="447,238,585,265"/>
+<area shape="rect" id="node11" href="$d5/dea/a02927.html#acf742d4731e26aa5230889d1a391e015" title="Retrieves the size of mData." alt="" coords="453,289,579,315"/>
+<area shape="rect" id="node9" href="$d5/dea/a02927.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="653,187,824,214"/>
+</map>

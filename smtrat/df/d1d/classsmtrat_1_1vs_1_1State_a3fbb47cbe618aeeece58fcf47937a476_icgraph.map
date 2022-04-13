@@ -1,0 +1,5 @@
+<map id="smtrat::vs::State::updateBackendCallValuation" name="smtrat::vs::State::updateBackendCallValuation">
+<area shape="rect" id="node1" title="Valuates the state&#39;s currently considered conditions according to a backend call." alt="" coords="444,5,652,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aac0ab6c978037bbefa15b09dccfb3cb6" title="Updates the valuation of this state." alt="" coords="257,5,396,47"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a5234a8d32df807fb2b7bc134aaecd0aa" title="Inserts a state in the ranking." alt="" coords="5,5,209,47"/>
+</map>

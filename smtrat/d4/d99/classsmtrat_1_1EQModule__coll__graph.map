@@ -1,0 +1,79 @@
+<map id="smtrat::EQModule&lt; Settings &gt;" name="smtrat::EQModule&lt; Settings &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="2360,1417,2583,1444"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html" title="A base class for all kind of theory solving methods." alt="" coords="1363,521,1484,548"/>
+<area shape="rect" id="node8" href="$d0/df0/classsmtrat_1_1Manager.html" title="Base class for solvers." alt="" coords="2788,568,2919,595"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2362,592,2581,648"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1931,599,2081,641"/>
+<area shape="rect" id="node3" title=" " alt="" coords="836,646,985,687"/>
+<area shape="rect" id="node4" href="$d6/d6f/structsmtrat_1_1Branching.html" title="Stores all necessary information of an branch, which can be used to detect probable infinite loop of ..." alt="" coords="349,556,487,583"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="353,781,483,808"/>
+<area shape="rect" id="node7" title=" " alt="" coords="817,828,1004,855"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1277,138,1569,179"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1053,191,1253,233"/>
+<area shape="rect" id="node19" title=" " alt="" coords="821,711,1000,753"/>
+<area shape="rect" id="node24" title=" " alt="" coords="817,2201,1004,2242"/>
+<area shape="rect" id="node30" title=" " alt="" coords="819,595,1002,621"/>
+<area shape="rect" id="node31" title=" " alt="" coords="799,310,1023,351"/>
+<area shape="rect" id="node35" title=" " alt="" coords="835,427,986,469"/>
+<area shape="rect" id="node37" title=" " alt="" coords="830,493,991,520"/>
+<area shape="rect" id="node40" title=" " alt="" coords="809,544,1012,571"/>
+<area shape="rect" id="node50" title=" " alt="" coords="825,2120,996,2176"/>
+<area shape="rect" id="node51" title=" " alt="" coords="1929,1504,2083,1560"/>
+<area shape="rect" id="node60" title=" " alt="" coords="805,1133,1016,1174"/>
+<area shape="rect" id="node67" title=" " alt="" coords="1643,915,1805,957"/>
+<area shape="rect" id="node73" title=" " alt="" coords="1061,997,1245,1024"/>
+<area shape="rect" id="node74" title=" " alt="" coords="1645,1454,1803,1495"/>
+<area shape="rect" id="node6" title=" " alt="" coords="62,991,101,1017"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="1356,868,1491,895"/>
+<area shape="rect" id="node17" title="STL class." alt="" coords="339,20,497,47"/>
+<area shape="rect" id="node23" title="STL class." alt="" coords="303,124,533,151"/>
+<area shape="rect" id="node49" title="STL class." alt="" coords="1347,1881,1499,1922"/>
+<area shape="rect" id="node61" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html" title="Wrapper around data entry and uf_rank_and_class; this class contains a value of type T and both rank ..." alt="" coords="295,1469,541,1510"/>
+<area shape="rect" id="node12" title=" " alt="" coords="891,1784,930,1811"/>
+<area shape="rect" id="node21" title="STL class." alt="" coords="1369,1971,1478,1997"/>
+<area shape="rect" id="node66" title="STL class." alt="" coords="1332,1708,1515,1735"/>
+<area shape="rect" id="node13" href="$dc/d65/classsmtrat_1_1StrategyGraph.html" title=" " alt="" coords="1923,205,2089,232"/>
+<area shape="rect" id="node15" title=" " alt="" coords="813,14,1008,55"/>
+<area shape="rect" id="node16" href="$d3/de0/structsmtrat_1_1AbstractModuleFactory.html" title=" " alt="" coords="307,71,529,97"/>
+<area shape="rect" id="node20" title=" " alt="" coords="2166,2256,2327,2283"/>
+<area shape="rect" id="node22" href="$da/d5e/classsmtrat_1_1ModuleInput.html" title="The input formula a module has to consider for it&#39;s satisfiability check." alt="" coords="833,80,988,107"/>
+<area shape="rect" id="node25" title="STL iterator class." alt="" coords="336,2171,500,2197"/>
+<area shape="rect" id="node26" title="STL class." alt="" coords="2419,2592,2523,2619"/>
+<area shape="rect" id="node27" title="STL class." alt="" coords="1933,2666,2079,2707"/>
+<area shape="rect" id="node28" title="STL class." alt="" coords="1338,2673,1509,2700"/>
+<area shape="rect" id="node29" title="STL class." alt="" coords="857,2673,964,2700"/>
+<area shape="rect" id="node32" href="$dd/ddb/structsmtrat_1_1Module_1_1TheoryPropagation.html" title=" " alt="" coords="292,228,544,255"/>
+<area shape="rect" id="node33" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html" title=" " alt="" coords="792,208,1029,235"/>
+<area shape="rect" id="node34" title=" " alt="" coords="377,177,459,204"/>
+<area shape="rect" id="node36" href="$d0/d7f/structsmtrat_1_1Module_1_1Lemma.html" title=" " alt="" coords="329,429,507,456"/>
+<area shape="rect" id="node38" title="STL class." alt="" coords="867,376,954,403"/>
+<area shape="rect" id="node39" title="STL class." alt="" coords="349,363,487,405"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1879,1979,2133,2109"/>
+<area shape="rect" id="node42" href="$d0/d0a/classsmtrat_1_1dynarray.html" title=" " alt="" coords="1309,2051,1538,2093"/>
+<area shape="rect" id="node43" href="$d4/d92/structsmtrat_1_1EQModule_1_1ineq__edge__info.html" title=" " alt="" coords="315,2105,521,2146"/>
+<area shape="rect" id="node44" href="$dd/d3f/structsmtrat_1_1EQModule_1_1common__edge__info.html" title=" " alt="" coords="803,2267,1019,2323"/>
+<area shape="rect" id="node45" title="STL iterator class." alt="" coords="5,2342,157,2383"/>
+<area shape="rect" id="node46" href="$dd/d3f/structsmtrat_1_1EQModule_1_1common__edge__info.html" title=" " alt="" coords="283,2268,553,2324"/>
+<area shape="rect" id="node52" href="$d1/d8b/structsmtrat_1_1EQModule_1_1implicit__edge__info.html" title=" " alt="" coords="1320,2465,1527,2506"/>
+<area shape="rect" id="node53" href="$dd/d3f/structsmtrat_1_1EQModule_1_1common__edge__info.html" title=" " alt="" coords="792,2419,1029,2475"/>
+<area shape="rect" id="node64" href="$df/d06/structsmtrat_1_1EQModule_1_1not__asserted__equality.html" title=" " alt="" coords="1320,1598,1527,1639"/>
+<area shape="rect" id="node47" title=" " alt="" coords="14,1923,149,1949"/>
+<area shape="rect" id="node48" href="$d0/d0a/classsmtrat_1_1dynarray.html" title="dynarray is similar to std::vector, but has only a reduced interface." alt="" coords="826,1963,995,1989"/>
+<area shape="rect" id="node57" href="$d0/d0a/classsmtrat_1_1dynarray.html" title=" " alt="" coords="1910,2457,2102,2513"/>
+<area shape="rect" id="node58" title=" " alt="" coords="1915,1833,2097,1874"/>
+<area shape="rect" id="node68" title=" " alt="" coords="1913,1899,2099,1955"/>
+<area shape="rect" id="node71" title=" " alt="" coords="1930,2133,2082,2189"/>
+<area shape="rect" id="node75" title=" " alt="" coords="1908,1767,2104,1809"/>
+<area shape="rect" id="node54" href="$d8/d13/structsmtrat_1_1EQModule_1_1hash__bucket__set_1_1bucket.html" title="A bucket in this bucket set contains a set of entries." alt="" coords="2368,2505,2575,2546"/>
+<area shape="rect" id="node55" title=" " alt="" coords="1933,2601,2079,2642"/>
+<area shape="rect" id="node56" href="$d5/ddd/structsmtrat_1_1EQModule_1_1hash__bucket__set_1_1class__vector__entry.html" title="An entry in our list of classes; it consists of the class value (index into component union find data..." alt="" coords="1903,2377,2109,2433"/>
+<area shape="rect" id="node59" href="$d8/d47/classsmtrat_1_1union__find.html" title=" " alt="" coords="1894,1150,2118,1221"/>
+<area shape="rect" id="node62" href="$d8/d47/classsmtrat_1_1union__find.html" title="Implements a union&#45;find datastructure, a datastructure containing an array of entries." alt="" coords="1334,1125,1513,1181"/>
+<area shape="rect" id="node76" href="$d8/d47/classsmtrat_1_1union__find.html" title=" " alt="" coords="1894,1040,2118,1125"/>
+<area shape="rect" id="node63" title=" " alt="" coords="1882,1585,2130,1743"/>
+<area shape="rect" id="node65" title=" " alt="" coords="809,1598,1012,1639"/>
+<area shape="rect" id="node69" href="$df/d9f/classsmtrat_1_1freelist.html" title=" " alt="" coords="1887,1310,2125,1351"/>
+<area shape="rect" id="node70" href="$df/d9f/classsmtrat_1_1freelist.html" title="Implements a fixed&#45;(at&#45;runtime)&#45;size allocator based on a free list embedded in the space of currentl..." alt="" coords="1345,1349,1502,1376"/>
+<area shape="rect" id="node72" href="$df/d9f/classsmtrat_1_1freelist.html" title=" " alt="" coords="1915,1375,2097,1417"/>
+<area shape="rect" id="node77" href="$df/d9f/classsmtrat_1_1freelist.html" title=" " alt="" coords="1897,1245,2115,1286"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="smtrat::ModuleInput::add" name="smtrat::ModuleInput::add">
+<area shape="rect" id="node1" title=" " alt="" coords="512,166,699,193"/>
+<area shape="rect" id="node2" href="$dc/d40/classsmtrat_1_1ModuleWrapper.html#a674b05c78bb23e81eddeb75c10a33217" title=" " alt="" coords="244,20,456,91"/>
+<area shape="rect" id="node3" href="$d0/df0/classsmtrat_1_1Manager.html#aa691f1417f6a5bc5ecc8db1ef68648ee" title="Adds the given formula to the conjunction of formulas, which will be considered for the next satisfia..." alt="" coords="269,115,431,142"/>
+<area shape="rect" id="node7" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a70c07ed228a9572534e5101ca91bc839" title=" " alt="" coords="257,166,443,193"/>
+<area shape="rect" id="node8" href="$d8/da6/classsmtrat_1_1Module.html#a802225d41db4dd1b44fb9eeb545aa6ef" title="This method actually implements the adding of a formula to the passed formula." alt="" coords="236,217,464,259"/>
+<area shape="rect" id="node9" href="$de/dc5/namespacesmtrat.html#a86b9a7e8c08dce4f227909983fc62de2" title=" " alt="" coords="273,402,427,429"/>
+<area shape="rect" id="node4" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a9824ae886d5194d71a693588ac3ae1e9" title=" " alt="" coords="18,5,175,47"/>
+<area shape="rect" id="node5" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a3468cb1a9111aad3238be6790c9c3c9a" title=" " alt="" coords="11,71,182,112"/>
+<area shape="rect" id="node6" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="5,137,188,193"/>
+<area shape="rect" id="node10" href="$db/d90/classsmtrat_1_1ICPModule.html#a860bd10fee54f09762b1333b5cc0c2b9" title=" " alt="" coords="17,217,176,273"/>
+<area shape="rect" id="node11" href="$df/ded/classsmtrat_1_1CSplitModule.html#ae8a8295fed003a64adf4a2212250bf8d" title="The module has to take the given sub&#45;formula of the received formula into account." alt="" coords="17,297,176,339"/>
+<area shape="rect" id="node12" href="$df/ded/classsmtrat_1_1CSplitModule.html#a3f7a84331abdedd4cf3ac162faa98323" title="Analyzes the infeasible subset of the LRA solver and constructs an infeasible subset of the received ..." alt="" coords="17,363,176,404"/>
+<area shape="rect" id="node13" href="$d3/de4/classsmtrat_1_1NRAILModule.html#a7c2f3c3fa5e7d4eeeffe145e73a864de" title=" " alt="" coords="16,428,177,469"/>
+<area shape="rect" id="node14" href="$db/d90/classsmtrat_1_1ICPModule.html#a85d49a9d2e4e614dc2b605df9d523a7f" title=" " alt="" coords="17,494,176,550"/>
+<area shape="rect" id="node15" href="$df/ded/classsmtrat_1_1CSplitModule.html#a1375071558a319a0efbf9bcaf6ffe0c5" title="Removes the subformula of the received formula at the given position to the considered ones of this m..." alt="" coords="17,575,176,616"/>
+<area shape="rect" id="node16" href="$db/d90/classsmtrat_1_1ICPModule.html#a44587959043a4a4ddf2bc735a826f9e3" title=" " alt="" coords="17,641,176,697"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="smtrat::vs::Substitution::originalConditions" name="smtrat::vs::Substitution::originalConditions">
+<area shape="rect" id="node1" title=" " alt="" coords="1061,159,1236,201"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa4e25abeb10a5b63464fec9bb054a420" title="Adds a state as child to this state with the given substitution." alt="" coords="573,210,712,251"/>
+<area shape="rect" id="node4" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a6400f9cfaa8f7c9f260be24a640e8381" title="Prints this substitution on the given stream, with some additional information." alt="" coords="817,42,992,83"/>
+<area shape="rect" id="node10" href="$d7/de3/classsmtrat_1_1VSModule.html#a591d6612ab2d545dad2877d18bcde95d" title=" " alt="" coords="805,159,1004,201"/>
+<area shape="rect" id="node11" href="$de/dfa/namespacesmtrat_1_1vs.html#a4c0c28dad9c60e3264a4544af563799b" title=" " alt="" coords="813,290,997,331"/>
+<area shape="rect" id="node14" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac7a64f4c15d97d5f811737fcea8e086e" title="Updates the original conditions of substitutions having the same test candidate as the given." alt="" coords="796,225,1013,266"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#aef417e2757b66a5eb4c3a569e7884882" title="Eliminates the given variable by finding test candidates of the constraint of the given condition." alt="" coords="281,217,489,244"/>
+<area shape="rect" id="node5" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="12,5,227,32"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ebd8fb230b32c832382b61418b77af3" title="Prints the conditions, the substitution and the substitution results of this state." alt="" coords="573,50,712,91"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="316,57,455,98"/>
+<area shape="rect" id="node8" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab992013899d44c280f1e6d3e370f8359" title="Prints the conditions, the substitution and the substitution results of this state and all its childr..." alt="" coords="316,122,455,163"/>
+<area shape="rect" id="node9" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="5,129,233,156"/>
+<area shape="rect" id="node12" href="$de/dfa/namespacesmtrat_1_1vs.html#a9f7a787fa6f9bbf81d26eb077615ed6c" title=" " alt="" coords="537,297,748,324"/>
+<area shape="rect" id="node13" href="$de/dfa/namespacesmtrat_1_1vs.html#ab5d22b2a12ac6d38989044aa031eda02" title=" " alt="" coords="305,297,466,324"/>
+</map>

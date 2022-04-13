@@ -1,0 +1,4 @@
+<map id="smtrat::vs::getSignCombinations" name="smtrat::vs::getSignCombinations">
+<area shape="rect" id="node1" title="For a given constraint f_1*...*f_n ~ 0 this method computes all combinations of constraints f_1 ~_1 0..." alt="" coords="233,5,468,32"/>
+<area shape="rect" id="node2" href="$de/dfa/namespacesmtrat_1_1vs.html#a70ea1b24b3eebbf38d1b9aedc311b267" title="Splits all constraints in the given conjunction of constraints having a non&#45;trivial factorization int..." alt="" coords="5,5,185,32"/>
+</map>

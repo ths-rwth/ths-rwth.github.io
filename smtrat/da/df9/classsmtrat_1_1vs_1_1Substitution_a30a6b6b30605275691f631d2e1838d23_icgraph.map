@@ -1,0 +1,9 @@
+<map id="smtrat::vs::Substitution::termVariables" name="smtrat::vs::Substitution::termVariables">
+<area shape="rect" id="node1" title=" " alt="" coords="789,39,964,80"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#a591d6612ab2d545dad2877d18bcde95d" title=" " alt="" coords="543,5,741,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aae7c46f2785a30d44798ba7ebee6fe5c" title="Determines the solution space of the test candidate of this state regarding to the variable bounds of..." alt="" coords="573,71,711,112"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac76830e243392cac2bd5a274b6fa404e" title="Checks whether the test candidate of this state is valid against the variable intervals in the father..." alt="" coords="268,37,495,79"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae3e52230c1a3dbc92d034cad806c08fb" title="Checks whether there are no zeros for the left&#45;hand side of the constraint of the given condition." alt="" coords="284,103,479,144"/>
+<area shape="rect" id="node5" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,45,220,71"/>
+<area shape="rect" id="node7" href="$d7/de3/classsmtrat_1_1VSModule.html#aef417e2757b66a5eb4c3a569e7884882" title="Eliminates the given variable by finding test candidates of the constraint of the given condition." alt="" coords="9,110,217,137"/>
+</map>

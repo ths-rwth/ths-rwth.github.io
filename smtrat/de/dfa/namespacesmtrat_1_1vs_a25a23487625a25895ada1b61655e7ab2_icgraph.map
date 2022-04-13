@@ -1,0 +1,8 @@
+<map id="smtrat::vs::combine" name="smtrat::vs::combine">
+<area shape="rect" id="node1" title="Combines vectors." alt="" coords="705,71,857,98"/>
+<area shape="rect" id="node2" href="$db/d50/classsmtrat_1_1PFEModule.html#adf35305ab5c23e80d2d366b2e9abdb9c" title="Removes redundant or obsolete factors of polynomials from the formula." alt="" coords="489,5,642,47"/>
+<area shape="rect" id="node3" href="$de/dfa/namespacesmtrat_1_1vs.html#a70ea1b24b3eebbf38d1b9aedc311b267" title="Splits all constraints in the given conjunction of constraints having a non&#45;trivial factorization int..." alt="" coords="475,71,655,98"/>
+<area shape="rect" id="node4" href="$de/dfa/namespacesmtrat_1_1vs.html#a4c0c28dad9c60e3264a4544af563799b" title=" " alt="" coords="473,123,657,164"/>
+<area shape="rect" id="node5" href="$de/dfa/namespacesmtrat_1_1vs.html#a9f7a787fa6f9bbf81d26eb077615ed6c" title=" " alt="" coords="215,130,425,157"/>
+<area shape="rect" id="node6" href="$de/dfa/namespacesmtrat_1_1vs.html#ab5d22b2a12ac6d38989044aa031eda02" title=" " alt="" coords="5,130,167,157"/>
+</map>

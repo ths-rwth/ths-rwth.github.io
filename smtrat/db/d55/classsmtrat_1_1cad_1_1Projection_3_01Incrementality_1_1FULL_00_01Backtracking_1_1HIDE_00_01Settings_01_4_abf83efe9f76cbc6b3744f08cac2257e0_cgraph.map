@@ -1,0 +1,6 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::removePolynomial" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::removePolynomial">
+<area shape="rect" id="node1" title="Removes the given polynomial from the projection." alt="" coords="5,49,217,120"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a9446a9fdd0c8bc75bd8592e3cdf8e691" title="Checks whether a polynomial can safely be forwarded to the next level." alt="" coords="298,5,467,47"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="265,71,500,98"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="267,122,498,149"/>
+</map>

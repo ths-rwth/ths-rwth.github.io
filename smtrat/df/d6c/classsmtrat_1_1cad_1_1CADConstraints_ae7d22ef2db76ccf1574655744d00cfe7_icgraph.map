@@ -1,0 +1,9 @@
+<map id="smtrat::cad::CADConstraints::vars" name="smtrat::cad::CADConstraints::vars">
+<area shape="rect" id="node1" title=" " alt="" coords="796,119,1003,160"/>
+<area shape="rect" id="node2" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a00781d3f42684b5091d9a7b3e9d7fcfa" title=" " alt="" coords="453,5,748,47"/>
+<area shape="rect" id="node3" href="$d2/dbe/classsmtrat_1_1mcsat_1_1nlsat_1_1ExplanationGenerator.html#a2da08842d396319dd6f4c3d3a9c687c9" title="Construct explanation in non&#45;clausal form (without the impliedAtom/implication)." alt="" coords="515,71,687,127"/>
+<area shape="rect" id="node6" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a8379f8cbf62a795dfb10a118f83ba851" title=" " alt="" coords="477,151,724,207"/>
+<area shape="rect" id="node7" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af1c4a845a809170ee3744feaa7ee07ef" title="Returns the variables used for projection." alt="" coords="489,231,713,287"/>
+<area shape="rect" id="node4" href="$d2/dbe/classsmtrat_1_1mcsat_1_1nlsat_1_1ExplanationGenerator.html#a36cd62bd0db027d81d090e1771d5b9d8" title="Compute explanation in clausal form." alt="" coords="233,71,405,127"/>
+<area shape="rect" id="node5" href="$de/d82/structsmtrat_1_1mcsat_1_1nlsat_1_1Explanation.html#ac2e50c2ee4e4347831a2b60682990028" title="We construct a formula &#39;E &#45;&gt; I&#39;, i.e." alt="" coords="5,79,185,120"/>
+</map>

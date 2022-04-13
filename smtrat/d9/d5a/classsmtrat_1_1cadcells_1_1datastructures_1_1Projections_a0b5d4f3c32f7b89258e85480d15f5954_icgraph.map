@@ -1,0 +1,10 @@
+<map id="smtrat::cadcells::datastructures::Projections::polys" name="smtrat::cadcells::datastructures::Projections::polys">
+<area shape="rect" id="node1" title=" " alt="" coords="509,169,737,211"/>
+<area shape="rect" id="node2" href="$da/dbb/namespacesmtrat_1_1cadcells_1_1algorithms.html#a1e2cb547b872964d12e40ab828e69cc6" title="Computes a delineation w.r.t." alt="" coords="245,5,449,47"/>
+<area shape="rect" id="node3" href="$da/dbb/namespacesmtrat_1_1cadcells_1_1algorithms.html#aed244eb18174e4c489925daaaef7a8b7" title=" " alt="" coords="245,71,449,112"/>
+<area shape="rect" id="node4" href="$d1/d6e/classsmtrat_1_1cadcells_1_1datastructures_1_1BaseDerivation.html#a811750d2c8f2fe87931dc8c27b1e4c09" title=" " alt="" coords="233,136,461,177"/>
+<area shape="rect" id="node5" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#a6de0a7c0767eed1de5f61bf74e0a2163" title="Initializes a derivation according the the given assignment and level." alt="" coords="233,201,461,243"/>
+<area shape="rect" id="node6" href="$da/dbb/namespacesmtrat_1_1cadcells_1_1algorithms.html#a6250e00d099f015ebc19426c92dad937" title="An MCAST&#45;style single cell explanation function." alt="" coords="245,267,449,308"/>
+<area shape="rect" id="node8" href="$d1/d6e/classsmtrat_1_1cadcells_1_1datastructures_1_1BaseDerivation.html#ad177dfcc83636b4057e558ddc18c83ca" title=" " alt="" coords="233,332,461,373"/>
+<area shape="rect" id="node7" href="$d1/db1/structsmtrat_1_1mcsat_1_1onecell_1_1Explanation.html#a75cd27bf61468f6455d279a9000a180d" title=" " alt="" coords="5,267,185,308"/>
+</map>

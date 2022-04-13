@@ -1,0 +1,25 @@
+var structsmtrat_1_1NewCADSettingsEQ__RID =
+[
+    [ "backtracking", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#aae9c162a822c4f66ff0e31a7f2e27794", null ],
+    [ "coreHeuristic", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a396e359c99e421cf4bd2ed906fb9fb0d", null ],
+    [ "debugProjection", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a949248da85dab11b73a096820c696885", null ],
+    [ "debugStepsToTikz", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#aea1f5cbd2fb5b53e331ee787a7122a04", null ],
+    [ "deletePolynomials", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a25a454dcc20879fb64d7e2c77314a67d", null ],
+    [ "force_nonincremental", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#abf0bc7ca31ed9d3682b6a03eabb03b4c", null ],
+    [ "fullSampleComparator", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a0cb9c3b7c489ffb927880d882b0f8bb6", null ],
+    [ "incrementality", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a9a2e6b324eb6e07a769d1a1462b3b540", null ],
+    [ "interruptions", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a8588d8520d64edfdfa7c3d090cc198d5", null ],
+    [ "misHeuristic", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#af34eda4bfdbd8ec2c094bb521d8f8cc9", null ],
+    [ "moduleName", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a5d989e6a1c15e74cb72f1947e0ac1098", null ],
+    [ "pp_disable_resultants", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a180c4448596ab6a354c9d29b8ca9e486", null ],
+    [ "pp_disable_variable_elimination", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a67ebf94d573cfbeb983dc5847dca30b9", null ],
+    [ "projectionComparator", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a86ebe3c06918a89040bb8c8e9a718a23", null ],
+    [ "projectionOperator", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a22b9d3f36224d1408804480120f2d7a4", null ],
+    [ "restrictedIfPossible", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#ae7adc67ab496358c7a388ad8f306a1bd", null ],
+    [ "restrictProjectionByEC", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#aa5e4cf445ad3e4cc15ba879d90c9f80c", null ],
+    [ "sampleComparator", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a4084d885addc115c9aab15c25ddd7abf", null ],
+    [ "semiRestrictedProjection", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a6f3eefa371856056674ab81b47bfa6a1", null ],
+    [ "simplifyProjectionByBounds", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#a5da5cdceacd3b4a59dae603c5e2dfc3c", null ],
+    [ "split_for_integers", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#afee69177864983e40892f3acb1d16661", null ],
+    [ "trivialSampleRadius", "dd/db5/structsmtrat_1_1NewCADSettingsEQ__RID.html#ab5ffd26c0f0011c34947ea564e3e3f1c", null ]
+];

@@ -1,0 +1,21 @@
+<map id="smtrat::cad::projection::resultant" name="smtrat::cad::projection::resultant">
+<area shape="rect" id="node1" title="Computes the resultant of two polynomials." alt="" coords="905,221,1075,263"/>
+<area shape="rect" id="node2" href="$dc/d29/classsmtrat_1_1cad_1_1Preprocessor.html#a87338ba524d9331b45e7de113750c5bd" title=" " alt="" coords="636,12,824,53"/>
+<area shape="rect" id="node4" href="$dd/d7f/classsmtrat_1_1cad_1_1preprocessor_1_1ResultantRule.html#a60e4de8b717fa8dc7dc86aaecdb0d1c2" title=" " alt="" coords="603,84,857,125"/>
+<area shape="rect" id="node7" href="$dd/d08/namespacesmtrat_1_1onecellcad_1_1recursive.html#ab36e69bf4166ec5d012cfddc5284f2bb" title="Merge the given open OpenCADCell &#39;cell&#39; that contains the given &#39;point&#39; (called &quot;alpha&quot; in [1]) with ..." alt="" coords="619,163,841,204"/>
+<area shape="rect" id="node9" href="$d3/d93/namespacesmtrat_1_1cad_1_1projection_1_1mccallum.html#a774fc2fa0b1473df4bd1f18de31ab747" title="Implements the part of McCallums projection operator from &#160;that deals with two polynomials p and q: ." alt="" coords="645,253,815,295"/>
+<area shape="rect" id="node14" href="$df/d3d/namespacesmtrat_1_1mcsat_1_1onecellcad_1_1firstlevel.html#ad5ec171a515fd69de6a6fb5315a97b13" title=" " alt="" coords="635,493,825,535"/>
+<area shape="rect" id="node19" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#ad45349e211197f52509103e563846416" title=" " alt="" coords="616,559,844,600"/>
+<area shape="rect" id="node3" href="$dc/d29/classsmtrat_1_1cad_1_1Preprocessor.html#a17601f37968660255e4c623de49492b3" title=" " alt="" coords="323,5,511,47"/>
+<area shape="rect" id="node5" href="$dd/d7f/classsmtrat_1_1cad_1_1preprocessor_1_1ResultantRule.html#a4403d757eea0f00c3f80d59c6064aa72" title=" " alt="" coords="323,71,511,112"/>
+<area shape="rect" id="node6" href="$d7/dd9/classsmtrat_1_1cad_1_1CADPreprocessor.html#aaaac41ff4fad314ac04f381122532214" title="Performs the preprocessing." alt="" coords="11,71,227,112"/>
+<area shape="rect" id="node8" href="$dd/d08/namespacesmtrat_1_1onecellcad_1_1recursive.html#a71caafda412826206b34224247d91098" title="Construct a OpenCADCell for the given set of polynomials &#39;polySet&#39; that contains the given &#39;point&#39;." alt="" coords="304,136,531,177"/>
+<area shape="rect" id="node10" href="$d2/d33/structsmtrat_1_1cad_1_1ProjectionOperator.html#adc5a5c03347cc323edcff29bb3a627bb" title=" " alt="" coords="5,285,232,327"/>
+<area shape="rect" id="node11" href="$d7/d11/namespacesmtrat_1_1cad_1_1projection_1_1brown.html#ab3786c50fea06d51f7cfae00b50e26d6" title="Implements the part of Browns projection operator from &#160;that deals with two polynomials p and q which..." alt="" coords="333,253,502,295"/>
+<area shape="rect" id="node12" href="$d3/d26/namespacesmtrat_1_1cad_1_1projection_1_1lazard.html#a05010a34e7ebb7f058ecf1042e8b93f3" title="Implements the part of Lazard projection operator from &#160;that deals with two polynomials p and q which..." alt="" coords="333,319,502,360"/>
+<area shape="rect" id="node13" href="$de/dbb/namespacesmtrat_1_1cad_1_1projection_1_1mccallum__partial.html#aa33946e74734cff77d697b924b7e8a2d" title=" " alt="" coords="321,384,513,425"/>
+<area shape="rect" id="node15" href="$df/d3d/namespacesmtrat_1_1mcsat_1_1onecellcad_1_1firstlevel.html#aac539e914712e6e82037535c23107a98" title=" " alt="" coords="322,450,513,506"/>
+<area shape="rect" id="node16" href="$df/d3d/namespacesmtrat_1_1mcsat_1_1onecellcad_1_1firstlevel.html#a7f13b92872c7b8d21ecf94959a11e04f" title=" " alt="" coords="322,531,513,572"/>
+<area shape="rect" id="node17" href="$df/deb/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01BT_00_01Settings_01_4.html#af5155f0427f5753bed12c23fb914db52" title=" " alt="" coords="280,597,555,653"/>
+<area shape="rect" id="node18" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#ae66cd32926828e4e77439f1dcb4d9c2d" title=" " alt="" coords="311,677,523,748"/>
+</map>

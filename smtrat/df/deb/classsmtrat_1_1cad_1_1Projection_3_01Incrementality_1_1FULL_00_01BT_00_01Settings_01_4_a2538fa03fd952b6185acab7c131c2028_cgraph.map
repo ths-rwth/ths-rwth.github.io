@@ -1,0 +1,5 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::removePolynomialByIT" name="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::removePolynomialByIT">
+<area shape="rect" id="node1" title="Removes the polynomial given by the iterator from all datastructures." alt="" coords="5,20,284,76"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="332,5,567,32"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a5ee8a021b8a212fe3120dd5f97800d87" title="Frees a currently used polynomial id for the given level." alt="" coords="349,57,550,98"/>
+</map>

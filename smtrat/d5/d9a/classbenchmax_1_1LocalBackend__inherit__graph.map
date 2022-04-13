@@ -1,0 +1,4 @@
+<map id="benchmax::LocalBackend" name="benchmax::LocalBackend">
+<area shape="rect" id="node1" title="This backend simply runs files sequentially on the local machine." alt="" coords="5,80,192,107"/>
+<area shape="rect" id="node2" href="$d4/d9f/classbenchmax_1_1Backend.html" title="Base class for all backends." alt="" coords="22,5,175,32"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::insertPolynomialTo" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::insertPolynomialTo">
+<area shape="rect" id="node1" title="Inserts a polynomial with the given origin into the given level." alt="" coords="5,207,217,277"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a9446a9fdd0c8bc75bd8592e3cdf8e691" title="Checks whether a polynomial can safely be forwarded to the next level." alt="" coords="303,5,473,47"/>
+<area shape="rect" id="node3" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a3eff39f8995d50d8597f6b32ee66ff55" title="Checks whether a polynomial can safely be ignored." alt="" coords="303,71,473,112"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="271,137,505,163"/>
+<area shape="rect" id="node5" href="$d5/d81/classsmtrat_1_1cad_1_1ProjectionInformation.html#a232081e8ac648b7688c7186a0e2bcb2c" title=" " alt="" coords="265,188,511,229"/>
+<area shape="rect" id="node7" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a83c791813adc668d10ccde8e4eed7469" title="Returns a fresh polynomial id for the given level." alt="" coords="287,253,489,295"/>
+<area shape="rect" id="node8" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af9101f43b9b075e399dc4c390516767d" title=" " alt="" coords="287,319,489,360"/>
+<area shape="rect" id="node9" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="287,384,489,425"/>
+<area shape="rect" id="node10" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="273,450,503,477"/>
+<area shape="rect" id="node6" href="$de/da8/classsmtrat_1_1cad_1_1ProjectionPolynomialInformation.html#aa7a02f513534d9b5b05a458e4b447e22" title=" " alt="" coords="559,188,801,229"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="smtrat::cadcells::datastructures::DelineatedDerivation&lt; Properties &gt;" name="smtrat::cadcells::datastructures::DelineatedDerivation&lt; Properties &gt;">
+<area shape="rect" id="node1" title="A DelineatedDerivation is a BaseDerivation with a Delineation and an underlying SampledDerivation." alt="" coords="341,513,607,555"/>
+<area shape="rect" id="node2" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html" title="Represents the delineation of a set of polynomials (at a sample), that is." alt="" coords="360,409,588,451"/>
+<area shape="rect" id="node3" title=" " alt="" coords="375,305,573,347"/>
+<area shape="rect" id="node4" title=" " alt="" coords="221,215,423,241"/>
+<area shape="rect" id="node5" href="$d7/dda/structsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRoot.html" title="Represents the i&#45;th root of a multivariate polynomial at its main variable (given an appropriate samp..." alt="" coords="5,109,233,151"/>
+<area shape="rect" id="node6" href="$d1/d23/structsmtrat_1_1cadcells_1_1datastructures_1_1PolyRef.html" title="Refers to a polynomial." alt="" coords="5,5,233,47"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="257,117,387,143"/>
+<area shape="rect" id="node8" title=" " alt="" coords="351,13,389,39"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="411,117,545,143"/>
+<area shape="rect" id="node9" title=" " alt="" coords="625,215,675,241"/>
+<area shape="rect" id="node11" title=" " alt="" coords="495,13,533,39"/>
+</map>

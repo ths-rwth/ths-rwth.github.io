@@ -1,0 +1,15 @@
+<map id="smtrat::cadcells::datastructures::DelineationInterval::upper" name="smtrat::cadcells::datastructures::DelineationInterval::upper">
+<area shape="rect" id="node1" title=" " alt="" coords="880,333,1108,374"/>
+<area shape="rect" id="node2" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#aca01d5abfbea4cb6ff7076f7dec7cf46" title=" " alt="" coords="603,183,832,225"/>
+<area shape="rect" id="node8" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#a5b2ada780f35dd19db088e9a42a29ebd" title=" " alt="" coords="603,333,831,374"/>
+<area shape="rect" id="node9" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#af12a79e95a93c5e87250fea46fa5f57d" title=" " alt="" coords="603,409,831,450"/>
+<area shape="rect" id="node3" href="$d0/dbe/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL_01_4.html#a473d65be1bb55734c772c0ab3bbddbea" title=" " alt="" coords="311,5,540,61"/>
+<area shape="rect" id="node4" href="$dc/dc7/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1CHAIN__COVERING_01_4.html#a1aa8fd369cb01b97741ae6e1e2729fb9" title=" " alt="" coords="12,180,241,236"/>
+<area shape="rect" id="node5" href="$db/d38/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1CHAIN__EQ_01_4.html#a5a9d89a9aae38c33c3b3b063432bccb7" title=" " alt="" coords="311,136,540,192"/>
+<area shape="rect" id="node6" href="$d3/dde/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__EQ_01_4.html#adfef76d16a726bf548eb0e4bcd359c6f" title=" " alt="" coords="296,216,555,272"/>
+<area shape="rect" id="node7" href="$d6/df4/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS_01_4.html#a449b2eac24cbc773dccfc1d18cf7f7a4" title=" " alt="" coords="308,296,543,352"/>
+<area shape="rect" id="node10" href="$d1/d92/namespacesmtrat_1_1cadcells_1_1representation.html#ae9945c2f073fed3f0bde7c07c1f0cae5" title=" " alt="" coords="311,377,540,418"/>
+<area shape="rect" id="node12" href="$dd/d7c/structsmtrat_1_1SampledDerivationRefCompare.html#afed4bdb168d07243f2e59ec08357c458" title=" " alt="" coords="326,442,525,483"/>
+<area shape="rect" id="node13" href="$d4/de6/structsmtrat_1_1sampling_3_01SamplingAlgorithm_1_1LOWER__UPPER__BETWEEN__SAMPLING_01_4.html#a98ce2c5c38c640b87203f77b92dbce2f" title=" " alt="" coords="305,507,545,578"/>
+<area shape="rect" id="node11" href="$df/d1a/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1DEFAULT__COVERING_01_4.html#a7c684b11f6b96867ccb07cf6a3f07601" title=" " alt="" coords="5,369,248,425"/>
+</map>

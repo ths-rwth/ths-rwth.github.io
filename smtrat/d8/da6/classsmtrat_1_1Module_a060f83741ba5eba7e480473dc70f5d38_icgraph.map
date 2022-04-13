@@ -1,0 +1,9 @@
+<map id="smtrat::Module::infeasibleSubsets" name="smtrat::Module::infeasibleSubsets">
+<area shape="rect" id="node1" title=" " alt="" coords="516,136,709,177"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#ac3d9a30ce70615e1c36c50c5de1871f2" title="Get the infeasible subsets the given backend provides." alt="" coords="245,5,459,47"/>
+<area shape="rect" id="node3" href="$d0/df0/classsmtrat_1_1Manager.html#a133cea18f19fbebcfe4baf67c41be480" title=" " alt="" coords="251,71,453,112"/>
+<area shape="rect" id="node5" href="$d0/df0/classsmtrat_1_1Manager.html#a682317fc7b9e4fb1e64cd58b5b2cc707" title="Prints the first found infeasible subset of the set of received formulas." alt="" coords="236,136,468,177"/>
+<area shape="rect" id="node6" href="$db/d90/classsmtrat_1_1ICPModule.html#a41b50c3b43b16c49a628849c60ea1598" title="Sets the own infeasible subset according to the infeasible subset of the internal lra module." alt="" coords="243,201,461,272"/>
+<area shape="rect" id="node7" href="$da/d91/classsmtrat_1_1IncWidthModule.html#ac05fbc599be1289ad3ed9735de69d388" title=" " alt="" coords="237,297,467,353"/>
+<area shape="rect" id="node4" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="5,63,188,119"/>
+</map>

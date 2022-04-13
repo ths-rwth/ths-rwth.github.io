@@ -1,0 +1,7 @@
+<map id="benchmax::ssh::SSHConnection::destroy" name="benchmax::ssh::SSHConnection::destroy">
+<area shape="rect" id="node1" title="Terminate a SSH channel." alt="" coords="280,104,507,145"/>
+<area shape="rect" id="node2" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a7c7fe9099a150e7a5baa0696b6d9c1f3" title="Create a temporary directory on the remote." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a0157e40d065de0a049f006c091eb11a7" title="Execute a command on the remote." alt="" coords="5,71,232,112"/>
+<area shape="rect" id="node4" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#af68d6f6bdfcd862e5281e6fc9aadf0d9" title="Remove a (temporary) directory on the remote." alt="" coords="5,136,232,177"/>
+<area shape="rect" id="node5" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#ae4f160c3cefc1681ba04c8f732261d8d" title="Upload a file to the remote." alt="" coords="5,201,232,243"/>
+</map>

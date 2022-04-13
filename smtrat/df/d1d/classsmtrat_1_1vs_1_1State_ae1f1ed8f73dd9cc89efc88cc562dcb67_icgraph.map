@@ -1,0 +1,10 @@
+<map id="smtrat::vs::State::originalCondition" name="smtrat::vs::State::originalCondition">
+<area shape="rect" id="node1" title=" " alt="" coords="755,92,893,133"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="552,33,707,75"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ebd8fb230b32c832382b61418b77af3" title="Prints the conditions, the substitution and the substitution results of this state." alt="" coords="560,124,699,165"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="12,99,227,126"/>
+<area shape="rect" id="node4" href="$d7/de3/classsmtrat_1_1VSModule.html#a879c92ff19715ba269272fad7c4d8551" title="Run the backend solvers on the conditions of the given state." alt="" coords="281,33,504,75"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="323,151,462,192"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab992013899d44c280f1e6d3e370f8359" title="Prints the conditions, the substitution and the substitution results of this state and all its childr..." alt="" coords="323,216,462,257"/>
+<area shape="rect" id="node8" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="5,223,233,250"/>
+</map>

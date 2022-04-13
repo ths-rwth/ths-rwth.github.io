@@ -1,0 +1,9 @@
+<map id="smtrat::cad::BaseProjection::getPolynomialById" name="smtrat::cad::BaseProjection::getPolynomialById">
+<area shape="rect" id="node1" title="Retrieves a polynomial from its id." alt="" coords="369,213,571,254"/>
+<area shape="rect" id="node2" href="$d7/d48/classsmtrat_1_1cad_1_1ModelBasedProjection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1ORDERED_00_01Settings_01_4.html#ad58f66180886f83b4269ac9540077b2e" title="Finds pids of polynomials with closest roots." alt="" coords="5,5,321,61"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#aca0854fa29777899d599205887c50039" title="Get a polynomial from this level suited for lifting." alt="" coords="51,85,275,141"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af9101f43b9b075e399dc4c390516767d" title=" " alt="" coords="51,165,275,221"/>
+<area shape="rect" id="node5" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html#acbd1fe126ca7d5a9534aa3b0e86354f9" title=" " alt="" coords="51,245,275,301"/>
+<area shape="rect" id="node6" href="$df/deb/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01BT_00_01Settings_01_4.html#ab0bb961c60e25c87b72124ad85c58fb6" title=" " alt="" coords="67,325,259,381"/>
+<area shape="rect" id="node7" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a6df07db45b8838e88efc185fb0f2f516" title=" " alt="" coords="57,406,269,477"/>
+</map>

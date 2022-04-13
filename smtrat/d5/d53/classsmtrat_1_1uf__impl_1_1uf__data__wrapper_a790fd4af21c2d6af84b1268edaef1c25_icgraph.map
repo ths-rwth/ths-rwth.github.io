@@ -1,0 +1,6 @@
+<map id="smtrat::uf_impl::uf_data_wrapper::set_class" name="smtrat::uf_impl::uf_data_wrapper::set_class">
+<area shape="rect" id="node1" title=" " alt="" coords="279,181,465,222"/>
+<area shape="rect" id="node2" href="$d8/d47/classsmtrat_1_1union__find.html#a773ff97f8e7a22cef2a455f700475908" title="Perform the find operation (walk the path until an entry with class == index is found)." alt="" coords="5,5,231,120"/>
+<area shape="rect" id="node3" href="$d8/d47/classsmtrat_1_1union__find.html#accdf385d02e7b022ee65452a39ef2c76" title="Union the two elements (must be representatives) by rank." alt="" coords="5,144,231,259"/>
+<area shape="rect" id="node4" href="$d8/d47/classsmtrat_1_1union__find.html#acd725f9dbe7b8af2ad390066410cf2a9" title=" " alt="" coords="5,283,231,397"/>
+</map>

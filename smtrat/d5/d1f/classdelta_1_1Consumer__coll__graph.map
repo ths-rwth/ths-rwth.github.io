@@ -1,0 +1,11 @@
+<map id="delta::Consumer" name="delta::Consumer">
+<area shape="rect" id="node1" title="This class takes care of asynchronous execution of calls to the solver." alt="" coords="267,404,396,431"/>
+<area shape="rect" id="node2" href="$d6/df0/classdelta_1_1Checker.html" title="This class takes care of calling the actual solver." alt="" coords="455,257,570,283"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="392,109,479,136"/>
+<area shape="rect" id="node8" href="$d2/d5d/classdelta_1_1TempFilenameGenerator.html" title="This class generates and reuses temporary filenames with a common prefix." alt="" coords="220,315,443,341"/>
+<area shape="rect" id="node9" title=" " alt="" coords="201,199,387,225"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="366,5,505,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,249,177,291"/>
+<area shape="rect" id="node6" title="STL class." alt="" coords="61,109,189,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="105,13,144,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="smtrat::createEquivalentToOriginalMonotonicityThree" name="smtrat::createEquivalentToOriginalMonotonicityThree">
+<area shape="rect" id="node1" title=" " alt="" coords="5,90,215,131"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#a16a1041b4380a1115f96010ea981801c" title="| x1 | = (and (=&gt; (x1 &gt;= 0) (y1 = x1)) (=&gt; (x1 &lt; 0) (y1 = &#45;x1)) )" alt="" coords="263,5,471,32"/>
+<area shape="rect" id="node3" href="$d8/d81/classsmtrat_1_1VariableCapsule.html#ad506a13affb771289185cb2fe44af316" title=" " alt="" coords="277,57,456,98"/>
+<area shape="rect" id="node4" href="$d8/d81/classsmtrat_1_1VariableCapsule.html#a3b7c712485d1757fc2a5b1591407afba" title=" " alt="" coords="277,122,456,163"/>
+<area shape="rect" id="node5" href="$d8/d81/classsmtrat_1_1VariableCapsule.html#a413797f5b867c60c01b3b1fb7979c0ac" title=" " alt="" coords="277,187,456,229"/>
+</map>

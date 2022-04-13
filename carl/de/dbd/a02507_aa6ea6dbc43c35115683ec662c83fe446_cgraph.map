@@ -1,0 +1,10 @@
+<map id="carl::FLOAT_T::cosh_assign" name="carl::FLOAT_T::cosh_assign">
+<area shape="rect" id="node1" title="Assigns the number the hyperbolic cosine of this number." alt="" coords="5,99,152,141"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#ae1af5ff65f946c761f10f764aab0e46c" title=" " alt="" coords="200,107,284,133"/>
+<area shape="rect" id="node3" href="$d5/d73/a02423.html#abccdf63161e8de9c1a496680b1c503ed" title="A quick check for the bound values." alt="" coords="346,31,538,57"/>
+<area shape="rect" id="node6" href="$d5/d73/a02423.html#a5ff744c1668b51981f0b169fd9cd41a2" title="The getter for the lower bound type of the interval." alt="" coords="333,81,551,108"/>
+<area shape="rect" id="node7" href="$d5/d73/a02423.html#af8f2d203b725806cc6703ad0734de373" title="Returns a reference to the included boost interval." alt="" coords="358,132,526,159"/>
+<area shape="rect" id="node8" href="$d5/d73/a02423.html#a65a2d0faa7ec9c7bb8b43b35a41b434e" title="The getter for the upper bound type of the interval." alt="" coords="332,183,552,209"/>
+<area shape="rect" id="node4" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="601,5,749,32"/>
+<area shape="rect" id="node5" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="600,56,749,83"/>
+</map>

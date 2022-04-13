@@ -1,0 +1,5 @@
+<map id="smtrat::Manager::push" name="smtrat::Manager::push">
+<area shape="rect" id="node1" title="Pushes a backtrack point to the stack of backtrack points." alt="" coords="236,57,405,84"/>
+<area shape="rect" id="node2" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="5,5,188,61"/>
+<area shape="rect" id="node3" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a76c609f2e097d18004ff52590fda0e77" title=" " alt="" coords="18,86,175,127"/>
+</map>

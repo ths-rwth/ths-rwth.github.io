@@ -1,0 +1,13 @@
+<map id="smtrat::CNFerModule::checkCore" name="smtrat::CNFerModule::checkCore">
+<area shape="rect" id="node1" title="Checks the received formula for consistency." alt="" coords="5,300,165,341"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#a4966e7cbfd19dc31379a053dae95d35b" title="Adds the given formula to the passed formula with no origin." alt="" coords="215,5,443,47"/>
+<area shape="rect" id="node3" href="$da/d5e/classsmtrat_1_1ModuleInput.html#ae21da7441126fe463451956019adefa1" title=" " alt="" coords="252,71,407,112"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html#abd076284c20b864579ea740dad373d2b" title=" " alt="" coords="217,136,442,177"/>
+<area shape="rect" id="node5" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a4d0264abb1af8cb08447babb29059c89" title=" " alt="" coords="252,201,407,243"/>
+<area shape="rect" id="node6" href="$d8/da6/classsmtrat_1_1Module.html#af0d682ffa4e1e9d6167b1c87695ef50e" title="Copies the infeasible subsets of the passed formula." alt="" coords="222,267,437,308"/>
+<area shape="rect" id="node7" href="$d8/da6/classsmtrat_1_1Module.html#a144bcd2af6ee723e217791b20954aeee" title="Stores an infeasible subset consisting only of the given received formula." alt="" coords="226,332,433,373"/>
+<area shape="rect" id="node8" href="$d8/da6/classsmtrat_1_1Module.html#ad20cd99a205007d4674e6d11092aa1f0" title=" " alt="" coords="213,398,445,425"/>
+<area shape="rect" id="node9" href="$d8/da6/classsmtrat_1_1Module.html#ab05e438caef4485af13d0b103bcd886f" title=" " alt="" coords="232,449,427,491"/>
+<area shape="rect" id="node10" href="$dc/d3b/classsmtrat_1_1PModule.html#a6fc80a02361b8cef0ca8e28729773da8" title=" " alt="" coords="219,515,439,542"/>
+<area shape="rect" id="node11" href="$d8/da6/classsmtrat_1_1Module.html#a843caab86c8e586b3d87778f66bb267d" title=" " alt="" coords="228,566,431,593"/>
+</map>

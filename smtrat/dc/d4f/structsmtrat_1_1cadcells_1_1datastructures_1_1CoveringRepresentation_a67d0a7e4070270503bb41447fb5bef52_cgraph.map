@@ -1,0 +1,8 @@
+<map id="smtrat::cadcells::datastructures::CoveringRepresentation::get_covering" name="smtrat::cadcells::datastructures::CoveringRepresentation::get_covering">
+<area shape="rect" id="node1" title="Returns a descriptions of the covering." alt="" coords="5,90,233,146"/>
+<area shape="rect" id="node2" href="$d3/d7a/classsmtrat_1_1cadcells_1_1datastructures_1_1CoveringDescription.html#ad3ba3b8595274221f8c46e40a7fe7511" title="Add a CellDescription to the covering." alt="" coords="290,64,518,105"/>
+<area shape="rect" id="node6" href="$dc/d4f/structsmtrat_1_1cadcells_1_1datastructures_1_1CoveringRepresentation.html#ada240641b8d0a8d3ddb9c63d7e4f239c" title="Checks whether this represents a proper non&#45;redundant covering." alt="" coords="281,129,527,171"/>
+<area shape="rect" id="node3" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a37b3964e429be5e1d6ae414800255a11" title=" " alt="" coords="575,5,803,47"/>
+<area shape="rect" id="node4" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a52fb640f3688f5a6d2f3f2cc2400c6df" title=" " alt="" coords="851,93,1079,135"/>
+<area shape="rect" id="node5" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a586f191f5ed99e56d916ecf6b533ceca" title="Returns the lower bound as IndexedRoot if finite or std::nullopt if the lower bound is &#45;oo." alt="" coords="575,123,803,164"/>
+</map>

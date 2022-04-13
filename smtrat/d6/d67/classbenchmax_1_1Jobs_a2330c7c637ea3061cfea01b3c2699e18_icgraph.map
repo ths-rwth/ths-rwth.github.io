@@ -1,0 +1,5 @@
+<map id="benchmax::Jobs::files" name="benchmax::Jobs::files">
+<area shape="rect" id="node1" title="Returns the set of files." alt="" coords="421,13,581,39"/>
+<area shape="rect" id="node2" href="$dd/dcc/classbenchmax_1_1XMLWriter.html#a6d8d3484898989f3544325e5b5f84535" title="Write results to file." alt="" coords="208,5,373,47"/>
+<area shape="rect" id="node3" href="$dd/d8d/classbenchmax_1_1Results.html#ad087cc529aa7ad704dbd2995f5430c81" title="Store all results to a xml file." alt="" coords="5,5,160,47"/>
+</map>

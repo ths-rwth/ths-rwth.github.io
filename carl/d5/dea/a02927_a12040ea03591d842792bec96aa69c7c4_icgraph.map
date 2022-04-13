@@ -1,0 +1,5 @@
+<map id="carl::Bitset::is_subset_of" name="carl::Bitset::is_subset_of">
+<area shape="rect" id="node1" title="Checks wether the bits set is a subset of the bits set in rhs." alt="" coords="451,13,632,39"/>
+<area shape="rect" id="node2" href="$de/d34/a01261.html#a57d4a1446a668ea55a101a9882a5ac20" title=" " alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node3" href="$de/d34/a01261.html#a5236c274a6413fb18713a3df16c57339" title="Exact &quot;heuristic&quot;: Computes a minimum set cover." alt="" coords="5,5,180,47"/>
+</map>

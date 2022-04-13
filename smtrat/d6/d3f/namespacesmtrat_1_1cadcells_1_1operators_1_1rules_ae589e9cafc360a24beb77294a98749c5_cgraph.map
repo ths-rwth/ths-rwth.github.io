@@ -1,0 +1,19 @@
+<map id="smtrat::cadcells::operators::rules::poly_irreducible_sgn_inv" name="smtrat::cadcells::operators::rules::poly_irreducible_sgn_inv">
+<area shape="rect" id="node1" title=" " alt="" coords="5,377,201,433"/>
+<area shape="rect" id="node2" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#afadae9a517419dcc900515ee5f2945a7" title=" " alt="" coords="252,5,480,47"/>
+<area shape="rect" id="node3" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a955d05bff1c318eb585b3a41acd2c1e3" title=" " alt="" coords="252,71,480,112"/>
+<area shape="rect" id="node4" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a2636021516d8541f7c97ea273c8246ea" title=" " alt="" coords="252,136,480,177"/>
+<area shape="rect" id="node5" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a5389a8fb0d89465fea63af7467a4e773" title=" " alt="" coords="252,201,480,243"/>
+<area shape="rect" id="node6" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a37b3964e429be5e1d6ae414800255a11" title=" " alt="" coords="807,196,1035,237"/>
+<area shape="rect" id="node7" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a52fb640f3688f5a6d2f3f2cc2400c6df" title=" " alt="" coords="807,385,1035,427"/>
+<area shape="rect" id="node8" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#a344ed68ad3f90346a750a32475f1e0dc" title=" " alt="" coords="268,551,464,607"/>
+<area shape="rect" id="node9" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a0109c16f024b0ba049deaf2c9fd41963" title=" " alt="" coords="531,555,759,596"/>
+<area shape="rect" id="node10" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a6e65cf4329cee03ad499b9dd51424af5" title=" " alt="" coords="531,621,759,663"/>
+<area shape="rect" id="node11" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a6214f5b343ff78fbadc673b2a487de6c" title=" " alt="" coords="252,682,480,738"/>
+<area shape="rect" id="node12" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a6de2a4d771bbe6f3b916cfe1b0e994f9" title=" " alt="" coords="250,384,482,425"/>
+<area shape="rect" id="node15" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a938d72b6f86a86619a98eaffef4cc005" title=" " alt="" coords="250,763,482,804"/>
+<area shape="rect" id="node16" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a9824bdeb840f7026d5518eaa2aa77cfd" title=" " alt="" coords="249,319,483,360"/>
+<area shape="rect" id="node13" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a586f191f5ed99e56d916ecf6b533ceca" title="Returns the lower bound as IndexedRoot if finite or std::nullopt if the lower bound is &#45;oo." alt="" coords="531,385,759,427"/>
+<area shape="rect" id="node14" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#aa3d8b79d45b984fad62df6186b866067" title="In case of a section, the defining indexed root is returned." alt="" coords="531,254,759,310"/>
+<area shape="rect" id="node17" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a0707451850788bfae62e8d0c96821646" title="Returns the upper bound as IndexedRoot if finite or std::nullopt if the upper bound is oo." alt="" coords="531,188,759,229"/>
+</map>

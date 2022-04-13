@@ -1,0 +1,4 @@
+<map id="carl::Bitset::set" name="carl::Bitset::set">
+<area shape="rect" id="node1" title="Sets the given bit to a value, true by default." alt="" coords="5,5,125,32"/>
+<area shape="rect" id="node2" href="$d5/dea/a02927.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="173,5,344,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="smtrat::vs::State::averageConstraintValuation" name="smtrat::vs::State::averageConstraintValuation">
+<area shape="rect" id="node1" title=" " alt="" coords="455,27,657,69"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#adf39a05dbb226308eca332e5b5b51ce8" title="Sets, if it has not already happened, the index of the state to the name of the most adequate variabl..." alt="" coords="268,27,407,69"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,5,220,32"/>
+<area shape="rect" id="node4" href="$d7/de3/classsmtrat_1_1VSModule.html#a2682113d2813b6ad64df64e23f406af9" title="Applies the substitution of the given state to all conditions, which were recently added to it." alt="" coords="7,57,219,98"/>
+</map>

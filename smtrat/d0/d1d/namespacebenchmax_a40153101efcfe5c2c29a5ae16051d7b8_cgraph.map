@@ -1,0 +1,8 @@
+<map id="benchmax::loadBenchmarks" name="benchmax::loadBenchmarks">
+<area shape="rect" id="node1" title="Loads benchmark files from directory specified in settings." alt="" coords="5,75,212,102"/>
+<area shape="rect" id="node2" href="$d4/dbe/classbenchmax_1_1BenchmarkSet.html#a2218c0f69a25ced41757a7c461f43b41" title="Recursively find all benchmarks from this directory." alt="" coords="260,35,453,76"/>
+<area shape="rect" id="node6" href="$d0/d1d/namespacebenchmax.html#a7023b801521b73ccffe81cbfbaaf3a43" title="Return the benchmark settings." alt="" coords="281,100,432,141"/>
+<area shape="rect" id="node3" href="$d4/dbe/classbenchmax_1_1BenchmarkSet.html#a42349ff31ba36e6082810f680a45892e" title="Recursively add all benchmarks from this path." alt="" coords="501,5,695,47"/>
+<area shape="rect" id="node4" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title=" " alt="" coords="547,71,649,98"/>
+<area shape="rect" id="node5" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title=" " alt="" coords="743,71,905,98"/>
+</map>

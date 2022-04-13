@@ -1,0 +1,43 @@
+<map id="benchmax/logging.h" name="benchmax/logging.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1835,5,1989,32"/>
+<area shape="rect" id="node2" href="$d5/d39/Results_8h.html" title=" " alt="" coords="1479,691,1681,717"/>
+<area shape="rect" id="node4" href="$de/d44/CondorBackend_8h.html" title=" " alt="" coords="1925,840,2131,881"/>
+<area shape="rect" id="node5" href="$de/d93/Backends_8h.html" title=" " alt="" coords="1514,929,1747,956"/>
+<area shape="rect" id="node6" href="$de/dcc/benchmax_8cpp.html" title=" " alt="" coords="1037,1004,1227,1031"/>
+<area shape="rect" id="node8" href="$da/d36/SlurmBackend_8h.html" title=" " alt="" coords="393,847,657,874"/>
+<area shape="rect" id="node10" href="$dc/d57/Database_8h.html" title=" " alt="" coords="1567,445,1783,471"/>
+<area shape="rect" id="node11" href="$d3/dc4/SlurmUtilities_8h.html" title=" " alt="" coords="145,80,341,121"/>
+<area shape="rect" id="node13" href="$d6/db0/SSHConnection_8h.html" title=" " alt="" coords="1567,348,1748,389"/>
+<area shape="rect" id="node14" href="$d9/dcb/benchmarks_8cpp.html" title=" " alt="" coords="783,348,958,389"/>
+<area shape="rect" id="node15" href="$d3/d74/BenchmarkSet_8cpp.html" title=" " alt="" coords="2009,169,2183,211"/>
+<area shape="rect" id="node16" href="$d2/d8f/Tools_8h.html" title=" " alt="" coords="2997,445,3171,471"/>
+<area shape="rect" id="node19" href="$dc/d48/Tools_8cpp.html" title=" " alt="" coords="2151,616,2342,643"/>
+<area shape="rect" id="node20" href="$d3/d9c/Database__mysqlconnector_8h.html" title=" " alt="" coords="3365,80,3569,121"/>
+<area shape="rect" id="node21" href="$d8/ddc/Database__mysqlpp_8h.html" title=" " alt="" coords="3593,80,3797,121"/>
+<area shape="rect" id="node22" href="$dc/d75/PresetSettings_8cpp.html" title=" " alt="" coords="297,348,487,389"/>
+<area shape="rect" id="node23" href="$dd/dd8/filesystem_8h.html" title=" " alt="" coords="2026,87,2233,114"/>
+<area shape="rect" id="node3" href="$d4/d54/benchmax_2backends_2Backend_8h.html" title=" " alt="" coords="1467,765,1693,792"/>
+<area shape="rect" id="node7" href="$d9/dc9/LocalBackend_8h.html" title=" " alt="" coords="1641,847,1901,874"/>
+<area shape="rect" id="node9" href="$d3/dda/SSHBackend_8h.html" title=" " alt="" coords="1365,847,1617,874"/>
+<area shape="rect" id="node12" href="$d0/d8a/SlurmUtilities_8cpp.html" title=" " alt="" coords="145,169,341,211"/>
+<area shape="rect" id="node17" href="$d6/d13/Jobs_8h.html" title=" " alt="" coords="2990,534,3189,561"/>
+<area shape="rect" id="node18" href="$d4/d3a/XMLWriter_8h.html" title=" " alt="" coords="2765,616,2985,643"/>
+<area shape="rect" id="node24" href="$d0/d66/Tool_8h.html" title=" " alt="" coords="2169,355,2337,382"/>
+<area shape="rect" id="node32" href="$da/d4c/benchmax_2settings_2Settings_8h.html" title=" " alt="" coords="1439,177,1654,203"/>
+<area shape="rect" id="node25" href="$d4/db7/MathSAT_8h.html" title=" " alt="" coords="1819,534,2018,561"/>
+<area shape="rect" id="node26" href="$d8/dd5/Minisat_8h.html" title=" " alt="" coords="2042,534,2233,561"/>
+<area shape="rect" id="node27" href="$d6/d9c/Minisatp_8h.html" title=" " alt="" coords="2257,534,2455,561"/>
+<area shape="rect" id="node28" href="$de/d44/SMTRAT_8h.html" title=" " alt="" coords="2473,445,2668,471"/>
+<area shape="rect" id="node30" href="$d1/d34/SMTRAT__Analyzer_8h.html" title=" " alt="" coords="1909,437,2091,479"/>
+<area shape="rect" id="node31" href="$dd/d24/Z3_8h.html" title=" " alt="" coords="2115,445,2274,471"/>
+<area shape="rect" id="node29" href="$d4/d7b/SMTRAT__OPB_8h.html" title=" " alt="" coords="2479,527,2662,568"/>
+<area shape="rect" id="node33" href="$d2/d73/BenchmarkResult_8h.html" title=" " alt="" coords="1975,259,2191,300"/>
+<area shape="rect" id="node34" href="$d7/db1/SlurmSettings_8h.html" title=" " alt="" coords="665,259,861,300"/>
+<area shape="rect" id="node36" href="$d4/d8e/SSHSettings_8h.html" title=" " alt="" coords="1567,259,1748,300"/>
+<area shape="rect" id="node38" href="$d5/d77/benchmarks_8h.html" title=" " alt="" coords="1367,259,1542,300"/>
+<area shape="rect" id="node39" href="$d3/d5a/PresetSettings_8h.html" title=" " alt="" coords="347,259,538,300"/>
+<area shape="rect" id="node40" href="$de/de1/benchmax_2settings_2SettingsParser_8h.html" title=" " alt="" coords="941,259,1144,300"/>
+<area shape="rect" id="node41" href="$d9/d56/benchmax_2settings_2SettingsParser_8cpp.html" title=" " alt="" coords="1084,348,1287,389"/>
+<area shape="rect" id="node35" href="$d8/dd0/SlurmSettings_8cpp.html" title=" " alt="" coords="563,348,759,389"/>
+<area shape="rect" id="node37" href="$da/d7e/SSHSettings_8cpp.html" title=" " alt="" coords="1311,348,1492,389"/>
+</map>

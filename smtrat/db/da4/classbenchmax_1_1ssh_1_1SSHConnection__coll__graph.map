@@ -1,0 +1,6 @@
+<map id="benchmax::ssh::SSHConnection" name="benchmax::ssh::SSHConnection">
+<area shape="rect" id="node1" title="A wrapper class that manages a single SSH connection as specified in a Node object (with all its chan..." alt="" coords="5,304,232,331"/>
+<area shape="rect" id="node2" href="$d3/dae/structbenchmax_1_1ssh_1_1Node.html" title="Specification of a compuation node for the SSH backend." alt="" coords="37,215,200,241"/>
+<area shape="rect" id="node3" title="STL class." alt="" coords="75,96,162,123"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="49,5,188,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="smtrat::vb::VariableBounds::addBound" name="smtrat::vb::VariableBounds::addBound">
+<area shape="rect" id="node1" title="Updates the variable bounds by the given constraint." alt="" coords="797,39,996,80"/>
+<area shape="rect" id="node2" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a00781d3f42684b5091d9a7b3e9d7fcfa" title=" " alt="" coords="455,5,749,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac1e77041136f5ac4f2e067a184865822" title="Adds a constraint to the conditions of this state." alt="" coords="533,71,671,112"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="268,37,407,79"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="268,103,407,144"/>
+<area shape="rect" id="node5" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,45,220,71"/>
+</map>

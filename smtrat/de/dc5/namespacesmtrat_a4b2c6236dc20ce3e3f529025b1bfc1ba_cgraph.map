@@ -1,0 +1,8 @@
+<map id="smtrat::abstractUnivariateMonomialForEvenExponent" name="smtrat::abstractUnivariateMonomialForEvenExponent">
+<area shape="rect" id="node1" title="Replace square of variable (x_0^2) of a monomial (x_0^6) by a variable (z_0), create a new monomial (..." alt="" coords="5,57,205,98"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#a2d95754caf44fe1bbeab0116fd19f4a8" title="create a square of the variable" alt="" coords="257,5,483,32"/>
+<area shape="rect" id="node3" href="$de/dc5/namespacesmtrat.html#a140548b92af06bf059c6bff1d3493e9b" title=" " alt="" coords="270,57,470,98"/>
+<area shape="rect" id="node4" href="$de/dc5/namespacesmtrat.html#a622bdcd149cd83d7436f571f1bed18e7" title="Check if the monomial is alreday inserted imto the map, If yes, returned the key which is a variable ..." alt="" coords="253,122,487,163"/>
+<area shape="rect" id="node5" href="$de/dc5/namespacesmtrat.html#ac0730b05e910277a5db08028bb92f7e5" title="create variables and each time increment the suffix e.g., z_0, z_1, etc." alt="" coords="535,104,711,131"/>
+<area shape="rect" id="node6" href="$de/dc5/namespacesmtrat.html#a805e17fae65ea60f5a9dae2ce19a3133" title="Insert the variable as key with monomial as value into the map The map is singeltone." alt="" coords="541,155,704,181"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="smtrat::EQPreprocessingModule::updateModel" name="smtrat::EQPreprocessingModule::updateModel">
+<area shape="rect" id="node1" title="Updates the model, if the solver has detected the consistency of the received formula,..." alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node2" href="$db/dd4/classsmtrat_1_1EQPreprocessingModule.html#a07aaee07da80a1333c9e3da62fc5a629" title=" " alt="" coords="284,5,515,47"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="563,13,661,39"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="smtrat::mcsat::variableordering::detail::abstract_feature" name="smtrat::mcsat::variableordering::detail::abstract_feature">
+<area shape="rect" id="node1" title=" " alt="" coords="284,104,512,145"/>
+<area shape="rect" id="node2" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a3e7552770173ec13eb442ea5afa37018" title=" " alt="" coords="7,5,235,47"/>
+<area shape="rect" id="node3" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a038a25a4ad7cbfa4a4b00d78d699d0b3" title="The maximum degree of this variable." alt="" coords="7,71,235,112"/>
+<area shape="rect" id="node4" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a2fe02572bdd963f3e54a65d5f5d9d349" title="The maximum total degree of a term involving this variable." alt="" coords="5,136,236,177"/>
+<area shape="rect" id="node5" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#affaa7adcd719eae757324a95c8cc9754" title=" " alt="" coords="7,201,235,243"/>
+</map>

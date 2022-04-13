@@ -1,0 +1,16 @@
+<map id="smtrat::Module::rReceivedFormula" name="smtrat::Module::rReceivedFormula">
+<area shape="rect" id="node1" title=" " alt="" coords="763,226,957,267"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#ad161567e4885723794aa77886b0b3e61" title="Adds a lemmas which provoke a branching for the given variable at the given value,..." alt="" coords="499,19,686,45"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html#aa62260ca322fb39c8132b0acdecd33c3" title="Checks the received formula for consistency." alt="" coords="509,95,676,121"/>
+<area shape="rect" id="node10" href="$d6/def/classsmtrat_1_1CNFerModule.html#afbf31e434a97a17b8676cd6def0d6c39" title="Checks the received formula for consistency." alt="" coords="513,146,673,187"/>
+<area shape="rect" id="node11" href="$db/d90/classsmtrat_1_1ICPModule.html#aaee4c12e1977a24015465f54bdfdec41" title=" " alt="" coords="471,211,715,282"/>
+<area shape="rect" id="node12" href="$d9/d85/classsmtrat_1_1GBModule.html#ad2d89ba29ecd1b0982a6057858d1d743" title=" " alt="" coords="485,307,700,333"/>
+<area shape="rect" id="node13" href="$d8/da6/classsmtrat_1_1Module.html#a14c42b059e5490a805f999cf48e78b69" title="Stores the trivial infeasible subset being the set of received formulas." alt="" coords="499,358,686,399"/>
+<area shape="rect" id="node14" href="$d3/d64/classsmtrat_1_1NewCADModule.html#a9c92c85e30aa812c5894ac572b06d424" title=" " alt="" coords="489,423,696,465"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#ad1eca6966739b01a861b16f9817cb28c" title=" " alt="" coords="236,5,423,32"/>
+<area shape="rect" id="node5" href="$dc/d3b/classsmtrat_1_1PModule.html#aefe9a92e4927c92b276b2dd5a780c9c6" title="Checks the received formula for consistency." alt="" coords="242,56,417,83"/>
+<area shape="rect" id="node6" href="$d0/df0/classsmtrat_1_1Manager.html#ad4ceacd4b82f11b14ada8f3ddd969b4f" title="Checks the so far added formulas for satisfiability." alt="" coords="241,107,417,133"/>
+<area shape="rect" id="node9" href="$d1/da0/classsmtrat_1_1ThreadPool.html#a4a0cf59bebd1016f6e7e2e1fc69f40e1" title=" " alt="" coords="256,158,403,199"/>
+<area shape="rect" id="node7" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a648f0f052d65925843b52ca7c3073465" title=" " alt="" coords="17,62,177,103"/>
+<area shape="rect" id="node8" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="5,128,188,184"/>
+</map>

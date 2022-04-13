@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html" title="Base class for all theories." alt="" coords="5,136,181,177"/>
+<area shape="rect" id="node2" href="$d0/da9/structsmtrat_1_1parser_1_1ArithmeticTheory.html" title="Implements the theory of arithmetic, including LRA, LIA, NRA and NIA." alt="" coords="251,5,442,47"/>
+<area shape="rect" id="node3" href="$da/d21/structsmtrat_1_1parser_1_1BitvectorTheory.html" title="Implements the theory of bitvectors." alt="" coords="256,71,437,112"/>
+<area shape="rect" id="node4" href="$db/ded/structsmtrat_1_1parser_1_1BooleanEncodingTheory.html" title="Implements the theory of bitvectors." alt="" coords="229,136,464,177"/>
+<area shape="rect" id="node5" href="$da/daf/structsmtrat_1_1parser_1_1CoreTheory.html" title="Implements the core theory of the booleans." alt="" coords="248,202,445,229"/>
+<area shape="rect" id="node6" href="$dc/dc5/structsmtrat_1_1parser_1_1UninterpretedTheory.html" title="Implements the theory of equalities and uninterpreted functions." alt="" coords="241,253,453,295"/>
+</map>

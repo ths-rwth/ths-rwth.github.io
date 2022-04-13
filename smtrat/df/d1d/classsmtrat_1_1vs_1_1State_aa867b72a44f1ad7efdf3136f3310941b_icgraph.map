@@ -1,0 +1,13 @@
+<map id="smtrat::vs::State::father" name="smtrat::vs::State::father">
+<area shape="rect" id="node1" title=" " alt="" coords="819,168,957,209"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac76830e243392cac2bd5a274b6fa404e" title="Checks whether the test candidate of this state is valid against the variable intervals in the father..." alt="" coords="268,188,495,229"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a6338f266e303198bac2e88d1cddeacfd" title=" " alt="" coords="565,19,748,60"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="579,109,734,151"/>
+<area shape="rect" id="node8" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aae7c46f2785a30d44798ba7ebee6fe5c" title="Determines the solution space of the test candidate of this state regarding to the variable bounds of..." alt="" coords="587,227,726,268"/>
+<area shape="rect" id="node11" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="543,293,771,319"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,134,220,161"/>
+<area shape="rect" id="node5" href="$d7/de3/classsmtrat_1_1VSModule.html#a591d6612ab2d545dad2877d18bcde95d" title=" " alt="" coords="282,5,481,47"/>
+<area shape="rect" id="node7" href="$d7/de3/classsmtrat_1_1VSModule.html#a879c92ff19715ba269272fad7c4d8551" title="Run the backend solvers on the conditions of the given state." alt="" coords="270,123,493,164"/>
+<area shape="rect" id="node9" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae3e52230c1a3dbc92d034cad806c08fb" title="Checks whether there are no zeros for the left&#45;hand side of the constraint of the given condition." alt="" coords="284,253,479,295"/>
+<area shape="rect" id="node10" href="$d7/de3/classsmtrat_1_1VSModule.html#aef417e2757b66a5eb4c3a569e7884882" title="Eliminates the given variable by finding test candidates of the constraint of the given condition." alt="" coords="9,261,217,287"/>
+</map>

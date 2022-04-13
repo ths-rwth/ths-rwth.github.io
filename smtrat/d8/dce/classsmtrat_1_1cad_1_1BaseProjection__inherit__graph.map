@@ -1,0 +1,18 @@
+<map id="smtrat::cad::BaseProjection&lt; Settings &gt;" name="smtrat::cad::BaseProjection&lt; Settings &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,440,207,481"/>
+<area shape="rect" id="node2" href="$da/d02/classsmtrat_1_1cad_1_1ModelBasedProjection.html" title=" " alt="" coords="429,5,601,76"/>
+<area shape="rect" id="node3" href="$d3/d80/classsmtrat_1_1cad_1_1Projection.html" title=" " alt="" coords="430,101,601,127"/>
+<area shape="rect" id="node4" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html" title=" " alt="" coords="425,152,606,193"/>
+<area shape="rect" id="node5" href="$da/d02/classsmtrat_1_1cad_1_1ModelBasedProjection.html" title=" " alt="" coords="391,217,640,259"/>
+<area shape="rect" id="node7" href="$d7/d48/classsmtrat_1_1cad_1_1ModelBasedProjection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1ORDERED_00_01Settings_01_4.html" title="This class implements a projection that supports no incrementality and expects backtracking to be in ..." alt="" coords="380,283,651,339"/>
+<area shape="rect" id="node8" href="$d3/d80/classsmtrat_1_1cad_1_1Projection.html" title=" " alt="" coords="431,403,600,444"/>
+<area shape="rect" id="node9" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html" title=" " alt="" coords="402,469,629,525"/>
+<area shape="rect" id="node10" href="$df/deb/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01BT_00_01Settings_01_4.html" title=" " alt="" coords="428,549,603,605"/>
+<area shape="rect" id="node11" href="$d4/d60/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1ORDERED_00_01Settings_01_4.html" title="This class implements a projection that supports no incrementality and expects backtracking to be in ..." alt="" coords="422,629,609,700"/>
+<area shape="rect" id="node12" href="$df/d6f/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1UNORDERED_00_01Settings_01_4.html" title="This class implements a projection that supports no incrementality and allows backtracking to be out ..." alt="" coords="412,724,619,795"/>
+<area shape="rect" id="node14" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html" title=" " alt="" coords="419,819,612,860"/>
+<area shape="rect" id="node16" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html" title=" " alt="" coords="396,884,635,925"/>
+<area shape="rect" id="node6" href="$da/d02/classsmtrat_1_1cad_1_1ModelBasedProjection.html" title=" " alt="" coords="849,210,1103,266"/>
+<area shape="rect" id="node13" href="$db/d44/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1SIMPLE_00_01BT_00_01Settings_01_4.html" title=" " alt="" coords="881,731,1071,787"/>
+<area shape="rect" id="node15" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html" title=" " alt="" coords="857,819,1095,860"/>
+</map>

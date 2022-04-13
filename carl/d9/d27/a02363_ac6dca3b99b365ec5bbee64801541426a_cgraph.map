@@ -1,0 +1,38 @@
+<map id="carl::RealRadicalAwareAdding::addToGb" name="carl::RealRadicalAwareAdding::addToGb">
+<area shape="rect" id="node1" title=" " alt="" coords="5,267,223,309"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="985,5,1080,32"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#abfeb486514341498d6b363229506eae8" title=" " alt="" coords="285,275,407,301"/>
+<area shape="rect" id="node22" href="$d6/da1/a01233.html#a071adb1e6bb902cfe32ce96788283170" title="Calculates the separable part of this monomial." alt="" coords="271,424,421,451"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="1184,181,1391,222"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a349e672eaeb08c5fbfc6d508d1f86df1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="469,275,639,301"/>
+<area shape="rect" id="node6" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="687,297,881,338"/>
+<area shape="rect" id="node7" href="$dc/db6/a01212.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="687,362,881,403"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a9cc2f7f3c081d4856a654898f6871206" title="Checks whether the monomial is a constant." alt="" coords="720,428,848,455"/>
+<area shape="rect" id="node11" href="$dc/db6/a01212.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="687,479,881,521"/>
+<area shape="rect" id="node12" href="$dc/db6/a01212.html#a9d54ed3853631a633e6a994f49b1d655" title="Retrieves the main variable of this polynomial." alt="" coords="687,114,881,155"/>
+<area shape="rect" id="node13" href="$d6/da1/a01233.html#a96cd07c72b28bef5bbac66f30da58177" title="Calculates the quotient of a polynomial division." alt="" coords="730,245,838,272"/>
+<area shape="rect" id="node21" href="$dc/db6/a01212.html#a13d3ac385e1da1103fef9d7d14c32174" title=" " alt="" coords="687,179,881,221"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="965,539,1101,565"/>
+<area shape="rect" id="node10" href="$d1/d34/a01211.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="1209,539,1365,565"/>
+<area shape="rect" id="node14" href="$d1/d34/a01211.html#aa13c5f6ad05544c3d2560ecbc7e8f53d" title=" " alt="" coords="929,239,1136,281"/>
+<area shape="rect" id="node15" href="$d1/d34/a01211.html#af716ddd074dd7a443647e6da6ed728ed" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="929,305,1136,346"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="987,371,1078,397"/>
+<area shape="rect" id="node17" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="1184,389,1391,430"/>
+<area shape="rect" id="node18" href="$d1/d34/a01211.html#a688b16a4d60518728edece4a089cc8c0" title=" " alt="" coords="929,473,1136,514"/>
+<area shape="rect" id="node19" href="$d1/d34/a01211.html#aa3c95cc57ba22c850a88fc80cc21c8f2" title="Drops the leading term." alt="" coords="929,57,1136,98"/>
+<area shape="rect" id="node20" href="$d1/d34/a01211.html#a5e572c9d7e1844778a965a766c116a1f" title="Subtract a term times a polynomial from this polynomial." alt="" coords="929,122,1136,163"/>
+<area shape="rect" id="node23" href="$d6/da1/a01233.html#a06f82f23ebc5f7c3cdd66b862e616e40" title=" " alt="" coords="474,552,634,579"/>
+<area shape="rect" id="node24" href="$d9/dca/a01879.html#a9f306b52642d5d1c9ea47cfa8a16d45c" title="Creates a monomial from a variable and an exponent." alt="" coords="711,610,857,651"/>
+<area shape="rect" id="node36" href="$d9/d65/a03215.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="687,545,881,586"/>
+<area shape="rect" id="node25" href="$d9/dca/a01879.html#afdbdbd7787242a1bfa2dc8daf90deb92" title=" " alt="" coords="943,617,1122,644"/>
+<area shape="rect" id="node26" href="$d9/dca/a01879.html#af7f6910d485ff70a4832f5ffe78b6030" title=" " alt="" coords="1214,679,1361,721"/>
+<area shape="rect" id="node29" href="$d1/d89/a03035.html#a0bac494107e882e1864c96692211e17b" title=" " alt="" coords="1225,603,1350,629"/>
+<area shape="rect" id="node27" href="$d7/d45/a03175.html#a7ffd1bad4bba6b8358a0444273eb4055" title=" " alt="" coords="1439,730,1617,771"/>
+<area shape="rect" id="node28" href="$d6/da1/a01233.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="1712,737,1789,764"/>
+<area shape="rect" id="node30" href="$d5/dea/a02927.html#a628941994cf797ec0738c07071411eb5" title="Retrieves the index of the first bit that is set to true." alt="" coords="1466,511,1590,553"/>
+<area shape="rect" id="node31" href="$d5/dea/a02927.html#a48617442a84186325efed2c8a69635f6" title="Retrieves the number of blocks used to store mData." alt="" coords="1439,577,1617,604"/>
+<area shape="rect" id="node32" href="$d5/dea/a02927.html#a8f800fdff578d0774d6e24fcd76418ff" title="Resets a bit to false." alt="" coords="1461,628,1595,655"/>
+<area shape="rect" id="node34" href="$d5/dea/a02927.html#a896f5f79d53d884b5f2da45b7100f9af" title="Resize the Bitset to hold at least num_bits bits. New bits are set to the given value." alt="" coords="1459,679,1597,705"/>
+<area shape="rect" id="node35" href="$d5/dea/a02927.html#acf742d4731e26aa5230889d1a391e015" title="Retrieves the size of mData." alt="" coords="1465,460,1591,487"/>
+<area shape="rect" id="node33" href="$d5/dea/a02927.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="1665,628,1836,655"/>
+</map>

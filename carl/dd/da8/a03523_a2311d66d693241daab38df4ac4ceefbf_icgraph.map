@@ -1,0 +1,52 @@
+<map id="carl::statistics::StatisticsCollector::get" name="carl::statistics::StatisticsCollector::get">
+<area shape="rect" id="node1" title=" " alt="" coords="985,937,1167,978"/>
+<area shape="rect" id="node2" href="$d7/d73/a01266.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="795,944,937,971"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a9b65b84a46d65d40f83c97650e63f851" title="Compares _constraintA with _constraintB." alt="" coords="589,249,700,276"/>
+<area shape="rect" id="node13" href="$d0/d13/a02139.html#a47f0a9c8c703792b35d1a4771878b853" title=" " alt="" coords="569,618,720,659"/>
+<area shape="rect" id="node14" href="$d5/d73/a02423.html#aa11698c185fe487bbf9577cdd3250640" title="Method which returns the empty interval rooted at 0." alt="" coords="543,684,747,711"/>
+<area shape="rect" id="node27" href="$d6/da1/a01233.html#a6ce64aec99b53fea39b96c47924c33fd" title=" " alt="" coords="350,875,429,901"/>
+<area shape="rect" id="node34" href="$d0/d13/a02139.html#a9b76f6a6b31554bce4d818a5ea2ebc21" title="Collects all constraint occurring in this formula." alt="" coords="569,786,720,827"/>
+<area shape="rect" id="node35" href="$d5/d73/a02423.html#ad26df69d4c28436015ea77cb2fd56449" title="Constructor which constructs the weak&#45;bounded interval between lower and upper." alt="" coords="563,852,726,879"/>
+<area shape="rect" id="node36" href="$d8/d08/a02143.html#a36ec936c9a27b94482ca326d5585979b" title=" " alt="" coords="573,903,716,945"/>
+<area shape="rect" id="node37" href="$d0/d13/a02139.html#a7fdbf54a26dfd1588f4cb5f02cd9a39f" title=" " alt="" coords="569,969,720,1010"/>
+<area shape="rect" id="node38" href="$d6/da1/a01233.html#a40921232139a1383703e451ea900cf4b" title=" " alt="" coords="583,1035,707,1061"/>
+<area shape="rect" id="node46" href="$d6/da1/a01233.html#a8e4eaa355b28f311d6ef05dde8490f1f" title="The output operator of a formula." alt="" coords="579,1085,710,1112"/>
+<area shape="rect" id="node47" href="$d6/da1/a01233.html#afe29547797430e57432f86dcdc918a83" title=" " alt="" coords="604,1136,685,1163"/>
+<area shape="rect" id="node48" href="$d9/de7/a01257.html#ad5b4aa3676afed7d74cc6829a9fa4d7f" title="Applies a substitution to a variable comparison." alt="" coords="573,1187,716,1213"/>
+<area shape="rect" id="node49" href="$d5/d73/a02423.html#ae63f79fb8d5748e3ee0237ad9e393787" title="Method which returns the unbounded interval rooted at 0." alt="" coords="553,1238,737,1279"/>
+<area shape="rect" id="node50" href="$d5/d73/a02423.html#afca419ed17a9884394ea7e23146da8d4" title="Method which returns the pointinterval rooted at 0." alt="" coords="549,1304,740,1331"/>
+<area shape="rect" id="node4" href="$d8/df3/a01216.html#a5bcfb0def1a64f2d6ed8fcd13e061db4" title=" " alt="" coords="290,209,489,250"/>
+<area shape="rect" id="node5" href="$d7/d67/a02323.html#a5df5aff941d61a2e4ca7e1f99c67af67" title=" " alt="" coords="284,274,495,315"/>
+<area shape="rect" id="node6" href="$dd/d43/a01193.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="362,340,417,367"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a7f2efd32f528f28513340e855be476c9" title=" " alt="" coords="327,391,452,417"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#aa51fd804aa4eb81da92013d1c7420dce" title=" " alt="" coords="329,441,449,468"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#ae6e7c32b4edfca29b6c99c2a19156684" title=" " alt="" coords="324,5,455,32"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a1ea3b551630d8580ce0204cc00911a2b" title=" " alt="" coords="324,56,455,83"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a86560fa254fe86ef952e6f2ff03201d6" title=" " alt="" coords="329,107,449,133"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#ae839cae2cae10328932ab8a38c3fc4a1" title=" " alt="" coords="324,157,455,184"/>
+<area shape="rect" id="node15" href="$d8/df6/a02411.html#ae10384534dea0d2fea062cf173af9b46" title=" " alt="" coords="46,758,195,799"/>
+<area shape="rect" id="node16" href="$dc/d5c/a02459.html#a8c4f0740fd91159ecde379695b8d0c50" title=" " alt="" coords="303,762,476,803"/>
+<area shape="rect" id="node17" href="$d4/dad/a02407.html#ad83862af18deb617249c013068c9cf5f" title=" " alt="" coords="321,493,458,534"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#ad6e739eceb2dc4203064211a3193078a" title="Calculates the complement in a set&#45;theoretic manner (can result in two distinct intervals)." alt="" coords="308,559,471,585"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#acc37f16a7b18c556a66fc0c4ce36fb81" title="Calculates the difference of two intervals in a set&#45;theoretic manner: lhs \ rhs (can result in two di..." alt="" coords="316,609,463,636"/>
+<area shape="rect" id="node21" href="$d6/da1/a01233.html#a7a78710d31854c60bb2a7745354d2f0e" title="Computes the union of two intervals (can result in two distinct intervals)." alt="" coords="331,660,448,687"/>
+<area shape="rect" id="node20" href="$d6/da1/a01233.html#a26a2da3ff540f49e71d47ed6a82da231" title="Calculates the symmetric difference of two intervals in a set&#45;theoretic manner (can result in two dis..." alt="" coords="45,366,196,407"/>
+<area shape="rect" id="node22" href="$de/d6a/a02415.html#a2f25f60aaa327ed2e492ee0261199ecd" title=" " alt="" coords="9,431,232,473"/>
+<area shape="rect" id="node23" href="$df/d06/a02403.html#a323de1c287dc0bb3ec4d2c8770b03c16" title=" " alt="" coords="11,497,230,538"/>
+<area shape="rect" id="node24" href="$de/d6a/a02415.html#a12243e6bf41327089e8d3a7936bcd621" title="Evaluate this contraction over the given assignment." alt="" coords="9,562,232,603"/>
+<area shape="rect" id="node25" href="$df/d06/a02403.html#ab6c0c1e1cd1ab72b5fc50e95e0064f95" title="Evaluates this solution formula for the given mapping of the variables occurring in the solution form..." alt="" coords="9,627,232,669"/>
+<area shape="rect" id="node26" href="$de/d6a/a02415.html#af2f00943d9561e11cb319794eed71ce1" title=" " alt="" coords="5,693,236,734"/>
+<area shape="rect" id="node28" href="$d6/da1/a01233.html#acb9e48799c5668d38831be5b6ba8982c" title=" " alt="" coords="69,976,172,1003"/>
+<area shape="rect" id="node29" href="$de/dbd/a02507.html#acabe9e08710134eef4f60810deadcbba" title="Returns the square root of this number and puts it into a passed result parameter." alt="" coords="49,1027,192,1053"/>
+<area shape="rect" id="node30" href="$d6/da1/a01233.html#ac5a9461ffb807f3460d78ee4048b5b38" title=" " alt="" coords="57,1077,185,1104"/>
+<area shape="rect" id="node31" href="$dc/d6a/a02463.html#a07476bc24ecaf46fadac9fe7ecd59b6d" title=" " alt="" coords="27,824,214,851"/>
+<area shape="rect" id="node32" href="$d6/da1/a01233.html#a695d45d584e7026995d116bbbd822a4f" title="Compute square root in a fast but less precise way." alt="" coords="65,875,176,901"/>
+<area shape="rect" id="node33" href="$dc/d6a/a02463.html#a8e9e13de9d76a8f7e3a8b23d7234e519" title=" " alt="" coords="37,925,204,952"/>
+<area shape="rect" id="node39" href="$d6/da1/a01233.html#a69bb2518166d66ce4a90d6972277058b" title=" " alt="" coords="54,1136,187,1163"/>
+<area shape="rect" id="node40" href="$d7/dbf/a01239.html#a4fea6065a4a0696ca75fac75e7d6ccd2" title=" " alt="" coords="313,1195,465,1237"/>
+<area shape="rect" id="node42" href="$d6/da1/a01233.html#a1957aead1a52774fa515fbb15a6a7ed1" title=" " alt="" coords="348,925,431,952"/>
+<area shape="rect" id="node43" href="$d6/da1/a01233.html#a6d419654f3cfc0f8bc7e78eba1d9c7bd" title=" " alt="" coords="335,976,443,1003"/>
+<area shape="rect" id="node44" href="$df/daa/a02135.html#af177eff144c1310c3a60983fdd12fe42" title=" " alt="" coords="315,1027,464,1069"/>
+<area shape="rect" id="node45" href="$d6/da1/a01233.html#a1ea81c002749c68ce22a72909b4923a5" title=" " alt="" coords="300,1093,479,1120"/>
+<area shape="rect" id="node41" href="$d6/da1/a01233.html#af5dd729b6f9a5bb6abbf84261214ef0b" title=" " alt="" coords="82,1203,159,1229"/>
+</map>

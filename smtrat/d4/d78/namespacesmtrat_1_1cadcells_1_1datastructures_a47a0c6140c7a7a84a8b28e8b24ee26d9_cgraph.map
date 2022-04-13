@@ -1,0 +1,8 @@
+<map id="smtrat::cadcells::datastructures::operator&lt;&lt;" name="smtrat::cadcells::datastructures::operator&lt;&lt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,77,233,119"/>
+<area shape="rect" id="node2" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a37b3964e429be5e1d6ae414800255a11" title=" " alt="" coords="557,8,785,49"/>
+<area shape="rect" id="node3" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a586f191f5ed99e56d916ecf6b533ceca" title="Returns the lower bound as IndexedRoot if finite or std::nullopt if the lower bound is &#45;oo." alt="" coords="281,113,509,155"/>
+<area shape="rect" id="node5" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#aa3d8b79d45b984fad62df6186b866067" title="In case of a section, the defining indexed root is returned." alt="" coords="281,33,509,89"/>
+<area shape="rect" id="node6" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a0707451850788bfae62e8d0c96821646" title="Returns the upper bound as IndexedRoot if finite or std::nullopt if the upper bound is oo." alt="" coords="281,179,509,220"/>
+<area shape="rect" id="node4" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a52fb640f3688f5a6d2f3f2cc2400c6df" title=" " alt="" coords="557,145,785,187"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="benchmax::DBAL::select" name="benchmax::DBAL::select">
+<area shape="rect" id="node1" title="Select some data." alt="" coords="5,31,185,57"/>
+<area shape="rect" id="node2" href="$dd/d13/classbenchmax_1_1DBAL.html#a5b76b828057f6430cae7700e5d74b07c" title="Execute a statement without arguments." alt="" coords="233,5,425,32"/>
+<area shape="rect" id="node3" href="$dd/d13/classbenchmax_1_1DBAL.html#a30d661fcac233b533b30b07edf3e4301" title="Prepare a statement." alt="" coords="234,56,425,83"/>
+<area shape="rect" id="node4" href="$dd/d13/classbenchmax_1_1DBAL.html#a6836aadeb048e17b45fbf8c705487baf" title=" " alt="" coords="473,56,745,83"/>
+</map>

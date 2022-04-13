@@ -1,0 +1,61 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;" name="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="4981,184,5156,240"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html" title=" " alt="" coords="4452,599,4653,641"/>
+<area shape="rect" id="node47" href="$da/d13/structsmtrat_1_1cad_1_1PolynomialComparator.html" title=" " alt="" coords="4941,1662,5196,1703"/>
+<area shape="rect" id="node3" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html" title=" " alt="" coords="4059,853,4266,894"/>
+<area shape="rect" id="node4" title=" " alt="" coords="3127,841,3313,868"/>
+<area shape="rect" id="node28" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html" title=" " alt="" coords="3572,935,3779,977"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="1103,589,1233,616"/>
+<area shape="rect" id="node7" title=" " alt="" coords="3124,771,3316,813"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1647,1145,1843,1172"/>
+<area shape="rect" id="node27" title=" " alt="" coords="3151,897,3289,938"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1608,695,1883,766"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1925,515,2076,557"/>
+<area shape="rect" id="node38" title=" " alt="" coords="3101,565,3339,621"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1627,615,1864,671"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2923,386,3062,427"/>
+<area shape="rect" id="node45" title=" " alt="" coords="5737,592,5984,648"/>
+<area shape="rect" id="node52" title=" " alt="" coords="2687,222,2866,263"/>
+<area shape="rect" id="node55" title=" " alt="" coords="3373,161,3548,202"/>
+<area shape="rect" id="node6" title=" " alt="" coords="162,589,201,616"/>
+<area shape="rect" id="node9" title="STL class." alt="" coords="1678,1016,1813,1043"/>
+<area shape="rect" id="node21" title=" " alt="" coords="532,1411,673,1453"/>
+<area shape="rect" id="node57" title="STL class." alt="" coords="756,42,1023,113"/>
+<area shape="rect" id="node59" title="STL class." alt="" coords="530,265,675,321"/>
+<area shape="rect" id="node8" title=" " alt="" coords="3091,1009,3349,1050"/>
+<area shape="rect" id="node11" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html" title=" " alt="" coords="3121,1131,3319,1173"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2152,1197,2335,1238"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2152,1067,2335,1109"/>
+<area shape="rect" id="node26" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html" title="Class to manage the bounds of a variable." alt="" coords="2659,1139,2895,1165"/>
+<area shape="rect" id="node34" title=" " alt="" coords="2140,419,2347,461"/>
+<area shape="rect" id="node53" title=" " alt="" coords="2163,281,2323,322"/>
+<area shape="rect" id="node10" title=" " alt="" coords="5,1265,44,1292"/>
+<area shape="rect" id="node14" title="STL class." alt="" coords="263,1265,446,1292"/>
+<area shape="rect" id="node19" title="STL class." alt="" coords="127,1495,236,1521"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2130,1262,2357,1303"/>
+<area shape="rect" id="node16" href="$d3/d62/classsmtrat_1_1vb_1_1Variable.html" title=" " alt="" coords="2701,1399,2852,1441"/>
+<area shape="rect" id="node17" href="$d5/d25/classsmtrat_1_1vb_1_1Bound.html" title=" " alt="" coords="1671,1462,1820,1503"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2127,1531,2359,1587"/>
+<area shape="rect" id="node18" title=" " alt="" coords="800,1471,979,1527"/>
+<area shape="rect" id="node24" title=" " alt="" coords="493,1345,712,1386"/>
+<area shape="rect" id="node49" title=" " alt="" coords="1350,1598,1547,1669"/>
+<area shape="rect" id="node51" title=" " alt="" coords="473,1696,732,1752"/>
+<area shape="rect" id="node20" href="$d5/d25/classsmtrat_1_1vb_1_1Bound.html" title="Class for the bound of a variable." alt="" coords="1080,1419,1256,1445"/>
+<area shape="rect" id="node23" href="$d3/d62/classsmtrat_1_1vb_1_1Variable.html" title="Class for a variable." alt="" coords="1907,1340,2095,1367"/>
+<area shape="rect" id="node29" href="$d5/d81/classsmtrat_1_1cad_1_1ProjectionInformation.html" title=" " alt="" coords="4040,580,4285,607"/>
+<area shape="rect" id="node30" href="$de/da8/classsmtrat_1_1cad_1_1ProjectionPolynomialInformation.html" title=" " alt="" coords="2392,690,2635,731"/>
+<area shape="rect" id="node32" href="$d5/d62/classsmtrat_1_1cad_1_1ProjectionGlobalInformation.html" title=" " alt="" coords="2671,479,2882,521"/>
+<area shape="rect" id="node35" href="$de/d8f/structsmtrat_1_1cad_1_1Origin_1_1BaseType.html" title=" " alt="" coords="1674,382,1817,423"/>
+<area shape="rect" id="node36" href="$d5/dc1/structsmtrat_1_1cad_1_1ProjectionGlobalInformation_1_1ECData.html" title=" " alt="" coords="1640,447,1851,489"/>
+<area shape="rect" id="node37" href="$d2/dcd/classsmtrat_1_1cad_1_1ProjectionLevelInformation.html" title=" " alt="" coords="3573,573,3777,614"/>
+<area shape="rect" id="node39" href="$d1/d00/structsmtrat_1_1cad_1_1ProjectionLevelInformation_1_1LevelInfo.html" title=" " alt="" coords="2675,615,2879,657"/>
+<area shape="rect" id="node40" href="$d4/d21/structsmtrat_1_1cad_1_1ProjectionLevelInformation_1_1EquationalConstraints.html" title=" " alt="" coords="2119,626,2368,667"/>
+<area shape="rect" id="node42" href="$d3/d91/structsmtrat_1_1cad_1_1ProjectionLevelInformation_1_1EquationalConstraint.html" title=" " alt="" coords="1047,853,1289,894"/>
+<area shape="rect" id="node43" href="$d2/d33/structsmtrat_1_1cad_1_1ProjectionOperator.html" title=" " alt="" coords="4049,631,4276,657"/>
+<area shape="rect" id="node46" href="$d8/d0f/classsmtrat_1_1cad_1_1PolynomialLiftingQueue.html" title=" " alt="" coords="5351,1621,5624,1662"/>
+<area shape="rect" id="node48" href="$da/d13/structsmtrat_1_1cad_1_1PolynomialComparator.html" title=" " alt="" coords="4425,1662,4680,1703"/>
+<area shape="rect" id="node50" href="$d8/d0f/classsmtrat_1_1cad_1_1PolynomialLiftingQueue.html" title=" " alt="" coords="2405,1717,2622,1758"/>
+<area shape="rect" id="node54" title=" " alt="" coords="1715,280,1775,307"/>
+<area shape="rect" id="node56" href="$d4/d00/classsmtrat_1_1PriorityQueue.html" title=" " alt="" coords="1619,5,1871,61"/>
+<area shape="rect" id="node58" href="$d4/d00/classsmtrat_1_1PriorityQueue.html" title=" " alt="" coords="1087,153,1249,194"/>
+</map>

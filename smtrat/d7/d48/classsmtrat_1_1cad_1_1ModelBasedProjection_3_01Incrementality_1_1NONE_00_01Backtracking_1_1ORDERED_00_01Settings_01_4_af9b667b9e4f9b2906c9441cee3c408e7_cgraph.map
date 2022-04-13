@@ -1,0 +1,7 @@
+<map id="smtrat::cad::ModelBasedProjection&lt; Incrementality::NONE, Backtracking::ORDERED, Settings &gt;::addToProjection" name="smtrat::cad::ModelBasedProjection&lt; Incrementality::NONE, Backtracking::ORDERED, Settings &gt;::addToProjection">
+<area shape="rect" id="node1" title="Adds a new polynomial to the given level (used to performs the first step of the projection)" alt="" coords="5,93,287,149"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a9446a9fdd0c8bc75bd8592e3cdf8e691" title="Checks whether a polynomial can safely be forwarded to the next level." alt="" coords="367,5,537,47"/>
+<area shape="rect" id="node3" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a3eff39f8995d50d8597f6b32ee66ff55" title="Checks whether a polynomial can safely be ignored." alt="" coords="367,71,537,112"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="335,137,569,163"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="337,187,567,214"/>
+</map>

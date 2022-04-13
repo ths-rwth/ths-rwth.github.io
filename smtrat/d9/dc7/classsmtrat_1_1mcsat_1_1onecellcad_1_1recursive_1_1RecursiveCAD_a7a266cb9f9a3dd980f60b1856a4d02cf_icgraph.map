@@ -1,0 +1,11 @@
+<map id="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::shrinkCellWithPolyHavingPointAsRoot" name="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::shrinkCellWithPolyHavingPointAsRoot">
+<area shape="rect" id="node1" title=" " alt="" coords="1068,104,1347,160"/>
+<area shape="rect" id="node2" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a00b32f6a017505b7297faa796133c516" title="Merge the given open OpenCADCell &#39;cell&#39; that contains the given &#39;point&#39; (called &quot;alpha&quot; in [brown15])..." alt="" coords="829,201,1020,257"/>
+<area shape="rect" id="node3" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a315cef555dca57b25365801f0f8539ea" title="Construct a single CADCell that contains the given &#39;point&#39; and is sign&#45;invariant for the given polyno..." alt="" coords="566,267,757,323"/>
+<area shape="rect" id="node5" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a95492545bf0fd446da5e6966a2d22c77" title=" " alt="" coords="541,97,781,167"/>
+<area shape="rect" id="node4" href="$db/d67/structsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1Explanation.html#a327efe47bf089a969e7bf94e11c9ce04" title=" " alt="" coords="303,267,493,323"/>
+<area shape="rect" id="node6" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a0b23f1e7aff31bc938a1bc56d589695a" title=" " alt="" coords="303,5,493,61"/>
+<area shape="rect" id="node7" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#abb81540ba8ec2a09e98fd70d9f38cbf0" title=" " alt="" coords="23,71,237,127"/>
+<area shape="rect" id="node8" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#ae83d2372df42b8d154e87654d53277f1" title=" " alt="" coords="303,136,493,192"/>
+<area shape="rect" id="node9" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a13d63fe412341476cad62c51a04373a0" title=" " alt="" coords="5,241,255,297"/>
+</map>

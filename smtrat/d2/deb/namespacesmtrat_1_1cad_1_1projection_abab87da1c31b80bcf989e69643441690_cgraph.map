@@ -1,0 +1,5 @@
+<map id="smtrat::cad::projection::discriminant" name="smtrat::cad::projection::discriminant">
+<area shape="rect" id="node1" title="Computes the discriminant of a polynomial." alt="" coords="5,39,175,80"/>
+<area shape="rect" id="node2" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#add93ca6d13d8306114b868c0a67df3cb" title="Projection related utilities for onecellcad." alt="" coords="223,5,413,47"/>
+<area shape="rect" id="node3" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="233,71,403,112"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="benchmax::CondorBackend::generateSubmitFile" name="benchmax::CondorBackend::generateSubmitFile">
+<area shape="rect" id="node1" title="Generate a submit file for the given job." alt="" coords="5,74,204,115"/>
+<area shape="rect" id="node2" href="$d2/d45/classbenchmax_1_1Tool.html#aba6600414ae66441c4c9aec7c607a9a7" title="Full path to the binary." alt="" coords="287,5,461,32"/>
+<area shape="rect" id="node3" href="$d2/d45/classbenchmax_1_1Tool.html#a2bc66957d8fea7229694b44cf0990b6f" title="Checks whether this cool can handle this file type." alt="" coords="273,56,475,83"/>
+<area shape="rect" id="node4" href="$d2/d45/classbenchmax_1_1Tool.html#a4da2395fee7e4d9923d1f831057c76ef" title="Compose commandline for this tool and the given input file." alt="" coords="252,107,496,133"/>
+<area shape="rect" id="node5" href="$d0/d1d/namespacebenchmax.html#a7023b801521b73ccffe81cbfbaaf3a43" title="Return the benchmark settings." alt="" coords="299,158,449,199"/>
+</map>

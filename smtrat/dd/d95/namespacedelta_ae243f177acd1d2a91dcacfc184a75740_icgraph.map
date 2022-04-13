@@ -1,0 +1,7 @@
+<map id="delta::children" name="delta::children">
+<area shape="rect" id="node1" title="Node operator that returns all children of a node." alt="" coords="487,56,601,83"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#aef417e2757b66a5eb4c3a569e7884882" title="Eliminates the given variable by finding test candidates of the constraint of the given condition." alt="" coords="230,5,438,32"/>
+<area shape="rect" id="node3" href="$da/d13/classdelta_1_1Producer.html#afd805d9193255b6aef01618a24f1ac22" title="Create a new manager that uses the given checker." alt="" coords="241,56,427,83"/>
+<area shape="rect" id="node4" href="$d4/d42/classsmtrat_1_1cad_1_1debug_1_1TikzTreePrinter.html#ad26671215051d98b13b1d2d48131e4d6" title=" " alt="" coords="229,107,439,149"/>
+<area shape="rect" id="node5" href="$d4/d42/classsmtrat_1_1cad_1_1debug_1_1TikzTreePrinter.html#afc4e6bd3bddc228c887a74b62de70c6d" title=" " alt="" coords="5,107,181,149"/>
+</map>

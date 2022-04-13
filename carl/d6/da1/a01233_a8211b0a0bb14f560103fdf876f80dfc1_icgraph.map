@@ -1,0 +1,11 @@
+<map id="carl::replace_main_variable" name="carl::replace_main_variable">
+<area shape="rect" id="node1" title="Replaces the main variable in a polynomial." alt="" coords="651,129,793,171"/>
+<area shape="rect" id="node2" href="$d1/d24/a02847.html#aa093a925323aedc62c631c7a43fd9db7" title=" " alt="" coords="415,5,585,47"/>
+<area shape="rect" id="node3" href="$dd/da4/a02295.html#a3303bdcb0966cb600904c86e2bf86b58" title="Return a polynomial containing the lhs&#45;variable that has a same root for the this lhs&#45;variable as the..." alt="" coords="407,71,593,112"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#acf69f7df84adce86589ec9686663d4cf" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="445,137,555,163"/>
+<area shape="rect" id="node6" href="$df/d37/a02823.html#a2eb873abe2a1875d2d21d82781c8b0a7" title="Extend the current number field with the field extension defined by r." alt="" coords="407,188,593,229"/>
+<area shape="rect" id="node9" href="$d0/d82/a02831.html#a37887c7e285a3e57ee855dcc4918b3fb" title=" " alt="" coords="397,254,603,310"/>
+<area shape="rect" id="node4" href="$d9/de7/a01257.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="187,78,349,105"/>
+<area shape="rect" id="node7" href="$d0/d33/a01252.html#aceac25901302849c6e933d465f45ec80" title=" " alt="" coords="187,181,349,237"/>
+<area shape="rect" id="node8" href="$d0/d33/a01252.html#a0ee19ea70c76b3365235c61a66814fb5" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,188,139,229"/>
+</map>

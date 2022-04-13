@@ -1,0 +1,5 @@
+<map id="smtrat::mcsat::MCSATMixin::get" name="smtrat::mcsat::MCSATMixin::get">
+<area shape="rect" id="node1" title="Returns the respective theory level." alt="" coords="320,60,552,87"/>
+<area shape="rect" id="node2" href="$d9/d0b/classsmtrat_1_1mcsat_1_1MCSATMixin.html#a561c97774de4f78fa351694f47016b26" title=" " alt="" coords="5,5,272,61"/>
+<area shape="rect" id="node3" href="$d9/d0b/classsmtrat_1_1mcsat_1_1MCSATMixin.html#a9d6f92fde7c2a68d297a5e8834039458" title="Retrieve already decided theory variables." alt="" coords="5,85,272,141"/>
+</map>

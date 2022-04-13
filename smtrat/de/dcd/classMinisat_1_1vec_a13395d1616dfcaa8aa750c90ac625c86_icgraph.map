@@ -1,0 +1,6 @@
+<map id="Minisat::vec::shrink" name="Minisat::vec::shrink">
+<area shape="rect" id="node1" title=" " alt="" coords="335,101,484,127"/>
+<area shape="rect" id="node2" href="$df/d4d/classsmtrat_1_1SATModule.html#a549cec09ce5fd8e3e3ff917c6bb2a6c1" title="analyze : (confl : Clause*) (out_learnt : vec&lt;Lit&gt;&amp;) (out_btlevel : int&amp;) &#45;&gt; [void]" alt="" coords="69,5,223,47"/>
+<area shape="rect" id="node3" href="$db/ddc/classMinisat_1_1OccLists.html#a4306987eaa26f85b12ad51eae4393171" title=" " alt="" coords="5,71,287,157"/>
+<area shape="rect" id="node4" href="$df/d4d/classsmtrat_1_1SATModule.html#abe3bec6badeededaa8d3942a016c1551" title="Removes all satisfied clauses from the given vector of clauses, which should only be performed in dec..." alt="" coords="69,181,223,223"/>
+</map>

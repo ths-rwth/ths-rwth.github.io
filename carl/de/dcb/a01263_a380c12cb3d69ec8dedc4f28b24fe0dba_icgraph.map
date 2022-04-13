@@ -1,0 +1,9 @@
+<map id="carl::logging::logger" name="carl::logging::logger">
+<area shape="rect" id="node1" title="Returns the single global instance of a Logger." alt="" coords="1004,31,1155,57"/>
+<area shape="rect" id="node2" href="$de/dcb/a01263.html#a1f6ea271980ab353f97c71fd5aec72da" title=" " alt="" coords="789,23,956,65"/>
+<area shape="rect" id="node3" href="$de/dcb/a01263.html#a8fea23f542143af72cc428d1c3b52b9e" title=" " alt="" coords="571,23,741,65"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a66293184efb43015989a86d518919cea" title="The routine for initializing the carl library." alt="" coords="448,31,523,57"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a31de55e80e49ff57064d770dcd9ddc87" title="Method to ensure that upon inclusion, init() is called exactly once." alt="" coords="259,5,370,32"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a3baaa7af42ddc95e35cc1521ae99bdfa" title="Implements a functional fold (similar to std::accumulate) for std::tuple." alt="" coords="229,56,400,83"/>
+<area shape="rect" id="node7" href="$d8/ddf/a01238.html#aa6b9fe2025504d040687f7eb0759dbf9" title=" " alt="" coords="5,56,181,83"/>
+</map>

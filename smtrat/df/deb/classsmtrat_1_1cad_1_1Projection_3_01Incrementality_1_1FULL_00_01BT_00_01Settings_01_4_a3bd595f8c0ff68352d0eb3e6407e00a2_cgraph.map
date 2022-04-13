@@ -1,0 +1,5 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::removePolynomial" name="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::removePolynomial">
+<area shape="rect" id="node1" title="Removes the given polynomial from the projection." alt="" coords="5,27,256,83"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#aef9b6c2f5f5023b230370b46d417c498" title=" " alt="" coords="321,5,522,47"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="304,71,539,98"/>
+</map>

@@ -1,0 +1,102 @@
+<map id="smtrat&#45;strategies/strategies/BVSolver.h" name="smtrat&#45;strategies/strategies/BVSolver.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1153,5,1357,47"/>
+<area shape="rect" id="node2" href="$d1/da0/Manager_8h.html" title=" " alt="" coords="842,348,1025,375"/>
+<area shape="rect" id="node46" href="$d2/d4a/BVModule_8h.html" title=" " alt="" coords="223,423,419,464"/>
+<area shape="rect" id="node52" href="$d7/d96/SATModule_8h.html" title=" " alt="" coords="3231,95,3433,136"/>
+<area shape="rect" id="node93" href="$dc/dd8/FPPModule_8h.html" title=" " alt="" coords="1223,95,1425,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="838,1004,901,1031"/>
+<area shape="rect" id="node4" href="$da/ddd/StrategyGraph_8h.html" title=" " alt="" coords="907,430,1035,457"/>
+<area shape="rect" id="node8" href="$d6/d8a/smtrat-common_8h.html" title=" " alt="" coords="2031,765,2206,807"/>
+<area shape="rect" id="node34" href="$d4/dc7/Module_8h.html" title=" " alt="" coords="1287,519,1462,546"/>
+<area shape="rect" id="node38" href="$db/d1b/ModuleInput_8h.html" title=" " alt="" coords="1115,609,1229,635"/>
+<area shape="rect" id="node5" title=" " alt="" coords="928,1004,1005,1031"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1381,691,1424,717"/>
+<area shape="rect" id="node7" title=" " alt="" coords="857,519,911,546"/>
+<area shape="rect" id="node9" href="$d9/dc6/smtrat-common_2config_8h.html" title=" " alt="" coords="1087,929,1161,956"/>
+<area shape="rect" id="node10" href="$d9/d49/types_8h.html" title=" " alt="" coords="2378,855,2449,881"/>
+<area shape="rect" id="node19" href="$db/d1e/smtrat-common_2logging_8h.html" title=" " alt="" coords="1225,855,1308,881"/>
+<area shape="rect" id="node20" href="$d0/d76/smtrat-common_2settings_2Settings_8h.html" title=" " alt="" coords="2758,1004,2901,1031"/>
+<area shape="rect" id="node29" href="$d5/d33/Validation_8h.html" title=" " alt="" coords="1383,855,1551,881"/>
+<area shape="rect" id="node32" href="$d8/da8/Checkpoints_8h.html" title=" " alt="" coords="1575,855,1771,881"/>
+<area shape="rect" id="node11" title=" " alt="" coords="2290,929,2537,956"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2561,929,2708,956"/>
+<area shape="rect" id="node13" title=" " alt="" coords="2733,929,2955,956"/>
+<area shape="rect" id="node14" title=" " alt="" coords="2980,929,3151,956"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1882,929,2033,956"/>
+<area shape="rect" id="node16" title=" " alt="" coords="2057,929,2265,956"/>
+<area shape="rect" id="node17" title=" " alt="" coords="3175,929,3327,956"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1791,929,1857,956"/>
+<area shape="rect" id="node21" title=" " alt="" coords="2037,1079,2185,1105"/>
+<area shape="rect" id="node22" title=" " alt="" coords="2569,1079,2741,1105"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2765,1079,2811,1105"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2836,1079,2905,1105"/>
+<area shape="rect" id="node25" title=" " alt="" coords="3208,1079,3259,1105"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1233,1079,1292,1105"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2929,1079,3004,1105"/>
+<area shape="rect" id="node28" title=" " alt="" coords="3623,1079,3710,1105"/>
+<area shape="rect" id="node30" href="$d1/d93/ValidationCollector_8h.html" title=" " alt="" coords="1185,929,1341,956"/>
+<area shape="rect" id="node31" href="$d2/dcb/ValidationSettings_8h.html" title=" " alt="" coords="1365,929,1517,956"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1542,929,1767,956"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1405,609,1469,635"/>
+<area shape="rect" id="node36" href="$d1/dd6/Statistics_8h.html" title=" " alt="" coords="1545,601,1735,643"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1499,691,1685,717"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1059,691,1144,717"/>
+<area shape="rect" id="node40" title=" " alt="" coords="1168,691,1211,717"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1235,691,1306,717"/>
+<area shape="rect" id="node42" href="$dc/d51/model_8h.html" title=" " alt="" coords="2884,691,3068,717"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2735,773,2883,799"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2908,773,3031,799"/>
+<area shape="rect" id="node45" title=" " alt="" coords="3055,773,3222,799"/>
+<area shape="rect" id="node47" href="$df/dd0/BVSettings_8h.html" title=" " alt="" coords="391,519,497,546"/>
+<area shape="rect" id="node48" href="$d2/da7/BVDirectEncoder_8h.html" title=" " alt="" coords="225,519,367,546"/>
+<area shape="rect" id="node50" title=" " alt="" coords="467,601,629,643"/>
+<area shape="rect" id="node51" title=" " alt="" coords="5,601,168,643"/>
+<area shape="rect" id="node49" title=" " alt="" coords="192,609,392,635"/>
+<area shape="rect" id="node53" href="$d6/d18/MCSATMixin_8h.html" title=" " alt="" coords="2619,184,2779,211"/>
+<area shape="rect" id="node54" href="$d8/dd8/SolverTypes_8h.html" title=" " alt="" coords="3209,348,3333,375"/>
+<area shape="rect" id="node57" href="$d7/dd7/Alg_8h.html" title=" " alt="" coords="3473,430,3527,457"/>
+<area shape="rect" id="node58" href="$de/dda/Vec_8h.html" title=" " alt="" coords="3414,519,3471,546"/>
+<area shape="rect" id="node82" href="$de/dd0/SATSettings_8h.html" title="Class to create a settings object for the SATModule." alt="" coords="2105,184,2217,211"/>
+<area shape="rect" id="node84" href="$d1/d1c/Heap_8h.html" title=" " alt="" coords="3595,348,3663,375"/>
+<area shape="rect" id="node85" href="$d5/d76/Options_8h.html" title=" " alt="" coords="3806,430,3890,457"/>
+<area shape="rect" id="node87" title=" " alt="" coords="3993,519,4061,546"/>
+<area shape="rect" id="node89" href="$d0/d7a/smtrat-modules_2SATModule_2Sort_8h.html" title=" " alt="" coords="3409,348,3469,375"/>
+<area shape="rect" id="node90" href="$d4/dab/VarScheduler_8h.html" title=" " alt="" coords="3646,266,3765,293"/>
+<area shape="rect" id="node92" href="$d4/d0b/VarSchedulerMcsat_8h.html" title=" " alt="" coords="2976,184,3179,211"/>
+<area shape="rect" id="node65" href="$dc/d5b/BaseBackend_8h.html" title=" " alt="" coords="2638,266,2759,293"/>
+<area shape="rect" id="node68" href="$d5/da7/smtrat-mcsat_8h.html" title=" " alt="" coords="2524,519,2671,546"/>
+<area shape="rect" id="node78" href="$d0/d16/ClauseChecker_8h.html" title=" " alt="" coords="2885,266,3027,293"/>
+<area shape="rect" id="node79" href="$dc/db9/MCSATStatistics_8h.html" title=" " alt="" coords="1842,348,1982,375"/>
+<area shape="rect" id="node80" title=" " alt="" coords="2275,266,2461,293"/>
+<area shape="rect" id="node81" href="$dc/dc7/MCSATMixin_8tpp.html" title=" " alt="" coords="2485,266,2614,293"/>
+<area shape="rect" id="node55" title=" " alt="" coords="3156,609,3231,635"/>
+<area shape="rect" id="node56" href="$d1/ddc/IntTypes_8h.html" title=" " alt="" coords="3255,609,3343,635"/>
+<area shape="rect" id="node63" href="$df/d79/Map_8h.html" title=" " alt="" coords="3243,430,3306,457"/>
+<area shape="rect" id="node64" href="$d3/d0a/Alloc_8h.html" title=" " alt="" coords="3381,430,3448,457"/>
+<area shape="rect" id="node59" title=" " alt="" coords="3297,691,3377,717"/>
+<area shape="rect" id="node60" title=" " alt="" coords="3418,609,3467,635"/>
+<area shape="rect" id="node61" href="$d8/d13/XAlloc_8h.html" title=" " alt="" coords="3492,609,3567,635"/>
+<area shape="rect" id="node62" title=" " alt="" coords="3523,691,3594,717"/>
+<area shape="rect" id="node66" href="$d0/da1/MCSATSettings_8h.html" title=" " alt="" coords="2095,348,2228,375"/>
+<area shape="rect" id="node67" href="$da/d97/arithmetic_2AssignmentFinder_8h.html" title=" " alt="" coords="2343,423,2569,464"/>
+<area shape="rect" id="node72" href="$d3/d73/smtaf_2AssignmentFinder_8h.html" title=" " alt="" coords="2121,423,2319,464"/>
+<area shape="rect" id="node73" href="$df/dc6/SequentialAssignment_8h.html" title=" " alt="" coords="1969,512,2167,553"/>
+<area shape="rect" id="node74" href="$d4/de8/ParallelExplanation_8h.html" title=" " alt="" coords="1746,512,1945,553"/>
+<area shape="rect" id="node75" href="$d6/dc5/SequentialExplanation_8h.html" title=" " alt="" coords="2191,512,2390,553"/>
+<area shape="rect" id="node76" href="$dd/d03/icp_2Explanation_8h.html" title=" " alt="" coords="1898,423,2097,464"/>
+<area shape="rect" id="node77" href="$d8/da9/VariableOrdering_8h.html" title=" " alt="" coords="2643,423,2864,464"/>
+<area shape="rect" id="node69" href="$d2/d4f/Bookkeeping_8h.html" title=" " alt="" coords="2115,609,2266,635"/>
+<area shape="rect" id="node70" href="$d1/d1f/ClauseChain_8h.html" title=" " alt="" coords="2565,609,2712,635"/>
+<area shape="rect" id="node71" href="$d5/d77/ConstraintCategorization_8h.html" title=" " alt="" coords="2853,609,3081,635"/>
+<area shape="rect" id="node83" href="$d9/ddc/VarSchedulerForwardDeclarations_8h.html" title=" " alt="" coords="1568,266,1821,293"/>
+<area shape="rect" id="node86" title=" " alt="" coords="3901,519,3968,546"/>
+<area shape="rect" id="node88" title=" " alt="" coords="3806,519,3877,546"/>
+<area shape="rect" id="node91" title=" " alt="" coords="3688,348,3760,375"/>
+<area shape="rect" id="node94" href="$d3/dff/PModule_8h.html" title="All preprocessing modules shall derive from this module, that is modules, which simplify their receiv..." alt="" coords="1223,184,1406,211"/>
+<area shape="rect" id="node95" href="$d1/d4f/FPPStatistics_8h.html" title=" " alt="" coords="1430,184,1549,211"/>
+<area shape="rect" id="node96" href="$d7/d7e/FPPSettings_8h.html" title=" " alt="" coords="842,184,953,211"/>
+<area shape="rect" id="node97" href="$d3/d29/PreprocessingOne_8h.html" title=" " alt="" coords="567,259,771,300"/>
+<area shape="rect" id="node98" href="$d2/d75/BVPreprocessing_8h.html" title=" " alt="" coords="795,259,999,300"/>
+<area shape="rect" id="node99" href="$df/df5/PBPreprocessing_8h.html" title=" " alt="" coords="1023,259,1227,300"/>
+<area shape="rect" id="node100" href="$d2/d9e/OptimizationPreprocessing_8h.html" title=" " alt="" coords="329,259,543,300"/>
+</map>

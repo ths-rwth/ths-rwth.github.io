@@ -1,0 +1,31 @@
+<map id="carl::Singleton&lt; T &gt;" name="carl::Singleton&lt; T &gt;">
+<area shape="rect" id="node1" title="Base class that implements a singleton." alt="" coords="5,447,159,474"/>
+<area shape="rect" id="node2" href="$dc/d14/a03479.html" title="Implements a manager for sort values, containing the actual contents of these sort and allocating the..." alt="" coords="414,9,587,50"/>
+<area shape="rect" id="node3" href="$d9/d65/a03215.html" title=" " alt="" coords="406,75,595,102"/>
+<area shape="rect" id="node5" href="$d9/d65/a03215.html" title=" " alt="" coords="405,126,597,168"/>
+<area shape="rect" id="node6" href="$d9/d65/a03215.html" title=" " alt="" coords="399,192,602,233"/>
+<area shape="rect" id="node8" href="$d9/d65/a03215.html" title=" " alt="" coords="409,257,592,298"/>
+<area shape="rect" id="node10" href="$d9/d65/a03215.html" title=" " alt="" coords="391,323,611,350"/>
+<area shape="rect" id="node12" href="$d9/d65/a03215.html" title=" " alt="" coords="393,374,608,416"/>
+<area shape="rect" id="node14" href="$d9/d65/a03215.html" title=" " alt="" coords="399,440,602,481"/>
+<area shape="rect" id="node16" href="$d9/d65/a03215.html" title=" " alt="" coords="387,506,615,532"/>
+<area shape="rect" id="node18" href="$d9/d65/a03215.html" title=" " alt="" coords="402,557,599,598"/>
+<area shape="rect" id="node20" href="$d9/d65/a03215.html" title=" " alt="" coords="405,622,596,664"/>
+<area shape="rect" id="node22" href="$d9/d65/a03215.html" title=" " alt="" coords="403,688,598,729"/>
+<area shape="rect" id="node24" href="$d9/d65/a03215.html" title=" " alt="" coords="409,753,592,794"/>
+<area shape="rect" id="node26" href="$d9/d65/a03215.html" title=" " alt="" coords="399,818,602,860"/>
+<area shape="rect" id="node28" href="$d9/d65/a03215.html" title=" " alt="" coords="389,884,612,911"/>
+<area shape="rect" id="node4" href="$d3/d74/a03411.html" title="Main logger class." alt="" coords="679,75,833,102"/>
+<area shape="rect" id="node7" href="$d8/dc9/a02671.html" title=" " alt="" coords="665,192,847,233"/>
+<area shape="rect" id="node9" href="$de/d25/a01999.html" title="This class generates new variables and stores human&#45;readable names for them." alt="" coords="689,264,823,291"/>
+<area shape="rect" id="node11" href="$d3/d3a/a02259.html" title="Implements a manager for uninterpreted functions, containing their actual contents and allocating the..." alt="" coords="691,323,821,350"/>
+<area shape="rect" id="node13" href="$da/df2/a02031.html" title=" " alt="" coords="673,382,839,408"/>
+<area shape="rect" id="node15" href="$df/d71/a02247.html" title="Implements a manager for uninterpreted function instances, containing their actual contents and alloc..." alt="" coords="664,447,848,474"/>
+<area shape="rect" id="node17" href="$dd/d6f/a02207.html" title="Implements a manager for sorts, containing the actual contents of these sort and allocating their ids..." alt="" coords="687,506,825,532"/>
+<area shape="rect" id="node19" href="$db/dd4/a02107.html" title=" " alt="" coords="681,557,831,598"/>
+<area shape="rect" id="node21" href="$dd/da8/a03523.html" title=" " alt="" coords="665,622,847,664"/>
+<area shape="rect" id="node23" href="$d9/dca/a01879.html" title=" " alt="" coords="683,695,829,722"/>
+<area shape="rect" id="node25" href="$d8/d08/a02143.html" title=" " alt="" coords="683,753,829,794"/>
+<area shape="rect" id="node27" href="$d5/d04/a03303.html" title=" " alt="" coords="685,818,827,860"/>
+<area shape="rect" id="node29" href="$d9/d95/a02075.html" title=" " alt="" coords="690,884,822,911"/>
+</map>

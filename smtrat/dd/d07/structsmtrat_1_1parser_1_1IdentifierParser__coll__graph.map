@@ -1,0 +1,8 @@
+<map id="smtrat::parser::IdentifierParser" name="smtrat::parser::IdentifierParser">
+<area shape="rect" id="node1" title=" " alt="" coords="67,275,247,316"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node5" href="$de/d54/structsmtrat_1_1parser_1_1SymbolParser.html" title=" " alt="" coords="52,185,263,212"/>
+<area shape="rect" id="node6" href="$d5/d1e/structsmtrat_1_1parser_1_1SimpleSymbolParser.html" title="Parses symbols: simple_symbol | quoted_symbol where." alt="" coords="84,81,300,123"/>
+<area shape="rect" id="node3" href="$d8/d8b/structsmtrat_1_1parser_1_1NumeralParser.html" title="Parses numerals: (0 | [1&#45;9][0&#45;9]*)" alt="" coords="296,185,515,212"/>
+<area shape="rect" id="node4" title=" " alt="" coords="325,81,505,123"/>
+</map>

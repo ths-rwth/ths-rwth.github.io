@@ -1,0 +1,7 @@
+<map id="smtrat::parser::uninterpreted::convertTerm" name="smtrat::parser::uninterpreted::convertTerm">
+<area shape="rect" id="node1" title=" " alt="" coords="525,71,736,112"/>
+<area shape="rect" id="node2" href="$d4/da5/namespacesmtrat_1_1parser_1_1uninterpreted.html#af70673b53eef03fc5663998a20eba76c" title=" " alt="" coords="266,37,477,79"/>
+<area shape="rect" id="node5" href="$dc/dc5/structsmtrat_1_1parser_1_1UninterpretedTheory.html#a7e9d65a46e09208120b62a29cb3b8888" title="Resolve an if&#45;then&#45;else operator." alt="" coords="265,103,477,144"/>
+<area shape="rect" id="node3" href="$dc/dc5/structsmtrat_1_1parser_1_1UninterpretedTheory.html#a2eb23bd05d2aeec1dfe8eec32fc71cc0" title="Resolve another unknown function call." alt="" coords="5,5,217,47"/>
+<area shape="rect" id="node4" href="$dc/dc5/structsmtrat_1_1parser_1_1UninterpretedTheory.html#a146d21e3afdccf8236d2b9f037b46353" title="Resolve a distinct operator." alt="" coords="5,71,217,112"/>
+</map>

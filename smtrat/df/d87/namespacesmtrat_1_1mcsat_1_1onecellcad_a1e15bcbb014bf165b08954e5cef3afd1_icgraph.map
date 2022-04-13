@@ -1,0 +1,14 @@
+<map id="smtrat::mcsat::onecellcad::prefix" name="smtrat::mcsat::onecellcad::prefix">
+<area shape="rect" id="node1" title=" " alt="" coords="955,188,1145,229"/>
+<area shape="rect" id="node2" href="$dd/d42/classbenchmax_1_1SMTRAT__Analyzer.html#a7ccc6ab1cff9d12f6cf329428314e985" title="Computes the answer string from the exit code and parses statistics output." alt="" coords="692,5,907,47"/>
+<area shape="rect" id="node3" href="$df/d62/classbenchmax_1_1SMTRAT.html#af37ed5ea56529c8b06ffe0cd50b6ab85" title="Computes the answer string from the exit code and parses statistics output." alt="" coords="421,108,644,149"/>
+<area shape="rect" id="node4" href="$dc/d8e/namespacesmtrat_1_1analyzer.html#acab4d08120143ce922e7900f6c7adaa3" title=" " alt="" coords="709,188,889,229"/>
+<area shape="rect" id="node5" href="$dc/d8e/namespacesmtrat_1_1analyzer.html#a4ffd92c704a060888c948d1ce51264ce" title=" " alt="" coords="438,203,627,244"/>
+<area shape="rect" id="node6" href="$df/d62/classbenchmax_1_1SMTRAT.html#aeb2a1f515b5ea3775e710993c6e8a7e8" title=" " alt="" coords="702,123,897,164"/>
+<area shape="rect" id="node7" href="$dd/dfe/classsmtrat_1_1cad_1_1debug_1_1TikzBasePrinter.html#af3814a9ad9cde235edb7617b23f2e7de" title=" " alt="" coords="693,305,905,347"/>
+<area shape="rect" id="node8" href="$d0/d1d/namespacebenchmax.html#a76de680e57b40ddd99cae6aa4b47e2cb" title="Remove a prefix from a path." alt="" coords="703,371,895,398"/>
+<area shape="rect" id="node9" href="$dd/dcc/classbenchmax_1_1XMLWriter.html#aff91c9e5a60c4e18fb60faff731f0329" title=" " alt="" coords="450,331,615,372"/>
+<area shape="rect" id="node12" href="$dd/dcc/classbenchmax_1_1XMLWriter.html#a5f031f3b3eb2d96eefe246960cd542d1" title=" " alt="" coords="450,396,615,437"/>
+<area shape="rect" id="node10" href="$dd/dcc/classbenchmax_1_1XMLWriter.html#a6d8d3484898989f3544325e5b5f84535" title="Write results to file." alt="" coords="208,364,373,405"/>
+<area shape="rect" id="node11" href="$dd/d8d/classbenchmax_1_1Results.html#ad087cc529aa7ad704dbd2995f5430c81" title="Store all results to a xml file." alt="" coords="5,364,160,405"/>
+</map>

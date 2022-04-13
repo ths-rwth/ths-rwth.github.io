@@ -1,0 +1,7 @@
+<map id="smtrat::cad::ModelBasedProjection&lt; Incrementality::NONE, Backtracking::ORDERED, Settings &gt;::removePolynomial" name="smtrat::cad::ModelBasedProjection&lt; Incrementality::NONE, Backtracking::ORDERED, Settings &gt;::removePolynomial">
+<area shape="rect" id="node1" title="Removed the given polynomial from the projection." alt="" coords="5,86,307,142"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#aef9b6c2f5f5023b230370b46d417c498" title=" " alt="" coords="371,5,573,47"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="355,71,589,98"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a25ae86956294f2da0494dd4ef1417246" title=" " alt="" coords="371,123,573,164"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a1e5d574c4727b0a365c2a185f3b834a5" title="Removes the given polynomial from the projection. Converts to a UPoly and calls the appropriate overl..." alt="" coords="371,188,573,229"/>
+</map>

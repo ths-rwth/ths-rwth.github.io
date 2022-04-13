@@ -1,0 +1,7 @@
+<map id="smtrat::vs::State::tooHighDegreeConditions" name="smtrat::vs::State::tooHighDegreeConditions">
+<area shape="rect" id="node1" title=" " alt="" coords="540,64,729,105"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#af7984277f1c1d00878477c3fe2ea3e34" title=" " alt="" coords="281,5,492,47"/>
+<area shape="rect" id="node4" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="12,101,227,127"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="317,123,456,164"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a8a9c577fc8722fa7e896da57b5e42914" title="Adapts the passed formula according to the conditions of the currently considered state." alt="" coords="5,5,233,47"/>
+</map>

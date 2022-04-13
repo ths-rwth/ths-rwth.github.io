@@ -1,0 +1,10 @@
+<map id="smtrat::vs::Condition::flag" name="smtrat::vs::Condition::flag">
+<area shape="rect" id="node1" title=" " alt="" coords="540,104,699,145"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#af7984277f1c1d00878477c3fe2ea3e34" title=" " alt="" coords="281,5,492,47"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aada4ee76c63a22f40e44c5e0df3ae912" title="Determines the most adequate condition and in it the most adequate variable in the state to generate ..." alt="" coords="317,71,456,112"/>
+<area shape="rect" id="node6" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#a0606a8b969a41f5c12889bf6c2fd62cd" title="Prints the condition to an output stream." alt="" coords="307,136,466,177"/>
+<area shape="rect" id="node8" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="317,201,456,243"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a8a9c577fc8722fa7e896da57b5e42914" title="Adapts the passed formula according to the conditions of the currently considered state." alt="" coords="5,5,233,47"/>
+<area shape="rect" id="node5" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="12,78,227,105"/>
+<area shape="rect" id="node7" href="$de/dfa/namespacesmtrat_1_1vs.html#ac1d8fe528843e363d8aa77266eae5ac8" title=" " alt="" coords="33,143,206,170"/>
+</map>

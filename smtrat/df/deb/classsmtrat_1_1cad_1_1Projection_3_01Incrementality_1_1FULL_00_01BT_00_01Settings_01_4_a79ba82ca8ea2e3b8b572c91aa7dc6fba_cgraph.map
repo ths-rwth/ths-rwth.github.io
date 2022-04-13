@@ -1,0 +1,9 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::insertPolynomialTo" name="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::insertPolynomialTo">
+<area shape="rect" id="node1" title="Inserts a polynomial with the given origin into the given level." alt="" coords="5,151,256,207"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a9446a9fdd0c8bc75bd8592e3cdf8e691" title="Checks whether a polynomial can safely be forwarded to the next level." alt="" coords="337,5,506,47"/>
+<area shape="rect" id="node3" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a3eff39f8995d50d8597f6b32ee66ff55" title="Checks whether a polynomial can safely be ignored." alt="" coords="337,71,506,112"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="304,137,539,163"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a83c791813adc668d10ccde8e4eed7469" title="Returns a fresh polynomial id for the given level." alt="" coords="321,188,522,229"/>
+<area shape="rect" id="node6" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="321,253,522,295"/>
+<area shape="rect" id="node7" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="306,319,537,346"/>
+</map>
