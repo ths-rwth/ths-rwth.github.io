@@ -1,0 +1,6 @@
+<map id="carl::Interval::operator=" name="carl::Interval::operator=">
+<area shape="rect" id="node1" title="The assignment operator." alt="" coords="5,64,184,91"/>
+<area shape="rect" id="node2" href="$df/d71/a02247.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="232,5,393,32"/>
+<area shape="rect" id="node3" href="$df/d71/a02247.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="239,57,387,98"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="238,122,387,163"/>
+</map>

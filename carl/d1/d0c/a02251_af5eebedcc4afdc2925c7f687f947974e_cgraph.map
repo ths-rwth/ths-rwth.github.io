@@ -1,0 +1,9 @@
+<map id="carl::Interval::Interval" name="carl::Interval::Interval">
+<area shape="rect" id="node1" title="Constructor which constructs an interval from the passed double bounds." alt="" coords="5,129,168,155"/>
+<area shape="rect" id="node2" href="$dc/dc2/a01251.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="232,45,375,71"/>
+<area shape="rect" id="node5" href="$d1/d0c/a02251.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="229,95,377,122"/>
+<area shape="rect" id="node6" href="$d4/d4a/a02263.html#aac501d64c8051ab8d9362752834ba4f2" title=" " alt="" coords="216,146,391,202"/>
+<area shape="rect" id="node7" href="$d1/d0c/a02251.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="229,226,378,253"/>
+<area shape="rect" id="node3" href="$da/db0/a03747.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="443,5,625,47"/>
+<area shape="rect" id="node4" href="$df/d0c/a03055.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="439,71,629,112"/>
+</map>

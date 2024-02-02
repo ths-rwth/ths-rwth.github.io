@@ -1,0 +1,11 @@
+<map id="carl::gcd_recursive" name="carl::gcd_recursive">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,149,98"/>
+<area shape="rect" id="node2" href="$d6/d24/a02536.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="197,5,392,47"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="245,71,345,98"/>
+<area shape="rect" id="node9" href="$d8/d15/a01218.html#ae3d7d6656ab362001ff43fcb07743d94" title="Calculate the remainder of the integer division." alt="" coords="234,122,355,149"/>
+<area shape="rect" id="node4" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="787,97,909,139"/>
+<area shape="rect" id="node5" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="958,50,1106,77"/>
+<area shape="rect" id="node7" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="440,123,563,164"/>
+<area shape="rect" id="node6" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="957,105,1107,131"/>
+<area shape="rect" id="node8" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="611,123,739,164"/>
+</map>

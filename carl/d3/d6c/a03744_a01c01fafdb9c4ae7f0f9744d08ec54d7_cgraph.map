@@ -1,0 +1,10 @@
+<map id="carl::settings::SettingsParser::parse_options" name="carl::settings::SettingsParser::parse_options">
+<area shape="rect" id="node1" title="Parse the options." alt="" coords="5,71,172,112"/>
+<area shape="rect" id="node2" href="$d3/d6c/a03744.html#a4287e8b737d060b2222278825e86fba9" title="Calls the finalizer functions." alt="" coords="237,5,413,47"/>
+<area shape="rect" id="node3" href="$d3/d6c/a03744.html#adbefb46716d52b81741a221b2f387bde" title="Parses the command line." alt="" coords="220,71,429,112"/>
+<area shape="rect" id="node6" href="$d3/d6c/a03744.html#a6cfc3b92528d9e57d88520444796913e" title="Parses the config file if one was configured." alt="" coords="235,136,414,177"/>
+<area shape="rect" id="node4" href="$d3/d6c/a03744.html#ad728c18e9ed65cc2677130b79fb106ee" title="Checks for unrecognized options that were found." alt="" coords="477,71,699,112"/>
+<area shape="rect" id="node5" href="$d3/d6c/a03744.html#aaf7f799d66d1a56e253c67ed9ac75b53" title="Prints a warning if an option was unrecognized. Can be overridden." alt="" coords="747,63,968,119"/>
+<area shape="rect" id="node7" href="$d3/d6c/a03744.html#ab9b82a93e420ce3d36e2e3269c0b781f" title="Gives the option name for the config file name. Can be overridden." alt="" coords="488,136,688,177"/>
+<area shape="rect" id="node8" href="$d3/d6c/a03744.html#a8175a0c2e78fc552bc5eafad6187d3f4" title="Prints a warning if loading the config file failed. Can be overridden." alt="" coords="501,201,675,243"/>
+</map>

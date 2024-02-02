@@ -1,0 +1,5 @@
+<map id="smtrat::cad::CADConstraints::checkForTrivialConflict" name="smtrat::cad::CADConstraints::checkForTrivialConflict">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,212,80"/>
+<area shape="rect" id="node2" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a8d4eb9c0a54c8eaad96ac70a34e8ee88" title=" " alt="" coords="260,5,467,47"/>
+<area shape="rect" id="node3" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html#a88bc1a18d3241f861e07a50913e14c53" title="Creates an interval map corresponding to the variable bounds." alt="" coords="264,71,463,112"/>
+</map>

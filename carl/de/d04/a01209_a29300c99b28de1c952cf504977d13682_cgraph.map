@@ -1,0 +1,18 @@
+<map id="carl::total_degree" name="carl::total_degree">
+<area shape="rect" id="node1" title="Returns the total degree of the polynomial, that is the maximum degree of any monomial." alt="" coords="5,174,141,201"/>
+<area shape="rect" id="node2" href="$d7/d7d/a02527.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="189,43,384,84"/>
+<area shape="rect" id="node3" href="$d7/d7d/a02527.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="189,108,384,149"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="237,174,337,201"/>
+<area shape="rect" id="node10" href="$de/d04/a01209.html#a98df826da90dc24a6e5254f13df7b057" title=" " alt="" coords="247,275,327,302"/>
+<area shape="rect" id="node15" href="$de/d04/a01209.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="219,391,355,418"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="901,87,1024,128"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1073,39,1221,66"/>
+<area shape="rect" id="node8" href="$df/d71/a02247.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="464,108,587,149"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1072,94,1221,121"/>
+<area shape="rect" id="node9" href="$df/d71/a02247.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="696,57,824,99"/>
+<area shape="rect" id="node11" href="$de/d04/a01209.html#ae0d525094e8ca4f57347d606e8ce40fa" title="Get the bit size of the representation of a integer." alt="" coords="477,225,574,251"/>
+<area shape="rect" id="node12" href="$d5/d4d/a02763.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="667,297,853,339"/>
+<area shape="rect" id="node13" href="$d5/d4d/a02763.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="432,327,619,368"/>
+<area shape="rect" id="node14" href="$d5/d4d/a02763.html#a9392daa40b9085e09ed2cfe20c44fd2a" title=" " alt="" coords="432,392,619,433"/>
+<area shape="rect" id="node16" href="$de/dbb/a02679.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="447,458,603,485"/>
+</map>

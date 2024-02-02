@@ -1,0 +1,11 @@
+<map id="carl::statistics::timing::now" name="carl::statistics::timing::now">
+<area shape="rect" id="node1" title="Return the current time point." alt="" coords="420,107,619,133"/>
+<area shape="rect" id="node2" href="$d6/d27/a01163.html#a2c3f6775325c30275d11c6abee2db6a0" title=" " alt="" coords="263,5,318,32"/>
+<area shape="rect" id="node3" href="$da/dcd/a02987.html#aa768ad4c332fcad5dfcda61b8cc59472" title="Calculated the number of milliseconds since this object has been created." alt="" coords="217,56,364,83"/>
+<area shape="rect" id="node5" href="$da/dcd/a02987.html#a33329a0a5cd00d005be269aae7ad7855" title="Reset the start point to now." alt="" coords="224,107,357,133"/>
+<area shape="rect" id="node7" href="$da/de0/a01248.html#a0110e67952a2a93b9f1f19bddab8fa08" title="Return the duration since the given start time point." alt="" coords="209,158,372,199"/>
+<area shape="rect" id="node9" href="$d1/df0/a03727.html#a64b293f0becf3acd239339f7ac242383" title=" " alt="" coords="213,223,369,265"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#ac3997fdaa37ba09920f8049704ca217b" title="Streaming operator for a Timer." alt="" coords="18,56,149,83"/>
+<area shape="rect" id="node6" href="$d5/d16/a01154.html#aa0fbc1e901555a4662efd265e4f60304" title=" " alt="" coords="47,107,120,133"/>
+<area shape="rect" id="node8" href="$d1/df0/a03727.html#a2f52e1ebbfd3e219b849022130013ce3" title=" " alt="" coords="5,190,161,231"/>
+</map>

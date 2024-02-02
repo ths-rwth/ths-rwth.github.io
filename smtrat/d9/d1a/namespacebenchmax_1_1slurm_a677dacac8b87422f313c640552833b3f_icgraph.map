@@ -1,0 +1,5 @@
+<map id="benchmax::slurm::generate_jobs_file" name="benchmax::slurm::generate_jobs_file">
+<area shape="rect" id="node1" title=" " alt="" coords="512,5,713,47"/>
+<area shape="rect" id="node2" href="$db/da2/classbenchmax_1_1SlurmBackend.html#ae2164830134b6a51e80567d1e3383809" title=" " alt="" coords="273,5,464,47"/>
+<area shape="rect" id="node3" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a8e934ea372ec8227610385f308b9f420" title="Run all tools on all benchmarks using Slurm." alt="" coords="5,13,225,39"/>
+</map>

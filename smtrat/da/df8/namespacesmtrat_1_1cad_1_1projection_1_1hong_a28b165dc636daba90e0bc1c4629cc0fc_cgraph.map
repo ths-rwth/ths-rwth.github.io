@@ -1,0 +1,7 @@
+<map id="smtrat::cad::projection::hong::single" name="smtrat::cad::projection::hong::single">
+<area shape="rect" id="node1" title="Implements the part of Hongs projection operator from &#160;that deals with a single polynomial p which is..." alt="" coords="5,64,175,105"/>
+<area shape="rect" id="node2" href="$d2/d50/namespacesmtrat_1_1cad_1_1projection_1_1collins.html#a93f65cd2f289bc5b39b14d03253089eb" title="Implements the part of Collins projection operator from &#160;that deals with a single polynomial p: ." alt="" coords="223,64,392,105"/>
+<area shape="rect" id="node3" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="457,5,626,47"/>
+<area shape="rect" id="node4" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac472631e043d741a3cd933e3b2109956" title="Computes the Principal Subresultant Coefficients of two polynomials." alt="" coords="440,71,643,98"/>
+<area shape="rect" id="node5" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#aaadb11de9ea92393506042cc35c8f8fe" title=" " alt="" coords="457,123,626,164"/>
+</map>

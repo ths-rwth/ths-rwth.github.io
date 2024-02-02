@@ -1,0 +1,11 @@
+<map id="smtrat::cadcells::representation::util::simplest_chain_ordering" name="smtrat::cadcells::representation::util::simplest_chain_ordering">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,235,145"/>
+<area shape="rect" id="node2" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a05fb6db177b5f469bde945c904cde764" title=" " alt="" coords="285,5,513,47"/>
+<area shape="rect" id="node3" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#aa388ee9bc6611c4dd030520230f223dd" title=" " alt="" coords="283,71,515,112"/>
+<area shape="rect" id="node6" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="285,136,513,177"/>
+<area shape="rect" id="node7" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#afa13cf4af61b0c4f730192a1596fedac" title=" " alt="" coords="284,201,513,243"/>
+<area shape="rect" id="node4" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a6e40b9c086c5a9517cf724b57fc2521e" title=" " alt="" coords="563,39,791,80"/>
+<area shape="rect" id="node5" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a844fad4a0e83de0d80c9f7d546d61aa0" title=" " alt="" coords="563,104,791,145"/>
+<area shape="rect" id="node8" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a59623bb0dc6c4cb618afd85c5bb8f408" title=" " alt="" coords="563,201,792,243"/>
+<area shape="rect" id="node9" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a3db3e5553eb4d38e48784b15ad418017" title=" " alt="" coords="840,201,1068,243"/>
+</map>

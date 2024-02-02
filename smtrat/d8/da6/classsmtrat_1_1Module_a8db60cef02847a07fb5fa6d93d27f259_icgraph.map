@@ -1,0 +1,10 @@
+<map id="smtrat::Module::addConstraintToInform" name="smtrat::Module::addConstraintToInform">
+<area shape="rect" id="node1" title="Adds a constraint to the collection of constraints of this module, which are informed to a freshly ge..." alt="" coords="760,45,980,86"/>
+<area shape="rect" id="node2" href="$df/d4d/classsmtrat_1_1SATModule.html#a0f332b00e7a2c4fa129485aa9e6489b9" title=" " alt="" coords="535,15,712,57"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#a544c232a5f296f1bec2aaa8c72313c8d" title="Informs the module about the given constraint." alt="" coords="537,81,709,108"/>
+<area shape="rect" id="node4" href="$d0/df0/classsmtrat_1_1Manager.html#a591271930bdbd9bd9e00de72251e8b52" title="Get the backends to call for the given problem instance required by the given module." alt="" coords="265,31,487,57"/>
+<area shape="rect" id="node7" href="$d0/df0/classsmtrat_1_1Manager.html#a04aa870b8880df455f9a55bd7a8a791d" title="Informs the solver about a constraint." alt="" coords="285,81,467,108"/>
+<area shape="rect" id="node8" href="$d0/df0/classsmtrat_1_1Manager.html#af692af2019c955f9cef9dfe6041ed57c" title="Constructs a manager." alt="" coords="279,132,473,159"/>
+<area shape="rect" id="node5" href="$d8/da6/classsmtrat_1_1Module.html#a0894661497e0f400e1c73290b5fd2e08" title="Informs all backends about the so far encountered constraints, which have not yet been communicated." alt="" coords="36,5,187,32"/>
+<area shape="rect" id="node6" href="$d8/da6/classsmtrat_1_1Module.html#a38d5316bcb51e44908740daea5eddac1" title="Runs the backend solvers on the passed formula." alt="" coords="5,56,217,83"/>
+</map>

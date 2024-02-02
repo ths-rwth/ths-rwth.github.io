@@ -1,0 +1,4 @@
+<map id="smtrat::VarSchedulerSMTTheoryGuided&lt; theory_conflict_guided_decision_heuristic &gt;" name="smtrat::VarSchedulerSMTTheoryGuided&lt; theory_conflict_guided_decision_heuristic &gt;">
+<area shape="rect" id="node1" title="Scheduler for SMT, implementing theory guided heuristics." alt="" coords="5,80,236,136"/>
+<area shape="rect" id="node2" href="$d5/d1d/classsmtrat_1_1VarSchedulerBase.html" title="Base class for variable schedulers." alt="" coords="25,5,216,32"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="carl::DiophantineEquations::EEAlift" name="carl::DiophantineEquations::EEAlift">
+<area shape="rect" id="node1" title="EEAlift computes s,t such that s*a + tb == 1 (mod p^k) with deg(s) &lt; deg(b) and deg(t) &lt; deg(a)." alt="" coords="5,509,203,551"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a02a8f01df86d27fd2e24313e3dab716f" title="Calculates the extended greatest common divisor g of two polynomials." alt="" coords="275,319,421,346"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#a9d54ed3853631a633e6a994f49b1d655" title="Retrieves the main variable of this polynomial." alt="" coords="509,407,704,448"/>
+<area shape="rect" id="node11" href="$dc/db6/a01212.html#a8de13a131fe7edb2b7629fa1481d019e" title=" " alt="" coords="509,472,704,513"/>
+<area shape="rect" id="node14" href="$dc/db6/a01212.html#a4bc09ad5fe24ee6df9509c9985926047" title="Checks if the polynomial is equal to one." alt="" coords="251,509,445,551"/>
+<area shape="rect" id="node15" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="303,71,393,98"/>
+<area shape="rect" id="node17" href="$dc/d58/a02667.html#ac24e517936d31bc1bb289fb1643aa8b8" title="Returns the k from Z_{p^k}." alt="" coords="277,575,419,602"/>
+<area shape="rect" id="node18" href="$dc/d58/a02667.html#a572f32a6286442175ee20b25976a6251" title="Returns the p from Z_{p^k}." alt="" coords="277,626,419,653"/>
+<area shape="rect" id="node19" href="$dc/db6/a01212.html#aff2691aa6a65015405340ec9f51cbd54" title=" " alt="" coords="251,677,445,719"/>
+<area shape="rect" id="node20" href="$dc/db6/a01212.html#a1f4bafb948bd0f965c4c7bbb0d1a7e6c" title="Works only from rationals, if the numbers are already integers." alt="" coords="251,743,445,784"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a26949d97442e59bac3353498d2c17d93" title=" " alt="" coords="559,290,654,317"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="992,122,1087,149"/>
+<area shape="rect" id="node9" href="$dc/db6/a01212.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="509,224,704,265"/>
+<area shape="rect" id="node12" href="$dc/db6/a01212.html#af408f5a70ab4d41596882ac19e757425" title="The normal part of a polynomial is the polynomial divided by the unit part." alt="" coords="509,341,704,383"/>
+<area shape="rect" id="node13" href="$dc/db6/a01212.html#a1dcce5a6b9f6ccdaab52fe79d751d37b" title="Creates a polynomial of value one with the same main variable." alt="" coords="493,173,720,199"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="976,265,1103,291"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a64f6d2e32b05ab6591f3577583a8c3be" title="Checks whether a term is zero." alt="" coords="798,214,898,241"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="768,265,928,291"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="1151,89,1357,131"/>
+<area shape="rect" id="node16" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="503,5,710,47"/>
+</map>

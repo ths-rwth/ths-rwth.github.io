@@ -1,0 +1,4 @@
+<map id="benchmax::ssh::SSHConnection::getSFTP" name="benchmax::ssh::SSHConnection::getSFTP">
+<area shape="rect" id="node1" title="Get a new SFTP session for file transfer." alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node2" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#af68d6f6bdfcd862e5281e6fc9aadf0d9" title="Remove a (temporary) directory on the remote." alt="" coords="5,5,232,47"/>
+</map>

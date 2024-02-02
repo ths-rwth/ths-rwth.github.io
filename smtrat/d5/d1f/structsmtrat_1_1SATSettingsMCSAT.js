@@ -1,0 +1,26 @@
+var structsmtrat_1_1SATSettingsMCSAT =
+[
+    [ "MCSATSettings", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a034f87b359278886dfc5168f1da43b63", null ],
+    [ "VarScheduler", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#ae469480ca2202660832ec08bf567ebea", null ],
+    [ "allow_theory_propagation", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a347ab8de33d06a08aeb8dc84082a1561", null ],
+    [ "check_active_literal_occurrences", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#accd2e3098f2b10980cb60b5711a78041", null ],
+    [ "check_for_duplicate_clauses", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a107691ecf6ced1045f634d1109de66b2", null ],
+    [ "check_if_all_clauses_are_satisfied", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a5a39020a6ae563cd711a4b86b10780b7", null ],
+    [ "conflict_clause_evaluation_strategy", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a6457b7ad3d522e14f30f6481d8dbdf7a", null ],
+    [ "formula_guided_decision_heuristic", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#adf1ab0a81ccc22e4a27c39e749770842", null ],
+    [ "initial_variable_activities", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a194f4c160cde2c4cb307e807fa093101", null ],
+    [ "initiate_activities", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a2b52c54a7968777aea2fed46a683a658", null ],
+    [ "mc_sat", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a652438aaeea058cdc284d11a7d23381d", null ],
+    [ "mcsat_backjump_decide", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#aa9e69a90d70c9729a0a389fa225ee6c2", null ],
+    [ "mcsat_boolean_domain_propagation", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#accaca375b509db7558faae2b7d9a66c0", null ],
+    [ "mcsat_learn_lazy_explanations", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a5478b350088c08595c86141f0c21e134", null ],
+    [ "mcsat_num_insert_assignments", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a00b6dce8a0d8293256edd30f367712a5", null ],
+    [ "mcsat_resolve_clause_chains", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a5b4ca360d19ab9c94852deee9a23ac6e", null ],
+    [ "moduleName", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a84cb6ce85135c38b136a6c9cf3d40657", null ],
+    [ "percentage_of_conflicts_to_add", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a9c2c3bb1941b0b647c4f6b656590b8ec", null ],
+    [ "remove_satisfied", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a2ec55da6923f0f18c5f380e0c0374521", null ],
+    [ "stop_search_after_first_unknown", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a2ac8731384fb5fc513c7de62f30d034e", null ],
+    [ "try_full_lazy_call_first", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#ae70222bd38e34cf9c5684e830935b637", null ],
+    [ "use_restarts", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a1f05539d9cdbc260e7e364ca1312b1be", null ],
+    [ "validate_clauses", "d5/d1f/structsmtrat_1_1SATSettingsMCSAT.html#a0ffbff6ae632249bb656fc28b87c026f", null ]
+];

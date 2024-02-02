@@ -1,0 +1,11 @@
+<map id="smtrat::isNRASatisfied" name="smtrat::isNRASatisfied">
+<area shape="rect" id="node1" title="Chekcs if the estimated Assignment satisfies the input NRA formula." alt="" coords="5,64,173,91"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#a04c74128dcd6971f88b159dac0e565fa" title=" " alt="" coords="221,5,396,32"/>
+<area shape="rect" id="node3" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a8e2ff207c9812845c73d357a5a3a0d5e" title=" " alt="" coords="231,57,386,98"/>
+<area shape="rect" id="node9" href="$de/dc5/namespacesmtrat.html#abe18141d1a9790425d9cfc0fc21c361a" title=" " alt="" coords="241,123,376,149"/>
+<area shape="rect" id="node4" href="$d5/d50/classsmtrat_1_1FormulaWithOrigins.html#a5029e24043afc8c265e06957847b6650" title=" " alt="" coords="444,23,647,65"/>
+<area shape="rect" id="node5" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="473,89,617,130"/>
+<area shape="rect" id="node6" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="695,23,847,65"/>
+<area shape="rect" id="node7" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="699,89,843,130"/>
+<area shape="rect" id="node8" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="721,155,820,181"/>
+</map>

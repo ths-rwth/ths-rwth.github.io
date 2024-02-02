@@ -1,0 +1,10 @@
+<map id="smtrat::cadcells::representation::util::simplest_chain_ordering" name="smtrat::cadcells::representation::util::simplest_chain_ordering">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,235,177"/>
+<area shape="rect" id="node2" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a05fb6db177b5f469bde945c904cde764" title=" " alt="" coords="285,5,513,47"/>
+<area shape="rect" id="node3" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#aa388ee9bc6611c4dd030520230f223dd" title=" " alt="" coords="283,71,515,112"/>
+<area shape="rect" id="node4" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9fd0790e836a10dd37c51954e97e3359" title="The set of nullified polynomials." alt="" coords="285,136,513,177"/>
+<area shape="rect" id="node5" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="285,201,513,243"/>
+<area shape="rect" id="node6" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#afdc6d74fbf1c14a03efc2f5486acbc09" title=" " alt="" coords="284,267,513,308"/>
+<area shape="rect" id="node7" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a59623bb0dc6c4cb618afd85c5bb8f408" title=" " alt="" coords="563,267,792,308"/>
+<area shape="rect" id="node8" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a987f96b3ec79cf4f4f5182d4db71dc9f" title=" " alt="" coords="840,267,1068,308"/>
+</map>

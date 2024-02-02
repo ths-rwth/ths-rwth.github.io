@@ -1,0 +1,35 @@
+var namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds =
+[
+    [ "overloaded", "d8/dc9/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1overloaded.html", null ],
+    [ "FormulaClassification", "d3/dd0/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1FormulaClassification.html", "d3/dd0/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1FormulaClassification" ],
+    [ "TRUE", "d6/df5/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1TRUE.html", null ],
+    [ "FALSE", "d9/d3a/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1FALSE.html", null ],
+    [ "NOT", "df/d44/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1NOT.html", "df/d44/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1NOT" ],
+    [ "AND", "dc/de0/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1AND.html", "dc/de0/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1AND" ],
+    [ "OR", "dd/d20/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1OR.html", "dd/d20/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1OR" ],
+    [ "IFF", "d0/d6a/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1IFF.html", "d0/d6a/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1IFF" ],
+    [ "XOR", "d4/df1/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1XOR.html", "d4/df1/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1XOR" ],
+    [ "BOOL", "d3/d85/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1BOOL.html", "d3/d85/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1BOOL" ],
+    [ "CONSTRAINT", "d0/d95/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1CONSTRAINT.html", "d0/d95/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1CONSTRAINT" ],
+    [ "Formula", "d1/d87/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1Formula.html", "d1/d87/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1Formula" ],
+    [ "FormulaGraph", "df/dc5/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1FormulaGraph.html", "df/dc5/structsmtrat_1_1covering__ng_1_1formula_1_1formula__ds_1_1FormulaGraph" ],
+    [ "FormulaDB", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#ab8d44a43ed79e9620bb5abace7559364", null ],
+    [ "FormulaID", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#afa697c6eeb1d96d727c9776433dc0304", null ],
+    [ "VariableToFormula", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#aa3a02ce07832206138a2854bd81e9f48", null ],
+    [ "CompareResult", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#aae8e21052c24f8fd35f41dd030c8f89b", [
+      [ "SUBSET", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#aae8e21052c24f8fd35f41dd030c8f89ba382d3bb9694f7def2a4c1eb85c024046", null ],
+      [ "SUPSET", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#aae8e21052c24f8fd35f41dd030c8f89bac5da2d39fbd40a667476339a542bc895", null ],
+      [ "EQ", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#aae8e21052c24f8fd35f41dd030c8f89ba13ade52ddd3c3760e640ea7b683db3a9", null ],
+      [ "NONE", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#aae8e21052c24f8fd35f41dd030c8f89baf88b3f050b6b42c6d1bcbaaec80c0431", null ]
+    ] ],
+    [ "classify_formulas", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#a35e10622d861b036a72eb15831eee429", null ],
+    [ "combine_reasons", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#af3362c51525dd44dd2f9a0783c28d239", null ],
+    [ "compare", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#adb324c397ab507ab690e147ffc8ac7a0", null ],
+    [ "log", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#a632ff9e1b654e40a4de9f5ad8f9756d8", null ],
+    [ "merge", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#a52e388e187a16edd97fbdbc7db7aa31d", null ],
+    [ "merge_reason", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#a9dc5aeee904a80ce929e77eca9053b76", null ],
+    [ "merge_reasons", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#a715749017368dbe5eb162c6581c3fa96", null ],
+    [ "overloaded", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#ac849a007c7bdee2be8250fa818c8c597", null ],
+    [ "print", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#ac69c545764093b15ebbd29b0fc0b6de1", null ],
+    [ "to_formula_db", "de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#a6b0425bfb96c2d2559e5184b9033dcfc", null ]
+];

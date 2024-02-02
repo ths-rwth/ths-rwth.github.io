@@ -1,0 +1,31 @@
+<map id="carl::substitute" name="carl::substitute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,251,124,277"/>
+<area shape="rect" id="node2" href="$d4/db0/a02540.html#a1d4e2e30a85aef628556fe2f7b0cd309" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="172,113,379,154"/>
+<area shape="rect" id="node3" href="$d4/db0/a02540.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="172,178,379,219"/>
+<area shape="rect" id="node4" href="$d4/db0/a02540.html#a688b16a4d60518728edece4a089cc8c0" title=" " alt="" coords="172,243,379,285"/>
+<area shape="rect" id="node5" href="$d8/d15/a01218.html#aa4015181e274e56d184eb30b935b57e8" title="Applies the given substitutions to a monomial." alt="" coords="216,309,335,336"/>
+<area shape="rect" id="node29" href="$d4/db0/a02540.html#a1b8ae93f72846b23681bc9e922613061" title=" " alt="" coords="172,361,379,402"/>
+<area shape="rect" id="node6" href="$d3/d19/a02464.html#aa36ed895ade4f5f204aeba0135d4f086" title=" " alt="" coords="427,284,597,311"/>
+<area shape="rect" id="node7" href="$d8/d15/a01218.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="471,335,553,361"/>
+<area shape="rect" id="node8" href="$d8/d15/a01218.html#a2621c3f57bc93187374da1f40c0afd67" title="Method which returns the absolute value of the passed number." alt="" coords="694,5,771,32"/>
+<area shape="rect" id="node10" href="$de/dc3/a02256.html#a4d1dedfa64629a6509d858c9edae03f2" title="Checks if the interval contains the given value." alt="" coords="649,56,816,83"/>
+<area shape="rect" id="node11" href="$de/dc3/a02256.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="1111,208,1272,235"/>
+<area shape="rect" id="node12" href="$d8/d15/a01218.html#a5c205dc504d657271c884a200a13b2d9" title=" " alt="" coords="926,309,1005,336"/>
+<area shape="rect" id="node13" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1496,417,1619,458"/>
+<area shape="rect" id="node14" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1667,559,1815,585"/>
+<area shape="rect" id="node15" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1667,251,1816,277"/>
+<area shape="rect" id="node16" href="$de/dc3/a02256.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="1117,259,1265,301"/>
+<area shape="rect" id="node17" href="$de/dc3/a02256.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="1117,377,1266,418"/>
+<area shape="rect" id="node18" href="$d9/d04/a02460.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="645,461,820,488"/>
+<area shape="rect" id="node19" href="$d6/d0f/a01256.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="661,536,804,563"/>
+<area shape="rect" id="node22" href="$de/dc3/a02256.html#ad88c24babf3db53859977f3cfce82db7" title="Function which determines, if the interval is (&#45;oo,oo)." alt="" coords="1323,627,1445,669"/>
+<area shape="rect" id="node23" href="$d8/d15/a01218.html#a0d957abf20560cb00e51ba63d1fea986" title="Returns a polynomial to the given power." alt="" coords="692,411,773,437"/>
+<area shape="rect" id="node28" href="$d8/d15/a01218.html#a25002180a22642ffa3952656b7f8d76f" title=" " alt="" coords="689,761,777,788"/>
+<area shape="rect" id="node9" href="$de/dc3/a02256.html#ace798498657175679c31f1213f37e340" title="Calculates the absolute value of the interval." alt="" coords="898,5,1033,32"/>
+<area shape="rect" id="node20" href="$d0/dbc/a03752.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="875,594,1056,635"/>
+<area shape="rect" id="node21" href="$d7/db8/a03060.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="870,529,1061,570"/>
+<area shape="rect" id="node24" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="915,477,1015,504"/>
+<area shape="rect" id="node27" href="$d6/d24/a02536.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="868,411,1063,453"/>
+<area shape="rect" id="node25" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="1130,442,1253,483"/>
+<area shape="rect" id="node26" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1320,387,1448,429"/>
+</map>

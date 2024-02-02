@@ -1,0 +1,13 @@
+<map id="carl::io::MapleStream::write" name="carl::io::MapleStream::write">
+<area shape="rect" id="node1" title=" " alt="" coords="5,203,167,244"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="268,93,368,119"/>
+<area shape="rect" id="node8" href="$db/df5/a02534.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="215,144,421,185"/>
+<area shape="rect" id="node9" href="$db/df5/a02534.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="469,199,676,240"/>
+<area shape="rect" id="node10" href="$db/df5/a02534.html#a5a7bd22cd4e9774f66f208649ada5581" title=" " alt="" coords="215,261,421,303"/>
+<area shape="rect" id="node11" href="$db/df5/a02534.html#a780bb9ff8aa2bb57c56fe5819166b3d0" title=" " alt="" coords="215,327,421,368"/>
+<area shape="rect" id="node3" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="900,52,1023,93"/>
+<area shape="rect" id="node4" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1071,114,1219,141"/>
+<area shape="rect" id="node6" href="$dc/d5a/a02254.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="511,27,634,68"/>
+<area shape="rect" id="node5" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1071,59,1220,86"/>
+<area shape="rect" id="node7" href="$dc/d5a/a02254.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="724,27,852,68"/>
+</map>

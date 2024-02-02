@@ -1,0 +1,6 @@
+<map id="carl::UnivariatePolynomial::isZero" name="carl::UnivariatePolynomial::isZero">
+<area shape="rect" id="node1" title="Checks if the polynomial is equal to zero." alt="" coords="248,49,443,90"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a4418733913b640d1f4724820de2babee" title=" " alt="" coords="26,5,179,32"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a29300c99b28de1c952cf504977d13682" title="Returns the total degree of the polynomial, that is the maximum degree of any monomial." alt="" coords="35,56,171,83"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a674ff8d35ca69c3ea1126eb9b6f66290" title="Returns the total degree of the polynomial, that is the maximum degree of any monomial." alt="" coords="5,107,200,149"/>
+</map>

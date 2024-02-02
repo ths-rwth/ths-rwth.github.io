@@ -1,0 +1,51 @@
+<map id="smtrat::cadcells::operators::rules::filter_util::delineable_interval" name="smtrat::cadcells::operators::rules::filter_util::delineable_interval">
+<area shape="rect" id="node1" title=" " alt="" coords="5,741,209,797"/>
+<area shape="rect" id="node2" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#af03c1bbc74f3d60f4274b92b5a4352a1" title=" " alt="" coords="501,260,697,301"/>
+<area shape="rect" id="node15" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#afdf6873daaa9ef15386b828bec3e2239" title=" " alt="" coords="1104,908,1332,949"/>
+<area shape="rect" id="node24" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#a3bab242236c9d3afcb954d7ada8e04bb" title=" " alt="" coords="257,748,453,789"/>
+<area shape="rect" id="node31" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#acb244d4c2e60ab67067f8b7f5b35f6a7" title=" " alt="" coords="257,1047,453,1088"/>
+<area shape="rect" id="node47" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#a590131a06940fcb2877c8fe795e3e118" title=" " alt="" coords="501,595,697,636"/>
+<area shape="rect" id="node3" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a23cc1dc476e10932aaa4457182e960b2" title=" " alt="" coords="781,5,1011,47"/>
+<area shape="rect" id="node4" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a515f48c731431302598b9805fc45182a" title=" " alt="" coords="781,71,1011,112"/>
+<area shape="rect" id="node5" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a85b1296b4fe979ea36a25a6fc0d5016b" title=" " alt="" coords="782,136,1010,177"/>
+<area shape="rect" id="node6" href="$d6/d74/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineatedDerivation.html#a9a585b8b3443ebd84339383c5f507c21" title=" " alt="" coords="782,201,1010,243"/>
+<area shape="rect" id="node7" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a747d179d0043ce734faef4e58a6a62cc" title=" " alt="" coords="1104,537,1332,579"/>
+<area shape="rect" id="node11" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a42d6e43dfa8a6566d32ff2038c7b1495" title=" " alt="" coords="1389,537,1617,579"/>
+<area shape="rect" id="node12" href="$d6/d74/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineatedDerivation.html#a41203b051dcdbfc626f2b10e8d02bfd5" title=" " alt="" coords="782,435,1010,476"/>
+<area shape="rect" id="node13" href="$d6/d74/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineatedDerivation.html#a8f38fa02b9016155ea23a29bc5022415" title=" " alt="" coords="745,369,1047,411"/>
+<area shape="rect" id="node8" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#aa7697a91691431c30105730427f0ccdc" title=" " alt="" coords="1671,807,1899,848"/>
+<area shape="rect" id="node9" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="1973,748,2159,789"/>
+<area shape="rect" id="node10" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a584f8f719b5619d3da1df2e4d51ee949" title=" " alt="" coords="1671,596,1899,637"/>
+<area shape="rect" id="node14" href="$d6/d74/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineatedDerivation.html#a6ec5d1d19cd4348d35aec15db6d28b09" title=" " alt="" coords="1095,603,1341,644"/>
+<area shape="rect" id="node16" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#ae43894d4c36c42075522eee08fb3d998" title=" " alt="" coords="1389,967,1617,1008"/>
+<area shape="rect" id="node17" href="$d3/ddc/namespacesmtrat_1_1lve.html#a0728f680545aacf86d0ed2d7c9906a4b" title=" " alt="" coords="1705,1251,1864,1278"/>
+<area shape="rect" id="node22" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#ae659721ce9a8e4a13b1e7bcf2661cf6e" title=" " alt="" coords="1665,967,1904,1008"/>
+<area shape="rect" id="node18" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="1994,1244,2138,1285"/>
+<area shape="rect" id="node19" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="2228,1179,2380,1220"/>
+<area shape="rect" id="node20" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="2232,1244,2376,1285"/>
+<area shape="rect" id="node21" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="2255,1310,2353,1337"/>
+<area shape="rect" id="node23" href="$d3/dbe/classsmtrat_1_1cadcells_1_1datastructures_1_1PolyPool.html#a5a96760488ddf83f100ff2e4c8f3910b" title=" " alt="" coords="1952,967,2180,1008"/>
+<area shape="rect" id="node25" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a10742888afae6ec914e08defd610715c" title=" " alt="" coords="782,683,1010,724"/>
+<area shape="rect" id="node26" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a1aa86450d8ac45a80113388726f41572" title=" " alt="" coords="782,748,1010,789"/>
+<area shape="rect" id="node27" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#a0598bf509544a98b90a8d6a39b388b13" title=" " alt="" coords="501,915,697,971"/>
+<area shape="rect" id="node29" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a0109c16f024b0ba049deaf2c9fd41963" title=" " alt="" coords="782,916,1010,957"/>
+<area shape="rect" id="node28" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a5389a8fb0d89465fea63af7467a4e773" title=" " alt="" coords="782,1047,1010,1088"/>
+<area shape="rect" id="node30" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a6e65cf4329cee03ad499b9dd51424af5" title=" " alt="" coords="782,981,1010,1023"/>
+<area shape="rect" id="node32" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#afa1ced6067b68634ae58b4a2070d838b" title=" " alt="" coords="1104,1299,1332,1340"/>
+<area shape="rect" id="node36" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#ae416b614a851f0f727c14b34f0a4553b" title=" " alt="" coords="501,1265,697,1307"/>
+<area shape="rect" id="node33" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#abab87da1c31b80bcf989e69643441690" title="Computes the discriminant of a polynomial." alt="" coords="1419,1185,1588,1227"/>
+<area shape="rect" id="node34" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#add93ca6d13d8306114b868c0a67df3cb" title="Projection related utilities for onecellcad." alt="" coords="1689,1185,1880,1227"/>
+<area shape="rect" id="node35" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="1700,1120,1869,1161"/>
+<area shape="rect" id="node37" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a955d05bff1c318eb585b3a41acd2c1e3" title=" " alt="" coords="782,1383,1010,1424"/>
+<area shape="rect" id="node38" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a987f96b3ec79cf4f4f5182d4db71dc9f" title=" " alt="" coords="782,1448,1010,1489"/>
+<area shape="rect" id="node39" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a15d88dbb837db748c59b11a46343938d" title=" " alt="" coords="1389,817,1617,859"/>
+<area shape="rect" id="node40" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a52eb54703d03cdea913f16fdc76a3c25" title=" " alt="" coords="782,1513,1010,1555"/>
+<area shape="rect" id="node41" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a4bb4c36e246309b8ed785d1252b1850f" title=" " alt="" coords="782,1265,1010,1307"/>
+<area shape="rect" id="node42" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a186e7cdbf6688309e0fa9e804beb5ee2" title=" " alt="" coords="782,1579,1010,1620"/>
+<area shape="rect" id="node44" href="$d7/d5a/namespacesmtrat_1_1helper.html#aa6e562b1e67ba8194b0e823e98a8c485" title=" " alt="" coords="1416,1654,1591,1681"/>
+<area shape="rect" id="node45" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#ab9101ff7c8c933371941bb267e27e965" title=" " alt="" coords="764,1747,1028,1788"/>
+<area shape="rect" id="node43" href="$d3/dbe/classsmtrat_1_1cadcells_1_1datastructures_1_1PolyPool.html#adffd06c8cabdcd5d3184c2be431c6fb3" title=" " alt="" coords="1104,1604,1332,1645"/>
+<area shape="rect" id="node46" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aa9532d6b378ab3477bdedd9923849fa8" title=" " alt="" coords="1142,1747,1294,1788"/>
+<area shape="rect" id="node48" href="$d6/d74/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineatedDerivation.html#af23ee73f7d6189b8c77d04371a5c467f" title=" " alt="" coords="780,500,1012,541"/>
+<area shape="rect" id="node49" href="$d6/d74/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineatedDerivation.html#ac60cdb20f5cfa7e37003dc6a1cdaf62c" title=" " alt="" coords="782,565,1010,607"/>
+</map>

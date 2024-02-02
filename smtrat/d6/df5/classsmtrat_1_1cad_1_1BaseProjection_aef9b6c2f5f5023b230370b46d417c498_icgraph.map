@@ -1,0 +1,9 @@
+<map id="smtrat::cad::BaseProjection::callRemoveCallback" name="smtrat::cad::BaseProjection::callRemoveCallback">
+<area shape="rect" id="node1" title=" " alt="" coords="355,253,556,295"/>
+<area shape="rect" id="node2" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a71ef5b929ad0e1634e9d7e07faf7e500" title="Deactivate inactive polynomials in mProjection." alt="" coords="50,5,262,76"/>
+<area shape="rect" id="node3" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#ae0ff8b1c6510614e738c1fd0de594386" title="Delete polynomial in mProjection and all other datastructures." alt="" coords="50,100,262,171"/>
+<area shape="rect" id="node4" href="$df/d6f/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1UNORDERED_00_01Settings_01_4.html#a31f9ec78110cc153846e8eeab82c4406" title="Removes the given polynomial from the projection." alt="" coords="43,195,269,265"/>
+<area shape="rect" id="node5" href="$df/deb/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01BT_00_01Settings_01_4.html#a3bd595f8c0ff68352d0eb3e6407e00a2" title="Removes the given polynomial from the projection." alt="" coords="31,290,281,346"/>
+<area shape="rect" id="node6" href="$d7/d48/classsmtrat_1_1cad_1_1ModelBasedProjection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1ORDERED_00_01Settings_01_4.html#aa1717f8dd6d9451b3f1ec002d2fd066f" title="Removed the given polynomial from the projection." alt="" coords="5,370,307,426"/>
+<area shape="rect" id="node7" href="$d4/d60/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1ORDERED_00_01Settings_01_4.html#a76aa3e51e001fb57b6917087cea02022" title="Removed the given polynomial from the projection." alt="" coords="43,451,269,521"/>
+</map>

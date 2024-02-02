@@ -1,0 +1,8 @@
+<map id="smtrat::cad::projection::mccallum_partial::paired" name="smtrat::cad::projection::mccallum_partial::paired">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,197,112"/>
+<area shape="rect" id="node2" href="$d3/d93/namespacesmtrat_1_1cad_1_1projection_1_1mccallum.html#a774fc2fa0b1473df4bd1f18de31ab747" title="Implements the part of McCallums projection operator from &#160;that deals with two polynomials p and q: ." alt="" coords="245,71,415,112"/>
+<area shape="rect" id="node3" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a391a9f68fa5ee4e488ee00847b69ac8f" title="Computes the resultant of two polynomials." alt="" coords="463,37,632,79"/>
+<area shape="rect" id="node6" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#aaadb11de9ea92393506042cc35c8f8fe" title=" " alt="" coords="463,103,632,144"/>
+<area shape="rect" id="node4" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="691,5,860,47"/>
+<area shape="rect" id="node5" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#ae78f1ba02e35a73db902d0714ea7f1c6" title=" " alt="" coords="680,71,871,112"/>
+</map>

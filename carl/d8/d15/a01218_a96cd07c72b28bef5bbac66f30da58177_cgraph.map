@@ -1,0 +1,18 @@
+<map id="carl::quotient" name="carl::quotient">
+<area shape="rect" id="node1" title="Calculates the quotient of a polynomial division." alt="" coords="5,257,113,284"/>
+<area shape="rect" id="node2" href="$d3/d55/a02760.html#a01e2a4da5beb2431b323ddf592bb797e" title=" " alt="" coords="197,5,332,32"/>
+<area shape="rect" id="node3" href="$d4/db0/a02540.html#a1d4e2e30a85aef628556fe2f7b0cd309" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="161,57,368,98"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="217,123,313,149"/>
+<area shape="rect" id="node10" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="215,177,315,204"/>
+<area shape="rect" id="node11" href="$d4/db0/a02540.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="161,279,368,321"/>
+<area shape="rect" id="node12" href="$d4/db0/a02540.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="416,281,623,322"/>
+<area shape="rect" id="node13" href="$d4/db0/a02540.html#a688b16a4d60518728edece4a089cc8c0" title=" " alt="" coords="161,345,368,386"/>
+<area shape="rect" id="node14" href="$d4/db0/a02540.html#a383a8dae76c1d4419bf3344ce784e14c" title="Drops the leading term." alt="" coords="161,410,368,451"/>
+<area shape="rect" id="node15" href="$d4/db0/a02540.html#a5e572c9d7e1844778a965a766c116a1f" title="Subtract a term times a polynomial from this polynomial." alt="" coords="161,475,368,517"/>
+<area shape="rect" id="node16" href="$d4/db0/a02540.html#a1b8ae93f72846b23681bc9e922613061" title=" " alt="" coords="161,541,368,582"/>
+<area shape="rect" id="node5" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="847,83,969,125"/>
+<area shape="rect" id="node6" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1018,65,1166,92"/>
+<area shape="rect" id="node8" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="458,113,581,154"/>
+<area shape="rect" id="node7" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1017,116,1167,143"/>
+<area shape="rect" id="node9" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="671,113,799,154"/>
+</map>

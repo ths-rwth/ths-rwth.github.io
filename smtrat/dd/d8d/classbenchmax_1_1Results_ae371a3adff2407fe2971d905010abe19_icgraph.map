@@ -1,0 +1,6 @@
+<map id="benchmax::Results::addResult" name="benchmax::Results::addResult">
+<area shape="rect" id="node1" title="Add a new result." alt="" coords="453,39,608,80"/>
+<area shape="rect" id="node2" href="$d4/d9f/classbenchmax_1_1Backend.html#a0b1d17aba472f2352a9b17c2e2cd0b93" title="Add a result." alt="" coords="244,39,405,80"/>
+<area shape="rect" id="node3" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a33cf24e7711867083fbc3e719f40d32e" title=" " alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node4" href="$df/d9e/classbenchmax_1_1LocalBackend.html#a1f281d9c286668778466d51cfa1fb17e" title="Execute the tool on the file manually." alt="" coords="7,71,194,112"/>
+</map>

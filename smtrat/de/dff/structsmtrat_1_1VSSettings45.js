@@ -1,0 +1,26 @@
+var structsmtrat_1_1VSSettings45 =
+[
+    [ "branch_and_bound_at_origin", "de/dff/structsmtrat_1_1VSSettings45.html#ab25492f8196ebe9a4182fd6f6dfa8865", null ],
+    [ "check_conflict_for_side_conditions", "de/dff/structsmtrat_1_1VSSettings45.html#a05925155d50315fca1d27fab56f53fa9", null ],
+    [ "elimination_with_factorization", "de/dff/structsmtrat_1_1VSSettings45.html#aff2f5516d6867687f001fda342608e84", null ],
+    [ "incremental_solving", "de/dff/structsmtrat_1_1VSSettings45.html#a4a8475f362c242d4c07f8b2a88d863f9", null ],
+    [ "infeasible_subset_generation", "de/dff/structsmtrat_1_1VSSettings45.html#a3b40697dda6d0a59ac4d6cf3cdcbdfd5", null ],
+    [ "int_max_range", "de/dff/structsmtrat_1_1VSSettings45.html#aed526b8cff44955f30ad05124904c0cc", null ],
+    [ "lazy_check_threshold", "de/dff/structsmtrat_1_1VSSettings45.html#ab3d33c3d80b58b9e191bf1bc9a717a8a", null ],
+    [ "local_conflict_search", "de/dff/structsmtrat_1_1VSSettings45.html#a6a98bd1f3becac2db3d93115bc28efa0", null ],
+    [ "make_constraints_strict_for_backend", "de/dff/structsmtrat_1_1VSSettings45.html#ad27f69d68d18684e51d508519bda9806", null ],
+    [ "mixed_int_real_constraints_allowed", "de/dff/structsmtrat_1_1VSSettings45.html#ac2653fcffb6291eddf6b4b97a0e93b0f", null ],
+    [ "moduleName", "de/dff/structsmtrat_1_1VSSettings45.html#abeeb2a8ec0e1088b39e951f6c4a96eeb", null ],
+    [ "only_split_in_final_call", "de/dff/structsmtrat_1_1VSSettings45.html#af8d9775802a488d24f9e652dd4e74ac8", null ],
+    [ "prefer_equation_over_all", "de/dff/structsmtrat_1_1VSSettings45.html#aa56dde01ff9d531920f8aad56598b82d", null ],
+    [ "split_neq_constraints", "de/dff/structsmtrat_1_1VSSettings45.html#a06e3134cac75e22d093fa91a8010c498", null ],
+    [ "sturm_sequence_for_root_check", "de/dff/structsmtrat_1_1VSSettings45.html#a040d253fac235c8b54564953df3ceb4f", null ],
+    [ "try_first_lazy", "de/dff/structsmtrat_1_1VSSettings45.html#a4bae5fdfe730738c3edb7b0b7eeffacb", null ],
+    [ "use_backjumping", "de/dff/structsmtrat_1_1VSSettings45.html#a6faf099453450d656a375ce8aad4dd9c", null ],
+    [ "use_branch_and_bound", "de/dff/structsmtrat_1_1VSSettings45.html#a7a7f8a25cc80a270c82ad0bf22ff7d04", null ],
+    [ "use_fixed_variable_order", "de/dff/structsmtrat_1_1VSSettings45.html#a32318f1e77307aded89edaf9c8c3239a", null ],
+    [ "use_strict_inequalities_for_test_candidate_generation", "de/dff/structsmtrat_1_1VSSettings45.html#aa77177d9ce7fbaaf2b1c2131f7ad9d17", null ],
+    [ "use_variable_bounds", "de/dff/structsmtrat_1_1VSSettings45.html#ae409ab1701214bfe18f81fce37a0f2e8", null ],
+    [ "variable_valuation_strategy", "de/dff/structsmtrat_1_1VSSettings45.html#a7e1a705694b95f7c9f3041e76c73ede4", null ],
+    [ "virtual_substitution_according_paper", "de/dff/structsmtrat_1_1VSSettings45.html#a5dc43e8a74e527ec6852efb84e70e6a1", null ]
+];

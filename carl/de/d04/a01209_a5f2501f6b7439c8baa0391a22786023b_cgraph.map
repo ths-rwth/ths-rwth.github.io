@@ -1,0 +1,13 @@
+<map id="carl::sturm_sequence" name="carl::sturm_sequence">
+<area shape="rect" id="node1" title="Computes the sturm sequence of a polynomial as defined at , page 333, example 22." alt="" coords="5,31,167,57"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a0c0448ac4cee24dd4f080db6241a21de" title="Computes the n&#39;th derivative of a number, which is either the number itself (for n = 0) or zero." alt="" coords="235,5,355,32"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#a0a7b1c21762f6b6b2dea7127d1812f16" title="Computes the sturm sequence of two polynomials." alt="" coords="215,56,376,83"/>
+<area shape="rect" id="node3" href="$da/d74/a02451.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="424,5,599,32"/>
+<area shape="rect" id="node5" href="$de/d04/a01209.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="461,107,561,133"/>
+<area shape="rect" id="node11" href="$de/d04/a01209.html#ae3d7d6656ab362001ff43fcb07743d94" title="Calculate the remainder of the integer division." alt="" coords="451,56,572,83"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="993,133,1116,174"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1165,85,1313,112"/>
+<area shape="rect" id="node9" href="$df/d71/a02247.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="647,158,769,199"/>
+<area shape="rect" id="node8" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1164,140,1313,167"/>
+<area shape="rect" id="node10" href="$df/d71/a02247.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="817,158,945,199"/>
+</map>

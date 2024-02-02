@@ -1,0 +1,5 @@
+<map id="carl::FLOAT_T::operator int" name="carl::FLOAT_T::operator int">
+<area shape="rect" id="node1" title="Explicit typecast operator to integer." alt="" coords="5,31,199,57"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="249,5,327,32"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a27d1ce2ad393e8bab62327891595dff4" title="Method which returns the next smaller integer of this number or the number itself,..." alt="" coords="247,56,329,83"/>
+</map>

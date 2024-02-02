@@ -1,0 +1,4 @@
+<map id="carl::tuple_foreach" name="carl::tuple_foreach">
+<area shape="rect" id="node1" title="Invokes a callable object f on every element of a tuple and returns a tuple containing the results." alt="" coords="5,13,148,39"/>
+<area shape="rect" id="node2" href="$d8/ddf/a01238.html#ad24fc7b5ed4adce9a7a9b9f11d06d22a" title="Helper method for carl::tuple_foreach that actually does the work." alt="" coords="196,5,328,47"/>
+</map>

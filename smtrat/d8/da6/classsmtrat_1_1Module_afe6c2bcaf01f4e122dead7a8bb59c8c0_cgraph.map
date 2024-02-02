@@ -1,0 +1,9 @@
+<map id="smtrat::Module::removeOrigin" name="smtrat::Module::removeOrigin">
+<area shape="rect" id="node1" title=" " alt="" coords="5,185,224,211"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#aa54e1bd9e37934f715dd5a60865cabeb" title="Removes everything related to the sub&#45;formula to remove from the passed formula in the backends of th..." alt="" coords="272,123,512,164"/>
+<area shape="rect" id="node7" href="$da/d5e/classsmtrat_1_1ModuleInput.html#acbb9ea1cc0840294de98343cf8c24ba9" title=" " alt="" coords="315,209,469,251"/>
+<area shape="rect" id="node3" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a65f03a1f668e4a8f961b7cf5b9575d2d" title=" " alt="" coords="602,5,757,47"/>
+<area shape="rect" id="node4" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a33c1578b6f89d0a72affdd18f73ed3f3" title=" " alt="" coords="847,101,1033,127"/>
+<area shape="rect" id="node5" href="$da/d5e/classsmtrat_1_1ModuleInput.html#ac854d7dbb916c2016483e250c08bfd63" title=" " alt="" coords="602,123,757,164"/>
+<area shape="rect" id="node6" href="$d0/df0/classsmtrat_1_1Manager.html#aaf6cd4c8583f7fa3bba580018171c2c9" title="Gets all backends so far instantiated according the strategy and all previous enquiries of the given ..." alt="" coords="560,189,799,215"/>
+</map>

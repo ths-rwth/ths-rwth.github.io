@@ -1,0 +1,10 @@
+<map id="carl::set_union" name="carl::set_union">
+<area shape="rect" id="node1" title="Computes the union of two intervals (can result in two distinct intervals)." alt="" coords="496,195,613,222"/>
+<area shape="rect" id="node2" href="$d3/d01/a02316.html#a2f25f60aaa327ed2e492ee0261199ecd" title=" " alt="" coords="251,71,448,112"/>
+<area shape="rect" id="node3" href="$d3/d01/a02316.html#a12243e6bf41327089e8d3a7936bcd621" title="Evaluate this contraction over the given assignment." alt="" coords="5,71,203,112"/>
+<area shape="rect" id="node4" href="$db/d77/a02304.html#a323de1c287dc0bb3ec4d2c8770b03c16" title=" " alt="" coords="259,188,440,229"/>
+<area shape="rect" id="node5" href="$db/d77/a02304.html#ab6c0c1e1cd1ab72b5fc50e95e0064f95" title="Evaluates this solution formula for the given mapping of the variables occurring in the solution form..." alt="" coords="13,249,195,291"/>
+<area shape="rect" id="node6" href="$df/d73/a02312.html#ae10384534dea0d2fea062cf173af9b46" title=" " alt="" coords="275,253,424,295"/>
+<area shape="rect" id="node7" href="$d3/d01/a02316.html#af2f00943d9561e11cb319794eed71ce1" title=" " alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node8" href="$d8/d15/a01218.html#a26a2da3ff540f49e71d47ed6a82da231" title="Calculates the symmetric difference of two intervals in a set&#45;theoretic manner (can result in two dis..." alt="" coords="274,371,425,412"/>
+</map>

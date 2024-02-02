@@ -1,0 +1,9 @@
+<map id="smtrat::Manager::remove" name="smtrat::Manager::remove">
+<area shape="rect" id="node1" title="Removes the formula at the given position in the conjunction of formulas, which will be considered fo..." alt="" coords="463,132,651,159"/>
+<area shape="rect" id="node2" href="$d0/df0/classsmtrat_1_1Manager.html#aa2145656fcaf07ef286ff35482803e4c" title="Pops a backtrack point from the stack of backtrack points." alt="" coords="238,56,401,83"/>
+<area shape="rect" id="node5" href="$d0/df0/classsmtrat_1_1Manager.html#ae1eaf16b27ac6e8553e2a5af4ac56ac4" title=" " alt="" coords="5,107,176,133"/>
+<area shape="rect" id="node6" href="$d0/df0/classsmtrat_1_1Manager.html#a2be57d1f0ebe384697a87abceb75607c" title="Temporarily added: (TODO: Discuss with Gereon) Removes the given formula in the conjunction of formul..." alt="" coords="225,157,413,184"/>
+<area shape="rect" id="node7" href="$d3/dd1/classsmtrat_1_1BVSolver.html#aaa0fb124935bf7a09e054e4aaffd5486" title=" " alt="" coords="224,209,415,250"/>
+<area shape="rect" id="node3" href="$d0/df0/classsmtrat_1_1Manager.html#aebb7b27e1a44487d7c661dd077d617a1" title=" " alt="" coords="5,5,176,32"/>
+<area shape="rect" id="node4" href="$d0/df0/classsmtrat_1_1Manager.html#ac81d65678833958d3c18360eebc4b682" title=" " alt="" coords="9,56,172,83"/>
+</map>

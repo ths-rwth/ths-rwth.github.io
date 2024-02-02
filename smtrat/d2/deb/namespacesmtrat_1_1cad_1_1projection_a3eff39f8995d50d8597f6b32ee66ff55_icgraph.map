@@ -1,0 +1,11 @@
+<map id="smtrat::cad::projection::canBeRemoved" name="smtrat::cad::projection::canBeRemoved">
+<area shape="rect" id="node1" title="Checks whether a polynomial can safely be ignored." alt="" coords="593,254,763,295"/>
+<area shape="rect" id="node2" href="$d7/d48/classsmtrat_1_1cad_1_1ModelBasedProjection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1ORDERED_00_01Settings_01_4.html#a77b97a90615476b97677cc234557a497" title="Adds a polynomial with the given origin to the suitable level." alt="" coords="247,5,545,61"/>
+<area shape="rect" id="node3" href="$df/d6f/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1UNORDERED_00_01Settings_01_4.html#a3f5de22d3162d0a71d237d6a18f21d30" title=" " alt="" coords="293,86,499,157"/>
+<area shape="rect" id="node4" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html#a1e43ea81fd6c41ed6aafe45d9572335e" title=" " alt="" coords="299,181,493,222"/>
+<area shape="rect" id="node6" href="$d7/d48/classsmtrat_1_1cad_1_1ModelBasedProjection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1ORDERED_00_01Settings_01_4.html#af9b667b9e4f9b2906c9441cee3c408e7" title="Adds a new polynomial to the given level (used to performs the first step of the projection)" alt="" coords="255,247,537,303"/>
+<area shape="rect" id="node7" href="$d4/d60/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1ORDERED_00_01Settings_01_4.html#af105bb25f70efa42caa611fb22ab6f44" title="Adds a new polynomial to the given level and perform the projection recursively." alt="" coords="293,327,499,398"/>
+<area shape="rect" id="node8" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a97e199498b9ccace13554df6683d4838" title="Inserts a polynomial with the given origin into the given level." alt="" coords="290,422,502,493"/>
+<area shape="rect" id="node9" href="$df/deb/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01BT_00_01Settings_01_4.html#a79ba82ca8ea2e3b8b572c91aa7dc6fba" title="Inserts a polynomial with the given origin into the given level." alt="" coords="271,517,521,573"/>
+<area shape="rect" id="node5" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html#ad341d351d6620be1c470db7b1b94dafe" title=" " alt="" coords="5,181,199,222"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="smtrat::union_find::equivalent" name="smtrat::union_find::equivalent">
+<area shape="rect" id="node1" title="Determines if the two entries at positions index1 and index2 are considered equivalent,..." alt="" coords="5,39,145,80"/>
+<area shape="rect" id="node2" href="$d8/d47/classsmtrat_1_1union__find.html#aab6eb3557729cf8418051721bde805a7" title="Find the index of the representative of the entry at index index_." alt="" coords="193,39,333,80"/>
+<area shape="rect" id="node3" href="$d8/d47/classsmtrat_1_1union__find.html#a773ff97f8e7a22cef2a455f700475908" title="Perform the find operation (walk the path until an entry with class == index is found)." alt="" coords="381,39,521,80"/>
+<area shape="rect" id="node4" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html#a97bd7f6e889f6f72e76ee7125587dc0b" title=" " alt="" coords="579,5,746,47"/>
+<area shape="rect" id="node5" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html#a790fd4af21c2d6af84b1268edaef1c25" title=" " alt="" coords="569,71,756,112"/>
+</map>

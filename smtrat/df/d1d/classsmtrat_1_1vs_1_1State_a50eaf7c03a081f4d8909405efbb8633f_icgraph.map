@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::hasLocalConflict" name="smtrat::vs::State::hasLocalConflict">
+<area shape="rect" id="node1" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="268,5,407,47"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,13,220,39"/>
+</map>

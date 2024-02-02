@@ -1,0 +1,13 @@
+<map id="smtrat::createMonotonicity" name="smtrat::createMonotonicity">
+<area shape="rect" id="node1" title=" " alt="" coords="5,173,204,199"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#a7fc82e7706084979a8bde64e38d0d7dd" title=" " alt="" coords="291,5,489,47"/>
+<area shape="rect" id="node7" href="$de/dc5/namespacesmtrat.html#aea49e91894e1eace9a2e90c019edf14d" title=" " alt="" coords="285,71,495,112"/>
+<area shape="rect" id="node8" href="$de/dc5/namespacesmtrat.html#a2939b5c190f62661574e5f9b843375d1" title=" " alt="" coords="291,136,489,177"/>
+<area shape="rect" id="node9" href="$de/dc5/namespacesmtrat.html#a652940ee433e6382f4b32ad542680bc5" title=" " alt="" coords="252,202,528,229"/>
+<area shape="rect" id="node10" href="$de/dc5/namespacesmtrat.html#a81715bf126ed916f9e286d3c782a9c4c" title=" " alt="" coords="265,253,515,295"/>
+<area shape="rect" id="node11" href="$de/dc5/namespacesmtrat.html#a4fd15a4af19a776873c861b32759eb58" title=" " alt="" coords="253,319,527,346"/>
+<area shape="rect" id="node3" href="$de/dc5/namespacesmtrat.html#a16a1041b4380a1115f96010ea981801c" title="| x1 | = (and (=&gt; (x1 &gt;= 0) (y1 = x1)) (=&gt; (x1 &lt; 0) (y1 = &#45;x1)) )" alt="" coords="576,71,784,98"/>
+<area shape="rect" id="node4" href="$d8/d81/classsmtrat_1_1VariableCapsule.html#ad506a13affb771289185cb2fe44af316" title=" " alt="" coords="591,123,769,164"/>
+<area shape="rect" id="node5" href="$d8/d81/classsmtrat_1_1VariableCapsule.html#a3b7c712485d1757fc2a5b1591407afba" title=" " alt="" coords="591,188,769,229"/>
+<area shape="rect" id="node6" href="$d8/d81/classsmtrat_1_1VariableCapsule.html#a413797f5b867c60c01b3b1fb7979c0ac" title=" " alt="" coords="591,253,769,295"/>
+</map>

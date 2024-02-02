@@ -1,0 +1,21 @@
+<map id="carl::try_divide" name="carl::try_divide">
+<area shape="rect" id="node1" title=" " alt="" coords="1475,194,1593,220"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a97d31aee8d7a5c82a37385b529960948" title=" " alt="" coords="640,71,775,98"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a7400e5cd96cfdd7abf4811099bcead45" title="Calculating the quotient and the remainder, such that for a given polynomial p we have p = divisor * ..." alt="" coords="1291,76,1385,103"/>
+<area shape="rect" id="node4" href="$dd/d15/a02907.html#a5d7b96da87c78c152006aa931e31f0bf" title=" " alt="" coords="1249,128,1427,169"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a6ea225179eacb385120ffb78aeb8ffc5" title=" " alt="" coords="1281,194,1395,220"/>
+<area shape="rect" id="node7" href="$d5/d6e/a01240.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="1259,245,1417,286"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a78b95ed8f04defd9f057635c224b2978" title="Implements a subresultants algorithm with optimizations described in &#160;." alt="" coords="1267,311,1409,338"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#a930ce431f139c930c544ee50f09df682" title=" " alt="" coords="1279,362,1397,388"/>
+<area shape="rect" id="node5" href="$dd/d15/a02907.html#a174adddb6be34807228a2f2dd0d03e28" title=" " alt="" coords="1013,128,1191,169"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#a50208b5ed0bc2fcb165beee95fb30b76" title=" " alt="" coords="1003,245,1201,286"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#ad5542d5128116b852fc79690da0dd8c9" title=" " alt="" coords="1013,311,1191,338"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a794f4b3066b36d667cd16e85ad43bb72" title=" " alt="" coords="843,264,955,291"/>
+<area shape="rect" id="node12" href="$d0/d33/a01252.html#a897bcef0c3dce0c64702e8f419539e1b" title="Implements algebraic substitution by resultant computation." alt="" coords="620,212,795,268"/>
+<area shape="rect" id="node18" href="$d1/d24/a02847.html#aa093a925323aedc62c631c7a43fd9db7" title=" " alt="" coords="622,293,793,334"/>
+<area shape="rect" id="node13" href="$d0/d33/a01252.html#a81e240c71214a271179974c2318050d1" title="Computes the algebraic substitution of the given defining polynomials into a multivariate polynomial ..." alt="" coords="397,182,572,224"/>
+<area shape="rect" id="node17" href="$d0/d33/a01252.html#ad81c8b19229c789a99c52e77f06cf9e2" title="Implements algebraic substitution by resultant computation." alt="" coords="397,248,572,304"/>
+<area shape="rect" id="node14" href="$d6/da1/a01233.html#acf69f7df84adce86589ec9686663d4cf" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="213,158,323,184"/>
+<area shape="rect" id="node15" href="$d0/d33/a01252.html#aceac25901302849c6e933d465f45ec80" title=" " alt="" coords="187,208,349,264"/>
+<area shape="rect" id="node16" href="$d0/d33/a01252.html#a0ee19ea70c76b3365235c61a66814fb5" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,216,139,257"/>
+</map>

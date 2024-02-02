@@ -1,0 +1,24 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::insertPolynomialTo" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::insertPolynomialTo">
+<area shape="rect" id="node1" title="Inserts a polynomial with the given origin into the given level." alt="" coords="5,213,217,283"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a9446a9fdd0c8bc75bd8592e3cdf8e691" title="Checks whether a polynomial can safely be forwarded to the next level." alt="" coords="595,13,765,54"/>
+<area shape="rect" id="node5" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a3eff39f8995d50d8597f6b32ee66ff55" title="Checks whether a polynomial can safely be ignored." alt="" coords="303,143,473,185"/>
+<area shape="rect" id="node6" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="563,316,797,343"/>
+<area shape="rect" id="node7" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="852,305,1053,346"/>
+<area shape="rect" id="node10" href="$d5/d81/classsmtrat_1_1cad_1_1ProjectionInformation.html#a232081e8ac648b7688c7186a0e2bcb2c" title=" " alt="" coords="265,429,511,470"/>
+<area shape="rect" id="node12" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a83c791813adc668d10ccde8e4eed7469" title="Returns a fresh polynomial id for the given level." alt="" coords="287,311,489,353"/>
+<area shape="rect" id="node13" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af9101f43b9b075e399dc4c390516767d" title=" " alt="" coords="287,78,489,119"/>
+<area shape="rect" id="node22" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="273,377,503,404"/>
+<area shape="rect" id="node3" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="1114,13,1301,54"/>
+<area shape="rect" id="node4" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="1372,5,1497,32"/>
+<area shape="rect" id="node8" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af1c4a845a809170ee3744feaa7ee07ef" title="Returns the variables used for projection." alt="" coords="852,370,1053,411"/>
+<area shape="rect" id="node9" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#ae7d22ef2db76ccf1574655744d00cfe7" title=" " alt="" coords="1104,370,1311,411"/>
+<area shape="rect" id="node11" href="$de/da8/classsmtrat_1_1cad_1_1ProjectionPolynomialInformation.html#aa7a02f513534d9b5b05a458e4b447e22" title=" " alt="" coords="559,429,801,470"/>
+<area shape="rect" id="node14" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ada124ae521cc8134c879d3eda0632577" title="Checks whether a polynomial can safely be ignored due to the bounds." alt="" coords="579,78,781,119"/>
+<area shape="rect" id="node21" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a9b46a1ab575a98d6049c7cd103369d98" title="Retrieves a polynomial from its id." alt="" coords="579,143,781,185"/>
+<area shape="rect" id="node15" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a8d4eb9c0a54c8eaad96ac70a34e8ee88" title=" " alt="" coords="849,130,1056,171"/>
+<area shape="rect" id="node16" href="$d3/ddc/namespacesmtrat_1_1lve.html#a0728f680545aacf86d0ed2d7c9906a4b" title=" " alt="" coords="873,79,1032,105"/>
+<area shape="rect" id="node17" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="1135,107,1279,149"/>
+<area shape="rect" id="node18" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="1359,57,1511,98"/>
+<area shape="rect" id="node19" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="1363,122,1507,163"/>
+<area shape="rect" id="node20" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="1385,188,1484,215"/>
+</map>

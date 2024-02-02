@@ -1,0 +1,29 @@
+<map id="smtrat::qe::cad::CADElimination" name="smtrat::qe::cad::CADElimination">
+<area shape="rect" id="node1" title=" " alt="" coords="3728,213,3959,240"/>
+<area shape="rect" id="node2" title=" " alt="" coords="691,138,850,179"/>
+<area shape="rect" id="node3" title=" " alt="" coords="157,335,287,361"/>
+<area shape="rect" id="node6" title=" " alt="" coords="494,863,633,905"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1628,85,1788,112"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1848,492,2035,519"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1845,405,2037,446"/>
+<area shape="rect" id="node20" title=" " alt="" coords="465,491,661,517"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1872,293,2011,334"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1163,225,1312,252"/>
+<area shape="rect" id="node27" title=" " alt="" coords="2095,5,2257,61"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,705,44,732"/>
+<area shape="rect" id="node7" title=" " alt="" coords="496,731,631,757"/>
+<area shape="rect" id="node5" title=" " alt="" coords="905,861,1081,902"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2512,921,2696,948"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1812,607,2071,649"/>
+<area shape="rect" id="node18" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html" title="Class to manage the bounds of a variable." alt="" coords="1368,716,1604,743"/>
+<area shape="rect" id="node22" title=" " alt="" coords="902,666,1085,707"/>
+<area shape="rect" id="node23" title=" " alt="" coords="902,731,1085,773"/>
+<area shape="rect" id="node8" title=" " alt="" coords="203,657,241,684"/>
+<area shape="rect" id="node21" title=" " alt="" coords="472,601,655,628"/>
+<area shape="rect" id="node11" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html" title=" " alt="" coords="3396,255,3635,297"/>
+<area shape="rect" id="node12" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html" title=" " alt="" coords="3067,282,3223,323"/>
+<area shape="rect" id="node13" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html" title=" " alt="" coords="2720,485,2927,526"/>
+<area shape="rect" id="node25" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html" title=" " alt="" coords="2281,485,2488,526"/>
+<area shape="rect" id="node17" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html" title=" " alt="" coords="1842,689,2041,730"/>
+<area shape="rect" id="node19" title=" " alt="" coords="880,549,1107,590"/>
+</map>

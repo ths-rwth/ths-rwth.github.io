@@ -1,0 +1,25 @@
+<map id="smtrat::VSModule::propagateNewConditions" name="smtrat::VSModule::propagateNewConditions">
+<area shape="rect" id="node1" title="Applies the substitution of the given state to all conditions, which were recently added to it." alt="" coords="5,607,217,648"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a031599ca203c18f83e2b29ec1e45f062" title=" " alt="" coords="305,5,444,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae972a4958673a15faab2093eb12dbf82" title=" " alt="" coords="997,165,1136,207"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a69e810c5e927862cc361ccded073ed62" title=" " alt="" coords="997,252,1136,293"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ff360e44da1e0ffa4ab4f8c68b87c4f" title="Sets all flags of the conditions to true, if it contains the variable given by the states index." alt="" coords="796,252,936,293"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09e850d5fd674de1644036c9b1cbf256" title=" " alt="" coords="997,485,1136,527"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#adf39a05dbb226308eca332e5b5b51ce8" title="Sets, if it has not already happened, the index of the state to the name of the most adequate variabl..." alt="" coords="305,413,444,455"/>
+<area shape="rect" id="node13" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aacacf2ae0f3ddcc55878872cdc13b339" title=" " alt="" coords="303,636,446,677"/>
+<area shape="rect" id="node14" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a3797e8db14bf83122bbee1fced8b0908" title=" " alt="" coords="564,691,703,732"/>
+<area shape="rect" id="node15" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa597989716416cec94471401d0b77dbd" title="Clears the conflict sets." alt="" coords="305,819,444,860"/>
+<area shape="rect" id="node16" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#abcae3de654a6b7db71785dd215e45193" title=" " alt="" coords="305,884,444,925"/>
+<area shape="rect" id="node17" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab072841bcaf2a48c389793e87923ee16" title=" " alt="" coords="265,949,484,991"/>
+<area shape="rect" id="node18" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa20d1743bb03e384885794f3a36b76de" title=" " alt="" coords="283,753,466,795"/>
+<area shape="rect" id="node8" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac96ba300146f3604019a8fd9c7ae50dc" title=" " alt="" coords="532,443,735,484"/>
+<area shape="rect" id="node9" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="817,482,915,509"/>
+<area shape="rect" id="node10" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9a768d1c99448dd16a703626113f7db3" title=" " alt="" coords="544,508,723,549"/>
+<area shape="rect" id="node11" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a42cfc8e3fefe80c768ba2da381621ab3" title="Sets the index of this state." alt="" coords="564,275,703,316"/>
+<area shape="rect" id="node12" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a6a871e974bc11680d927eedc201db033" title=" " alt="" coords="540,573,727,615"/>
+<area shape="rect" id="node19" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a1b9c21ea2173986a43d36ed3b88957f3" title=" " alt="" coords="548,756,719,797"/>
+<area shape="rect" id="node21" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9b77bfa8526848b1982faf2467e6210a" title=" " alt="" coords="797,815,935,856"/>
+<area shape="rect" id="node23" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a6f4c7c81f16377c76f771a08ea4de671" title=" " alt="" coords="546,873,721,915"/>
+<area shape="rect" id="node20" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a2797588fed2d0d49b8c332f5ea1959a0" title=" " alt="" coords="797,697,935,739"/>
+<area shape="rect" id="node22" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a35384f3209b48efcb7fca0838d633472" title=" " alt="" coords="783,763,949,790"/>
+</map>

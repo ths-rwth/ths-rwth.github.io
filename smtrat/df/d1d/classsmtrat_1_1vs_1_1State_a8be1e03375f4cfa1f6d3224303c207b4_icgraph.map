@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::State" name="smtrat::vs::State::State">
+<area shape="rect" id="node1" title="Constructs an empty state (no conditions yet) being the root (hence neither a substitution) of the st..." alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa4e25abeb10a5b63464fec9bb054a420" title="Adds a state as child to this state with the given substitution." alt="" coords="5,5,144,47"/>
+</map>

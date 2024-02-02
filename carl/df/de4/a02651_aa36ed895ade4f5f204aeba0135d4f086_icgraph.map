@@ -1,0 +1,52 @@
+<map id="carl::constant_one::get" name="carl::constant_one::get">
+<area shape="rect" id="node1" title=" " alt="" coords="984,847,1155,874"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a1abf1d98da2f7331312905d888edadf2" title="Returns the center point of the interval." alt="" coords="785,194,880,221"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#a0eee042488989bd97a84e81bfdd5cc22" title="Searches for some point in this interval, preferably near the left endpoint and with a small represen..." alt="" coords="505,194,635,221"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#ab51ff37d2bc027e91db346045a73f4c9" title="Searches for some point in this interval, preferably near the right endpoint and with a small represe..." alt="" coords="501,245,639,271"/>
+<area shape="rect" id="node13" href="$d6/da1/a01233.html#a2a76c518ed903b081e9202cc714cc869" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="499,296,641,337"/>
+<area shape="rect" id="node14" href="$d1/d34/a01211.html#a1a91763146732c827bf172b3bb7a4cbe" title=" " alt="" coords="729,640,936,681"/>
+<area shape="rect" id="node15" href="$dd/d6f/a03315.html#a7f2e76096af0663cad93b23f42edddb9" title=" " alt="" coords="736,705,929,747"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#a1aca023d3caed5fa32fad4086edc7b1b" title=" " alt="" coords="777,771,888,798"/>
+<area shape="rect" id="node31" href="$d6/da1/a01233.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="765,822,901,849"/>
+<area shape="rect" id="node32" href="$d6/da1/a01233.html#a946d4b508e691b02801abec4468ef66f" title=" " alt="" coords="785,873,881,899"/>
+<area shape="rect" id="node33" href="$d6/da1/a01233.html#a30d96079498a93b2514837110fdaa8ee" title=" " alt="" coords="787,923,878,950"/>
+<area shape="rect" id="node34" href="$d5/d73/a02423.html#ae8b1fb7ba2ffda4ff6f87abe289346a9" title="Function which determines, if the interval is the one interval." alt="" coords="758,974,907,1001"/>
+<area shape="rect" id="node35" href="$df/daa/a02135.html#a9f19cd78a1d8576ae36d732e5bc1df62" title=" " alt="" coords="758,1025,907,1067"/>
+<area shape="rect" id="node37" href="$d6/da1/a01233.html#a0d957abf20560cb00e51ba63d1fea986" title="Returns a polynomial to the given power." alt="" coords="792,1091,873,1118"/>
+<area shape="rect" id="node38" href="$d6/da1/a01233.html#a99b89762721c167925c43b4c01f8145a" title="Implements a fast exponentiation on an arbitrary type T." alt="" coords="767,1142,898,1169"/>
+<area shape="rect" id="node39" href="$d6/da1/a01233.html#a45847fb7d208553eeaac8fa2a624f27a" title="Counts the sign variations (i.e." alt="" coords="756,1341,909,1367"/>
+<area shape="rect" id="node42" href="$d6/da1/a01233.html#aa4015181e274e56d184eb30b935b57e8" title="Applies the given substitutions to a monomial." alt="" coords="773,1719,892,1746"/>
+<area shape="rect" id="node3" href="$d5/d73/a02423.html#a4da931d166db8cee7450de93ed3e33c3" title="Returns the center point of the interval." alt="" coords="493,143,647,170"/>
+<area shape="rect" id="node4" href="$d8/df6/a02411.html#ae10384534dea0d2fea062cf173af9b46" title=" " alt="" coords="239,5,388,47"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a18dd7941a668a603002cfd4e1378f8ac" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="519,93,621,119"/>
+<area shape="rect" id="node6" href="$d0/de4/a02851.html#aa8812344d7630b3a48526b3347313619" title="Initialize the bisection queue using approximations." alt="" coords="216,173,411,229"/>
+<area shape="rect" id="node7" href="$d0/de4/a02851.html#ab65d46eaa4c842e22cfd6b24f0c13b84" title="Perform bisection." alt="" coords="5,347,168,403"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a801ba04705c4aecaee107c286f0f4b1a" title=" " alt="" coords="234,122,393,149"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a0862aa0b4d18bb95745d3ca6fee5e540" title="Searches for some point in this interval, preferably far aways from zero and with a small representat..." alt="" coords="244,253,383,279"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a240688eeccf272618e10e26a2b400a08" title="Searches for some point in this interval, preferably near zero and with a small representation." alt="" coords="245,303,382,330"/>
+<area shape="rect" id="node17" href="$d6/da1/a01233.html#ae650bf9de86291328c32c1a18374e308" title=" " alt="" coords="515,771,625,798"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#a2b67996a921127013a3a27bd69116994" title="Calculate the number of real roots of a polynomial within a given interval based on a sturm sequence ..." alt="" coords="489,1217,651,1243"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#abf2880e7cb2a2c6c1d7585d9e031b40d" title="Reduces the polynomial such that the given root is not a root anymore." alt="" coords="239,618,388,645"/>
+<area shape="rect" id="node20" href="$d6/da1/a01233.html#a3a7bc83b7a9655c934b45f7c1552cb8e" title="Like substitute, but expects substitutions for all variables." alt="" coords="515,873,625,899"/>
+<area shape="rect" id="node21" href="$d5/d9d/a03343.html#a0a7e76176294ea2c7f16ace01d2fb9f5" title="Evaluate the polynomial at the point described by substitutions." alt="" coords="489,924,651,965"/>
+<area shape="rect" id="node22" href="$df/d37/a02823.html#afd3988afae1d4f8457a0d837573ef5a3" title=" " alt="" coords="468,990,672,1046"/>
+<area shape="rect" id="node23" href="$df/daa/a02135.html#a8b4994209b5308affa08751848f2bdf5" title=" " alt="" coords="495,1071,645,1112"/>
+<area shape="rect" id="node24" href="$d0/d82/a02831.html#a620b898fcc76f1f6061f2abcd217cfb8" title=" " alt="" coords="467,1137,673,1193"/>
+<area shape="rect" id="node25" href="$d6/da1/a01233.html#a73e8fe8276c8a276589e2e85537eecc4" title=" " alt="" coords="511,362,629,389"/>
+<area shape="rect" id="node26" href="$d0/d82/a02831.html#add47562461f53a51914acbb678d2ad05" title=" " alt="" coords="467,413,673,484"/>
+<area shape="rect" id="node27" href="$d0/d33/a01252.html#a0ee19ea70c76b3365235c61a66814fb5" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="503,508,637,549"/>
+<area shape="rect" id="node28" href="$d0/d82/a02831.html#ac2baa2d1b4ed1809eac530e47d70b66e" title="Returns the sign of &quot;interval_int() &#45; pivot&quot;: Returns ZERO if pivot is equal to RAN." alt="" coords="467,574,673,630"/>
+<area shape="rect" id="node29" href="$df/daa/a02135.html#af177eff144c1310c3a60983fdd12fe42" title=" " alt="" coords="495,655,645,696"/>
+<area shape="rect" id="node30" href="$d6/da1/a01233.html#a82eb1705bccb1d0c70e27d03620c99a4" title=" " alt="" coords="483,721,657,747"/>
+<area shape="rect" id="node36" href="$df/daa/a02135.html#a8319872e6f1bb3bc97c62015b5d7baa4" title=" " alt="" coords="495,1268,645,1309"/>
+<area shape="rect" id="node40" href="$d6/da1/a01233.html#a73e8440453b0ada4b1cf4c5197bf862d" title=" " alt="" coords="484,1333,656,1375"/>
+<area shape="rect" id="node41" href="$d6/da1/a01233.html#ac21bb1811b2cf42b013c9dd32b86f8af" title=" " alt="" coords="471,1399,669,1426"/>
+<area shape="rect" id="node43" href="$de/d92/a02175.html#a298e1894538d5ec305049cf6ec70fefd" title=" " alt="" coords="481,1501,659,1557"/>
+<area shape="rect" id="node44" href="$db/da5/a02919.html#a0c0f40fd0237fc42423000be8b91227e" title=" " alt="" coords="495,1581,645,1623"/>
+<area shape="rect" id="node45" href="$de/d1b/a02187.html#a44d2731471969e1fcf258f7074332366" title=" " alt="" coords="489,1647,651,1688"/>
+<area shape="rect" id="node46" href="$d6/da1/a01233.html#a8211b0a0bb14f560103fdf876f80dfc1" title="Replaces the main variable in a polynomial." alt="" coords="499,1712,641,1753"/>
+<area shape="rect" id="node47" href="$d7/d30/a01891.html#a616a80ba2f97db737da99f63c3b92111" title="Solve in the domain Z_(p^k)[x_!,...,x_v] the multivariate polynomial diophantine equation sigma_1 * b..." alt="" coords="459,1777,681,1819"/>
+<area shape="rect" id="node48" href="$d6/da1/a01233.html#a3c2a87a4a9383680133107e57c6e7b9a" title="Replace the given variable by the given value." alt="" coords="511,1843,629,1870"/>
+<area shape="rect" id="node49" href="$d3/df5/a02827.html#a5a0f1acc8f17efa9ec3cd03f5ba0f5fa" title=" " alt="" coords="495,1894,645,1950"/>
+<area shape="rect" id="node50" href="$d5/d9d/a03343.html#adfe933779ffa69393d4a8e341f36dffc" title=" " alt="" coords="489,1975,651,2016"/>
+</map>

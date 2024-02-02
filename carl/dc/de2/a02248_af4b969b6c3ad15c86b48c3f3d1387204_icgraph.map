@@ -1,0 +1,5 @@
+<map id="carl::ReductorEntry::getLead" name="carl::ReductorEntry::getLead">
+<area shape="rect" id="node1" title=" " alt="" coords="252,39,399,80"/>
+<area shape="rect" id="node2" href="$dc/d35/a02240.html#a5bcfb0def1a64f2d6ed8fcd13e061db4" title=" " alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node3" href="$dc/d35/a02240.html#a5726fc6e3c832a8a136a8073a6a77a03" title="should only be called if the compare result was EQUAL eliminate duplicate leading monomials" alt="" coords="5,71,204,112"/>
+</map>

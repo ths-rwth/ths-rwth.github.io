@@ -1,0 +1,47 @@
+<map id="carl::Formula::subformulas" name="carl::Formula::subformulas">
+<area shape="rect" id="node1" title=" " alt="" coords="1256,749,1452,775"/>
+<area shape="rect" id="node2" href="$d3/d66/a03462.html#a86d4c0d11d0f421ef1f619f9812cc36b" title=" " alt="" coords="983,43,1183,84"/>
+<area shape="rect" id="node4" href="$d5/d6e/a01240.html#a11ca97d11b7cd21d771432a2d541bd8e" title="[Auxiliary method]" alt="" coords="969,144,1196,185"/>
+<area shape="rect" id="node9" href="$dc/db6/a01212.html#a5f1a64253acd26abf86746b7a42d27d0" title="Resolves the outermost negation of this formula." alt="" coords="999,239,1166,266"/>
+<area shape="rect" id="node10" href="$d7/dc5/a01242.html#a85ca89601959bc0697376cef124091ad" title=" " alt="" coords="957,509,1208,535"/>
+<area shape="rect" id="node12" href="$dc/db6/a01212.html#a8d40fe175f6a1861da8daa35403639a2" title="Recursively calls func on every subformula." alt="" coords="1041,749,1124,775"/>
+<area shape="rect" id="node41" href="$dc/db6/a01212.html#ae96351310a8ead78a16bf37793796e55" title="Recursively calls func on every subformula and return a new formula." alt="" coords="1019,799,1146,826"/>
+<area shape="rect" id="node43" href="$d0/d31/a03558.html#a4ed7eb770970d7d4b07042f38a73aed0" title=" " alt="" coords="1002,851,1163,892"/>
+<area shape="rect" id="node44" href="$d6/d81/a03630.html#a1120dc829866e6cc21dea71b002ce04c" title=" " alt="" coords="995,916,1170,957"/>
+<area shape="rect" id="node45" href="$dc/d12/a03634.html#a9f87754766e47da1adb320a8a37f9e77" title=" " alt="" coords="998,981,1167,1023"/>
+<area shape="rect" id="node3" href="$d3/d66/a03462.html#ae430738372ce97aa3b6a4e6b41d8e2e7" title=" " alt="" coords="701,5,909,47"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#ae5348ec0d0b3073c97a0d0ce99b96026" title="Converts the given formula to CNF." alt="" coords="490,181,585,207"/>
+<area shape="rect" id="node7" href="$d3/d07/a01241.html#ada7ee1423bb4e90d63c19f339822c1c0" title="Converts an OR to cnf." alt="" coords="729,173,881,215"/>
+<area shape="rect" id="node8" href="$dc/db6/a01212.html#a4c7aeec6532ced8833265e79339c586f" title="Transforms this formula to its quantifier free equivalent." alt="" coords="763,122,848,149"/>
+<area shape="rect" id="node6" href="$df/dab/a03550.html#adacbe6f985dfafd6acb3be1cb94686fb" title=" " alt="" coords="192,173,373,215"/>
+<area shape="rect" id="node11" href="$dc/db6/a01212.html#a0ea49fdbb441dcaed3f504e69023eb2f" title="Substitutes all variables from a model within a formula." alt="" coords="719,290,892,317"/>
+<area shape="rect" id="node13" href="$dc/db6/a01212.html#a96d4ccdb4e0316e6b6d96243cebf0cfb" title="Collects all constraint occurring in this formula." alt="" coords="705,341,905,367"/>
+<area shape="rect" id="node14" href="$dc/db6/a01212.html#a82bbe848b7b7967833e58c2e3fc2ae79" title=" " alt="" coords="716,391,895,418"/>
+<area shape="rect" id="node15" href="$d1/deb/a03418.html#a34c9cdd5ab2fe35bd48115750edc6d18" title=" " alt="" coords="719,442,892,469"/>
+<area shape="rect" id="node17" href="$d6/de6/a03534.html#a8fcb10487efed8b453b31f958011159e" title=" " alt="" coords="717,493,894,519"/>
+<area shape="rect" id="node19" href="$dc/db6/a01212.html#abc3d0b90eac3e6823b8ef06ca9502a0a" title=" " alt="" coords="742,543,869,570"/>
+<area shape="rect" id="node20" href="$de/dce/a03362.html#a3829060c3212142519acb18f15a45bd7" title=" " alt="" coords="721,595,890,636"/>
+<area shape="rect" id="node21" href="$d6/de6/a03534.html#a528a13e5fbb8eae749626b0663bf09ea" title=" " alt="" coords="729,661,882,687"/>
+<area shape="rect" id="node23" href="$da/d5b/a03322.html#a7573ed9efa7e96b164323f7fadb76d81" title=" " alt="" coords="728,712,883,753"/>
+<area shape="rect" id="node27" href="$d6/de6/a03534.html#a2dbb8c2f17ec232e8240f19db7212a7e" title=" " alt="" coords="720,778,891,805"/>
+<area shape="rect" id="node29" href="$d6/de6/a03534.html#ad84d0eb891e4aeb4a3fe9b568c0c69ee" title=" " alt="" coords="702,829,909,855"/>
+<area shape="rect" id="node31" href="$d4/d8b/a03538.html#ae08d76e0da2c11d72f16e88871478d85" title=" " alt="" coords="720,880,891,921"/>
+<area shape="rect" id="node32" href="$dc/db6/a01212.html#ad31d6aa26d350ddfc198d5ffb65d9885" title=" " alt="" coords="745,946,865,973"/>
+<area shape="rect" id="node33" href="$dc/db6/a01212.html#a9a3242a7adf296c42f9dd9a5da3afa81" title="Output a std::variant with arbitrary content." alt="" coords="740,997,871,1023"/>
+<area shape="rect" id="node34" href="$dc/db6/a01212.html#a47d55a67e4e969148330c73e1b063716" title=" " alt="" coords="740,1047,871,1074"/>
+<area shape="rect" id="node35" href="$dc/db6/a01212.html#a5c21f3259bf85a9896432f942797b4eb" title=" " alt="" coords="734,1099,877,1140"/>
+<area shape="rect" id="node37" href="$dc/db6/a01212.html#ab56a0e840c52d2e987e337d8c1120c63" title=" " alt="" coords="734,1164,877,1205"/>
+<area shape="rect" id="node38" href="$dc/db6/a01212.html#aed2182e57f8ddfdd9d910976b41d891c" title=" " alt="" coords="748,1230,863,1257"/>
+<area shape="rect" id="node39" href="$d1/deb/a03418.html#ae9467725c66bbbdf8587597f1576e374" title=" " alt="" coords="722,1281,889,1307"/>
+<area shape="rect" id="node40" href="$dc/d12/a03634.html#a706e2dee5140a43d6370b35e714ea6ba" title=" " alt="" coords="721,1332,890,1373"/>
+<area shape="rect" id="node16" href="$d1/deb/a03418.html#a9ebbebc63a6a5e6edc31b45a316e9268" title=" " alt="" coords="435,442,639,469"/>
+<area shape="rect" id="node18" href="$de/df7/a03478.html#a24961780f8af6bee93996a70ea6eef5b" title=" " alt="" coords="439,493,636,519"/>
+<area shape="rect" id="node22" href="$de/df7/a03478.html#a6e8828a549a55b40dd0673488e0c1ccc" title="Constructs an uninterpreted equality." alt="" coords="444,661,631,687"/>
+<area shape="rect" id="node24" href="$d6/d85/a03290.html#a741f419554f95543e40d9ddce6ff403f" title=" " alt="" coords="421,719,653,746"/>
+<area shape="rect" id="node25" href="$d9/d7f/a03278.html#ad047fd509ac167f10a44595edb61c15f" title=" " alt="" coords="207,712,358,753"/>
+<area shape="rect" id="node26" href="$d9/d7f/a03278.html#a077817698575b0c8a2d0bba7ed15e544" title=" " alt="" coords="5,712,144,753"/>
+<area shape="rect" id="node28" href="$de/df7/a03478.html#aaaa5cfd6a5e1353785d7eb3e5ca5a44b" title=" " alt="" coords="442,778,633,805"/>
+<area shape="rect" id="node30" href="$de/df7/a03478.html#a4f6357f1cda5f5231a95d99a318b9da2" title=" " alt="" coords="424,829,651,855"/>
+<area shape="rect" id="node36" href="$dc/d12/a03634.html#a413ba0a194d2ac5eb35a64e6a58d0d64" title="Generic initializer including the logic and variables and functions from a set of formulas." alt="" coords="453,1099,622,1140"/>
+<area shape="rect" id="node42" href="$dc/db6/a01212.html#a5009bd3bff3aa43c8f7733bcf44ca418" title=" " alt="" coords="746,1398,865,1425"/>
+</map>

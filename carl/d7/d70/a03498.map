@@ -1,0 +1,5 @@
+<map id="carl::SortValueManager" name="carl::SortValueManager">
+<area shape="rect" id="node1" title="Implements a manager for sort values, containing the actual contents of these sort and allocating the..." alt="" coords="15,185,188,212"/>
+<area shape="rect" id="node2" href="$df/d0c/a03055.html" title=" " alt="" coords="5,95,197,136"/>
+<area shape="rect" id="node3" href="$df/d0c/a03055.html" title="Base class that implements a singleton." alt="" coords="25,5,178,32"/>
+</map>

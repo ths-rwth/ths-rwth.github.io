@@ -1,0 +1,5 @@
+<map id="carl::RealAlgebraicPoint::dim" name="carl::RealAlgebraicPoint::dim">
+<area shape="rect" id="node1" title="Give the dimension/number of components of this point." alt="" coords="184,31,395,57"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#add0935b41e67fe5f567486bec8a457ae" title="Streaming operator for a RealAlgebraicPoint." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a31e3e4d6cce36f6a1e7422d8118c88bc" title="Check if two RealAlgebraicPoints are equal." alt="" coords="5,56,136,83"/>
+</map>

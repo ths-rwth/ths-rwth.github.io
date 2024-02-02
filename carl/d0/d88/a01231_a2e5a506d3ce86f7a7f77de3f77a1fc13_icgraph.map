@@ -1,0 +1,8 @@
+<map id="carl::ran::interval::algebraic_substitution_groebner" name="carl::ran::interval::algebraic_substitution_groebner">
+<area shape="rect" id="node1" title="Implements algebraic substitution by Gröbner basis computation." alt="" coords="605,60,780,116"/>
+<area shape="rect" id="node2" href="$d0/d88/a01231.html#a81e240c71214a271179974c2318050d1" title="Computes the algebraic substitution of the given defining polynomials into a multivariate polynomial ..." alt="" coords="383,30,557,71"/>
+<area shape="rect" id="node6" href="$d0/d88/a01231.html#afb03b1c496785555c816c5316d7a24ba" title="Implements algebraic substitution by Gröbner basis computation." alt="" coords="383,96,557,152"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#af84e5cb03c9b9390ebd461f67b92d741" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="198,5,309,32"/>
+<area shape="rect" id="node4" href="$d0/d88/a01231.html#a0e944bedfb2307ca158abf2c6ea590c8" title=" " alt="" coords="172,56,335,112"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#a8a90d05d2a46798d342ba43553776da7" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,71,124,97"/>
+</map>

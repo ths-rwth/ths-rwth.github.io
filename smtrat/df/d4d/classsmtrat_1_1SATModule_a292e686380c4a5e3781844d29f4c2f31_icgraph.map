@@ -1,0 +1,5 @@
+<map id="smtrat::SATModule::createLiteral" name="smtrat::SATModule::createLiteral">
+<area shape="rect" id="node1" title="Creates or simply returns the literal belonging to the formula being the first argument." alt="" coords="416,5,571,47"/>
+<area shape="rect" id="node2" href="$df/d4d/classsmtrat_1_1SATModule.html#a4b10f6cdcfaf95599a44f1606f8b2af2" title=" " alt="" coords="213,5,368,47"/>
+<area shape="rect" id="node3" href="$df/d4d/classsmtrat_1_1SATModule.html#a73fcc3165e2f0d334b3ddec9a3329fef" title=" " alt="" coords="5,5,165,47"/>
+</map>

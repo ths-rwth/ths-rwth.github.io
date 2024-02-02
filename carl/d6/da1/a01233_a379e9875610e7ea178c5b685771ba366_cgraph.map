@@ -1,0 +1,9 @@
+<map id="carl::derivative" name="carl::derivative">
+<area shape="rect" id="node1" title="Computes the n&#39;th derivative of p with respect to the main variable of p." alt="" coords="5,137,125,163"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="173,5,368,47"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="173,71,368,112"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="223,137,318,163"/>
+<area shape="rect" id="node6" href="$dc/db6/a01212.html#a9d54ed3853631a633e6a994f49b1d655" title="Retrieves the main variable of this polynomial." alt="" coords="173,188,368,229"/>
+<area shape="rect" id="node7" href="$d6/d1e/a01234.html#ac0ab3d06b71a9165593e3768f9b3919c" title="Returns n * (n&#45;1) * ... * (n&#45;k+1)" alt="" coords="189,253,353,295"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="416,129,623,171"/>
+</map>

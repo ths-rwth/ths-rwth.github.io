@@ -1,0 +1,16 @@
+<map id="benchmax::SlurmBackend::run" name="benchmax::SlurmBackend::run">
+<area shape="rect" id="node1" title="Run all tools on all benchmarks using Slurm." alt="" coords="5,97,225,123"/>
+<area shape="rect" id="node2" href="$db/da2/classbenchmax_1_1SlurmBackend.html#ab3a10753e1c8298ae34b81cca4810085" title=" " alt="" coords="283,5,474,47"/>
+<area shape="rect" id="node3" href="$d0/d1d/namespacebenchmax.html#a610b512106c151dccb2dee0df9dcdc62" title="Return the Slurm settings." alt="" coords="781,115,932,156"/>
+<area shape="rect" id="node4" href="$d6/d67/classbenchmax_1_1Jobs.html#ae2cdc443aa8713d476a21f302b5554be" title="Returns all jobs in a pseudo&#45;randomized order." alt="" coords="273,122,484,149"/>
+<area shape="rect" id="node5" href="$db/da2/classbenchmax_1_1SlurmBackend.html#ae2164830134b6a51e80567d1e3383809" title=" " alt="" coords="283,355,474,396"/>
+<area shape="rect" id="node6" href="$d0/d1d/namespacebenchmax.html#a39df508bcba44e06344e26e8c2335a3b" title="Runs an external program from some command line and records the output to stdout." alt="" coords="541,173,724,199"/>
+<area shape="rect" id="node7" href="$d9/d1a/namespacebenchmax_1_1slurm.html#a1d9f752b090639318ccfa8371d739724" title="Clear log files from directory." alt="" coords="545,224,720,265"/>
+<area shape="rect" id="node8" href="$d9/d1a/namespacebenchmax_1_1slurm.html#a677dacac8b87422f313c640552833b3f" title=" " alt="" coords="532,289,733,331"/>
+<area shape="rect" id="node9" href="$d9/d1a/namespacebenchmax_1_1slurm.html#a60a78822aa09784c28b82d7c1e7955a7" title=" " alt="" coords="532,355,733,396"/>
+<area shape="rect" id="node10" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a8e047bdf267edb0fc05d32304782c973" title=" " alt="" coords="537,420,728,461"/>
+<area shape="rect" id="node11" href="$d9/d1a/namespacebenchmax_1_1slurm.html#ab284a4b216be1c05da246045c9bcb4d3" title="Parses the job id from the output of sbatch." alt="" coords="543,485,722,527"/>
+<area shape="rect" id="node12" href="$d0/d1d/namespacebenchmax.html#a7023b801521b73ccffe81cbfbaaf3a43" title="Return the benchmark settings." alt="" coords="557,551,708,592"/>
+<area shape="rect" id="node13" href="$d0/d1d/namespacebenchmax.html#a58b2d1a63040ce6fd0e7ad5351c518a9" title="Retrieved core settings." alt="" coords="540,617,725,643"/>
+<area shape="rect" id="node14" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a89f529c369dca1992315f23c3df1f057" title=" " alt="" coords="537,668,728,709"/>
+</map>

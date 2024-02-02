@@ -1,0 +1,6 @@
+<map id="carl::vs::detail::splitProducts" name="carl::vs::detail::splitProducts">
+<area shape="rect" id="node1" title="Splits all constraints in the given disjunction of conjunctions of constraints having a non&#45;trivial f..." alt="" coords="564,13,771,39"/>
+<area shape="rect" id="node2" href="$d3/d7b/a01249.html#a3f6a9afd6f9d243835d6cca68897fb19" title="Simplifies the case distinction in place." alt="" coords="387,5,516,47"/>
+<area shape="rect" id="node3" href="$d3/d7b/a01249.html#a2e8b6620391ce135b0c81929328fbbe2" title="Applies a substitution to a constraint." alt="" coords="196,13,339,39"/>
+<area shape="rect" id="node4" href="$d3/d7b/a01249.html#ad5b4aa3676afed7d74cc6829a9fa4d7f" title="Applies a substitution to a variable comparison." alt="" coords="5,13,148,39"/>
+</map>

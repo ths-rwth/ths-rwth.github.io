@@ -1,0 +1,4 @@
+<map id="smtrat::parser::StringParser" name="smtrat::parser::StringParser">
+<area shape="rect" id="node1" title="Parses strings: &quot;.+&quot; with escape sequences \&quot; and \\" alt="" coords="5,109,205,136"/>
+<area shape="rect" id="node2" title=" " alt="" coords="19,5,192,61"/>
+</map>

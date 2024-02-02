@@ -1,0 +1,17 @@
+var heuristics__covering_8h =
+[
+    [ "covering< CoveringHeuristic::BIGGEST_CELL_COVERING >", "da/d59/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING_01_4.html", "da/d59/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING_01_4" ],
+    [ "covering< CoveringHeuristic::LDB_COVERING >", "d6/dc8/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1LDB__COVERING_01_4.html", "d6/dc8/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1LDB__COVERING_01_4" ],
+    [ "covering< CoveringHeuristic::LDB_COVERING_CACHE >", "dc/def/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1LDB__COVERING__CACHE_01_4.html", "dc/def/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1LDB__COVERING__CACHE_01_4" ],
+    [ "covering< CoveringHeuristic::LDB_COVERING_CACHE_GLOBAL >", "d0/d01/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1LDB__COVERING__CACHE__GLOBAL_01_4.html", "d0/d01/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1LDB__COVERING__CACHE__GLOBAL_01_4" ],
+    [ "covering< CoveringHeuristic::BIGGEST_CELL_COVERING_PDEL >", "d4/d0b/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__PDEL_01_4.html", "d4/d0b/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__PDEL_01_4" ],
+    [ "covering< CoveringHeuristic::BIGGEST_CELL_COVERING_FILTER >", "d0/d76/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__FILTER_01_4.html", "d0/d76/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__FILTER_01_4" ],
+    [ "covering< CoveringHeuristic::BIGGEST_CELL_COVERING_FILTER_ONLY_INDEPENDENT >", "d5/d01/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__C8b964e9bfff0982c92adaadff0953719.html", "d5/d01/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__C8b964e9bfff0982c92adaadff0953719" ],
+    [ "IntervalCompare", "de/d72/structsmtrat_1_1cadcells_1_1representation_1_1util_1_1IntervalCompare.html", "de/d72/structsmtrat_1_1cadcells_1_1representation_1_1util_1_1IntervalCompare" ],
+    [ "covering< CoveringHeuristic::BIGGEST_CELL_COVERING_MIN_TDEG >", "d6/d80/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__MIN__TDEG_01_4.html", "d6/d80/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__MIN__TDEG_01_4" ],
+    [ "covering< CoveringHeuristic::CHAIN_COVERING >", "dc/dc7/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1CHAIN__COVERING_01_4.html", "dc/dc7/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1CHAIN__COVERING_01_4" ],
+    [ "DerivationSet", "d6/d4c/heuristics__covering_8h.html#ab2a364e3ed9a96f5c5af305cf77fe627", null ],
+    [ "compute_default_ordering", "d6/d4c/heuristics__covering_8h.html#a75c6a57c1d57c9a266859628db112ea0", null ],
+    [ "compute_min_derivs", "d6/d4c/heuristics__covering_8h.html#a054afef3aa2cb9b69153af7362a1553a", null ],
+    [ "is_covering", "d6/d4c/heuristics__covering_8h.html#a7b9b84ebf75630df15bc1754e6625a16", null ]
+];

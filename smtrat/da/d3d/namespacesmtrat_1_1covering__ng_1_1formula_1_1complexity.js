@@ -1,0 +1,25 @@
+var namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity =
+[
+    [ "features", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html", [
+      [ "avg_avg_degree", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#ae9b0e9892110465ce33d348376c19399", null ],
+      [ "avg_avg_total_degree", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#ad372872ddbaa691d5c92d5f12e39d9f5", null ],
+      [ "max_level", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#af01cf8c5b669da286df378134fcef1e7", null ],
+      [ "max_max_total_degree", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#a37b7a791cef6e7c5ed4ee70e42969429", null ],
+      [ "num_vars", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#a1b8c96b4464efabd71d3c40bd8bbb5d6", null ],
+      [ "sum_max_degree", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#a8583364b076946f82e88c3ce968bbeb7", null ],
+      [ "sum_max_total_degree", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#acdd623c16c427c4e041ba398b7085629", null ],
+      [ "sum_sum_degree", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#aa84f687d9a24635481548c4a7555a34a", null ],
+      [ "sum_sum_total_degree", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#a0bb391f24c4f4e0ed85aefa26604ef47", null ],
+      [ "sum_total_degree", "dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#a3621d098650d111edbb27a0769c82e19", null ]
+    ] ],
+    [ "min_level_min_size", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#af3d125639d1d507c27154183e4d23eb6", null ],
+    [ "min_level_min_sotd", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#a1ceea9f155d833f3fd6efa42c6649489", null ],
+    [ "min_max_tdeg_min_size", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#aa1cf48a161272f5eae059ba2d37dbac3", null ],
+    [ "min_size", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#a1f983d77ba178a93d520800a6a1ffe93", null ],
+    [ "min_sotd", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#aace4ab7d248f3efca6467a61a094a2ff", null ],
+    [ "min_tdeg", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#a852457b61dbd073083fd0af577a30ed7", null ],
+    [ "min_vars_min_sotd", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#a76076e736493a7a53d4d6744e252cbc0", null ],
+    [ "pickering_total", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#aaf58754c293d61ad83ffeb574aed07b7", null ],
+    [ "sotd", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#ac11605e0fff1c80d0554eb4443e41c21", null ],
+    [ "sotd_reverse", "da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#a4432ac4ff544824912d68df88f76db3d", null ]
+];

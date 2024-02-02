@@ -1,0 +1,4 @@
+<map id="carl::div" name="carl::div">
+<area shape="rect" id="node1" title="Implements the division which assumes that there is no remainder." alt="" coords="5,5,80,32"/>
+<area shape="rect" id="node2" href="$de/dc3/a02256.html#afe0c8594fd65cd3deea44a9389c1a8dc" title="Divides two intervals according to natural interval arithmetic." alt="" coords="128,5,260,32"/>
+</map>

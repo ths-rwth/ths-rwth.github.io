@@ -1,0 +1,27 @@
+var classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering =
+[
+    [ "add_eq", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a05fb6db177b5f469bde945c904cde764", null ],
+    [ "add_leq", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a1879a4adacf1983857ec8c504e5da612", null ],
+    [ "add_less", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#aa388ee9bc6611c4dd030520230f223dd", null ],
+    [ "add_poly_pair", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#af4183900882c0de207625fc69a9e2228", null ],
+    [ "data", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a2636021516d8541f7c97ea273c8246ea", null ],
+    [ "geq", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#ac37024f0906628a5faa6c11a6e2dccf0", null ],
+    [ "has_pair", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#ae42fc64f2d52747b7b3fe516a9e934b7", null ],
+    [ "holds_transitive", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#accf532f416a486e1f3d1961b810cc114", null ],
+    [ "holds_transitive", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#ae99e5cf43132cc6170b269fb521e6b03", null ],
+    [ "holds_transitive", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#abf899828482d39b7870db62ce16a9650", null ],
+    [ "is_projective", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#ac280eda982733109e7f5e4d5629ec6f0", null ],
+    [ "leq", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a9977b6cae13d5bbe00f0a281aa34ae9d", null ],
+    [ "polys", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a61fe7b08c504562bafabf556a9c63953", null ],
+    [ "polys", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a6b4481d282131cc46c3a70894bc8614d", null ],
+    [ "polys", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#aec14fe3441a187700e770759ca624068", null ],
+    [ "set_projective", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#adbb76a9a6d9725289d3873c303357a88", null ],
+    [ "biggest_cell_wrt", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a257db8398651e70daf75163464cb7595", null ],
+    [ "m_data", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a874139b217e8bc7421ca92765c6d2c93", null ],
+    [ "m_geq", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a9d6b6df6a10992cd118d89a1119f7c36", null ],
+    [ "m_greater", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#ac02011a71067dd1d3b6ba1b3be63a841", null ],
+    [ "m_is_projective", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#ac4e3aadc71698b33048a08419d0f4f0b", null ],
+    [ "m_leq", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a32b5befd02831360802f88de98b1c3a6", null ],
+    [ "m_less", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a81affbcaf80b19b91dc62009525c15ab", null ],
+    [ "m_poly_pairs", "de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a7ee135e46873d3d25d282486263846a8", null ]
+];

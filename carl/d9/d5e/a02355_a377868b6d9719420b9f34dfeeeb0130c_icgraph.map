@@ -1,0 +1,7 @@
+<map id="carl::FLOAT_T::abs" name="carl::FLOAT_T::abs">
+<area shape="rect" id="node1" title="Function which calculates the absolute value of this number and puts it into a passed result paramete..." alt="" coords="777,38,917,65"/>
+<area shape="rect" id="node2" href="$d8/d8e/a01224.html#aaa95bad04d20ca377b13a586a0ad6a52" title="Method which returns the absolute value of the passed number." alt="" coords="611,13,689,39"/>
+<area shape="rect" id="node5" href="$d9/d5e/a02355.html#adc389e0a9848f0fd0a1eced22ebd10c6" title="Function required for extension of Eigen3 with FLOAT_T as a custom type which calculates the absolute..." alt="" coords="571,63,729,90"/>
+<area shape="rect" id="node3" href="$d8/d8e/a01224.html#a6f2dd5e3819d1652b938b0dbd49a91d0" title=" " alt="" coords="288,5,523,47"/>
+<area shape="rect" id="node4" href="$d8/d8e/a01224.html#a44bc629c3dda116028a9bc1269edbfa0" title=" " alt="" coords="5,5,240,47"/>
+</map>

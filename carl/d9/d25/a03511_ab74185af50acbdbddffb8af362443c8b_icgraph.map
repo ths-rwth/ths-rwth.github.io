@@ -1,0 +1,8 @@
+<map id="carl::UFManager::getDomain" name="carl::UFManager::getDomain">
+<area shape="rect" id="node1" title=" " alt="" coords="716,78,925,105"/>
+<area shape="rect" id="node2" href="$dd/da8/a03523.html#aec99021eac3b4864ecf862bdc30a6b19" title=" " alt="" coords="469,71,668,112"/>
+<area shape="rect" id="node3" href="$d5/d70/a03499.html#a02cbbe0abe2d8e4809afa3ca5ed3f000" title=" " alt="" coords="237,5,421,47"/>
+<area shape="rect" id="node5" href="$d0/db0/a03631.html#ac4b0f64732d53f6d28c5431c2dac341d" title="Declare a fresh function via declare&#45;fun." alt="" coords="245,71,414,112"/>
+<area shape="rect" id="node6" href="$de/d04/a01209.html#a7f93276058864d024ce1929a1055747e" title="Prints the given uninterpreted function on the given output stream." alt="" coords="264,137,395,163"/>
+<area shape="rect" id="node4" href="$d5/d70/a03499.html#a4b62d8b8bbaa4dd13450c839d456b873" title="Gets the uninterpreted function instance with the given name, domain, arguments and codomain." alt="" coords="5,5,189,47"/>
+</map>

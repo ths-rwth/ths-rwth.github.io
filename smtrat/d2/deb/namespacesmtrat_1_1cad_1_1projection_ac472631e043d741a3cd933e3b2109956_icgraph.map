@@ -1,0 +1,9 @@
+<map id="smtrat::cad::projection::PSC" name="smtrat::cad::projection::PSC">
+<area shape="rect" id="node1" title="Computes the Principal Subresultant Coefficients of two polynomials." alt="" coords="772,78,975,105"/>
+<area shape="rect" id="node2" href="$d2/d50/namespacesmtrat_1_1cad_1_1projection_1_1collins.html#a51286119a9b2c150440c4f0d17aca065" title="Implements the part of Collins projection operator from &#160;that deals with two polynomials p and q: ." alt="" coords="555,5,724,47"/>
+<area shape="rect" id="node4" href="$da/df8/namespacesmtrat_1_1cad_1_1projection_1_1hong.html#ad569f436171051013b631f516212dcff" title="Implements the part of Hongs projection operator from &#160;that deals with two polynomials p and q: ." alt="" coords="555,71,724,112"/>
+<area shape="rect" id="node5" href="$d2/d50/namespacesmtrat_1_1cad_1_1projection_1_1collins.html#a93f65cd2f289bc5b39b14d03253089eb" title="Implements the part of Collins projection operator from &#160;that deals with a single polynomial p: ." alt="" coords="555,136,724,177"/>
+<area shape="rect" id="node3" href="$d2/d33/structsmtrat_1_1cad_1_1ProjectionOperator.html#adc5a5c03347cc323edcff29bb3a627bb" title=" " alt="" coords="280,25,507,67"/>
+<area shape="rect" id="node6" href="$d2/d33/structsmtrat_1_1cad_1_1ProjectionOperator.html#a90691d115f1d514957120644ffa770b7" title=" " alt="" coords="5,132,232,173"/>
+<area shape="rect" id="node7" href="$da/df8/namespacesmtrat_1_1cad_1_1projection_1_1hong.html#a28b165dc636daba90e0bc1c4629cc0fc" title="Implements the part of Hongs projection operator from &#160;that deals with a single polynomial p which is..." alt="" coords="309,161,478,203"/>
+</map>

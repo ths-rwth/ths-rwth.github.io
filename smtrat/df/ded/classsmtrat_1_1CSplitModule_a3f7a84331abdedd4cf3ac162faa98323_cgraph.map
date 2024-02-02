@@ -1,0 +1,18 @@
+<map id="smtrat::CSplitModule::analyzeConflict" name="smtrat::CSplitModule::analyzeConflict">
+<area shape="rect" id="node1" title="Analyzes the infeasible subset of the LRA solver and constructs an infeasible subset of the received ..." alt="" coords="5,114,164,155"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#a86b9a7e8c08dce4f227909983fc62de2" title=" " alt="" coords="212,121,367,148"/>
+<area shape="rect" id="node3" href="$de/dc5/namespacesmtrat.html#adbf6419654083fa1ddadfde464975774" title="It linearizes a non&#45;linear monomial." alt="" coords="415,71,605,97"/>
+<area shape="rect" id="node15" href="$da/d5e/classsmtrat_1_1ModuleInput.html#af3399a6ad8adab758dd050fc69641aa1" title=" " alt="" coords="417,121,603,148"/>
+<area shape="rect" id="node16" href="$de/dc5/namespacesmtrat.html#a04c74128dcd6971f88b159dac0e565fa" title=" " alt="" coords="423,172,597,199"/>
+<area shape="rect" id="node4" href="$de/dc5/namespacesmtrat.html#adfd9646b201623dc2824d8d34e1a66ac" title="It creates monomial by taking and popping first two items from the list, Insert this new monomial as ..." alt="" coords="1139,9,1389,36"/>
+<area shape="rect" id="node10" href="$de/dc5/namespacesmtrat.html#a0facc1b26d5248ea27bb16a2a2f46e73" title="create monomial which is linear" alt="" coords="653,103,848,145"/>
+<area shape="rect" id="node5" href="$de/dc5/namespacesmtrat.html#a622bdcd149cd83d7436f571f1bed18e7" title="Check if the monomial is alreday inserted imto the map, If yes, returned the key which is a variable ..." alt="" coords="1437,57,1671,98"/>
+<area shape="rect" id="node8" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title=" " alt="" coords="1503,5,1605,32"/>
+<area shape="rect" id="node6" href="$de/dc5/namespacesmtrat.html#ac0730b05e910277a5db08028bb92f7e5" title="create variables and each time increment the suffix e.g., z_0, z_1, etc." alt="" coords="1719,60,1895,87"/>
+<area shape="rect" id="node7" href="$de/dc5/namespacesmtrat.html#a805e17fae65ea60f5a9dae2ce19a3133" title="Insert the variable as key with monomial as value into the map The map is singeltone." alt="" coords="1725,111,1888,137"/>
+<area shape="rect" id="node9" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title=" " alt="" coords="1725,5,1888,32"/>
+<area shape="rect" id="node11" href="$de/dc5/namespacesmtrat.html#a4b2c6236dc20ce3e3f529025b1bfc1ba" title="Replace square of variable (x_0^2) of a monomial (x_0^6) by a variable (z_0), create a new monomial (..." alt="" coords="1164,162,1364,203"/>
+<area shape="rect" id="node14" href="$de/dc5/namespacesmtrat.html#a64b620dfdae14ad60c20a1815801aabc" title="Replace square of variable (x_0^2) of a monomial (x_0^7) by a variable (z_0), create a linear monomia..." alt="" coords="896,103,1091,145"/>
+<area shape="rect" id="node12" href="$de/dc5/namespacesmtrat.html#a2d95754caf44fe1bbeab0116fd19f4a8" title="create a square of the variable" alt="" coords="1441,133,1667,160"/>
+<area shape="rect" id="node13" href="$de/dc5/namespacesmtrat.html#a140548b92af06bf059c6bff1d3493e9b" title=" " alt="" coords="1454,206,1654,247"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="carl::UnivariatePolynomial::total_degree" name="carl::UnivariatePolynomial::total_degree">
+<area shape="rect" id="node1" title="Returns the total degree of the polynomial, that is the maximum degree of any monomial." alt="" coords="5,39,200,80"/>
+<area shape="rect" id="node2" href="$d1/d57/a02543.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="248,5,443,47"/>
+<area shape="rect" id="node3" href="$d1/d57/a02543.html#a676912a6ec442e4c56b7ca3f6f388952" title="Checks if the polynomial is equal to zero." alt="" coords="248,71,443,112"/>
+</map>

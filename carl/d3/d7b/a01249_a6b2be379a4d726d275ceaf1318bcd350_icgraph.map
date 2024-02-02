@@ -1,0 +1,5 @@
+<map id="carl::vs::gather_zeros" name="carl::vs::gather_zeros">
+<area shape="rect" id="node1" title="Gathers zeros with side conditions from the given constraint in the given variable." alt="" coords="215,31,376,57"/>
+<area shape="rect" id="node2" href="$d3/d7b/a01249.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="5,5,167,32"/>
+<area shape="rect" id="node3" href="$d3/d7b/a01249.html#ad5b4aa3676afed7d74cc6829a9fa4d7f" title="Applies a substitution to a variable comparison." alt="" coords="15,56,157,83"/>
+</map>

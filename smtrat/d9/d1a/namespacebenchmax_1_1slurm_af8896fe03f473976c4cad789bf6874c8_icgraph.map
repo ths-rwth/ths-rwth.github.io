@@ -1,0 +1,4 @@
+<map id="benchmax::slurm::is_job_finished" name="benchmax::slurm::is_job_finished">
+<area shape="rect" id="node1" title="Checks if the given job is finished." alt="" coords="244,5,399,47"/>
+<area shape="rect" id="node2" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a33cf24e7711867083fbc3e719f40d32e" title=" " alt="" coords="5,5,196,47"/>
+</map>

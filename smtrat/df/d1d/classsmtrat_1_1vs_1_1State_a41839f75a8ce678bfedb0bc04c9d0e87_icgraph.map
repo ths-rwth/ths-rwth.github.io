@@ -1,0 +1,10 @@
+<map id="smtrat::vs::State::pFather" name="smtrat::vs::State::pFather">
+<area shape="rect" id="node1" title=" " alt="" coords="483,93,621,135"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac76830e243392cac2bd5a274b6fa404e" title="Checks whether the test candidate of this state is valid against the variable intervals in the father..." alt="" coords="208,5,435,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae88f3249e8c335de8e0b7f602d7d3e5e" title=" " alt="" coords="239,71,403,98"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a2f2da9262c05dd1bd023927904a80c9b" title=" " alt="" coords="252,123,391,164"/>
+<area shape="rect" id="node8" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a52345341b9e2b8f0906c0cfecba9a0d8" title="Determines (if it exists) a ancestor node, which is unfinished, that is it has still substitution res..." alt="" coords="248,188,395,229"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa4e25abeb10a5b63464fec9bb054a420" title="Adds a state as child to this state with the given substitution." alt="" coords="13,57,152,99"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="5,123,160,164"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aac0ab6c978037bbefa15b09dccfb3cb6" title="Updates the valuation of this state." alt="" coords="13,188,152,229"/>
+</map>

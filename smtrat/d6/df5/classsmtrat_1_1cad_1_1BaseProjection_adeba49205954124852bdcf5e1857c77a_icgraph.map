@@ -1,0 +1,3 @@
+<map id="smtrat::cad::BaseProjection::addEqConstraint" name="smtrat::cad::BaseProjection::addEqConstraint">
+<area shape="rect" id="node1" title="Adds the given polynomial of an equational constraint to the projection. Converts to a UPoly and call..." alt="" coords="5,29,207,71"/>
+</map>

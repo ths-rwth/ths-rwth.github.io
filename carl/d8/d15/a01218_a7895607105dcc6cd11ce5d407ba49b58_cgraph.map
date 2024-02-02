@@ -1,0 +1,52 @@
+<map id="carl::evaluate" name="carl::evaluate">
+<area shape="rect" id="node1" title="Return the emerging algebraic real after pluggin in a subpoint to replace all variables with algebrai..." alt="" coords="5,219,116,245"/>
+<area shape="rect" id="node2" href="$db/ddd/a02136.html#a5fc45685b48d62488b81d869f85c6d83" title="Return k, the index of the root." alt="" coords="171,101,349,128"/>
+<area shape="rect" id="node3" href="$db/ddd/a02136.html#ac02f6cc573a2e3e20323a3fe357b3eb0" title=" " alt="" coords="179,153,341,194"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#a4c9fd41cb4769195dc53b82315a31601" title="Find all real roots of a univariate &#39;polynomial&#39; with numeric coefficients within a given &#39;interval&#39;." alt="" coords="201,219,319,245"/>
+<area shape="rect" id="node44" href="$d8/d15/a01218.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="600,870,740,911"/>
+<area shape="rect" id="node50" href="$db/ddd/a02136.html#af057382c343485c5fae2c49ed4b0b65e" title=" " alt="" coords="164,327,356,353"/>
+<area shape="rect" id="node5" href="$d2/d4c/a02828.html#abfdf1afe71715532c869447c87d34d68" title="Compute and sort the roots of mPolynomial within mInterval." alt="" coords="404,196,549,252"/>
+<area shape="rect" id="node13" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="2077,352,2177,379"/>
+<area shape="rect" id="node6" href="$d2/d4c/a02828.html#aaab389347247d06dbdfd4bebad578d3a" title="Do actual root isolation." alt="" coords="597,257,743,313"/>
+<area shape="rect" id="node39" href="$d8/d15/a01218.html#af28aa46d7790188411b39e2f8f5e31f8" title="Try to factorize a multivariate polynomial." alt="" coords="602,149,738,176"/>
+<area shape="rect" id="node7" href="$d2/d4c/a02828.html#a8e775938fc5818967e7d25d1e2fced76" title="Check whether the interval bounds are roots." alt="" coords="1068,585,1247,641"/>
+<area shape="rect" id="node23" href="$d2/d4c/a02828.html#aaf4c64bfb6ed062c35b0f23a84b2e764" title="The sturm sequence for mPolynomial." alt="" coords="1572,257,1739,313"/>
+<area shape="rect" id="node25" href="$d2/d4c/a02828.html#ab65d46eaa4c842e22cfd6b24f0c13b84" title="Perform bisection." alt="" coords="813,651,975,707"/>
+<area shape="rect" id="node32" href="$d2/d4c/a02828.html#abf9aae59b8c3bbc48483e5308b1e3761" title="Directly solve low&#45;degree polynomials." alt="" coords="1335,408,1506,464"/>
+<area shape="rect" id="node36" href="$d2/d4c/a02828.html#adce23fb8a47cdca5a570b24116c28bf5" title="Use root bounds to shrink mInterval." alt="" coords="1574,177,1737,233"/>
+<area shape="rect" id="node8" href="$d2/d4c/a02828.html#aa6bb2ee1dd9bf8d79ff950f5bff80c18" title="Add a root to mRoots and simplify polynomial accordingly (essentially divide by x&#45;n)" alt="" coords="1348,604,1493,660"/>
+<area shape="rect" id="node21" href="$d8/d15/a01218.html#a73e8fe8276c8a276589e2e85537eecc4" title=" " alt="" coords="1825,751,1943,777"/>
+<area shape="rect" id="node9" href="$d8/d15/a01218.html#abf2880e7cb2a2c6c1d7585d9e031b40d" title="Reduces the polynomial such that the given root is not a root anymore." alt="" coords="1581,569,1730,596"/>
+<area shape="rect" id="node10" href="$d6/d24/a02536.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="2029,551,2224,593"/>
+<area shape="rect" id="node11" href="$d8/d15/a01218.html#af23c49e8aaf71ef5a8af7799ee239617" title="Reduces the given polynomial such that zero is not a root anymore." alt="" coords="1792,497,1976,524"/>
+<area shape="rect" id="node19" href="$d8/d15/a01218.html#a6aa5825a5dcfebf46047bb9ccd307025" title=" " alt="" coords="2071,660,2182,687"/>
+<area shape="rect" id="node12" href="$d6/d24/a02536.html#a61c640608d515e986f81c454662b35a5" title="Asserts that this polynomial over numeric coefficients complies with the requirements and assumptions..." alt="" coords="2029,486,2224,527"/>
+<area shape="rect" id="node14" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="2679,661,2801,702"/>
+<area shape="rect" id="node15" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="2850,559,2998,585"/>
+<area shape="rect" id="node17" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="2302,762,2425,803"/>
+<area shape="rect" id="node16" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="2849,668,2999,695"/>
+<area shape="rect" id="node18" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="2503,762,2631,803"/>
+<area shape="rect" id="node20" href="$db/d87/a02076.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="2272,660,2455,687"/>
+<area shape="rect" id="node22" href="$d8/d15/a01218.html#a950ad7b037cc356cc3dc210953f36804" title="Obtain the sign of the given number." alt="" coords="2088,751,2165,777"/>
+<area shape="rect" id="node24" href="$d6/d24/a02536.html#accdb1175f450706bdadd9c1bd670ee7c" title="Checks if zero is a real root of this polynomial." alt="" coords="1787,229,1981,270"/>
+<area shape="rect" id="node26" href="$d2/d4c/a02828.html#aa8812344d7630b3a48526b3347313619" title="Initialize the bisection queue using approximations." alt="" coords="1060,720,1255,776"/>
+<area shape="rect" id="node29" href="$d8/d15/a01218.html#a18dd7941a668a603002cfd4e1378f8ac" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="2075,953,2178,980"/>
+<area shape="rect" id="node30" href="$d8/d15/a01218.html#a2b67996a921127013a3a27bd69116994" title="Calculate the number of real roots of a polynomial within a given interval based on a sturm sequence ..." alt="" coords="1076,535,1239,561"/>
+<area shape="rect" id="node31" href="$d8/d15/a01218.html#a52242f9017e6b88f6007975126c7ad40" title="Counts the number of sign variations in the given object range." alt="" coords="1344,491,1497,517"/>
+<area shape="rect" id="node27" href="$d8/d15/a01218.html#ae782c428d5cfc0bd8cb885b25c25442d" title=" " alt="" coords="1359,735,1482,761"/>
+<area shape="rect" id="node28" href="$db/d1c/a01229.html#aafe1182c2f69616ed204fcaae7dc582a" title="Compute approximations of the real roots of the univariate polynomials with the given coefficients." alt="" coords="1341,786,1500,827"/>
+<area shape="rect" id="node33" href="$d2/d4c/a02828.html#a7f5264d7c960aba5ce7499dd876607b5" title=" " alt="" coords="1583,620,1728,676"/>
+<area shape="rect" id="node34" href="$d6/d24/a02536.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="2029,407,2224,449"/>
+<area shape="rect" id="node35" href="$d8/d15/a01218.html#a2390eba4928c3f6719aa25472db0b9e6" title="Compute square root in a fast but less precise way." alt="" coords="1600,519,1711,545"/>
+<area shape="rect" id="node37" href="$d8/d15/a01218.html#ad39ad79b773b9e5c6f397c629c751127" title=" " alt="" coords="1808,396,1960,423"/>
+<area shape="rect" id="node38" href="$d8/d15/a01218.html#a9e12491561bd080f9cf41abe12546611" title="Intersects two intervals in a set&#45;theoretic manner." alt="" coords="2284,261,2443,288"/>
+<area shape="rect" id="node40" href="$d0/d58/a01230.html#a1eb9193857ce1d44fdecdde0abd91536" title=" " alt="" coords="794,43,994,69"/>
+<area shape="rect" id="node42" href="$d0/d58/a01230.html#aa3ffdfd6102dc21fa073711d024bc1d8" title="Returns a factors datastructure containing only the full polynomial as single factor." alt="" coords="1045,93,1269,120"/>
+<area shape="rect" id="node43" href="$d4/db0/a02540.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="791,786,997,827"/>
+<area shape="rect" id="node41" href="$d8/d15/a01218.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="2526,508,2607,535"/>
+<area shape="rect" id="node45" href="$d4/db0/a02540.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="791,1073,997,1114"/>
+<area shape="rect" id="node49" href="$d8/d15/a01218.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="837,961,951,988"/>
+<area shape="rect" id="node46" href="$d4/db0/a02540.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="1054,1131,1261,1173"/>
+<area shape="rect" id="node48" href="$d3/d55/a02760.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="1077,1080,1237,1107"/>
+<area shape="rect" id="node47" href="$d4/db0/a02540.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="1317,1131,1524,1173"/>
+</map>

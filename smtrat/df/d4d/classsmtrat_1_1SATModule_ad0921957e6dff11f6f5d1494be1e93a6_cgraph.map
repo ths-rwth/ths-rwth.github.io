@@ -1,0 +1,10 @@
+<map id="smtrat::SATModule::SATModule" name="smtrat::SATModule::SATModule">
+<area shape="rect" id="node1" title="Constructs a SATModule." alt="" coords="5,93,160,135"/>
+<area shape="rect" id="node2" href="$d6/d0b/namespaceMinisat.html#ac9773caad1cf08d258dd7c18ab6eccf5" title=" " alt="" coords="411,63,525,90"/>
+<area shape="rect" id="node5" href="$df/d4d/classsmtrat_1_1SATModule.html#a741dfa21e5505d1c6db8463e7751cf1e" title="Creates a new SAT variable in the solver." alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node6" href="$de/dcd/classMinisat_1_1vec.html#adefffc8b68e094ac4f3f9770fe5222d2" title=" " alt="" coords="215,189,355,215"/>
+<area shape="rect" id="node7" href="$df/d4d/classsmtrat_1_1SATModule.html#a676e5cc7f5590067527b4abde47c3550" title="Enqueue a literal." alt="" coords="208,123,363,164"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespaceMinisat.html#ad12020b5bf6befcbd2ed73d63cbc26ee" title=" " alt="" coords="573,63,679,90"/>
+<area shape="rect" id="node4" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="577,165,675,191"/>
+<area shape="rect" id="node8" href="$d6/d0b/namespaceMinisat.html#a3c1683d5284bfbb44a2c15262fd5ea41" title=" " alt="" coords="414,165,522,191"/>
+</map>

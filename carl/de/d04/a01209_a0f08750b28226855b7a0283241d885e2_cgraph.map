@@ -1,0 +1,25 @@
+<map id="carl::gcd" name="carl::gcd">
+<area shape="rect" id="node1" title=" " alt="" coords="5,132,83,159"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a06f82f23ebc5f7c3cdd66b862e616e40" title=" " alt="" coords="154,52,314,79"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="407,92,507,119"/>
+<area shape="rect" id="node9" href="$d9/dc8/a02531.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="131,154,337,195"/>
+<area shape="rect" id="node10" href="$de/d04/a01209.html#af5e1df79ac9c986e518c5d772df3b392" title=" " alt="" coords="177,229,291,256"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1046,82,1169,123"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1237,5,1385,32"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="611,74,734,115"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1236,89,1385,116"/>
+<area shape="rect" id="node8" href="$df/d71/a02247.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="833,23,961,65"/>
+<area shape="rect" id="node11" href="$da/d37/a02787.html#a59a738c0abc610cd9b4ddbe2555c4af0" title=" " alt="" coords="385,251,529,277"/>
+<area shape="rect" id="node12" href="$de/d04/a01209.html#aa19fe29df8e7d5a732333423ce74acf6" title=" " alt="" coords="404,305,511,332"/>
+<area shape="rect" id="node22" href="$de/d04/a01209.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="400,200,515,227"/>
+<area shape="rect" id="node13" href="$d8/df3/a01216.html#a0e1875df6d0e8c42efbaf5d5574876d6" title=" " alt="" coords="577,311,768,337"/>
+<area shape="rect" id="node14" href="$de/d04/a01209.html#a5c205dc504d657271c884a200a13b2d9" title=" " alt="" coords="858,453,937,480"/>
+<area shape="rect" id="node18" href="$d7/d69/a02783.html#a38965085a6b18ed80a6011d44fdc9987" title=" " alt="" coords="816,191,979,233"/>
+<area shape="rect" id="node19" href="$d7/d69/a02783.html#ae5a451621988dccb3706a5e877ca1b64" title=" " alt="" coords="825,257,969,298"/>
+<area shape="rect" id="node20" href="$d7/d69/a02783.html#ae422960a1142381629df98a5da39f35e" title=" " alt="" coords="827,322,967,363"/>
+<area shape="rect" id="node21" href="$d7/d69/a02783.html#abe0f5032c87ae2b8101733d61a141f48" title=" " alt="" coords="821,387,974,429"/>
+<area shape="rect" id="node15" href="$df/d71/a02247.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="1027,512,1188,539"/>
+<area shape="rect" id="node16" href="$df/d71/a02247.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="1033,381,1181,422"/>
+<area shape="rect" id="node17" href="$df/d71/a02247.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="1033,446,1182,487"/>
+<area shape="rect" id="node23" href="$d4/daa/a02067.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="581,200,764,227"/>
+</map>

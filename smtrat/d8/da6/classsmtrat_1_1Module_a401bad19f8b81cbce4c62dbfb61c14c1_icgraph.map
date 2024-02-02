@@ -1,0 +1,4 @@
+<map id="smtrat::Module::getModelEqualities" name="smtrat::Module::getModelEqualities">
+<area shape="rect" id="node1" title="Partition the variables from the current model into equivalence classes according to their assigned v..." alt="" coords="252,5,443,47"/>
+<area shape="rect" id="node2" href="$d0/df0/classsmtrat_1_1Manager.html#a8c930cba39020d60a90e96710fba7ad7" title="Determines variables assigned by the currently found satisfying assignment to an equal value in their..." alt="" coords="5,5,204,47"/>
+</map>

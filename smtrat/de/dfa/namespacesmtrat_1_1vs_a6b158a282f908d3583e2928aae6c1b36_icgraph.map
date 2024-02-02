@@ -1,0 +1,8 @@
+<map id="smtrat::vs::substituteNotTrivialCase" name="smtrat::vs::substituteNotTrivialCase">
+<area shape="rect" id="node1" title="Deals with the case, that the left hand side of the constraint to substitute is not a trivial polynom..." alt="" coords="1189,89,1373,131"/>
+<area shape="rect" id="node2" href="$de/dfa/namespacesmtrat_1_1vs.html#a5d17432bdaa1b3d8ec829b0fa0b69c09" title=" " alt="" coords="963,71,1141,98"/>
+<area shape="rect" id="node6" href="$de/dfa/namespacesmtrat_1_1vs.html#a9f7a787fa6f9bbf81d26eb077615ed6c" title=" " alt="" coords="5,71,216,98"/>
+<area shape="rect" id="node3" href="$de/dfa/namespacesmtrat_1_1vs.html#ab5d22b2a12ac6d38989044aa031eda02" title=" " alt="" coords="753,46,915,73"/>
+<area shape="rect" id="node4" href="$de/dfa/namespacesmtrat_1_1vs.html#a35b39be98c4a2280062e525a80df24ba" title=" " alt="" coords="496,21,705,47"/>
+<area shape="rect" id="node5" href="$de/dfa/namespacesmtrat_1_1vs.html#a4c0c28dad9c60e3264a4544af563799b" title=" " alt="" coords="264,5,448,47"/>
+</map>

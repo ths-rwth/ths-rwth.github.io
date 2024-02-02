@@ -1,0 +1,4 @@
+<map id="smtrat::mcsat::onecellcad::OneCellCAD::vanishesEarly" name="smtrat::mcsat::onecellcad::OneCellCAD::vanishesEarly">
+<area shape="rect" id="node1" title="Check if an n&#45;variate &#39;poly&#39; p(x1,..,xn) with n&gt;=1 already becomes the zero poly after plugging in p(..." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#ac7402bf951f56bd98143f7cde7c43fc9" title="Create a mapping from the first variables (with index 0 to &#39;componentCount&#39;) in the &#39;variableOrder&#39; t..." alt="" coords="261,5,512,47"/>
+</map>

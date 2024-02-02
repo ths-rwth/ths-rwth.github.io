@@ -1,0 +1,11 @@
+<map id="smtrat::STropModule::updateModel" name="smtrat::STropModule::updateModel">
+<area shape="rect" id="node1" title="Updates the current assignment into the model." alt="" coords="5,79,161,121"/>
+<area shape="rect" id="node2" href="$d9/d9c/namespacesmtrat_1_1lra.html#a6f07c38ecba22454ac6d5c59cee8f1e1" title="Calculates the absolute value of the given Numeric." alt="" coords="596,5,717,32"/>
+<area shape="rect" id="node4" href="$d9/d9c/namespacesmtrat_1_1lra.html#ade6193ddbad1d1c6a43da2591a1c2e3e" title="Calculates the greatest common divisor of the two arguments." alt="" coords="209,87,331,113"/>
+<area shape="rect" id="node9" href="$d6/d0b/namespaceMinisat.html#ad12020b5bf6befcbd2ed73d63cbc26ee" title=" " alt="" coords="217,137,323,164"/>
+<area shape="rect" id="node3" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#a123d57c87eba110786852a222651a1f1" title=" " alt="" coords="781,78,935,119"/>
+<area shape="rect" id="node5" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#a4b352eb38cbda49dbe3742ad653223c8" title=" " alt="" coords="379,167,532,209"/>
+<area shape="rect" id="node8" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#a9b2a5ab648dc1f49ace5c1c49fb40807" title=" " alt="" coords="379,50,532,91"/>
+<area shape="rect" id="node6" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#afaa878116e8e691ea1645cf439f992af" title=" " alt="" coords="580,167,733,209"/>
+<area shape="rect" id="node7" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#ad323e220c1985d3c2af642de39957d3b" title="Default constructor." alt="" coords="781,167,935,209"/>
+</map>

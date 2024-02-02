@@ -1,0 +1,7 @@
+<map id="delta::Consumer::consume" name="delta::Consumer::consume">
+<area shape="rect" id="node1" title="Initiate asynchronous check for the given node." alt="" coords="5,33,201,60"/>
+<area shape="rect" id="node2" href="$d4/dff/classdelta_1_1Consumer.html#a695d3f487e255355057e75ad5036c4c1" title="Checks if at least one job was successful." alt="" coords="512,5,713,32"/>
+<area shape="rect" id="node3" href="$d4/dff/classdelta_1_1Consumer.html#ac01d93c3f6ad9dba72c09ebf646ab0dc" title="Calls the checker and checks the result." alt="" coords="249,55,439,97"/>
+<area shape="rect" id="node4" href="$d2/d5d/classdelta_1_1TempFilenameGenerator.html#a7e147514277cb4fc82a2be4d971aa4d4" title="Retrieve a filename for a temporary file that is not in use." alt="" coords="487,60,739,87"/>
+<area shape="rect" id="node5" href="$d2/d5d/classdelta_1_1TempFilenameGenerator.html#ac4b51fa8d516d851a45fc76f8772df87" title="Returns a filename to the pool of available filenames." alt="" coords="487,111,739,137"/>
+</map>

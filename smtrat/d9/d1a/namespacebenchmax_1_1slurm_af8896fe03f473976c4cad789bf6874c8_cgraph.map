@@ -1,0 +1,4 @@
+<map id="benchmax::slurm::is_job_finished" name="benchmax::slurm::is_job_finished">
+<area shape="rect" id="node1" title="Checks if the given job is finished." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$d0/d1d/namespacebenchmax.html#a39df508bcba44e06344e26e8c2335a3b" title="Runs an external program from some command line and records the output to stdout." alt="" coords="208,13,391,39"/>
+</map>

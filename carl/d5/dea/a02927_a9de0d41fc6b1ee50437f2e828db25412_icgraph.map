@@ -1,0 +1,14 @@
+<map id="carl::Bitset::set" name="carl::Bitset::set">
+<area shape="rect" id="node1" title="Sets the given bit to a value, true by default." alt="" coords="701,180,821,207"/>
+<area shape="rect" id="node2" href="$d5/dea/a02927.html#a21db4d4e215a91f580aa69bb245dd9c8" title="Create a bitset from a list of bits indices that shall be set to true." alt="" coords="497,5,635,32"/>
+<area shape="rect" id="node3" href="$de/d34/a01261.html#a57d4a1446a668ea55a101a9882a5ac20" title=" " alt="" coords="479,107,653,149"/>
+<area shape="rect" id="node5" href="$d1/d89/a03035.html#aad45082b56debee194062ec06fc1b914" title=" " alt="" coords="501,56,631,83"/>
+<area shape="rect" id="node8" href="$de/d34/a01261.html#a1ece576470279cbf50ddf89fc6b2b7fb" title="Simple greedy heuristic: Selects the largest remaining set until all elements are covered." alt="" coords="479,173,653,214"/>
+<area shape="rect" id="node9" href="$de/d34/a01261.html#aba80b7d172221b391822fae3a725ca1a" title="Bounded greedy heuristic: Selects the largest remaining set until at most bound constraints remain." alt="" coords="479,238,653,279"/>
+<area shape="rect" id="node10" href="$de/d34/a01261.html#a8d4f5be8079bd0192c3906839256f787" title="Weighted greedy heuristic: Selects the largest remaining set according to the given weight function u..." alt="" coords="479,369,653,410"/>
+<area shape="rect" id="node12" href="$de/d34/a01261.html#aee6074be8f0993e006d7db19a58e6c07" title="Preprocessing heuristic: Selects essential sets which are the only once covering some element." alt="" coords="479,303,653,345"/>
+<area shape="rect" id="node4" href="$de/d34/a01261.html#a5236c274a6413fb18713a3df16c57339" title="Exact &quot;heuristic&quot;: Computes a minimum set cover." alt="" coords="256,209,431,250"/>
+<area shape="rect" id="node6" href="$d9/dca/a01879.html#aa360c866e534838c1e4e98b6c444f51d" title=" " alt="" coords="270,49,417,90"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#a516e5ef13acc8fcb8db09ff2cc90d69f" title=" " alt="" coords="5,56,208,83"/>
+<area shape="rect" id="node11" href="$de/d34/a01261.html#ac02192f0db3b2927064ab23b4716f9ae" title="Weighted greedy heuristic: Selects the largest remaining set according to the given weight function u..." alt="" coords="256,369,431,410"/>
+</map>

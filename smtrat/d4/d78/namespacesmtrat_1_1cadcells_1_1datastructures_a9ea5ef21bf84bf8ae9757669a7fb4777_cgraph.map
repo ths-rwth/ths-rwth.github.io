@@ -1,0 +1,6 @@
+<map id="smtrat::cadcells::datastructures::operator&lt;&lt;" name="smtrat::cadcells::datastructures::operator&lt;&lt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,233,112"/>
+<area shape="rect" id="node2" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a37424763dbaf213a9a15cd3e0d15b47e" title="The set of polynomials without roots." alt="" coords="281,5,509,47"/>
+<area shape="rect" id="node3" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9fd0790e836a10dd37c51954e97e3359" title="The set of nullified polynomials." alt="" coords="281,71,509,112"/>
+<area shape="rect" id="node4" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="281,136,509,177"/>
+</map>

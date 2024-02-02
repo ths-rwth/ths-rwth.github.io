@@ -1,0 +1,19 @@
+var a02786 =
+[
+    [ "VarInfo", "de/d69/a02786.html#a86e72a70ab68834c1aab23c7909a5ab9", null ],
+    [ "VarInfo", "de/d69/a02786.html#ac23928377e667bfc081a9f9807b43405", null ],
+    [ "VarInfo", "de/d69/a02786.html#a1f48847669b04142edec37445ac624a2", null ],
+    [ "coeffs", "de/d69/a02786.html#a6c186e9bc2b82de321badb35dfbc64c8", null ],
+    [ "has_coeff", "de/d69/a02786.html#a2c6f1f30697280543195015ddea2099a", null ],
+    [ "increase_num_occurences", "de/d69/a02786.html#a38965085a6b18ed80a6011d44fdc9987", null ],
+    [ "lower_min_degree", "de/d69/a02786.html#ae5a451621988dccb3706a5e877ca1b64", null ],
+    [ "max_degree", "de/d69/a02786.html#a0586bfb0a13d3138d5b1709fdf0d4fa7", null ],
+    [ "min_degree", "de/d69/a02786.html#a2c247c208517e3c8f07b6098ea4a1dab", null ],
+    [ "num_occurences", "de/d69/a02786.html#a766f51f0afd01ef72588f796b214ee75", null ],
+    [ "raise_max_degree", "de/d69/a02786.html#ae422960a1142381629df98a5da39f35e", null ],
+    [ "update_coeff", "de/d69/a02786.html#abe0f5032c87ae2b8101733d61a141f48", null ],
+    [ "m_coeffs", "de/d69/a02786.html#a4253244bc99580c56e211b1e5e258c4f", null ],
+    [ "m_max_degree", "de/d69/a02786.html#adb0d918a9cd2a7249a73636a230aab1b", null ],
+    [ "m_min_degree", "de/d69/a02786.html#aeb015ee87b20033d39083aff77019d7e", null ],
+    [ "m_num_occurences", "de/d69/a02786.html#a7356178cea3fcb0052fa3af1c9db8019", null ]
+];

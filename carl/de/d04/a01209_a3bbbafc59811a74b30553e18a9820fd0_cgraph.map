@@ -1,0 +1,20 @@
+<map id="carl::operator&lt;" name="carl::operator&lt;">
+<area shape="rect" id="node1" title="Checks if the first arguments is less than the second." alt="" coords="5,290,125,317"/>
+<area shape="rect" id="node2" href="$d9/dc8/a02531.html#a53849432ef8cebc9000f009bfacd4e12" title="Retrieve the constant term of this polynomial or zero, if there is no constant term." alt="" coords="173,100,380,142"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="227,166,327,193"/>
+<area shape="rect" id="node9" href="$d9/dc8/a02531.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="173,218,380,259"/>
+<area shape="rect" id="node11" href="$d9/dc8/a02531.html#a19781edb1c8e3f1da442b667f911fd79" title="Ensure that the terms are ordered." alt="" coords="173,283,380,324"/>
+<area shape="rect" id="node16" href="$d9/dc8/a02531.html#a5a7bd22cd4e9774f66f208649ada5581" title=" " alt="" coords="173,348,380,390"/>
+<area shape="rect" id="node17" href="$d9/dc8/a02531.html#a780bb9ff8aa2bb57c56fe5819166b3d0" title=" " alt="" coords="173,414,380,455"/>
+<area shape="rect" id="node18" href="$d9/dc8/a02531.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="173,479,380,520"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="891,75,1013,116"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1062,28,1210,54"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="486,100,609,142"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1061,82,1211,109"/>
+<area shape="rect" id="node8" href="$df/d71/a02247.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="715,100,843,142"/>
+<area shape="rect" id="node10" href="$d9/dc8/a02531.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="444,218,651,259"/>
+<area shape="rect" id="node12" href="$d9/dc8/a02531.html#a7d95986fe5208dd61fdb19619313fc2b" title=" " alt="" coords="444,283,651,324"/>
+<area shape="rect" id="node13" href="$d9/dc8/a02531.html#aebe96c9c6da14f657d630e2d19c87ca1" title=" " alt="" coords="428,349,667,376"/>
+<area shape="rect" id="node14" href="$d9/dc8/a02531.html#a1d4e2e30a85aef628556fe2f7b0cd309" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="444,400,651,442"/>
+<area shape="rect" id="node15" href="$d9/dc8/a02531.html#ac33116e84151978e283bd1556d97d062" title="Check if the terms are ordered." alt="" coords="444,466,651,507"/>
+</map>

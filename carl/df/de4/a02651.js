@@ -1,0 +1,6 @@
+var a02651 =
+[
+    [ "Chebyshev", "df/de4/a02651.html#ae6721a538cfe4cac9bb19b664d1d7173", null ],
+    [ "operator()", "df/de4/a02651.html#a6e20215430a7e2c564c5e809b171a054", null ],
+    [ "mVar", "df/de4/a02651.html#a8dac569a32b585259c24e3f5677dc4bd", null ]
+];

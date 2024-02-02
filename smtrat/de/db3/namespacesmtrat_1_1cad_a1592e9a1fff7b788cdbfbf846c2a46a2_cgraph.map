@@ -1,0 +1,5 @@
+<map id="smtrat::cad::operator&lt;&lt;" name="smtrat::cad::operator&lt;&lt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,187,57"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="235,5,469,32"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="237,56,467,83"/>
+</map>

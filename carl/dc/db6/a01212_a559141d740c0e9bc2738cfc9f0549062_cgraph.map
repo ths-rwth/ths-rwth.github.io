@@ -1,0 +1,10 @@
+<map id="carl::is_integer" name="carl::is_integer">
+<area shape="rect" id="node1" title=" " alt="" coords="5,67,124,94"/>
+<area shape="rect" id="node2" href="$dc/d40/a02767.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="172,31,359,72"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#ab58d55dada3f8e62b64b204197bcbdc9" title=" " alt="" coords="206,97,325,123"/>
+<area shape="rect" id="node4" href="$d1/d0c/a02251.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="407,60,529,101"/>
+<area shape="rect" id="node7" href="$d1/d0c/a02251.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="925,122,1073,149"/>
+<area shape="rect" id="node5" href="$d1/d0c/a02251.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="577,5,705,47"/>
+<area shape="rect" id="node6" href="$d1/d0c/a02251.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="753,60,876,101"/>
+<area shape="rect" id="node8" href="$d1/d0c/a02251.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="924,67,1073,94"/>
+</map>

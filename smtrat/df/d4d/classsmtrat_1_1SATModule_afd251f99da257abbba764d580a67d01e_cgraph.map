@@ -1,0 +1,6 @@
+<map id="smtrat::SATModule::addClause_" name="smtrat::SATModule::addClause_">
+<area shape="rect" id="node1" title=" " alt="" coords="5,64,160,105"/>
+<area shape="rect" id="node2" href="$df/d4d/classsmtrat_1_1SATModule.html#ae0b6278c80e2ebedf616455fde82d7f3" title="Adds the clause of the given type with the given literals to the clauses managed by Minisat." alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node3" href="$de/dcd/classMinisat_1_1vec.html#aaa99b25f8394ff10e40f27ee15106490" title=" " alt="" coords="219,71,352,98"/>
+<area shape="rect" id="node4" href="$de/dcd/classMinisat_1_1vec.html#a97cf3ce028b39491e502479e78e8dd77" title=" " alt="" coords="218,122,353,149"/>
+</map>

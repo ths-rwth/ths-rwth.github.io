@@ -1,0 +1,9 @@
+<map id="smtrat::vs::State::bestCondition" name="smtrat::vs::State::bestCondition">
+<area shape="rect" id="node1" title="Determines the most adequate condition and in it the most adequate variable in the state to generate ..." alt="" coords="5,136,144,177"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae972a4958673a15faab2093eb12dbf82" title=" " alt="" coords="202,5,341,47"/>
+<area shape="rect" id="node3" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#ad39fb0424056d074c58905574768ef83" title=" " alt="" coords="192,71,351,112"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a69e810c5e927862cc361ccded073ed62" title=" " alt="" coords="202,136,341,177"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09e850d5fd674de1644036c9b1cbf256" title=" " alt="" coords="202,201,341,243"/>
+<area shape="rect" id="node6" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#a64c716284cd94bcc74504373a94ff11f" title="Valuates the constraint according to a variable (it possibly not contains)." alt="" coords="192,267,351,308"/>
+<area shape="rect" id="node7" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#a3bc94800613870bf9929916a4056da5f" title=" " alt="" coords="399,267,557,308"/>
+</map>

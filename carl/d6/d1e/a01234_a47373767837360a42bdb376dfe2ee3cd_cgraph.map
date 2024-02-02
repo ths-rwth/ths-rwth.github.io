@@ -1,0 +1,7 @@
+<map id="carl::covering::heuristic::trivial" name="carl::covering::heuristic::trivial">
+<area shape="rect" id="node1" title="Trivial heuristic: select all sets." alt="" coords="5,35,180,76"/>
+<area shape="rect" id="node2" href="$d5/ddf/a03211.html#abb06e846629c4b044adb91d93c7573cc" title="Returns the number of sets." alt="" coords="228,5,405,47"/>
+<area shape="rect" id="node3" href="$d6/deb/a02915.html#af5469c6d055d9d12cc9b2f98dd9d02c0" title="Sets the a range of bits to a value, true by default." alt="" coords="228,71,405,98"/>
+<area shape="rect" id="node4" href="$d6/deb/a02915.html#a17e8c2d1d89e86f0ef565a33677f3ceb" title="Returns an past&#45;the&#45;end iterator." alt="" coords="477,46,601,73"/>
+<area shape="rect" id="node5" href="$d6/deb/a02915.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="453,97,624,123"/>
+</map>

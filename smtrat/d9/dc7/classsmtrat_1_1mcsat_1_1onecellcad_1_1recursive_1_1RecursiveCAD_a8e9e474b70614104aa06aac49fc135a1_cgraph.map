@@ -1,0 +1,6 @@
+<map id="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::hasPolyLastVariableRootWithinBounds" name="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::hasPolyLastVariableRootWithinBounds">
+<area shape="rect" id="node1" title="Check if there is a root of the given polynomial—that becomes univariate after pluggin in all but the..." alt="" coords="5,20,287,76"/>
+<area shape="rect" id="node2" href="$de/db3/namespacesmtrat_1_1cad.html#a8fce27ec38df07c56f817ef2e6ebb364" title=" " alt="" coords="390,5,558,32"/>
+<area shape="rect" id="node3" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#a61f3f6df722e6c1c35112a10bf7e400e" title="src/lib/datastructures/mcsat/onecellcad/OneCellCAD.h Given a poly p(x1,..,xn), return all roots of th..." alt="" coords="335,57,613,98"/>
+<area shape="rect" id="node4" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#ac7402bf951f56bd98143f7cde7c43fc9" title="Create a mapping from the first variables (with index 0 to &#39;componentCount&#39;) in the &#39;variableOrder&#39; t..." alt="" coords="661,57,912,98"/>
+</map>

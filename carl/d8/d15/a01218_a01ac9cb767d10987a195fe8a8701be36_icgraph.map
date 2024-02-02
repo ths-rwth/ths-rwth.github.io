@@ -1,0 +1,25 @@
+<map id="carl::content" name="carl::content">
+<area shape="rect" id="node1" title="The content of a polynomial is the gcd of the coefficients of the normal part of a polynomial." alt="" coords="872,415,975,442"/>
+<area shape="rect" id="node2" href="$d8/dbb/a03480.html#adf5ff00adea4c00eb9f12a5f2f1720cc" title=" " alt="" coords="654,87,799,128"/>
+<area shape="rect" id="node6" href="$d8/dbb/a03480.html#a90c38de1c71d7113fcf2de857ff4a7cb" title=" " alt="" coords="417,149,563,191"/>
+<area shape="rect" id="node12" href="$d8/dbb/a03480.html#aa19a68d3e46bd34c85c599e66e7f8bfa" title=" " alt="" coords="417,233,563,275"/>
+<area shape="rect" id="node13" href="$d8/d15/a01218.html#ab4b53651486fd873110b81e60b5a6ad3" title=" " alt="" coords="663,258,791,285"/>
+<area shape="rect" id="node14" href="$d4/dc8/a03024.html#a8980330dc322db41d8ad9ed2a9731fe4" title=" " alt="" coords="629,309,824,351"/>
+<area shape="rect" id="node15" href="$d7/d98/a03044.html#a0cb3ebe49898cf82e56bac8703b841df" title=" " alt="" coords="639,375,814,416"/>
+<area shape="rect" id="node16" href="$db/d59/a02728.html#a99a7747e8986cb3e86e53ad0ab2b979f" title=" " alt="" coords="631,440,822,481"/>
+<area shape="rect" id="node17" href="$d7/deb/a02724.html#add2ddfb7142df6ce5653c676d8ec9fb1" title=" " alt="" coords="629,505,824,547"/>
+<area shape="rect" id="node18" href="$d8/d15/a01218.html#ac2b216eaf8da91b9a816264e3e0a95aa" title="Computes the GCD of two univariate polynomial with coefficients from a unique factorization domain us..." alt="" coords="399,593,581,619"/>
+<area shape="rect" id="node21" href="$d8/d15/a01218.html#ace1a47f6aa4103ee2d421fa561e13877" title="The primitive part of p is the normal part of p divided by the content of p." alt="" coords="653,622,800,649"/>
+<area shape="rect" id="node22" href="$d0/d67/a01232.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="411,655,569,696"/>
+<area shape="rect" id="node23" href="$d8/d15/a01218.html#a29b8a01afc117caa10b644ff192186e2" title=" " alt="" coords="667,723,786,750"/>
+<area shape="rect" id="node3" href="$d8/dbb/a03480.html#a8c6c67379bcfdc171380a9d84d0403a0" title=" " alt="" coords="417,9,563,51"/>
+<area shape="rect" id="node5" href="$d8/dbb/a03480.html#a026e40fc999521e4df130d7f2a1eecd9" title="Adds a sort declaration." alt="" coords="417,84,563,125"/>
+<area shape="rect" id="node4" href="$d8/dbb/a03480.html#ac5c8f450a1a2b923a16d3bc9b740bd02" title=" " alt="" coords="202,5,347,47"/>
+<area shape="rect" id="node7" href="$d8/d15/a01218.html#a327d66c395c2f9db6c50b3018652ba27" title="Gets the sort specified by the arguments." alt="" coords="224,71,325,98"/>
+<area shape="rect" id="node8" href="$d8/dbb/a03480.html#a28038a8fff52c63d49d6fe62c3ccb395" title="Gets the sort with arity greater than zero corresponding the given name and having the arguments of t..." alt="" coords="5,144,151,185"/>
+<area shape="rect" id="node9" href="$d8/dbb/a03480.html#a3b249d6a471432466b55779eb3e008e6" title=" " alt="" coords="202,239,347,280"/>
+<area shape="rect" id="node11" href="$d8/dbb/a03480.html#a164c068c0f6928e3b979e51e9409b193" title="Recursively replaces sorts within the given sort according to the mapping of sort names to sorts as d..." alt="" coords="202,173,347,215"/>
+<area shape="rect" id="node10" href="$d8/dbb/a03480.html#af5d3655e50bdd8730e5a6882611b99f2" title=" " alt="" coords="5,239,151,280"/>
+<area shape="rect" id="node19" href="$d0/d88/a01231.html#a4fea6065a4a0696ca75fac75e7d6ccd2" title=" " alt="" coords="199,585,351,627"/>
+<area shape="rect" id="node20" href="$d8/d15/a01218.html#af5dd729b6f9a5bb6abbf84261214ef0b" title=" " alt="" coords="39,593,117,619"/>
+</map>

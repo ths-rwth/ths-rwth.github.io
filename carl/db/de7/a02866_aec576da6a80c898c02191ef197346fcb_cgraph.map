@@ -1,0 +1,19 @@
+<map id="carl::GroebnerBase::reduce" name="carl::GroebnerBase::reduce">
+<area shape="rect" id="node1" title=" " alt="" coords="5,165,152,207"/>
+<area shape="rect" id="node2" href="$d4/d5b/a02238.html#a3d516020e3dc295520570680fecef702" title="Uses the ideal to reduce a polynomial as far as possible." alt="" coords="200,173,389,199"/>
+<area shape="rect" id="node3" href="$d6/d41/a02930.html#ac7c9a53b2fae27b4f10acd9484edc7f2" title=" " alt="" coords="443,147,596,174"/>
+<area shape="rect" id="node4" href="$d4/d5b/a02238.html#af8fc2542f3a78c6ac32ce0e0e664d515" title="The basic reduce routine on a priority queue." alt="" coords="437,198,601,225"/>
+<area shape="rect" id="node5" href="$d6/d41/a02930.html#a3f90dfe263ad840f3269921c83f12cba" title=" " alt="" coords="676,5,856,47"/>
+<area shape="rect" id="node6" href="$d2/d83/a02754.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="703,71,829,98"/>
+<area shape="rect" id="node7" href="$dd/d67/a02230.html#abdceb8b916f3fe7e9a598d0af2282e53" title=" " alt="" coords="685,122,847,149"/>
+<area shape="rect" id="node8" href="$d4/d5b/a02238.html#afa27dbe57cdb1348491fbc2b104cf4b3" title=" " alt="" coords="687,391,845,418"/>
+<area shape="rect" id="node9" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="931,223,1031,250"/>
+<area shape="rect" id="node15" href="$d2/d83/a02754.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="686,274,846,301"/>
+<area shape="rect" id="node16" href="$d9/d8d/a02154.html#a046c02905cd708c0ff4268edda8597f2" title=" " alt="" coords="669,325,863,367"/>
+<area shape="rect" id="node17" href="$d4/d5b/a02238.html#af185526c0e93a834b4d5c22bdb189672" title="A small routine which updates the underlying data structure for the polynomial which is reduced." alt="" coords="649,223,883,250"/>
+<area shape="rect" id="node10" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1425,249,1548,291"/>
+<area shape="rect" id="node11" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1597,202,1745,229"/>
+<area shape="rect" id="node13" href="$dc/d5a/a02254.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="1079,275,1201,316"/>
+<area shape="rect" id="node12" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1596,257,1745,283"/>
+<area shape="rect" id="node14" href="$dc/d5a/a02254.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1249,275,1377,316"/>
+</map>

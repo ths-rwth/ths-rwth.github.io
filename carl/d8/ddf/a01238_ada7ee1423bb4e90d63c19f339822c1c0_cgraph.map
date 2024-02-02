@@ -1,0 +1,39 @@
+<map id="carl::formula_to_cnf::to_cnf_or" name="carl::formula_to_cnf::to_cnf_or">
+<area shape="rect" id="node1" title="Converts an OR to cnf." alt="" coords="5,629,157,671"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a1bd60982c643cabb2176637bffcd9c8c" title="Adds the bound to the bounds of the polynomial specified by this constraint." alt="" coords="225,223,412,250"/>
+<area shape="rect" id="node11" href="$d4/d90/a03355.html#afd0135b2bf586c722f000ebdf2d00a7d" title=" " alt="" coords="245,1091,392,1118"/>
+<area shape="rect" id="node15" href="$dc/dab/a01237.html#a11ca97d11b7cd21d771432a2d541bd8e" title="[Auxiliary method]" alt="" coords="205,368,432,409"/>
+<area shape="rect" id="node18" href="$d4/de4/a03031.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="731,713,929,755"/>
+<area shape="rect" id="node19" href="$de/d04/a01209.html#a5f1a64253acd26abf86746b7a42d27d0" title="Resolves the outermost negation of this formula." alt="" coords="235,746,402,773"/>
+<area shape="rect" id="node37" href="$de/d04/a01209.html#a050dce9a162834191defb17ff3b185e8" title="Stores for every polynomial for which we determined bounds for given constraints a minimal set of con..." alt="" coords="217,1142,420,1169"/>
+<area shape="rect" id="node3" href="$d4/d90/a03355.html#a53bd8ddccffcf3b3d3fefd25038e404a" title=" " alt="" coords="491,375,671,402"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#ab3d32415866c01c32423ce682ccb0f95" title="Inverts the given relation symbol." alt="" coords="530,426,633,453"/>
+<area shape="rect" id="node5" href="$d5/d8f/a03255.html#aa6fc348f957c119c141dca7023e71e7c" title="Checks, whether the constraint is consistent." alt="" coords="511,5,651,47"/>
+<area shape="rect" id="node6" href="$d5/d8f/a03255.html#af0f508ad01d4ecf555b73e081ec2fde4" title=" " alt="" coords="507,122,655,149"/>
+<area shape="rect" id="node7" href="$d5/d8f/a03255.html#ae1d7f939c36f2a4ade2bd3645f7aa23b" title=" " alt="" coords="492,173,671,199"/>
+<area shape="rect" id="node8" href="$d4/d90/a03355.html#a042a19725b088992986aa971643eca50" title=" " alt="" coords="487,325,676,351"/>
+<area shape="rect" id="node9" href="$de/d04/a01209.html#abb1ee42f37c1fb3f6a66ab16bc3d5f75" title="Turns around the given relation symbol, in the sense that LESS (LEQ) and GREATER (GEQ) are swapped." alt="" coords="515,71,647,98"/>
+<area shape="rect" id="node10" href="$d4/d90/a03355.html#aa2dd63967bd8947d5bd74af386ea427c" title=" " alt="" coords="509,223,653,250"/>
+<area shape="rect" id="node12" href="$d4/d90/a03355.html#ac7ddb7da295e722bdf3f1c45f3fd1fd1" title=" " alt="" coords="512,1386,651,1413"/>
+<area shape="rect" id="node13" href="$d4/d90/a03355.html#add50b2fd9e8fd619e82f407ac42661dc" title=" " alt="" coords="489,1437,674,1479"/>
+<area shape="rect" id="node14" href="$d4/d90/a03355.html#a4e76482f1e3e340a98692a14644f3263" title=" " alt="" coords="747,1445,913,1471"/>
+<area shape="rect" id="node16" href="$d4/d90/a03355.html#a209cee783ef616c53e2bc712cf3cbb44" title=" " alt="" coords="749,375,911,402"/>
+<area shape="rect" id="node17" href="$d4/d90/a03355.html#a6052f4236f00b93b4c6c949eba4c7194" title=" " alt="" coords="483,477,679,503"/>
+<area shape="rect" id="node20" href="$d4/d90/a03355.html#a8cde8842ab1c4e3294646f46c3e8c84b" title=" " alt="" coords="480,1066,683,1093"/>
+<area shape="rect" id="node21" href="$d4/d90/a03355.html#a1d54fe5bc44781c0d1a78c7c760153c8" title=" " alt="" coords="489,1117,673,1143"/>
+<area shape="rect" id="node22" href="$d8/dbf/a03275.html#abe12d7e2bbfb9e8c9010478226610e3d" title=" " alt="" coords="512,1168,651,1209"/>
+<area shape="rect" id="node25" href="$d4/d90/a03355.html#a6bace452e2223914fc9f07ae0de96dab" title=" " alt="" coords="493,1234,670,1261"/>
+<area shape="rect" id="node26" href="$d8/dbf/a03275.html#a523f74cfa684ecaf94a7f4992704839e" title=" " alt="" coords="498,1285,665,1311"/>
+<area shape="rect" id="node27" href="$d1/def/a03475.html#a9f67bae07223823cd1beec7d7ec5d93b" title=" " alt="" coords="510,1335,653,1362"/>
+<area shape="rect" id="node28" href="$d1/def/a03475.html#a8452c937ab0b63620bd90ad030e993b9" title=" " alt="" coords="493,578,670,605"/>
+<area shape="rect" id="node29" href="$d4/d90/a03355.html#a19e2a704b518137aa3a950b2448bedfe" title=" " alt="" coords="497,629,665,655"/>
+<area shape="rect" id="node30" href="$d8/dbf/a03275.html#aa026430a6a238a46c06e8f2e1687fa26" title=" " alt="" coords="512,680,651,721"/>
+<area shape="rect" id="node31" href="$d8/dbf/a03275.html#a14bc56c6b0bb18840ee21ca0d0412ef6" title=" " alt="" coords="498,746,665,773"/>
+<area shape="rect" id="node32" href="$d1/def/a03475.html#a6adb5fcc2875f19b5eb0edc65c57c580" title=" " alt="" coords="509,797,653,823"/>
+<area shape="rect" id="node33" href="$d4/d90/a03355.html#a893e7797f072f20d7be3dd571dfccf6a" title=" " alt="" coords="482,847,681,874"/>
+<area shape="rect" id="node34" href="$d4/d90/a03355.html#a8228727d41b9bb5f3d86f138778680d5" title=" " alt="" coords="511,898,652,925"/>
+<area shape="rect" id="node35" href="$d4/d90/a03355.html#a965e717780ee6603afdb2cef3c328ec0" title=" " alt="" coords="490,949,673,975"/>
+<area shape="rect" id="node36" href="$d4/d90/a03355.html#a17c937aa2597eaa0d96640a8176e5059" title=" " alt="" coords="497,1000,665,1041"/>
+<area shape="rect" id="node23" href="$d2/dd0/a03283.html#aa12362996febe60619a587555770c820" title=" " alt="" coords="747,1168,913,1209"/>
+<area shape="rect" id="node24" href="$d9/dc9/a03347.html#af37fb10dcc2bc1dd24afa8091054a147" title="Adds the given element to the pool, if it does not yet occur in there." alt="" coords="977,1168,1160,1209"/>
+</map>

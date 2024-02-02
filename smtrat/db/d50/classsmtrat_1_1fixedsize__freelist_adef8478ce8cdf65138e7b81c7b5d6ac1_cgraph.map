@@ -1,0 +1,4 @@
+<map id="smtrat::fixedsize_freelist::~fixedsize_freelist" name="smtrat::fixedsize_freelist::~fixedsize_freelist">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$db/d50/classsmtrat_1_1fixedsize__freelist.html#a18461f5d74f993c37b02e6c9fc00feba" title="Freeing means just prepending the free&#39;d element to the front of the freelist." alt="" coords="236,5,419,47"/>
+</map>
