@@ -1,0 +1,13 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::Projection" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::Projection">
+<area shape="rect" id="node1" title=" " alt="" coords="5,53,217,124"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ada124ae521cc8134c879d3eda0632577" title="Checks whether a polynomial can safely be ignored due to the bounds." alt="" coords="265,35,467,76"/>
+<area shape="rect" id="node11" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a9b46a1ab575a98d6049c7cd103369d98" title="Retrieves a polynomial from its id." alt="" coords="265,100,467,141"/>
+<area shape="rect" id="node3" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a8d4eb9c0a54c8eaad96ac70a34e8ee88" title=" " alt="" coords="515,5,721,47"/>
+<area shape="rect" id="node4" href="$d3/ddc/namespacesmtrat_1_1lve.html#a0728f680545aacf86d0ed2d7c9906a4b" title=" " alt="" coords="539,71,697,98"/>
+<area shape="rect" id="node5" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="769,16,956,57"/>
+<area shape="rect" id="node7" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="791,96,935,137"/>
+<area shape="rect" id="node6" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="1017,9,1143,35"/>
+<area shape="rect" id="node8" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="1004,60,1156,101"/>
+<area shape="rect" id="node9" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="1008,125,1152,167"/>
+<area shape="rect" id="node10" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="1031,191,1129,218"/>
+</map>

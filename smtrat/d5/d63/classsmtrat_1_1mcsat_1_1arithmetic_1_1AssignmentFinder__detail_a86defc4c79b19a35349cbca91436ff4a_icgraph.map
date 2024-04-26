@@ -1,0 +1,4 @@
+<map id="smtrat::mcsat::arithmetic::AssignmentFinder_detail::isUnivariate" name="smtrat::mcsat::arithmetic::AssignmentFinder_detail::isUnivariate">
+<area shape="rect" id="node1" title="Checks whether a formula is univariate, meaning it contains mVar and only variables from mModel other..." alt="" coords="244,5,435,61"/>
+<area shape="rect" id="node2" href="$d5/d63/classsmtrat_1_1mcsat_1_1arithmetic_1_1AssignmentFinder__detail.html#a07ee2e29a2a5900a5ffbb6ea11f8c86d" title=" " alt="" coords="5,5,196,61"/>
+</map>

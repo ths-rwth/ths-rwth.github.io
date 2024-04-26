@@ -1,0 +1,4 @@
+<map id="smtrat::union_find::union_find" name="smtrat::union_find::union_find">
+<area shape="rect" id="node1" title="Construct union&#45;find datastructure, copying the sequence identified by [begin_,end_) into the array." alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node2" href="$d8/d47/classsmtrat_1_1union__find.html#a0dff33cef9f88bb9b2ac6d247cab3cd8" title="Initialize the union&#45;find datastructure with an array of new_size default&#45;constructed entries,..." alt="" coords="193,5,333,47"/>
+</map>

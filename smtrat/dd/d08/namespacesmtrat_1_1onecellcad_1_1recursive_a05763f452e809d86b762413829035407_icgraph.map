@@ -1,0 +1,5 @@
+<map id="smtrat::onecellcad::recursive::toStdMap" name="smtrat::onecellcad::recursive::toStdMap">
+<area shape="rect" id="node1" title="Create a mapping from the first &#39;count&#39;&#45;many variables in the given &#39;variableOrder&#39; to the first &#39;cou..." alt="" coords="551,5,711,47"/>
+<area shape="rect" id="node2" href="$dd/d08/namespacesmtrat_1_1onecellcad_1_1recursive.html#ab36e69bf4166ec5d012cfddc5284f2bb" title="Merge the given open OpenCADCell &#39;cell&#39; that contains the given &#39;point&#39; (called &quot;alpha&quot; in [1]) with ..." alt="" coords="280,5,503,47"/>
+<area shape="rect" id="node3" href="$dd/d08/namespacesmtrat_1_1onecellcad_1_1recursive.html#a71caafda412826206b34224247d91098" title="Construct a OpenCADCell for the given set of polynomials &#39;polySet&#39; that contains the given &#39;point&#39;." alt="" coords="5,5,232,47"/>
+</map>

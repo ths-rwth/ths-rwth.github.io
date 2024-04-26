@@ -1,0 +1,5 @@
+<map id="carl::hash_add" name="carl::hash_add">
+<area shape="rect" id="node1" title="Add hash of both elements of a std::pair to the seed." alt="" coords="5,5,121,32"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#afb5d79b5282cd444932fbf48cc14e739" title="Add hash of the given value to the hash seed." alt="" coords="169,5,285,32"/>
+<area shape="rect" id="node3" href="$d7/dc5/a01242.html#aec22a2c4a0fc59da17946b89c423bb20" title="Add a value to the given hash seed." alt="" coords="333,5,481,32"/>
+</map>

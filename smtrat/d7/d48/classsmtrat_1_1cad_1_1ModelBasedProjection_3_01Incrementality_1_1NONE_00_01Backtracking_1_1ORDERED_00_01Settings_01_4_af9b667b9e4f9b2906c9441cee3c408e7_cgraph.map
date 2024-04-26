@@ -1,0 +1,12 @@
+<map id="smtrat::cad::ModelBasedProjection&lt; Incrementality::NONE, Backtracking::ORDERED, Settings &gt;::addToProjection" name="smtrat::cad::ModelBasedProjection&lt; Incrementality::NONE, Backtracking::ORDERED, Settings &gt;::addToProjection">
+<area shape="rect" id="node1" title="Adds a new polynomial to the given level (used to performs the first step of the projection)" alt="" coords="5,93,287,149"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a9446a9fdd0c8bc75bd8592e3cdf8e691" title="Checks whether a polynomial can safely be forwarded to the next level." alt="" coords="365,5,535,47"/>
+<area shape="rect" id="node5" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a3eff39f8995d50d8597f6b32ee66ff55" title="Checks whether a polynomial can safely be ignored." alt="" coords="365,71,535,112"/>
+<area shape="rect" id="node6" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="613,137,848,163"/>
+<area shape="rect" id="node10" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="335,187,565,214"/>
+<area shape="rect" id="node3" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="637,5,824,47"/>
+<area shape="rect" id="node4" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="934,13,1059,39"/>
+<area shape="rect" id="node7" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="896,125,1097,167"/>
+<area shape="rect" id="node8" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af1c4a845a809170ee3744feaa7ee07ef" title="Returns the variables used for projection." alt="" coords="896,191,1097,232"/>
+<area shape="rect" id="node9" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#ae7d22ef2db76ccf1574655744d00cfe7" title=" " alt="" coords="1145,191,1352,232"/>
+</map>

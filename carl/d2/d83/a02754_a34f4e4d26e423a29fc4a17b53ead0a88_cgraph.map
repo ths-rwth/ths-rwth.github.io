@@ -1,0 +1,10 @@
+<map id="carl::Term::is_one" name="carl::Term::is_one">
+<area shape="rect" id="node1" title="Checks whether the term equals one." alt="" coords="5,31,141,57"/>
+<area shape="rect" id="node2" href="$d2/d83/a02754.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="189,5,357,32"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="225,56,321,83"/>
+<area shape="rect" id="node4" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="752,82,875,123"/>
+<area shape="rect" id="node5" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="923,35,1071,61"/>
+<area shape="rect" id="node7" href="$dc/d5a/a02254.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="405,107,528,149"/>
+<area shape="rect" id="node6" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="923,89,1072,116"/>
+<area shape="rect" id="node8" href="$dc/d5a/a02254.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="576,107,704,149"/>
+</map>

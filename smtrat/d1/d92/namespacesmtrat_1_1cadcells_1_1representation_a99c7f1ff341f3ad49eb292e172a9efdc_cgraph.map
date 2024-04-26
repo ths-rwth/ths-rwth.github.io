@@ -1,0 +1,9 @@
+<map id="smtrat::cadcells::representation::handle_local_del_simplify_non_independent" name="smtrat::cadcells::representation::handle_local_del_simplify_non_independent">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,235,119"/>
+<area shape="rect" id="node2" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#aa13f85cda079afe02e8ce9af76786b07" title="Local delineability." alt="" coords="288,5,517,47"/>
+<area shape="rect" id="node4" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#aece8d9b1a5a39cb6fc589989bcb26032" title=" " alt="" coords="283,71,523,112"/>
+<area shape="rect" id="node5" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a36662a2082b49be764a59513e362641b" title=" " alt="" coords="288,136,517,177"/>
+<area shape="rect" id="node3" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="571,71,799,112"/>
+<area shape="rect" id="node6" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a85b1296b4fe979ea36a25a6fc0d5016b" title=" " alt="" coords="571,136,799,177"/>
+<area shape="rect" id="node7" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a14d27f52f44ad5bbd6070a89bf12225d" title=" " alt="" coords="571,202,799,258"/>
+</map>

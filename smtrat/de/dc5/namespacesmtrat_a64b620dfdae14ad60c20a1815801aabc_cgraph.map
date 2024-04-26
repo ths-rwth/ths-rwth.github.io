@@ -1,0 +1,12 @@
+<map id="smtrat::abstractUnivariateMonomialForOddExponent" name="smtrat::abstractUnivariateMonomialForOddExponent">
+<area shape="rect" id="node1" title="Replace square of variable (x_0^2) of a monomial (x_0^7) by a variable (z_0), create a linear monomia..." alt="" coords="5,139,200,181"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#adfd9646b201623dc2824d8d34e1a66ac" title="It creates monomial by taking and popping first two items from the list, Insert this new monomial as ..." alt="" coords="248,96,499,123"/>
+<area shape="rect" id="node3" href="$de/dc5/namespacesmtrat.html#a622bdcd149cd83d7436f571f1bed18e7" title="Check if the monomial is alreday inserted imto the map, If yes, returned the key which is a variable ..." alt="" coords="547,45,780,86"/>
+<area shape="rect" id="node8" href="$de/dc5/namespacesmtrat.html#a4b2c6236dc20ce3e3f529025b1bfc1ba" title="Replace square of variable (x_0^2) of a monomial (x_0^6) by a variable (z_0), create a new monomial (..." alt="" coords="273,198,473,239"/>
+<area shape="rect" id="node9" href="$de/dc5/namespacesmtrat.html#a2d95754caf44fe1bbeab0116fd19f4a8" title="create a square of the variable" alt="" coords="550,168,777,195"/>
+<area shape="rect" id="node10" href="$de/dc5/namespacesmtrat.html#a140548b92af06bf059c6bff1d3493e9b" title=" " alt="" coords="563,231,763,273"/>
+<area shape="rect" id="node6" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title=" " alt="" coords="612,111,715,137"/>
+<area shape="rect" id="node4" href="$de/dc5/namespacesmtrat.html#ac0730b05e910277a5db08028bb92f7e5" title="create variables and each time increment the suffix e.g., z_0, z_1, etc." alt="" coords="828,56,1004,83"/>
+<area shape="rect" id="node5" href="$de/dc5/namespacesmtrat.html#a805e17fae65ea60f5a9dae2ce19a3133" title="Insert the variable as key with monomial as value into the map The map is singeltone." alt="" coords="835,5,997,32"/>
+<area shape="rect" id="node7" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title=" " alt="" coords="835,111,997,137"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="carl::io::QEPCADStream::write" name="carl::io::QEPCADStream::write">
+<area shape="rect" id="node1" title=" " alt="" coords="5,203,180,244"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="281,93,381,119"/>
+<area shape="rect" id="node8" href="$db/df5/a02534.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="228,144,435,185"/>
+<area shape="rect" id="node9" href="$db/df5/a02534.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="483,199,689,240"/>
+<area shape="rect" id="node10" href="$db/df5/a02534.html#a5a7bd22cd4e9774f66f208649ada5581" title=" " alt="" coords="228,261,435,303"/>
+<area shape="rect" id="node11" href="$db/df5/a02534.html#a780bb9ff8aa2bb57c56fe5819166b3d0" title=" " alt="" coords="228,327,435,368"/>
+<area shape="rect" id="node3" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="913,52,1036,93"/>
+<area shape="rect" id="node4" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1085,114,1233,141"/>
+<area shape="rect" id="node6" href="$dc/d5a/a02254.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="525,27,647,68"/>
+<area shape="rect" id="node5" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1084,59,1233,86"/>
+<area shape="rect" id="node7" href="$dc/d5a/a02254.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="737,27,865,68"/>
+</map>

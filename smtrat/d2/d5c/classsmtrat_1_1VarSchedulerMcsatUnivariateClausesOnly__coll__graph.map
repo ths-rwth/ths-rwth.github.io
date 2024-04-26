@@ -1,0 +1,10 @@
+<map id="smtrat::VarSchedulerMcsatUnivariateClausesOnly&lt; TheoryScheduler, respectActivities &gt;" name="smtrat::VarSchedulerMcsatUnivariateClausesOnly&lt; TheoryScheduler, respectActivities &gt;">
+<area shape="rect" id="node1" title="Decides only Constraints occuring in clauses that are univariate in the current theory variable while..." alt="" coords="1731,87,1997,143"/>
+<area shape="rect" id="node2" href="$d6/d59/classsmtrat_1_1VarSchedulerMcsatBase.html" title="Base class for all MCSAT variable scheduler." alt="" coords="1348,16,1577,43"/>
+<area shape="rect" id="node3" href="$d5/d1d/classsmtrat_1_1VarSchedulerBase.html" title="Base class for variable schedulers." alt="" coords="941,5,1132,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1351,87,1574,143"/>
+<area shape="rect" id="node5" href="$d5/d6f/structsmtrat_1_1VarSchedulerMcsatUnivariateClausesOnly_1_1TheoryLevel.html" title=" " alt="" coords="911,107,1163,178"/>
+<area shape="rect" id="node6" title=" " alt="" coords="456,122,611,163"/>
+<area shape="rect" id="node7" title=" " alt="" coords="157,92,287,119"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,92,44,119"/>
+</map>

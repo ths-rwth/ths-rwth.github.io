@@ -1,0 +1,52 @@
+<map id="carl::Term::monomial" name="carl::Term::monomial">
+<area shape="rect" id="node1" title="Get the monomial." alt="" coords="799,835,959,862"/>
+<area shape="rect" id="node2" href="$d8/df3/a01216.html#a352c49e8db018be32840b29a4056223f" title=" " alt="" coords="565,5,711,47"/>
+<area shape="rect" id="node4" href="$de/d59/a02219.html#a3728dc7ec48883f08a21cabff27deaad" title=" " alt="" coords="548,71,728,112"/>
+<area shape="rect" id="node7" href="$d3/d1b/a03227.html#a55969f2a6a79954a0763bd902ef21711" title=" " alt="" coords="525,137,751,193"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#a56b70d98b3dc5b89b6952fbc2a2aaa2e" title=" " alt="" coords="540,217,736,259"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#ab8a11e7f6063d65ed1fbf5885fa2dc41" title=" " alt="" coords="575,283,701,310"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a5579996718779de958a6f2b776d6a57d" title=" " alt="" coords="571,334,705,361"/>
+<area shape="rect" id="node14" href="$d6/da1/a01233.html#abfee2826a592fe0ca315daf65d147591" title="Computes the n&#39;th derivative of t with respect to v." alt="" coords="578,385,698,411"/>
+<area shape="rect" id="node15" href="$d6/da1/a01233.html#a26949d97442e59bac3353498d2c17d93" title=" " alt="" coords="591,435,685,462"/>
+<area shape="rect" id="node22" href="$d1/d34/a01211.html#a2adb6d4db7eb83299fa8cfdb404b17d0" title="Removes the given variable from the term." alt="" coords="553,486,723,542"/>
+<area shape="rect" id="node23" href="$d6/da1/a01233.html#a2c267a86be367ff1350e8e9c990a2307" title=" " alt="" coords="583,566,693,593"/>
+<area shape="rect" id="node24" href="$dc/d5c/a02459.html#a0aefe0e7160f49f0d011d020c90001ec" title=" " alt="" coords="551,617,725,659"/>
+<area shape="rect" id="node25" href="$d6/da1/a01233.html#afc412a650c00f818ef322bf277b7b07e" title=" " alt="" coords="599,683,677,710"/>
+<area shape="rect" id="node26" href="$d6/da1/a01233.html#ab81745ba9c9b528fc521795e34240e2e" title="Checks whether the monomial has at most degree one." alt="" coords="553,734,723,761"/>
+<area shape="rect" id="node27" href="$d6/da1/a01233.html#a42daca61bb02b9ab648d0e47d86a961f" title="Checks whether the monomial is a constant." alt="" coords="574,785,702,811"/>
+<area shape="rect" id="node28" href="$d6/da1/a01233.html#a4d9319239224cce06be38f663e30151a" title="Checks whether the monomial has exactly the degree one." alt="" coords="583,835,693,862"/>
+<area shape="rect" id="node29" href="$d1/d34/a01211.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="535,887,741,928"/>
+<area shape="rect" id="node30" href="$da/dae/a02467.html#a48d4d92a8b621c138d4dcc47134548db" title=" " alt="" coords="552,952,724,993"/>
+<area shape="rect" id="node31" href="$de/d46/a01967.html#abbe0f02579a95f6fb9e1ece7b3cc1c4e" title="Calculates the hash of a Term." alt="" coords="533,1017,743,1059"/>
+<area shape="rect" id="node32" href="$d6/da1/a01233.html#ab82fa2f87a19cc34362d776e4dfc4fa3" title="Multiply a term with something and return the changed term." alt="" coords="575,1083,701,1110"/>
+<area shape="rect" id="node33" href="$d6/da1/a01233.html#a0bef03de9fc01140539d82c5ff2a9fc8" title=" " alt="" coords="581,1134,695,1161"/>
+<area shape="rect" id="node34" href="$d6/da1/a01233.html#a647802c50af5e54e3dafb1eddd19ebed" title=" " alt="" coords="597,1185,679,1211"/>
+<area shape="rect" id="node35" href="$d6/da1/a01233.html#a29b8a01afc117caa10b644ff192186e2" title=" " alt="" coords="579,1235,697,1262"/>
+<area shape="rect" id="node36" href="$d9/d88/a01823.html#a545392cef9c526ab35f12b1f35e4e7ea" title=" " alt="" coords="559,1286,717,1313"/>
+<area shape="rect" id="node38" href="$d6/da1/a01233.html#ae076b354bf48b890d86dec05e4a5e5fe" title="Gives the total degree, i.e." alt="" coords="570,1337,706,1363"/>
+<area shape="rect" id="node39" href="$d6/da1/a01233.html#a14bbf8da48feb9ba71b1e9108f1f8bfc" title=" " alt="" coords="579,1387,697,1414"/>
+<area shape="rect" id="node47" href="$d6/da1/a01233.html#a922900277870f014fad3ae7ea5b2b4c1" title="Add the variables of the given term to the variables." alt="" coords="581,1438,695,1465"/>
+<area shape="rect" id="node48" href="$d9/dd9/a03359.html#a8210d4b85a5bcae58bb97ba66bcbcac6" title=" " alt="" coords="563,1489,713,1531"/>
+<area shape="rect" id="node49" href="$d0/d79/a03379.html#a5ee2fa669f725b10e3f15be3cc901ca1" title=" " alt="" coords="561,1555,715,1596"/>
+<area shape="rect" id="node50" href="$dc/d58/a03383.html#a8353f80964bd5dfdd940c51fa47375de" title=" " alt="" coords="563,1620,713,1661"/>
+<area shape="rect" id="node3" href="$d8/df3/a01216.html#a5726fc6e3c832a8a136a8073a6a77a03" title="should only be called if the compare result was EQUAL eliminate duplicate leading monomials" alt="" coords="271,5,469,47"/>
+<area shape="rect" id="node5" href="$de/d59/a02219.html#afc17d450c6254665ba091199fa917e03" title=" " alt="" coords="263,71,477,112"/>
+<area shape="rect" id="node6" href="$de/d59/a02219.html#a86d4c0d11d0f421ef1f619f9812cc36b" title=" " alt="" coords="10,71,210,112"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a69bb2518166d66ce4a90d6972277058b" title=" " alt="" coords="303,227,437,254"/>
+<area shape="rect" id="node12" href="$df/daa/a02135.html#a8319872e6f1bb3bc97c62015b5d7baa4" title=" " alt="" coords="295,279,445,320"/>
+<area shape="rect" id="node13" href="$df/daa/a02135.html#a4391797f5f35adfb8bb452761cbe170f" title=" " alt="" coords="35,279,185,320"/>
+<area shape="rect" id="node16" href="$dd/db2/a02563.html#aaf3d414079e70f1d149ed22c98f0c6dc" title=" " alt="" coords="297,344,443,385"/>
+<area shape="rect" id="node17" href="$d6/da1/a01233.html#aa0247eac185361067e39053c86cd2966" title="Divides the polynomial by the given coefficient." alt="" coords="323,410,417,437"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#a02a8f01df86d27fd2e24313e3dab716f" title="Calculates the extended greatest common divisor g of two polynomials." alt="" coords="297,461,443,487"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#a598db2a85288fd3d66fb84d9e129ee4d" title=" " alt="" coords="5,486,215,513"/>
+<area shape="rect" id="node20" href="$d6/da1/a01233.html#a0b29da0503a9246e89a086460fc8bea7" title="Returns this/divisor where divisor is the numeric content of this polynomial." alt="" coords="270,562,470,589"/>
+<area shape="rect" id="node21" href="$d6/da1/a01233.html#a7c52840d0f229608a64a9318bbcbd226" title=" " alt="" coords="295,613,445,639"/>
+<area shape="rect" id="node37" href="$d9/d88/a01823.html#abe5ab874d8689f0fc1a2ba48decc07a8" title=" " alt="" coords="263,1198,477,1225"/>
+<area shape="rect" id="node40" href="$d6/da1/a01233.html#a97d31aee8d7a5c82a37385b529960948" title=" " alt="" coords="303,1249,437,1275"/>
+<area shape="rect" id="node41" href="$d6/da1/a01233.html#a7400e5cd96cfdd7abf4811099bcead45" title="Calculating the quotient and the remainder, such that for a given polynomial p we have p = divisor * ..." alt="" coords="323,1299,417,1326"/>
+<area shape="rect" id="node42" href="$dd/d15/a02907.html#a5d7b96da87c78c152006aa931e31f0bf" title=" " alt="" coords="281,1351,459,1392"/>
+<area shape="rect" id="node43" href="$d6/da1/a01233.html#a6ea225179eacb385120ffb78aeb8ffc5" title=" " alt="" coords="313,1417,427,1443"/>
+<area shape="rect" id="node44" href="$d5/d6e/a01240.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="291,1468,449,1509"/>
+<area shape="rect" id="node45" href="$d6/da1/a01233.html#a78b95ed8f04defd9f057635c224b2978" title="Implements a subresultants algorithm with optimizations described in &#160;." alt="" coords="299,1534,441,1561"/>
+<area shape="rect" id="node46" href="$d6/da1/a01233.html#a930ce431f139c930c544ee50f09df682" title=" " alt="" coords="311,1585,429,1611"/>
+</map>

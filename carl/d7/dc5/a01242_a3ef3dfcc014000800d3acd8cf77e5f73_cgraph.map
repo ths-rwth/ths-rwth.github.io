@@ -1,0 +1,4 @@
+<map id="carl::to_univariate_polynomial" name="carl::to_univariate_polynomial">
+<area shape="rect" id="node1" title="Convert a multivariate polynomial that is currently represented by a MultivariatePolynomial into a Un..." alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node2" href="$d3/dff/a02565.html#a1d4e2e30a85aef628556fe2f7b0cd309" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="193,5,400,47"/>
+</map>

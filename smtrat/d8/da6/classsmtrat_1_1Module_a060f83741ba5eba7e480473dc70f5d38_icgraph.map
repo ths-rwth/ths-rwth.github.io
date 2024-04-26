@@ -1,0 +1,8 @@
+<map id="smtrat::Module::infeasibleSubsets" name="smtrat::Module::infeasibleSubsets">
+<area shape="rect" id="node1" title=" " alt="" coords="784,71,977,112"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#ac3d9a30ce70615e1c36c50c5de1871f2" title="Get the infeasible subsets the given backend provides." alt="" coords="513,5,727,47"/>
+<area shape="rect" id="node3" href="$d0/df0/classsmtrat_1_1Manager.html#a133cea18f19fbebcfe4baf67c41be480" title=" " alt="" coords="519,71,721,112"/>
+<area shape="rect" id="node6" href="$d0/df0/classsmtrat_1_1Manager.html#a682317fc7b9e4fb1e64cd58b5b2cc707" title="Prints the first found infeasible subset of the set of received formulas." alt="" coords="504,136,736,177"/>
+<area shape="rect" id="node4" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="273,63,456,119"/>
+<area shape="rect" id="node5" href="$dc/dd2/structsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder.html#a40e9a1213bb9a2574b61c716b8f95dbc" title=" " alt="" coords="5,71,225,112"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="carl::GroebnerBase::isTrivialBase" name="carl::GroebnerBase::isTrivialBase">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,152,65"/>
+<area shape="rect" id="node2" href="$db/de7/a02866.html#ae76b42369bd7e8ae41a2c8bce464718d" title=" " alt="" coords="200,5,375,32"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="239,56,335,83"/>
+<area shape="rect" id="node4" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="769,82,892,123"/>
+<area shape="rect" id="node5" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="941,35,1089,61"/>
+<area shape="rect" id="node7" href="$dc/d5a/a02254.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="423,107,545,149"/>
+<area shape="rect" id="node6" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="940,89,1089,116"/>
+<area shape="rect" id="node8" href="$dc/d5a/a02254.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="593,107,721,149"/>
+</map>

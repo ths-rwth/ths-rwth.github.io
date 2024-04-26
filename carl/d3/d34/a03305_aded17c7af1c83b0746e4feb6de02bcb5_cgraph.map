@@ -1,0 +1,13 @@
+<map id="carl::RationalFunction::is_one" name="carl::RationalFunction::is_one">
+<area shape="rect" id="node1" title=" " alt="" coords="5,99,168,140"/>
+<area shape="rect" id="node2" href="$d3/d34/a03305.html#ad7d6051dcece17ffdb6bfa3ab0d43712" title=" " alt="" coords="216,34,419,75"/>
+<area shape="rect" id="node3" href="$d3/d34/a03305.html#ad7346817dfc96571444bbc1a47dabe1a" title=" " alt="" coords="467,34,629,75"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="269,165,365,192"/>
+<area shape="rect" id="node10" href="$d7/dc5/a01242.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="267,268,367,294"/>
+<area shape="rect" id="node11" href="$d3/d34/a03305.html#a0c5b4596aa13a8d8035a32c48a462c7c" title=" " alt="" coords="224,99,411,140"/>
+<area shape="rect" id="node5" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="853,226,976,267"/>
+<area shape="rect" id="node6" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1025,208,1173,234"/>
+<area shape="rect" id="node8" href="$d0/d80/a02281.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="487,230,609,271"/>
+<area shape="rect" id="node7" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1024,258,1173,285"/>
+<area shape="rect" id="node9" href="$d0/d80/a02281.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="677,255,805,296"/>
+</map>

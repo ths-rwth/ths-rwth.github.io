@@ -1,0 +1,52 @@
+<map id="carl::UnivariatePolynomial::coefficients" name="carl::UnivariatePolynomial::coefficients">
+<area shape="rect" id="node1" title="Retrieves the coefficients defining this polynomial." alt="" coords="729,1169,924,1210"/>
+<area shape="rect" id="node2" href="$d2/d4c/a02828.html#aa8812344d7630b3a48526b3347313619" title="Initialize the bisection queue using approximations." alt="" coords="483,31,677,87"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#afdcf963c8932f388540ee5c531bbe56b" title=" " alt="" coords="509,209,651,236"/>
+<area shape="rect" id="node5" href="$d8/d15/a01218.html#aa2028a94652ed4fedf7ac18285bd7fe6" title=" " alt="" coords="517,260,643,287"/>
+<area shape="rect" id="node6" href="$d8/d15/a01218.html#a01ac9cb767d10987a195fe8a8701be36" title="The content of a polynomial is the gcd of the coefficients of the normal part of a polynomial." alt="" coords="529,485,631,512"/>
+<area shape="rect" id="node18" href="$d8/d15/a01218.html#a379e9875610e7ea178c5b685771ba366" title="Computes the n&#39;th derivative of p with respect to the main variable of p." alt="" coords="520,536,640,563"/>
+<area shape="rect" id="node19" href="$d8/d15/a01218.html#aece4f60e3a4f19e417c95b8423520cce" title=" " alt="" coords="533,587,627,613"/>
+<area shape="rect" id="node20" href="$d8/d15/a01218.html#abf2880e7cb2a2c6c1d7585d9e031b40d" title="Reduces the polynomial such that the given root is not a root anymore." alt="" coords="259,887,408,913"/>
+<area shape="rect" id="node21" href="$d8/d15/a01218.html#af23c49e8aaf71ef5a8af7799ee239617" title="Reduces the given polynomial such that zero is not a root anymore." alt="" coords="488,688,672,715"/>
+<area shape="rect" id="node22" href="$d8/d15/a01218.html#aeeb22620e6b2f34b25d0e4b269a868b0" title=" " alt="" coords="525,739,635,765"/>
+<area shape="rect" id="node23" href="$d8/d53/a01225.html#a34836e1d10fcc3797323372c470264d2" title=" " alt="" coords="505,841,655,882"/>
+<area shape="rect" id="node24" href="$d8/d15/a01218.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="265,937,401,964"/>
+<area shape="rect" id="node25" href="$d8/d15/a01218.html#a6f2f1e3841c1defdf4f8588508320b65" title=" " alt="" coords="497,907,663,933"/>
+<area shape="rect" id="node26" href="$d8/d15/a01218.html#a7d4600e6ffbcdbf04652ff803ef5e275" title="Checks whether the polynomial is constant with respect to the main variable." alt="" coords="516,957,644,984"/>
+<area shape="rect" id="node27" href="$d8/d15/a01218.html#aa3aae605f62c0643d8cd27546949fcea" title=" " alt="" coords="525,1008,635,1035"/>
+<area shape="rect" id="node28" href="$d8/d15/a01218.html#a6d955ff9f0a04cb876ecbc00b3cd15cc" title="Checks if the polynomial is equal to one." alt="" coords="532,1059,628,1085"/>
+<area shape="rect" id="node29" href="$d6/d24/a02536.html#af204d60aa0bf2bbef63f2dd743c8844d" title="Checks if the polynomial is univariate, that means if only one variable occurs." alt="" coords="483,1110,677,1151"/>
+<area shape="rect" id="node30" href="$d8/d15/a01218.html#a29f4a3cf8f724c64b3dc998da850f414" title="Checks if the polynomial is equal to zero." alt="" coords="530,1176,630,1203"/>
+<area shape="rect" id="node31" href="$d2/d4c/a02828.html#abf9aae59b8c3bbc48483e5308b1e3761" title="Directly solve low&#45;degree polynomials." alt="" coords="495,1227,665,1283"/>
+<area shape="rect" id="node32" href="$d8/d15/a01218.html#ad39ad79b773b9e5c6f397c629c751127" title=" " alt="" coords="504,1307,656,1333"/>
+<area shape="rect" id="node33" href="$d8/d15/a01218.html#a822e17789e6cb91e6b52da39bcac92f3" title=" " alt="" coords="479,1358,681,1399"/>
+<area shape="rect" id="node34" href="$d7/d07/a02892.html#aa75c4a80d2ac6d031e118553883be6bd" title=" " alt="" coords="492,1423,668,1465"/>
+<area shape="rect" id="node35" href="$d6/d24/a02536.html#acddfd3c68cd30f58ac566e36770978c7" title="Constructs a new polynomial q such that &#160;where p is this polynomial." alt="" coords="483,1489,677,1530"/>
+<area shape="rect" id="node36" href="$d0/d5a/a02784.html#aed480e6cd6b46f6817cac8a18308381b" title="Calculates the hash of univariate polynomial." alt="" coords="482,1555,678,1611"/>
+<area shape="rect" id="node37" href="$d8/d15/a01218.html#aee23dc17b4acd2244d03406cfe1fca85" title="Calculates the pseudo&#45;remainder." alt="" coords="493,361,667,388"/>
+<area shape="rect" id="node38" href="$d8/d15/a01218.html#a3e97e4df9ce3ccbe80f1a65d0d65ca14" title="Implements a subresultants algorithm with optimizations described in &#160;." alt="" coords="262,85,405,112"/>
+<area shape="rect" id="node39" href="$d8/d15/a01218.html#a4418733913b640d1f4724820de2babee" title=" " alt="" coords="503,1635,657,1661"/>
+<area shape="rect" id="node40" href="$d8/d15/a01218.html#a349e672eaeb08c5fbfc6d508d1f86df1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="495,1685,665,1712"/>
+<area shape="rect" id="node41" href="$d8/d15/a01218.html#a8211b0a0bb14f560103fdf876f80dfc1" title="Replaces the main variable in a polynomial." alt="" coords="509,1737,651,1778"/>
+<area shape="rect" id="node42" href="$d6/da1/a01233.html#a75f92795e62cb6b83da5a7cdf630e7af" title="Shift the variable by a, i.e." alt="" coords="481,1854,679,1895"/>
+<area shape="rect" id="node43" href="$d8/d15/a01218.html#a45847fb7d208553eeaac8fa2a624f27a" title="Counts the sign variations (i.e." alt="" coords="257,1832,410,1859"/>
+<area shape="rect" id="node44" href="$d8/d15/a01218.html#a9ff3e0716bd8ae224ff752713b0aa68b" title=" " alt="" coords="521,1920,639,1947"/>
+<area shape="rect" id="node45" href="$d8/d15/a01218.html#a82eb1705bccb1d0c70e27d03620c99a4" title=" " alt="" coords="493,1971,667,1997"/>
+<area shape="rect" id="node46" href="$d8/d15/a01218.html#a29300c99b28de1c952cf504977d13682" title="Returns the total degree of the polynomial, that is the maximum degree of any monomial." alt="" coords="512,2021,648,2048"/>
+<area shape="rect" id="node47" href="$d8/d15/a01218.html#ad16d78e5c4773d5250247599e6015726" title="Add the variables of the given polynomial to the variables." alt="" coords="523,2072,637,2099"/>
+<area shape="rect" id="node48" href="$de/d51/a03588.html#a476ff3f84204244f04735ff0df3ffee4" title=" " alt="" coords="499,2123,661,2165"/>
+<area shape="rect" id="node49" href="$d0/d99/a03660.html#ae65e38c020105e523a09f2150f5976bb" title=" " alt="" coords="493,2189,667,2230"/>
+<area shape="rect" id="node50" href="$dc/d4c/a03664.html#a37967e56ea950cacd53bfc4ec28a8f23" title=" " alt="" coords="495,2254,665,2295"/>
+<area shape="rect" id="node3" href="$d2/d4c/a02828.html#ab65d46eaa4c842e22cfd6b24f0c13b84" title="Perform bisection." alt="" coords="252,5,415,61"/>
+<area shape="rect" id="node7" href="$d8/dbb/a03480.html#adf5ff00adea4c00eb9f12a5f2f1720cc" title=" " alt="" coords="261,821,406,862"/>
+<area shape="rect" id="node8" href="$d8/dbb/a03480.html#a90c38de1c71d7113fcf2de857ff4a7cb" title=" " alt="" coords="24,791,169,833"/>
+<area shape="rect" id="node9" href="$d8/dbb/a03480.html#aa19a68d3e46bd34c85c599e66e7f8bfa" title=" " alt="" coords="261,339,406,381"/>
+<area shape="rect" id="node10" href="$d8/d15/a01218.html#ab4b53651486fd873110b81e60b5a6ad3" title=" " alt="" coords="269,405,397,432"/>
+<area shape="rect" id="node11" href="$d4/dc8/a03024.html#a8980330dc322db41d8ad9ed2a9731fe4" title=" " alt="" coords="236,507,431,549"/>
+<area shape="rect" id="node12" href="$d7/d98/a03044.html#a0cb3ebe49898cf82e56bac8703b841df" title=" " alt="" coords="246,573,421,614"/>
+<area shape="rect" id="node13" href="$db/d59/a02728.html#a99a7747e8986cb3e86e53ad0ab2b979f" title=" " alt="" coords="238,638,429,679"/>
+<area shape="rect" id="node14" href="$d7/deb/a02724.html#add2ddfb7142df6ce5653c676d8ec9fb1" title=" " alt="" coords="236,703,431,745"/>
+<area shape="rect" id="node15" href="$d8/d15/a01218.html#ac2b216eaf8da91b9a816264e3e0a95aa" title="Computes the GCD of two univariate polynomial with coefficients from a unique factorization domain us..." alt="" coords="5,187,188,213"/>
+<area shape="rect" id="node16" href="$d8/d15/a01218.html#ace1a47f6aa4103ee2d421fa561e13877" title="The primitive part of p is the normal part of p divided by the content of p." alt="" coords="260,237,407,264"/>
+<area shape="rect" id="node17" href="$d0/d67/a01232.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="17,281,176,322"/>
+</map>

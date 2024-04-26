@@ -1,0 +1,6 @@
+<map id="delta::Settings::as" name="delta::Settings::as">
+<area shape="rect" id="node1" title="Get option with given name as a given type." alt="" coords="247,56,385,83"/>
+<area shape="rect" id="node2" href="$dd/d3d/delta_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="75,5,129,32"/>
+<area shape="rect" id="node3" href="$da/d13/classdelta_1_1Producer.html#a178bca4117f96734ba66b439c0fa9559" title="Apply simplifications to the given node." alt="" coords="5,56,199,83"/>
+<area shape="rect" id="node4" href="$da/d13/classdelta_1_1Producer.html#afd805d9193255b6aef01618a24f1ac22" title="Create a new manager that uses the given checker." alt="" coords="9,107,195,133"/>
+</map>

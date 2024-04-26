@@ -1,0 +1,4 @@
+<map id="carl::FLOAT_T::floor" name="carl::FLOAT_T::floor">
+<area shape="rect" id="node1" title="Function which calculates the floor of this number and puts it into a passed result parameter." alt="" coords="136,5,283,32"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#aec786de469f69fa6af3c72d65f99509a" title="Method which returns the next smaller integer of this number or the number itself,..." alt="" coords="5,5,88,32"/>
+</map>

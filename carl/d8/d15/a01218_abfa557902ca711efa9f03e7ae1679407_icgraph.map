@@ -1,0 +1,32 @@
+<map id="carl::get_denom" name="carl::get_denom">
+<area shape="rect" id="node1" title="Extract the denominator from a fraction." alt="" coords="684,839,811,865"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a81add0aa223ad41dfebc305beb55a070" title="Get the bit size of the representation of a fraction." alt="" coords="497,264,594,291"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#a520068bdcb9bc052331bb114fb9124c6" title="Compares _constraintA with _constraintB." alt="" coords="490,315,601,341"/>
+<area shape="rect" id="node14" href="$de/d7f/a03280.html#a4f5fcbe9cc967ef3c07ddc9cf52fa896" title=" " alt="" coords="464,617,627,658"/>
+<area shape="rect" id="node17" href="$de/d7f/a03280.html#af5f7f03b3883287465a2bc144e188466" title=" " alt="" coords="455,697,636,738"/>
+<area shape="rect" id="node19" href="$d8/d15/a01218.html#a4973f14bed31604894eac7d6f4742a18" title="Calculate the greatest common divisor of two fractions." alt="" coords="247,769,324,796"/>
+<area shape="rect" id="node20" href="$d8/d15/a01218.html#aa8d426817ddd465fc36912e0a06bca7d" title="Calculate the greatest common divisor of two fractions." alt="" coords="222,871,349,897"/>
+<area shape="rect" id="node21" href="$d8/d15/a01218.html#a9c252b0b20f97e6cbfe02e5289e54e27" title="Implicitly converts the number to a rational and returns the denominator." alt="" coords="482,915,609,941"/>
+<area shape="rect" id="node22" href="$d8/d15/a01218.html#a8cd53b053b1d885ff795bcca5492aec7" title="Check if a fraction is integral." alt="" coords="486,965,605,992"/>
+<area shape="rect" id="node23" href="$d8/d15/a01218.html#ada86ff3cb956713e0f59c569ba9871b7" title=" " alt="" coords="506,813,585,840"/>
+<area shape="rect" id="node25" href="$d8/d15/a01218.html#ad87f52671704d107468f2624d10b8a95" title=" " alt="" coords="500,1016,591,1043"/>
+<area shape="rect" id="node26" href="$d5/d39/a01219.html#aadd2d7db708f54d72dece5a9088e25cb" title=" " alt="" coords="456,1067,635,1109"/>
+<area shape="rect" id="node30" href="$d8/d15/a01218.html#aa9466dcdb956399dd11a7b182296762e" title=" " alt="" coords="493,1133,598,1160"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#aa7b1a1ad34c27fe2e213b75a9f6a2573" title=" " alt="" coords="230,5,341,32"/>
+<area shape="rect" id="node5" href="$dd/d09/a02180.html#a5df5aff941d61a2e4ca7e1f99c67af67" title=" " alt="" coords="180,57,391,98"/>
+<area shape="rect" id="node6" href="$dc/d35/a02240.html#a5bcfb0def1a64f2d6ed8fcd13e061db4" title=" " alt="" coords="186,122,385,163"/>
+<area shape="rect" id="node7" href="$d8/d11/a01178.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="258,188,313,215"/>
+<area shape="rect" id="node8" href="$d8/d15/a01218.html#a7f2efd32f528f28513340e855be476c9" title=" " alt="" coords="223,239,348,265"/>
+<area shape="rect" id="node9" href="$d8/d15/a01218.html#aa51fd804aa4eb81da92013d1c7420dce" title=" " alt="" coords="225,289,345,316"/>
+<area shape="rect" id="node10" href="$d8/d15/a01218.html#ae6e7c32b4edfca29b6c99c2a19156684" title=" " alt="" coords="220,340,351,367"/>
+<area shape="rect" id="node11" href="$d8/d15/a01218.html#a1ea3b551630d8580ce0204cc00911a2b" title=" " alt="" coords="220,391,351,417"/>
+<area shape="rect" id="node12" href="$d8/d15/a01218.html#a86560fa254fe86ef952e6f2ff03201d6" title=" " alt="" coords="225,441,345,468"/>
+<area shape="rect" id="node13" href="$d8/d15/a01218.html#ae839cae2cae10328932ab8a38c3fc4a1" title=" " alt="" coords="220,492,351,519"/>
+<area shape="rect" id="node15" href="$d3/d50/a03632.html#abd503d585d1d9b8fef85e9bef880ae8a" title=" " alt="" coords="164,543,407,585"/>
+<area shape="rect" id="node16" href="$db/d88/a03628.html#a0a65b0ec645831e93c7f924888d0f34e" title=" " alt="" coords="188,609,383,665"/>
+<area shape="rect" id="node18" href="$d6/d25/a03284.html#aefbc843e9fe26b5a6bc8506d6540a29a" title=" " alt="" coords="194,689,377,745"/>
+<area shape="rect" id="node24" href="$d8/d15/a01218.html#ac0fa6d7cdb2efee7343a0f1505c9d57b" title="Calculate the least common multiple of two integers." alt="" coords="246,820,325,847"/>
+<area shape="rect" id="node27" href="$d5/d39/a01219.html#a1c2fb9b1143e205764a062d4e58aae10" title=" " alt="" coords="201,1034,369,1075"/>
+<area shape="rect" id="node28" href="$d5/d39/a01219.html#a16505eb0284cbbcf4b8d0f1ef39e442c" title=" " alt="" coords="198,1099,373,1141"/>
+<area shape="rect" id="node29" href="$d8/d15/a01218.html#a0df4dc804925707f8c1eec46cfde5a2c" title=" " alt="" coords="5,1107,116,1133"/>
+</map>

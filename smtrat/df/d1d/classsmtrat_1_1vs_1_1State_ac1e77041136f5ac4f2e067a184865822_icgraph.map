@@ -1,0 +1,5 @@
+<map id="smtrat::vs::State::addCondition" name="smtrat::vs::State::addCondition">
+<area shape="rect" id="node1" title="Adds a constraint to the conditions of this state." alt="" coords="192,39,331,80"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="5,71,144,112"/>
+</map>

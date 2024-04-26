@@ -1,0 +1,94 @@
+<map id="smtrat::EQModule&lt; Settings &gt;::hash_bucket_set" name="smtrat::EQModule&lt; Settings &gt;::hash_bucket_set">
+<area shape="rect" id="node1" title="A set of buckets containing function instances." alt="" coords="983,2216,1190,2257"/>
+<area shape="rect" id="node74" href="$d1/dae/structsmtrat_1_1EQModule_1_1function__map__entry.html" title=" " alt="" coords="2052,1680,2259,1721"/>
+<area shape="rect" id="node83" href="$d8/db1/structsmtrat_1_1EQModule_1_1args__info.html" title=" " alt="" coords="1572,2064,1779,2105"/>
+<area shape="rect" id="node2" href="$df/d9f/classsmtrat_1_1freelist.html" title=" " alt="" coords="448,2285,633,2341"/>
+<area shape="rect" id="node3" href="$df/d9f/classsmtrat_1_1freelist.html" title="Implements a fixed&#45;(at&#45;runtime)&#45;size allocator based on a free list embedded in the space of currentl..." alt="" coords="11,2473,169,2499"/>
+<area shape="rect" id="node5" href="$df/d9f/classsmtrat_1_1freelist.html" title=" " alt="" coords="448,2365,633,2421"/>
+<area shape="rect" id="node76" href="$df/d9f/classsmtrat_1_1freelist.html" title=" " alt="" coords="1255,2613,1494,2655"/>
+<area shape="rect" id="node78" href="$df/d9f/classsmtrat_1_1freelist.html" title=" " alt="" coords="1845,2496,2028,2537"/>
+<area shape="rect" id="node86" href="$df/d9f/classsmtrat_1_1freelist.html" title=" " alt="" coords="435,2445,646,2471"/>
+<area shape="rect" id="node92" href="$df/d9f/classsmtrat_1_1freelist.html" title=" " alt="" coords="2290,2551,2509,2592"/>
+<area shape="rect" id="node4" href="$d5/ddd/structsmtrat_1_1EQModule_1_1hash__bucket__set_1_1class__vector__entry.html" title="An entry in our list of classes; it consists of the class value (index into component union find data..." alt="" coords="437,2154,644,2210"/>
+<area shape="rect" id="node59" href="$d8/d13/structsmtrat_1_1EQModule_1_1hash__bucket__set_1_1bucket.html" title="A bucket in this bucket set contains a set of entries." alt="" coords="983,1635,1190,1676"/>
+<area shape="rect" id="node6" href="$df/d28/classsmtrat_1_1EQModule.html" title=" " alt="" coords="3005,1547,3228,1574"/>
+<area shape="rect" id="node7" href="$d8/da6/classsmtrat_1_1Module.html" title="A base class for all kind of theory solving methods." alt="" coords="2095,373,2216,399"/>
+<area shape="rect" id="node13" href="$d0/df0/classsmtrat_1_1Manager.html" title="Base class for solvers." alt="" coords="3433,565,3564,591"/>
+<area shape="rect" id="node14" title=" " alt="" coords="3007,498,3226,554"/>
+<area shape="rect" id="node15" title=" " alt="" coords="2593,408,2742,449"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1601,192,1750,233"/>
+<area shape="rect" id="node9" href="$d6/d6f/structsmtrat_1_1Branching.html" title="Stores all necessary information of an branch, which can be used to detect probable infinite loop of ..." alt="" coords="1017,191,1156,218"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1022,817,1151,843"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1582,758,1769,785"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1529,875,1821,916"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1575,809,1775,851"/>
+<area shape="rect" id="node23" title=" " alt="" coords="1586,641,1765,683"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1582,2669,1769,2711"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1584,590,1767,617"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1563,309,1787,351"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1600,75,1751,116"/>
+<area shape="rect" id="node41" title=" " alt="" coords="1595,539,1756,566"/>
+<area shape="rect" id="node46" title=" " alt="" coords="1574,489,1777,515"/>
+<area shape="rect" id="node51" title=" " alt="" coords="2070,1746,2241,1802"/>
+<area shape="rect" id="node56" title=" " alt="" coords="2079,1051,2232,1107"/>
+<area shape="rect" id="node66" title=" " alt="" coords="1570,1247,1781,1288"/>
+<area shape="rect" id="node72" title=" " alt="" coords="1855,935,2018,976"/>
+<area shape="rect" id="node79" title=" " alt="" coords="1583,1131,1767,1158"/>
+<area shape="rect" id="node80" title=" " alt="" coords="2320,992,2479,1033"/>
+<area shape="rect" id="node11" title=" " alt="" coords="71,743,109,770"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1019,766,1154,793"/>
+<area shape="rect" id="node21" title=" " alt="" coords="462,781,619,807"/>
+<area shape="rect" id="node27" title=" " alt="" coords="761,145,869,171"/>
+<area shape="rect" id="node45" title=" " alt="" coords="474,831,607,858"/>
+<area shape="rect" id="node50" title=" " alt="" coords="2079,1537,2231,1579"/>
+<area shape="rect" id="node17" title=" " alt="" coords="521,1486,560,1513"/>
+<area shape="rect" id="node25" title=" " alt="" coords="1032,2423,1141,2450"/>
+<area shape="rect" id="node71" title=" " alt="" coords="995,1831,1178,1858"/>
+<area shape="rect" id="node18" href="$dc/d65/classsmtrat_1_1StrategyGraph.html" title=" " alt="" coords="2072,817,2239,843"/>
+<area shape="rect" id="node20" title=" " alt="" coords="989,947,1184,988"/>
+<area shape="rect" id="node24" title=" " alt="" coords="2819,2582,2981,2609"/>
+<area shape="rect" id="node26" href="$da/d5e/classsmtrat_1_1ModuleInput.html" title="The input formula a module has to consider for it&#39;s satisfiability check." alt="" coords="1598,23,1753,50"/>
+<area shape="rect" id="node29" title=" " alt="" coords="1005,2678,1169,2705"/>
+<area shape="rect" id="node30" title=" " alt="" coords="3065,2731,3169,2758"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2595,2739,2740,2780"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2070,2746,2241,2773"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1622,2746,1729,2773"/>
+<area shape="rect" id="node36" href="$dd/ddb/structsmtrat_1_1Module_1_1TheoryPropagation.html" title=" " alt="" coords="961,325,1213,351"/>
+<area shape="rect" id="node37" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html" title=" " alt="" coords="1557,141,1794,167"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1045,141,1128,167"/>
+<area shape="rect" id="node40" href="$d0/d7f/structsmtrat_1_1Module_1_1Lemma.html" title=" " alt="" coords="997,70,1176,97"/>
+<area shape="rect" id="node42" title=" " alt="" coords="1632,258,1719,285"/>
+<area shape="rect" id="node43" title=" " alt="" coords="1017,259,1156,300"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1288,418,1461,445"/>
+<area shape="rect" id="node62" title=" " alt="" coords="991,1322,1182,1349"/>
+<area shape="rect" id="node47" title=" " alt="" coords="2540,1292,2795,1421"/>
+<area shape="rect" id="node48" href="$d0/d0a/classsmtrat_1_1dynarray.html" title=" " alt="" coords="700,1148,929,1189"/>
+<area shape="rect" id="node49" href="$d0/d0a/classsmtrat_1_1dynarray.html" title="dynarray is similar to std::vector, but has only a reduced interface." alt="" coords="5,1271,175,1298"/>
+<area shape="rect" id="node61" href="$d0/d0a/classsmtrat_1_1dynarray.html" title=" " alt="" coords="445,1537,637,1593"/>
+<area shape="rect" id="node63" title=" " alt="" coords="2576,1540,2759,1581"/>
+<area shape="rect" id="node73" title=" " alt="" coords="2574,1606,2761,1662"/>
+<area shape="rect" id="node77" title=" " alt="" coords="2591,1686,2743,1742"/>
+<area shape="rect" id="node81" title=" " alt="" coords="2569,1881,2765,1923"/>
+<area shape="rect" id="node52" href="$d4/d92/structsmtrat_1_1EQModule_1_1ineq__edge__info.html" title=" " alt="" coords="1572,1751,1779,1792"/>
+<area shape="rect" id="node53" href="$dd/d3f/structsmtrat_1_1EQModule_1_1common__edge__info.html" title=" " alt="" coords="979,1882,1195,1938"/>
+<area shape="rect" id="node54" href="$dd/d3f/structsmtrat_1_1EQModule_1_1common__edge__info.html" title=" " alt="" coords="405,1834,676,1890"/>
+<area shape="rect" id="node58" href="$dd/d3f/structsmtrat_1_1EQModule_1_1common__edge__info.html" title=" " alt="" coords="968,1751,1205,1807"/>
+<area shape="rect" id="node90" href="$dd/d3f/structsmtrat_1_1EQModule_1_1common__edge__info.html" title=" " alt="" coords="953,2033,1220,2075"/>
+<area shape="rect" id="node55" title=" " alt="" coords="14,1841,166,1883"/>
+<area shape="rect" id="node57" href="$d1/d8b/structsmtrat_1_1EQModule_1_1implicit__edge__info.html" title=" " alt="" coords="1572,1472,1779,1513"/>
+<area shape="rect" id="node69" href="$df/d06/structsmtrat_1_1EQModule_1_1not__asserted__equality.html" title=" " alt="" coords="983,2099,1190,2140"/>
+<area shape="rect" id="node75" title=" " alt="" coords="1592,1592,1759,1663"/>
+<area shape="rect" id="node82" href="$dd/dce/classsmtrat_1_1EQModule_1_1graph__info.html" title="We store a graph_info element for every term (function instance or variable) that we encounter." alt="" coords="2052,2033,2259,2075"/>
+<area shape="rect" id="node60" title=" " alt="" coords="467,1617,614,1659"/>
+<area shape="rect" id="node64" href="$d8/d47/classsmtrat_1_1union__find.html" title=" " alt="" coords="2555,1445,2779,1516"/>
+<area shape="rect" id="node65" href="$d8/d47/classsmtrat_1_1union__find.html" title="Implements a union&#45;find datastructure, a datastructure containing an array of entries." alt="" coords="2066,1262,2245,1318"/>
+<area shape="rect" id="node91" href="$d8/d47/classsmtrat_1_1union__find.html" title=" " alt="" coords="2555,1182,2779,1267"/>
+<area shape="rect" id="node67" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html" title="Wrapper around data entry and uf_rank_and_class; this class contains a value of type T and both rank ..." alt="" coords="963,1256,1210,1297"/>
+<area shape="rect" id="node68" title=" " alt="" coords="1551,1816,1799,1975"/>
+<area shape="rect" id="node70" title=" " alt="" coords="439,2088,642,2129"/>
+<area shape="rect" id="node84" href="$d0/d38/structsmtrat_1_1EQModule_1_1graph__info_1_1edge__list__type.html" title=" " alt="" coords="1562,2357,1789,2428"/>
+<area shape="rect" id="node85" href="$d0/d38/structsmtrat_1_1EQModule_1_1graph__info_1_1edge__list__type.html" title="Implements a list of edges." alt="" coords="983,2314,1190,2370"/>
+<area shape="rect" id="node87" href="$d0/d38/structsmtrat_1_1EQModule_1_1graph__info_1_1edge__list__type.html" title=" " alt="" coords="1552,2181,1799,2252"/>
+<area shape="rect" id="node88" href="$d0/d38/structsmtrat_1_1EQModule_1_1graph__info_1_1edge__list__type.html" title=" " alt="" coords="1537,2277,1814,2333"/>
+<area shape="rect" id="node89" href="$dd/d70/structsmtrat_1_1EQModule_1_1edge__info.html" title=" " alt="" coords="1572,1999,1779,2040"/>
+</map>

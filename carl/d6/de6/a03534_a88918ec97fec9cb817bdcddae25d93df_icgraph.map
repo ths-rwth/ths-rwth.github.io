@@ -1,0 +1,7 @@
+<map id="carl::UTerm::isUVariable" name="carl::UTerm::isUVariable">
+<area shape="rect" id="node1" title=" " alt="" coords="741,31,920,57"/>
+<area shape="rect" id="node2" href="$d6/de6/a03534.html#ad41d060b79c2661b69708ae60e91655b" title=" " alt="" coords="511,31,693,57"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#ab4fb85998a34f6f5db5d427c40c6ca31" title="Evaluates a uninterpreted variable to a ModelValue over a Model." alt="" coords="262,5,427,32"/>
+<area shape="rect" id="node4" href="$de/df7/a03478.html#a203301c923706274c2d9accf0fad5f97" title=" " alt="" coords="227,68,463,95"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#a0ea49fdbb441dcaed3f504e69023eb2f" title="Substitutes all variables from a model within a formula." alt="" coords="5,68,179,95"/>
+</map>

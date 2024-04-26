@@ -1,0 +1,46 @@
+<map id="carl::MultivariatePolynomial::getTerms" name="carl::MultivariatePolynomial::getTerms">
+<area shape="rect" id="node1" title=" " alt="" coords="1503,698,1709,739"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a96cd07c72b28bef5bbac66f30da58177" title="Calculates the quotient of a polynomial division." alt="" coords="1289,293,1397,320"/>
+<area shape="rect" id="node33" href="$d7/d30/a01891.html#a616a80ba2f97db737da99f63c3b92111" title="Solve in the domain Z_(p^k)[x_!,...,x_v] the multivariate polynomial diophantine equation sigma_1 * b..." alt="" coords="1232,669,1455,710"/>
+<area shape="rect" id="node35" href="$d6/da1/a01233.html#a6a1262919a9ad482f10d7090e1759e6f" title=" " alt="" coords="1284,735,1403,761"/>
+<area shape="rect" id="node36" href="$d6/da1/a01233.html#a73c056f5a398c396974aaf2dd370a47b" title=" " alt="" coords="526,849,699,876"/>
+<area shape="rect" id="node3" href="$dd/db2/a02563.html#aaf3d414079e70f1d149ed22c98f0c6dc" title=" " alt="" coords="539,62,686,103"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a5093fa493071ba84e1da705d8b837546" title="Divide two fractions." alt="" coords="1062,65,1137,92"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#acfef23a5c0776b26173060f55f1b298c" title="Divide two integers." alt="" coords="1038,116,1161,143"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#ad38564da1da67cbf2cbd17a675c3a305" title="Divides the polynomial by another polynomial." alt="" coords="1052,167,1147,193"/>
+<area shape="rect" id="node8" href="$dc/d21/a02079.html#a20893ff264e1a9903dddbc306c67a544" title=" " alt="" coords="504,201,721,228"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a40a711f20987646c9977b8db8cb54de0" title=" " alt="" coords="1060,268,1139,295"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#a807a8cfeb66242f8780254b32052b67c" title="Divide two integers." alt="" coords="1043,319,1156,345"/>
+<area shape="rect" id="node13" href="$d6/da1/a01233.html#adf9d6c209abb44b9087d203e24604d36" title=" " alt="" coords="552,252,673,279"/>
+<area shape="rect" id="node14" href="$d6/da1/a01233.html#a349e672eaeb08c5fbfc6d508d1f86df1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="1015,420,1184,447"/>
+<area shape="rect" id="node30" href="$d3/df5/a02827.html#a5a0f1acc8f17efa9ec3cd03f5ba0f5fa" title=" " alt="" coords="537,588,688,644"/>
+<area shape="rect" id="node32" href="$d6/da1/a01233.html#ae65b77b9f9c631a11d6674fc8ba55ea9" title="Divides the polynomial by another polynomial." alt="" coords="1040,521,1159,548"/>
+<area shape="rect" id="node4" href="$dd/db2/a02563.html#a7c139e69e1f9963c0a3358a5da615e02" title=" " alt="" coords="280,69,427,96"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#a92a1ed8f4144f35978f564fc7d70c966" title=" " alt="" coords="292,176,415,203"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a0c6f7cdb438acf1f4e5ed498cf6e3b34" title=" " alt="" coords="297,227,410,253"/>
+<area shape="rect" id="node15" href="$d6/da1/a01233.html#abfeb486514341498d6b363229506eae8" title=" " alt="" coords="807,420,929,447"/>
+<area shape="rect" id="node16" href="$d9/d27/a02363.html#ac6dca3b99b365ec5bbee64801541426a" title=" " alt="" coords="504,303,721,345"/>
+<area shape="rect" id="node17" href="$d6/da1/a01233.html#a7be9095a9d1076d03dd66d42cfae06e8" title=" " alt="" coords="565,369,660,396"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#a5f31d7eb9305ddf4f3520e13d5c06e0c" title=" " alt="" coords="541,420,685,447"/>
+<area shape="rect" id="node20" href="$d6/da1/a01233.html#a90d508f57729bfcce3a49c1a1b09c8bd" title="Compute the signed pseudo&#45;remainder." alt="" coords="537,471,688,513"/>
+<area shape="rect" id="node21" href="$d6/da1/a01233.html#a0a7b1c21762f6b6b2dea7127d1812f16" title="Computes the sturm sequence of two polynomials." alt="" coords="532,537,693,564"/>
+<area shape="rect" id="node31" href="$d7/d30/a01891.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="514,669,711,710"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#a90e8d41f33ed25b55e4a0c082f472fd6" title="Calculates the greatest common divisor of two polynomials." alt="" coords="315,331,392,357"/>
+<area shape="rect" id="node22" href="$d6/da1/a01233.html#ae73a1af390927f2918e2430de9d6d6a9" title="Count the number of real roots of p within the given interval using Sturm sequences." alt="" coords="272,381,435,408"/>
+<area shape="rect" id="node23" href="$d6/da1/a01233.html#acf69f7df84adce86589ec9686663d4cf" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="298,613,409,640"/>
+<area shape="rect" id="node24" href="$d0/d82/a02831.html#a60ad2b8a2b499aa89058f907b6b38ad6" title=" " alt="" coords="251,432,456,488"/>
+<area shape="rect" id="node25" href="$d6/da1/a01233.html#a5f2501f6b7439c8baa0391a22786023b" title="Computes the sturm sequence of a polynomial as defined at , page 333, example 22." alt="" coords="273,512,434,539"/>
+<area shape="rect" id="node26" href="$d6/da1/a01233.html#ac21bb1811b2cf42b013c9dd32b86f8af" title=" " alt="" coords="255,563,452,589"/>
+<area shape="rect" id="node29" href="$d1/d24/a02847.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="271,665,435,706"/>
+<area shape="rect" id="node27" href="$d6/deb/a02915.html#a0d668f381c18fa52c494107c58065da3" title=" " alt="" coords="10,526,198,567"/>
+<area shape="rect" id="node28" href="$d6/da1/a01233.html#aefa8e0f210795a9a3106a4d1bce829ec" title=" " alt="" coords="5,592,203,619"/>
+<area shape="rect" id="node34" href="$d7/d30/a01891.html#a187a097a5e5283781b543202e6be25a1" title=" " alt="" coords="769,669,967,710"/>
+<area shape="rect" id="node37" href="$d1/d24/a02847.html#aa093a925323aedc62c631c7a43fd9db7" title=" " alt="" coords="268,730,439,771"/>
+<area shape="rect" id="node38" href="$d0/d33/a01252.html#a0ee19ea70c76b3365235c61a66814fb5" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="287,795,420,837"/>
+<area shape="rect" id="node39" href="$d6/da1/a01233.html#a0f666d714f3d0de033bea1a1080ff990" title=" " alt="" coords="294,861,413,888"/>
+<area shape="rect" id="node40" href="$d6/da1/a01233.html#a82eb1705bccb1d0c70e27d03620c99a4" title=" " alt="" coords="267,912,440,939"/>
+<area shape="rect" id="node41" href="$d3/d51/a01264.html#ad03226e2186abdbbd359510929765e48" title="Substitutes a variable with a rational within a polynomial." alt="" coords="263,963,443,989"/>
+<area shape="rect" id="node42" href="$de/d1b/a02187.html#a67a6637be838be3339b6833c6bb06b30" title="Create a copy of the underlying polynomial with the given variable replaced by the given polynomial." alt="" coords="272,1014,435,1055"/>
+<area shape="rect" id="node44" href="$d0/d33/a01252.html#a991987d0a89591d89ccb250f1e21301c" title=" " alt="" coords="287,1079,420,1121"/>
+<area shape="rect" id="node43" href="$d3/d51/a01264.html#acec48430ff7fa5926948a1f7215ddf3d" title="Substitutes a variable with a rational within a MultivariateRoot." alt="" coords="14,1021,194,1048"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="carl::settings::get_proper_suffix" name="carl::settings::get_proper_suffix">
+<area shape="rect" id="node1" title="Helper method to obtain proper (unit) suffix entry from a value and a given set of possible suffixes." alt="" coords="244,5,379,47"/>
+<area shape="rect" id="node2" href="$d7/d04/a01246.html#af99cb99248ea2d1545183837fc386574" title="Streaming operator for duration. Auto&#45;detects proper time suffix." alt="" coords="5,13,196,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="carl::DiophantineEquations::EEAlift" name="carl::DiophantineEquations::EEAlift">
+<area shape="rect" id="node1" title="EEAlift computes s,t such that s*a + tb == 1 (mod p^k) with deg(s) &lt; deg(b) and deg(t) &lt; deg(a)." alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node2" href="$d3/d25/a02683.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="5,5,203,47"/>
+</map>

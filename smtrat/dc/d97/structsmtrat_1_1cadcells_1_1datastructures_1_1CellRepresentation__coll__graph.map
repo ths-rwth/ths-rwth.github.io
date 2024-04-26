@@ -1,0 +1,11 @@
+<map id="smtrat::cadcells::datastructures::CellRepresentation&lt; P &gt;" name="smtrat::cadcells::datastructures::CellRepresentation&lt; P &gt;">
+<area shape="rect" id="node1" title="Represents a cell." alt="" coords="1505,89,1733,130"/>
+<area shape="rect" id="node2" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html" title="Describes an ordering of IndexedRoots." alt="" coords="1152,54,1380,95"/>
+<area shape="rect" id="node3" title=" " alt="" coords="836,44,1021,100"/>
+<area shape="rect" id="node4" href="$df/deb/structsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootRelation.html" title="A relation between two roots." alt="" coords="347,14,575,55"/>
+<area shape="rect" id="node5" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html" title=" " alt="" coords="5,14,233,55"/>
+<area shape="rect" id="node6" title=" " alt="" coords="396,96,525,123"/>
+<area shape="rect" id="node7" title=" " alt="" coords="100,96,139,123"/>
+<area shape="rect" id="node8" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html" title="A symbolic interal whose bounds are defined by indexed root expressions." alt="" coords="1152,121,1380,162"/>
+<area shape="rect" id="node9" href="$d9/d03/classsmtrat_1_1cadcells_1_1datastructures_1_1Bound.html" title="Bound type of a SymbolicInterval." alt="" coords="815,125,1043,166"/>
+</map>

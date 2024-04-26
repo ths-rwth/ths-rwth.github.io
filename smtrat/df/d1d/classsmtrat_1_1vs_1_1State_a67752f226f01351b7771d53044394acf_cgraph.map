@@ -1,0 +1,8 @@
+<map id="smtrat::vs::State::nextSubResultCombination" name="smtrat::vs::State::nextSubResultCombination">
+<area shape="rect" id="node1" title="If the state contains a substitution result, which is a conjunction of disjunctions of conjunctions o..." alt="" coords="5,104,204,145"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a86100e6dc3a6c8e538b81f32d7e9e5e8" title="Extends the currently considered combination of conjunctions in the substitution results." alt="" coords="252,5,467,47"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a67023ea495c49778f68ec5a047f6c950" title=" " alt="" coords="259,71,459,112"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a99e0a7839d00052e9a049d78cf5d58ec" title=" " alt="" coords="264,136,455,177"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a35384f3209b48efcb7fca0838d633472" title=" " alt="" coords="276,202,443,229"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa5b12ff53a2c47b9d6c1660a355f77f8" title=" " alt="" coords="515,5,673,47"/>
+</map>

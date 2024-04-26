@@ -1,0 +1,9 @@
+<map id="carl::divide" name="carl::divide">
+<area shape="rect" id="node1" title="Divides the polynomial by the given coefficient." alt="" coords="5,89,100,116"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a7be9095a9d1076d03dd66d42cfae06e8" title=" " alt="" coords="204,31,299,57"/>
+<area shape="rect" id="node6" href="$d4/db0/a02540.html#a1d4e2e30a85aef628556fe2f7b0cd309" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="148,82,355,123"/>
+<area shape="rect" id="node7" href="$d4/db0/a02540.html#ac33116e84151978e283bd1556d97d062" title="Check if the terms are ordered." alt="" coords="148,147,355,189"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#a28cb73b0a3511d64accc6c6e639a7221" title="Implements the division with remainder." alt="" coords="409,5,517,32"/>
+<area shape="rect" id="node5" href="$d8/d15/a01218.html#ae3d7d6656ab362001ff43fcb07743d94" title="Calculate the remainder of the integer division." alt="" coords="403,56,524,83"/>
+<area shape="rect" id="node4" href="$de/dc3/a02256.html#afe0c8594fd65cd3deea44a9389c1a8dc" title="Divides two intervals according to natural interval arithmetic." alt="" coords="572,5,704,32"/>
+</map>

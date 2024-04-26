@@ -1,0 +1,8 @@
+<map id="carl::operator&lt;&lt;" name="carl::operator&lt;&lt;">
+<area shape="rect" id="node1" title="Streaming operator for Variable." alt="" coords="5,64,136,91"/>
+<area shape="rect" id="node2" href="$d4/d64/a02111.html#ace553270faf6182cfd4088a99c9a3f7f" title="Retrieves the name of the variable." alt="" coords="184,64,336,91"/>
+<area shape="rect" id="node3" href="$dd/d54/a02119.html#a42ad87c3c524a030765d9822aa57098d" title="Get a human&#45;readable name for the given variable." alt="" coords="408,23,543,65"/>
+<area shape="rect" id="node6" href="$df/d0c/a03055.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="384,89,567,130"/>
+<area shape="rect" id="node4" href="$d4/d64/a02111.html#ae00fad76caa1ec7042dff9e50aa46f36" title="Retrieves the id of the variable." alt="" coords="623,5,750,32"/>
+<area shape="rect" id="node5" href="$d4/d64/a02111.html#ae954c1f1e59102d1c58af6c9d326717a" title="Retrieves the type of the variable." alt="" coords="615,56,759,83"/>
+</map>

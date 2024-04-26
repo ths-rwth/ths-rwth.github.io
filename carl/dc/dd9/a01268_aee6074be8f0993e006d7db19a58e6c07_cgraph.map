@@ -1,0 +1,10 @@
+<map id="carl::covering::heuristic::select_essential" name="carl::covering::heuristic::select_essential">
+<area shape="rect" id="node1" title="Preprocessing heuristic: Selects essential sets which are the only once covering some element." alt="" coords="5,136,180,177"/>
+<area shape="rect" id="node2" href="$d9/d33/a03269.html#abe670a68a42f3493d9b66f93b5997837" title="Returns the number of elements." alt="" coords="228,5,405,47"/>
+<area shape="rect" id="node3" href="$d9/d33/a03269.html#a09803c5268b61f4ae4031161e462531c" title="Returns the given set." alt="" coords="228,71,405,112"/>
+<area shape="rect" id="node5" href="$d9/d33/a03269.html#a24536d5abdd1155dc974db0d0749ee05" title="Selects the given set and purges the covered elements from all other sets." alt="" coords="228,136,405,177"/>
+<area shape="rect" id="node6" href="$dd/d4c/a02949.html#a9de0d41fc6b1ee50437f2e828db25412" title="Sets the given bit to a value, true by default." alt="" coords="257,202,377,229"/>
+<area shape="rect" id="node8" href="$d9/d33/a03269.html#abb06e846629c4b044adb91d93c7573cc" title="Returns the number of sets." alt="" coords="228,253,405,295"/>
+<area shape="rect" id="node4" href="$d9/d33/a03269.html#abe7608326af978310b630c42298bcd88" title="States that s covers the given element." alt="" coords="453,78,659,105"/>
+<area shape="rect" id="node7" href="$dd/d4c/a02949.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="471,202,641,229"/>
+</map>

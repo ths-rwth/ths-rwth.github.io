@@ -1,0 +1,9 @@
+<map id="carl::integer_below" name="carl::integer_below">
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,152,149"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a27d1ce2ad393e8bab62327891595dff4" title="Method which returns the next smaller integer of this number or the number itself,..." alt="" coords="252,93,335,120"/>
+<area shape="rect" id="node7" href="$d9/d4a/a02772.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="200,145,387,186"/>
+<area shape="rect" id="node3" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="435,5,583,32"/>
+<area shape="rect" id="node4" href="$de/dc3/a02256.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="435,57,583,98"/>
+<area shape="rect" id="node5" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="435,123,584,149"/>
+<area shape="rect" id="node6" href="$de/dc3/a02256.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="435,174,584,215"/>
+</map>

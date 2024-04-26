@@ -1,0 +1,8 @@
+<map id="smtrat::cad::BaseProjection::removePolynomial" name="smtrat::cad::BaseProjection::removePolynomial">
+<area shape="rect" id="node1" title="Removes the given polynomial from the projection. Converts to a UPoly and calls the appropriate overl..." alt="" coords="5,39,207,80"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="255,46,485,73"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="533,17,768,43"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af1c4a845a809170ee3744feaa7ee07ef" title="Returns the variables used for projection." alt="" coords="816,71,1017,112"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="816,5,1017,47"/>
+<area shape="rect" id="node6" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#ae7d22ef2db76ccf1574655744d00cfe7" title=" " alt="" coords="1065,71,1272,112"/>
+</map>

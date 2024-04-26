@@ -1,0 +1,6 @@
+<map id="carl::PrimeFactory::next_prime" name="carl::PrimeFactory::next_prime">
+<area shape="rect" id="node1" title="Computed the next prime and returns it." alt="" coords="435,27,573,69"/>
+<area shape="rect" id="node2" href="$d3/d59/a02659.html#af501a4143f3e8ce73ff53bb33b784bdb" title=" " alt="" coords="220,5,387,32"/>
+<area shape="rect" id="node4" href="$d5/d6a/a02515.html#a507663639e2b71f39c41e1f100cbccb9" title="Provides access to the computed primes. If id is at least size(), the missing primes are computed on&#45;..." alt="" coords="234,57,373,98"/>
+<area shape="rect" id="node3" href="$d3/d59/a02659.html#a501e06e49ddfda7fea115884bb7f1d49" title=" " alt="" coords="5,5,172,32"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="smtrat::vs::State::passConflictToFather" name="smtrat::vs::State::passConflictToFather">
+<area shape="rect" id="node1" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="5,943,160,985"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#abcf5606aec48263312dec2eb163af628" title="Adds a conflict set to the map of substitutions to conflict sets." alt="" coords="248,74,387,115"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a583087aa1f530895efd62f803f8d46af" title=" " alt="" coords="493,15,631,57"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a031599ca203c18f83e2b29ec1e45f062" title=" " alt="" coords="248,139,387,181"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae972a4958673a15faab2093eb12dbf82" title=" " alt="" coords="248,205,387,246"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7401f61e24a3842f1942473b5c11b4e5" title=" " alt="" coords="248,270,387,311"/>
+<area shape="rect" id="node8" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#a3bc94800613870bf9929916a4056da5f" title=" " alt="" coords="238,335,397,377"/>
+<area shape="rect" id="node9" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa3d6edcf016951f2f928fcffb45c9d2e" title="Finds a covering set of a vector of sets of sets due to some heuristics." alt="" coords="248,401,387,442"/>
+<area shape="rect" id="node10" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa867b72a44f1ad7efdf3136f3310941b" title=" " alt="" coords="248,466,387,507"/>
+<area shape="rect" id="node11" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a67023ea495c49778f68ec5a047f6c950" title=" " alt="" coords="217,531,417,573"/>
+<area shape="rect" id="node12" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#accb184c0177f9925a4d1d35601d67333" title=" " alt="" coords="228,597,407,624"/>
+<area shape="rect" id="node13" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a69e810c5e927862cc361ccded073ed62" title=" " alt="" coords="248,649,387,690"/>
+<area shape="rect" id="node14" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa899fea4ff401be30d7d99d26fa17f09" title=" " alt="" coords="248,714,387,755"/>
+<area shape="rect" id="node15" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae1f1ed8f73dd9cc89efc88cc562dcb67" title=" " alt="" coords="248,779,387,821"/>
+<area shape="rect" id="node16" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aacacf2ae0f3ddcc55878872cdc13b339" title=" " alt="" coords="246,845,389,886"/>
+<area shape="rect" id="node17" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09a22536938ad7138ec4e2c6d6be6d1e" title=" " alt="" coords="248,910,387,951"/>
+<area shape="rect" id="node18" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a3797e8db14bf83122bbee1fced8b0908" title=" " alt="" coords="248,975,387,1017"/>
+<area shape="rect" id="node19" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09e850d5fd674de1644036c9b1cbf256" title=" " alt="" coords="248,1041,387,1082"/>
+<area shape="rect" id="node20" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aeb0984cdc9b533ceec9c4864ee7fb6f0" title=" " alt="" coords="248,1106,387,1147"/>
+<area shape="rect" id="node21" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html#a92f1cb44839773c12dace9cc899631e3" title="Removes all effects the given constraint has on the variable bounds." alt="" coords="218,1171,417,1213"/>
+<area shape="rect" id="node22" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a91a027e35b4f22cd0009ff1b1b2ec6f9" title=" " alt="" coords="248,1237,387,1278"/>
+<area shape="rect" id="node23" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab072841bcaf2a48c389793e87923ee16" title=" " alt="" coords="208,1302,427,1343"/>
+<area shape="rect" id="node24" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a83adcbc620babad34627fdd21f62cc38" title=" " alt="" coords="246,1367,389,1409"/>
+<area shape="rect" id="node25" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a63c8e6116cdcaf09a60915cbcbe0d556" title=" " alt="" coords="219,1433,415,1474"/>
+<area shape="rect" id="node26" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a93d224cfff83d0050d8fd9238debb8a6" title=" " alt="" coords="248,1498,387,1539"/>
+<area shape="rect" id="node27" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a74acb33f945675825422f440b313209e" title=" " alt="" coords="230,1563,405,1605"/>
+<area shape="rect" id="node28" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a3fa096922a648fe8b0c873fd06a65944" title=" " alt="" coords="233,1629,402,1670"/>
+<area shape="rect" id="node29" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9b77bfa8526848b1982faf2467e6210a" title=" " alt="" coords="248,1694,387,1735"/>
+<area shape="rect" id="node30" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad43e142ce44f035ae3440cee03f63a4d" title=" " alt="" coords="244,1759,391,1801"/>
+<area shape="rect" id="node31" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a2f2da9262c05dd1bd023927904a80c9b" title=" " alt="" coords="248,1825,387,1866"/>
+<area shape="rect" id="node33" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a35384f3209b48efcb7fca0838d633472" title=" " alt="" coords="234,1891,401,1917"/>
+<area shape="rect" id="node4" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#afdceb3218d044c7e6eb0c5e82f82c74b" title=" " alt="" coords="475,81,649,122"/>
+<area shape="rect" id="node32" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a41839f75a8ce678bfedb0bc04c9d0e87" title=" " alt="" coords="493,1825,631,1866"/>
+</map>

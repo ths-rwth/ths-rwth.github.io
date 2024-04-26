@@ -1,0 +1,51 @@
+<map id="carl::SimpleNewton::contract" name="carl::SimpleNewton::contract">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1039,155,1081"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a1abf1d98da2f7331312905d888edadf2" title="Returns the center point of the interval." alt="" coords="745,448,840,475"/>
+<area shape="rect" id="node10" href="$d5/d73/a02423.html#a6515d1290413fe3cfdbec821bc3eca0d" title="Function which determines, if the interval is empty." alt="" coords="971,195,1137,221"/>
+<area shape="rect" id="node15" href="$d6/da1/a01233.html#a0c0448ac4cee24dd4f080db6241a21de" title="Computes the n&#39;th derivative of a number, which is either the number itself (for n = 0) or zero." alt="" coords="733,971,853,997"/>
+<area shape="rect" id="node16" href="$d5/d73/a02423.html#a18bcb1823ca5113afb7f71e3dfea1c0d" title="Implements extended interval division with intervals containting zero." alt="" coords="216,1173,376,1200"/>
+<area shape="rect" id="node17" href="$d5/d73/a02423.html#aa11698c185fe487bbf9577cdd3250640" title="Method which returns the empty interval rooted at 0." alt="" coords="437,1275,641,1301"/>
+<area shape="rect" id="node21" href="$dc/d5c/a02459.html#a6456aadb60a014ee0c93df3a632890b1" title=" " alt="" coords="209,833,383,874"/>
+<area shape="rect" id="node40" href="$d5/d73/a02423.html#abbd664d3de8afa83caac1f89f52505a1" title="Computes the integral part of the given interval." alt="" coords="203,1224,389,1251"/>
+<area shape="rect" id="node41" href="$d6/da1/a01233.html#a18dd7941a668a603002cfd4e1378f8ac" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="488,347,591,373"/>
+<area shape="rect" id="node43" href="$d6/da1/a01233.html#a9e12491561bd080f9cf41abe12546611" title="Intersects two intervals in a set&#45;theoretic manner." alt="" coords="217,1021,375,1048"/>
+<area shape="rect" id="node46" href="$d6/da1/a01233.html#a7a78710d31854c60bb2a7745354d2f0e" title="Computes the union of two intervals (can result in two distinct intervals)." alt="" coords="237,1072,355,1099"/>
+<area shape="rect" id="node48" href="$d5/d73/a02423.html#ac13aafd825082228229cba153b1218c4" title="Subtracts two intervals according to natural interval arithmetic." alt="" coords="229,1275,363,1301"/>
+<area shape="rect" id="node49" href="$d6/d8e/a01979.html#ae954c1f1e59102d1c58af6c9d326717a" title="Retrieves the type of the variable." alt="" coords="224,1325,368,1352"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="1923,296,2000,323"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a27d1ce2ad393e8bab62327891595dff4" title="Method which returns the next smaller integer of this number or the number itself,..." alt="" coords="1013,144,1095,171"/>
+<area shape="rect" id="node5" href="$d2/d11/a02647.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="967,971,1141,997"/>
+<area shape="rect" id="node6" href="$df/de4/a02651.html#aa36ed895ade4f5f204aeba0135d4f086" title=" " alt="" coords="969,347,1139,373"/>
+<area shape="rect" id="node7" href="$d5/d73/a02423.html#abccdf63161e8de9c1a496680b1c503ed" title="A quick check for the bound values." alt="" coords="1212,705,1404,732"/>
+<area shape="rect" id="node8" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1453,785,1601,812"/>
+<area shape="rect" id="node9" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1452,245,1601,272"/>
+<area shape="rect" id="node11" href="$d5/d73/a02423.html#a11e1a7441b3ef6684a0c515222399d9f" title="Function which determines, if the interval is (&#45;oo,oo)." alt="" coords="970,499,1138,525"/>
+<area shape="rect" id="node12" href="$d5/d73/a02423.html#a5ff744c1668b51981f0b169fd9cd41a2" title="The getter for the lower bound type of the interval." alt="" coords="945,701,1163,728"/>
+<area shape="rect" id="node13" href="$d5/d73/a02423.html#af8f2d203b725806cc6703ad0734de373" title="Returns a reference to the included boost interval." alt="" coords="970,600,1138,627"/>
+<area shape="rect" id="node14" href="$d5/d73/a02423.html#a65a2d0faa7ec9c7bb8b43b35a41b434e" title="The getter for the upper bound type of the interval." alt="" coords="944,549,1164,576"/>
+<area shape="rect" id="node18" href="$d7/d73/a01266.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="721,1275,864,1301"/>
+<area shape="rect" id="node19" href="$dd/da8/a03523.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="963,1305,1145,1346"/>
+<area shape="rect" id="node20" href="$d9/d65/a03215.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="959,1239,1149,1281"/>
+<area shape="rect" id="node22" href="$d5/d73/a02423.html#ae32d2f690f60b90c946185a8052ad5c9" title="Function which determines, if the interval is the zero interval." alt="" coords="463,768,616,795"/>
+<area shape="rect" id="node25" href="$d1/d34/a01211.html#a466a62bb6e9ae2fc01a1c020a461916f" title="Returns the number of variables that occur in the monomial." alt="" coords="439,819,639,845"/>
+<area shape="rect" id="node26" href="$d6/da1/a01233.html#a1a3cbf32fd45821af698e987cbc72f03" title=" " alt="" coords="499,869,580,896"/>
+<area shape="rect" id="node23" href="$d5/d73/a02423.html#a3b3f746e4fb51db8a9e394778e13e365" title="Function which determines, if the interval is a pointinterval." alt="" coords="689,764,896,791"/>
+<area shape="rect" id="node24" href="$d5/d73/a02423.html#ae397bb8a044ea3b46eabb9b7233ab2b9" title="Function which determines, if the interval is closed." alt="" coords="971,753,1137,794"/>
+<area shape="rect" id="node27" href="$d6/da1/a01233.html#a06f82f23ebc5f7c3cdd66b862e616e40" title=" " alt="" coords="713,1181,873,1208"/>
+<area shape="rect" id="node39" href="$d6/da1/a01233.html#a5c205dc504d657271c884a200a13b2d9" title=" " alt="" coords="753,651,832,677"/>
+<area shape="rect" id="node28" href="$d9/dca/a01879.html#a9f306b52642d5d1c9ea47cfa8a16d45c" title="Creates a monomial from a variable and an exponent." alt="" coords="981,1174,1127,1215"/>
+<area shape="rect" id="node29" href="$d9/dca/a01879.html#afdbdbd7787242a1bfa2dc8daf90deb92" title=" " alt="" coords="1219,1177,1397,1204"/>
+<area shape="rect" id="node30" href="$d9/dca/a01879.html#af7f6910d485ff70a4832f5ffe78b6030" title=" " alt="" coords="1453,945,1600,986"/>
+<area shape="rect" id="node32" href="$d1/d89/a03035.html#a0bac494107e882e1864c96692211e17b" title=" " alt="" coords="1464,1177,1589,1204"/>
+<area shape="rect" id="node31" href="$d7/d45/a03175.html#a7ffd1bad4bba6b8358a0444273eb4055" title=" " alt="" coords="1650,579,1827,621"/>
+<area shape="rect" id="node33" href="$d5/dea/a02927.html#a628941994cf797ec0738c07071411eb5" title="Retrieves the index of the first bit that is set to true." alt="" coords="1677,1170,1801,1211"/>
+<area shape="rect" id="node34" href="$d5/dea/a02927.html#a48617442a84186325efed2c8a69635f6" title="Retrieves the number of blocks used to store mData." alt="" coords="1649,1236,1828,1263"/>
+<area shape="rect" id="node35" href="$d5/dea/a02927.html#a8f800fdff578d0774d6e24fcd76418ff" title="Resets a bit to false." alt="" coords="1672,1287,1805,1313"/>
+<area shape="rect" id="node37" href="$d5/dea/a02927.html#a896f5f79d53d884b5f2da45b7100f9af" title="Resize the Bitset to hold at least num_bits bits. New bits are set to the given value." alt="" coords="1669,1068,1808,1095"/>
+<area shape="rect" id="node38" href="$d5/dea/a02927.html#acf742d4731e26aa5230889d1a391e015" title="Retrieves the size of mData." alt="" coords="1675,1119,1802,1145"/>
+<area shape="rect" id="node36" href="$d5/dea/a02927.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="1876,1287,2047,1313"/>
+<area shape="rect" id="node42" href="$d5/d73/a02423.html#a4d1dedfa64629a6509d858c9edae03f2" title="Checks if the interval contains the given value." alt="" coords="709,296,876,323"/>
+<area shape="rect" id="node44" href="$d5/d73/a02423.html#af91ba23a0d6a89c96cdd0759ded90298" title=" " alt="" coords="445,1072,634,1099"/>
+<area shape="rect" id="node45" href="$d5/d73/a02423.html#a34b42e2a84d680190d30d9beff11a8cc" title=" " alt="" coords="697,1072,888,1099"/>
+<area shape="rect" id="node47" href="$d6/da1/a01233.html#ad91b61a7e671cf7c10435f5c23982e3f" title="Check whether the two bounds connect, for example as for ...3),[3..." alt="" coords="460,1173,619,1200"/>
+</map>

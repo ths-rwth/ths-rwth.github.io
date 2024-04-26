@@ -1,0 +1,12 @@
+<map id="carl::IntRepRealAlgebraicNumber::refine_internal" name="carl::IntRepRealAlgebraicNumber::refine_internal">
+<area shape="rect" id="node1" title="Returns the sign of &quot;interval_int() &#45; pivot&quot;: Returns ZERO if pivot is equal to RAN." alt="" coords="816,129,1003,171"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#aacefbbb48d9bc3094836070c330ce4c5" title=" " alt="" coords="606,78,743,105"/>
+<area shape="rect" id="node3" href="$dc/d40/a02767.html#a644f871ee8f1891c7d04355a6578ceb3" title=" " alt="" coords="581,129,768,171"/>
+<area shape="rect" id="node9" href="$dc/d40/a02767.html#a102d146d9f7a995e3b25414960548aad" title=" " alt="" coords="581,212,768,253"/>
+<area shape="rect" id="node4" href="$d8/d87/a02839.html#a8166101bda0b1fea4d03333382199080" title=" " alt="" coords="341,5,512,47"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#a756bab5243693499197657f54903fb98" title=" " alt="" coords="371,187,482,214"/>
+<area shape="rect" id="node6" href="$dc/d40/a02767.html#a168ccb2c969b60ecfafd0662d678a18c" title="Refines until the number is either numeric or the interval does not contain any integer." alt="" coords="320,71,533,112"/>
+<area shape="rect" id="node8" href="$dc/db6/a01212.html#aa969dd11233ec83434a5757a3cd0f69a" title=" " alt="" coords="344,137,509,163"/>
+<area shape="rect" id="node7" href="$dc/d40/a02767.html#a0061c4709805a2d571b6c3dd97caee7c" title=" " alt="" coords="5,151,272,192"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#a36a6c472178e4b6839667120e325bf14" title=" " alt="" coords="344,289,509,315"/>
+</map>

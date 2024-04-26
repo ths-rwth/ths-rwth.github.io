@@ -1,0 +1,13 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::insertPolynomialTo" name="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::insertPolynomialTo">
+<area shape="rect" id="node1" title="Inserts a polynomial with the given origin into the given level." alt="" coords="5,151,256,207"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a9446a9fdd0c8bc75bd8592e3cdf8e691" title="Checks whether a polynomial can safely be forwarded to the next level." alt="" coords="335,5,504,47"/>
+<area shape="rect" id="node5" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a3eff39f8995d50d8597f6b32ee66ff55" title="Checks whether a polynomial can safely be ignored." alt="" coords="335,71,504,112"/>
+<area shape="rect" id="node6" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="583,247,817,274"/>
+<area shape="rect" id="node7" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="865,232,1067,273"/>
+<area shape="rect" id="node10" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a83c791813adc668d10ccde8e4eed7469" title="Returns a fresh polynomial id for the given level." alt="" coords="319,188,520,229"/>
+<area shape="rect" id="node11" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="304,305,535,331"/>
+<area shape="rect" id="node3" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="607,5,793,47"/>
+<area shape="rect" id="node4" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="903,13,1029,39"/>
+<area shape="rect" id="node8" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af1c4a845a809170ee3744feaa7ee07ef" title="Returns the variables used for projection." alt="" coords="865,297,1067,339"/>
+<area shape="rect" id="node9" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#ae7d22ef2db76ccf1574655744d00cfe7" title=" " alt="" coords="1115,297,1321,339"/>
+</map>

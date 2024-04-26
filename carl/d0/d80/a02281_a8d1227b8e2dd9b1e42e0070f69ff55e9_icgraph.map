@@ -1,0 +1,28 @@
+<map id="carl::Interval::empty_interval" name="carl::Interval::empty_interval">
+<area shape="rect" id="node1" title="Method which returns the empty interval rooted at 0." alt="" coords="943,141,1097,182"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#a462f083c9388c416b3ff62e455279a3d" title=" " alt="" coords="758,5,869,32"/>
+<area shape="rect" id="node3" href="$d7/dbe/a02333.html#ad83862af18deb617249c013068c9cf5f" title=" " alt="" coords="745,57,882,98"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#ad6e739eceb2dc4203064211a3193078a" title="Calculates the complement in a set&#45;theoretic manner (can result in two distinct intervals)." alt="" coords="732,123,895,149"/>
+<area shape="rect" id="node5" href="$d7/dc5/a01242.html#acc37f16a7b18c556a66fc0c4ce36fb81" title="Calculates the difference of two intervals in a set&#45;theoretic manner: lhs \ rhs (can result in two di..." alt="" coords="740,173,887,200"/>
+<area shape="rect" id="node7" href="$d7/dc5/a01242.html#a7a78710d31854c60bb2a7745354d2f0e" title="Computes the union of two intervals (can result in two distinct intervals)." alt="" coords="755,224,872,251"/>
+<area shape="rect" id="node14" href="$d7/dc5/a01242.html#a6ce64aec99b53fea39b96c47924c33fd" title=" " alt="" coords="774,577,853,604"/>
+<area shape="rect" id="node6" href="$d7/dc5/a01242.html#a26a2da3ff540f49e71d47ed6a82da231" title="Calculates the symmetric difference of two intervals in a set&#45;theoretic manner (can result in two dis..." alt="" coords="510,21,661,62"/>
+<area shape="rect" id="node8" href="$d4/dfb/a02341.html#a2f25f60aaa327ed2e492ee0261199ecd" title=" " alt="" coords="487,217,684,258"/>
+<area shape="rect" id="node9" href="$d4/dfb/a02341.html#a12243e6bf41327089e8d3a7936bcd621" title="Evaluate this contraction over the given assignment." alt="" coords="241,217,439,258"/>
+<area shape="rect" id="node10" href="$d0/d71/a02329.html#a323de1c287dc0bb3ec4d2c8770b03c16" title=" " alt="" coords="495,334,676,375"/>
+<area shape="rect" id="node11" href="$d0/d71/a02329.html#ab6c0c1e1cd1ab72b5fc50e95e0064f95" title="Evaluates this solution formula for the given mapping of the variables occurring in the solution form..." alt="" coords="249,355,431,397"/>
+<area shape="rect" id="node12" href="$d7/d52/a02337.html#ae10384534dea0d2fea062cf173af9b46" title=" " alt="" coords="511,86,660,127"/>
+<area shape="rect" id="node13" href="$d4/dfb/a02341.html#af2f00943d9561e11cb319794eed71ce1" title=" " alt="" coords="487,151,684,193"/>
+<area shape="rect" id="node15" href="$d7/dc5/a01242.html#acb9e48799c5668d38831be5b6ba8982c" title=" " alt="" coords="534,451,637,477"/>
+<area shape="rect" id="node18" href="$d7/dc5/a01242.html#a3bc012d12145a5509f1ad58ecb56227f" title="Evaluates the square root expression." alt="" coords="530,501,641,528"/>
+<area shape="rect" id="node19" href="$d7/de7/a02373.html#ae2f36666d1c943281efb1037b992e691" title="Returns the square root of this number and puts it into a passed result parameter." alt="" coords="514,552,657,579"/>
+<area shape="rect" id="node23" href="$d7/dc5/a01242.html#ac5a9461ffb807f3460d78ee4048b5b38" title=" " alt="" coords="521,603,649,629"/>
+<area shape="rect" id="node24" href="$d2/d0a/a02321.html#a07476bc24ecaf46fadac9fe7ecd59b6d" title=" " alt="" coords="492,653,679,680"/>
+<area shape="rect" id="node25" href="$d7/dc5/a01242.html#a695d45d584e7026995d116bbbd822a4f" title="Compute square root in a fast but less precise way." alt="" coords="530,704,641,731"/>
+<area shape="rect" id="node26" href="$d2/d0a/a02321.html#a8e9e13de9d76a8f7e3a8b23d7234e519" title=" " alt="" coords="502,755,669,781"/>
+<area shape="rect" id="node16" href="$d7/dc5/a01242.html#a73e8440453b0ada4b1cf4c5197bf862d" title=" " alt="" coords="254,443,426,485"/>
+<area shape="rect" id="node17" href="$d8/dea/a02913.html#a0d668f381c18fa52c494107c58065da3" title=" " alt="" coords="5,443,193,485"/>
+<area shape="rect" id="node20" href="$d7/de7/a02373.html#ad416be481f0f91ca8355df1e252a6c4c" title="Function required for extension of Eigen3 with FLOAT_T as a custom type which calculates the square r..." alt="" coords="259,585,421,612"/>
+<area shape="rect" id="node21" href="$d7/dc5/a01242.html#aad3129994a4bcab55e77d6280dd22184" title="Method which returns the square root of the passed number." alt="" coords="301,535,379,561"/>
+<area shape="rect" id="node22" href="$d7/de7/a02373.html#a78608af2a37ee459023834318a6f7a54" title="Function for the square root of the number, which assigns the result to the calling number." alt="" coords="28,527,171,569"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="carl::logging::StreamSink" name="carl::logging::StreamSink">
+<area shape="rect" id="node1" title="Logging sink that wraps an arbitrary std::ostream." alt="" coords="29,337,214,364"/>
+<area shape="rect" id="node2" href="$d3/dc0/a03733.html" title="Base class for a logging sink." alt="" coords="5,248,144,275"/>
+<area shape="rect" id="node3" title=" " alt="" coords="168,248,272,275"/>
+<area shape="rect" id="node4" title=" " alt="" coords="147,157,293,199"/>
+<area shape="rect" id="node5" title=" " alt="" coords="135,81,305,108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="167,5,273,32"/>
+</map>

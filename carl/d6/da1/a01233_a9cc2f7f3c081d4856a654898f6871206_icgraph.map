@@ -1,0 +1,52 @@
+<map id="carl::is_constant" name="carl::is_constant">
+<area shape="rect" id="node1" title="Checks whether the monomial is a constant." alt="" coords="1224,452,1352,479"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#afdcf963c8932f388540ee5c531bbe56b" title=" " alt="" coords="1001,5,1142,32"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a69bb2518166d66ce4a90d6972277058b" title=" " alt="" coords="751,441,884,468"/>
+<area shape="rect" id="node4" href="$d8/ddf/a01238.html#a34836e1d10fcc3797323372c470264d2" title=" " alt="" coords="996,57,1147,98"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="749,123,885,149"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a6f2f1e3841c1defdf4f8588508320b65" title=" " alt="" coords="988,224,1155,251"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a52e2c3f493c581b3c695d06fce2c5e11" title="Check if the polynomial is linear." alt="" coords="1007,275,1135,301"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a2ed72afc9781542235224078016fd31d" title="Checks whether a term is one." alt="" coords="1023,325,1119,352"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#ad39ad79b773b9e5c6f397c629c751127" title=" " alt="" coords="995,376,1147,403"/>
+<area shape="rect" id="node15" href="$d6/da1/a01233.html#a822e17789e6cb91e6b52da39bcac92f3" title=" " alt="" coords="970,529,1173,570"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#a349e672eaeb08c5fbfc6d508d1f86df1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="987,725,1156,752"/>
+<area shape="rect" id="node36" href="$d6/da1/a01233.html#a794f4b3066b36d667cd16e85ad43bb72" title=" " alt="" coords="503,1052,615,1079"/>
+<area shape="rect" id="node42" href="$d5/d6e/a01240.html#acbb5856111407c2f5f44d35dcf372e3e" title="An implementation of the naive resultant algorithm based on the silvester matrix." alt="" coords="992,594,1151,635"/>
+<area shape="rect" id="node43" href="$d5/d6e/a01240.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="992,659,1151,701"/>
+<area shape="rect" id="node44" href="$d6/da1/a01233.html#a1ea81c002749c68ce22a72909b4923a5" title=" " alt="" coords="982,427,1161,453"/>
+<area shape="rect" id="node45" href="$d6/da1/a01233.html#a598db2a85288fd3d66fb84d9e129ee4d" title=" " alt="" coords="967,173,1176,200"/>
+<area shape="rect" id="node46" href="$d6/da1/a01233.html#a78b95ed8f04defd9f057635c224b2978" title="Implements a subresultants algorithm with optimizations described in &#160;." alt="" coords="1000,827,1143,853"/>
+<area shape="rect" id="node49" href="$d6/da1/a01233.html#af4b23e6c3ac20be2d64039060be823fb" title=" " alt="" coords="1012,877,1131,904"/>
+<area shape="rect" id="node50" href="$d6/da1/a01233.html#ad16d78e5c4773d5250247599e6015726" title="Add the variables of the given polynomial to the variables." alt="" coords="1014,928,1129,955"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#a0904b2d62006514e4b1a92da6bbe10f3" title=" " alt="" coords="769,260,865,287"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a0b29da0503a9246e89a086460fc8bea7" title="Returns this/divisor where divisor is the numeric content of this polynomial." alt="" coords="717,311,917,337"/>
+<area shape="rect" id="node12" href="$d0/de4/a02851.html#adce23fb8a47cdca5a570b24116c28bf5" title="Use root bounds to shrink mInterval." alt="" coords="736,361,899,417"/>
+<area shape="rect" id="node13" href="$d0/de4/a02851.html#aaab389347247d06dbdfd4bebad578d3a" title="Do actual root isolation." alt="" coords="487,259,632,315"/>
+<area shape="rect" id="node14" href="$d0/de4/a02851.html#afdbb09251e032b61ac85e1822a9c5422" title="Compute and sort the roots of mPolynomial within mInterval." alt="" coords="243,259,388,315"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#aad130db0888a2aeee7b94b05e80a5913" title="Computes a lower bound on the value of the positive real roots of the given univariate polynomial." alt="" coords="716,493,919,534"/>
+<area shape="rect" id="node17" href="$d6/da1/a01233.html#a6db256c5d04e0958d5e4eec87ee36b3a" title=" " alt="" coords="260,368,371,395"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#adddea28eb496daf0732228c24b6746ce" title="Computes an upper bound on the value of the negative real roots of the given univariate polynomial." alt="" coords="455,390,664,431"/>
+<area shape="rect" id="node20" href="$d6/da1/a01233.html#abfeb486514341498d6b363229506eae8" title=" " alt="" coords="757,725,878,752"/>
+<area shape="rect" id="node21" href="$d9/d27/a02363.html#ac6dca3b99b365ec5bbee64801541426a" title=" " alt="" coords="451,718,668,759"/>
+<area shape="rect" id="node22" href="$dd/db2/a02563.html#aaf3d414079e70f1d149ed22c98f0c6dc" title=" " alt="" coords="486,783,633,825"/>
+<area shape="rect" id="node24" href="$d6/da1/a01233.html#a7be9095a9d1076d03dd66d42cfae06e8" title=" " alt="" coords="512,849,607,876"/>
+<area shape="rect" id="node25" href="$dc/d21/a02079.html#a20893ff264e1a9903dddbc306c67a544" title=" " alt="" coords="451,900,668,927"/>
+<area shape="rect" id="node28" href="$d6/da1/a01233.html#a5f31d7eb9305ddf4f3520e13d5c06e0c" title=" " alt="" coords="487,951,631,977"/>
+<area shape="rect" id="node30" href="$d6/da1/a01233.html#adf9d6c209abb44b9087d203e24604d36" title=" " alt="" coords="499,1001,620,1028"/>
+<area shape="rect" id="node31" href="$d6/da1/a01233.html#a90d508f57729bfcce3a49c1a1b09c8bd" title="Compute the signed pseudo&#45;remainder." alt="" coords="484,455,635,497"/>
+<area shape="rect" id="node32" href="$d6/da1/a01233.html#a0a7b1c21762f6b6b2dea7127d1812f16" title="Computes the sturm sequence of two polynomials." alt="" coords="479,521,640,548"/>
+<area shape="rect" id="node34" href="$d3/df5/a02827.html#a5a0f1acc8f17efa9ec3cd03f5ba0f5fa" title=" " alt="" coords="484,572,635,628"/>
+<area shape="rect" id="node35" href="$d7/d30/a01891.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="461,653,658,694"/>
+<area shape="rect" id="node23" href="$dd/db2/a02563.html#a7c139e69e1f9963c0a3358a5da615e02" title=" " alt="" coords="242,791,389,817"/>
+<area shape="rect" id="node26" href="$d6/da1/a01233.html#a92a1ed8f4144f35978f564fc7d70c966" title=" " alt="" coords="254,900,377,927"/>
+<area shape="rect" id="node27" href="$d6/da1/a01233.html#a0c6f7cdb438acf1f4e5ed498cf6e3b34" title=" " alt="" coords="259,849,372,876"/>
+<area shape="rect" id="node29" href="$d6/da1/a01233.html#a90e8d41f33ed25b55e4a0c082f472fd6" title="Calculates the greatest common divisor of two polynomials." alt="" coords="277,951,354,977"/>
+<area shape="rect" id="node33" href="$d6/da1/a01233.html#ae73a1af390927f2918e2430de9d6d6a9" title="Count the number of real roots of p within the given interval using Sturm sequences." alt="" coords="234,521,397,548"/>
+<area shape="rect" id="node37" href="$d0/d33/a01252.html#a897bcef0c3dce0c64702e8f419539e1b" title="Implements algebraic substitution by resultant computation." alt="" coords="228,1052,403,1108"/>
+<area shape="rect" id="node40" href="$d1/d24/a02847.html#aa093a925323aedc62c631c7a43fd9db7" title=" " alt="" coords="230,1133,401,1174"/>
+<area shape="rect" id="node41" href="$d6/da1/a01233.html#a97d31aee8d7a5c82a37385b529960948" title=" " alt="" coords="248,1001,383,1028"/>
+<area shape="rect" id="node38" href="$d0/d33/a01252.html#a81e240c71214a271179974c2318050d1" title="Computes the algebraic substitution of the given defining polynomials into a multivariate polynomial ..." alt="" coords="5,1022,180,1063"/>
+<area shape="rect" id="node39" href="$d0/d33/a01252.html#ad81c8b19229c789a99c52e77f06cf9e2" title="Implements algebraic substitution by resultant computation." alt="" coords="5,1088,180,1144"/>
+<area shape="rect" id="node47" href="$d6/da1/a01233.html#a50208b5ed0bc2fcb165beee95fb30b76" title=" " alt="" coords="718,827,917,869"/>
+<area shape="rect" id="node48" href="$d6/da1/a01233.html#ad5542d5128116b852fc79690da0dd8c9" title=" " alt="" coords="728,972,907,999"/>
+</map>

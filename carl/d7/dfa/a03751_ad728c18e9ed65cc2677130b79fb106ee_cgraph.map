@@ -1,0 +1,4 @@
+<map id="carl::settings::SettingsParser::warn_for_unrecognized" name="carl::settings::SettingsParser::warn_for_unrecognized">
+<area shape="rect" id="node1" title="Checks for unrecognized options that were found." alt="" coords="5,13,227,54"/>
+<area shape="rect" id="node2" href="$d7/dfa/a03751.html#aaf7f799d66d1a56e253c67ed9ac75b53" title="Prints a warning if an option was unrecognized. Can be overridden." alt="" coords="275,5,496,61"/>
+</map>

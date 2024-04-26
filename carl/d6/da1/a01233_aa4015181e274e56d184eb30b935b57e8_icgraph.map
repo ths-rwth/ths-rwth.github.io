@@ -1,0 +1,21 @@
+<map id="carl::substitute" name="carl::substitute">
+<area shape="rect" id="node1" title="Applies the given substitutions to a monomial." alt="" coords="956,257,1075,284"/>
+<area shape="rect" id="node2" href="$de/d92/a02175.html#a298e1894538d5ec305049cf6ec70fefd" title=" " alt="" coords="707,5,886,61"/>
+<area shape="rect" id="node3" href="$db/da5/a02919.html#a0c0f40fd0237fc42423000be8b91227e" title=" " alt="" coords="721,86,872,127"/>
+<area shape="rect" id="node4" href="$de/d1b/a02187.html#a44d2731471969e1fcf258f7074332366" title=" " alt="" coords="715,151,878,193"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a8211b0a0bb14f560103fdf876f80dfc1" title="Replaces the main variable in a polynomial." alt="" coords="725,217,868,258"/>
+<area shape="rect" id="node14" href="$d7/d30/a01891.html#a616a80ba2f97db737da99f63c3b92111" title="Solve in the domain Z_(p^k)[x_!,...,x_v] the multivariate polynomial diophantine equation sigma_1 * b..." alt="" coords="685,282,908,323"/>
+<area shape="rect" id="node17" href="$d6/da1/a01233.html#a3c2a87a4a9383680133107e57c6e7b9a" title="Replace the given variable by the given value." alt="" coords="737,348,856,375"/>
+<area shape="rect" id="node18" href="$d3/df5/a02827.html#a5a0f1acc8f17efa9ec3cd03f5ba0f5fa" title=" " alt="" coords="721,399,872,455"/>
+<area shape="rect" id="node19" href="$d5/d9d/a03343.html#adfe933779ffa69393d4a8e341f36dffc" title=" " alt="" coords="715,479,878,521"/>
+<area shape="rect" id="node6" href="$d1/d24/a02847.html#aa093a925323aedc62c631c7a43fd9db7" title=" " alt="" coords="449,63,620,105"/>
+<area shape="rect" id="node7" href="$dd/da4/a02295.html#a3303bdcb0966cb600904c86e2bf86b58" title="Return a polynomial containing the lhs&#45;variable that has a same root for the this lhs&#45;variable as the..." alt="" coords="442,129,627,170"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#acf69f7df84adce86589ec9686663d4cf" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="479,195,590,221"/>
+<area shape="rect" id="node10" href="$df/d37/a02823.html#a2eb873abe2a1875d2d21d82781c8b0a7" title="Extend the current number field with the field extension defined by r." alt="" coords="442,246,627,287"/>
+<area shape="rect" id="node13" href="$d0/d82/a02831.html#a37887c7e285a3e57ee855dcc4918b3fb" title=" " alt="" coords="432,312,637,368"/>
+<area shape="rect" id="node8" href="$d9/de7/a01257.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="205,136,366,163"/>
+<area shape="rect" id="node11" href="$d0/d33/a01252.html#aceac25901302849c6e933d465f45ec80" title=" " alt="" coords="204,239,367,295"/>
+<area shape="rect" id="node12" href="$d0/d33/a01252.html#a0ee19ea70c76b3365235c61a66814fb5" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,246,139,287"/>
+<area shape="rect" id="node15" href="$d7/d30/a01891.html#a187a097a5e5283781b543202e6be25a1" title=" " alt="" coords="436,393,633,434"/>
+<area shape="rect" id="node16" href="$d7/d30/a01891.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="187,393,384,434"/>
+</map>

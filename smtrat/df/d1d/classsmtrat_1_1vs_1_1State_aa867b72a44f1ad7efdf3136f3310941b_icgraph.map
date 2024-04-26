@@ -1,0 +1,8 @@
+<map id="smtrat::vs::State::father" name="smtrat::vs::State::father">
+<area shape="rect" id="node1" title=" " alt="" coords="511,63,649,105"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac76830e243392cac2bd5a274b6fa404e" title="Checks whether the test candidate of this state is valid against the variable intervals in the father..." alt="" coords="5,34,232,75"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a6338f266e303198bac2e88d1cddeacfd" title=" " alt="" coords="280,30,463,71"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="294,95,449,137"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aae7c46f2785a30d44798ba7ebee6fe5c" title="Determines the solution space of the test candidate of this state regarding to the variable bounds of..." alt="" coords="302,161,441,202"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae3e52230c1a3dbc92d034cad806c08fb" title="Checks whether there are no zeros for the left&#45;hand side of the constraint of the given condition." alt="" coords="21,161,216,202"/>
+</map>

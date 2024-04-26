@@ -1,0 +1,45 @@
+<map id="smtrat::BEModule&lt; Settings &gt;" name="smtrat::BEModule&lt; Settings &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="2065,1017,2287,1043"/>
+<area shape="rect" id="node2" href="$dc/d3b/classsmtrat_1_1PModule.html" title=" " alt="" coords="1686,831,1815,858"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html" title="A base class for all kind of theory solving methods." alt="" coords="1219,647,1340,674"/>
+<area shape="rect" id="node9" href="$d0/df0/classsmtrat_1_1Manager.html" title="Base class for solvers." alt="" coords="2492,643,2623,670"/>
+<area shape="rect" id="node10" title=" " alt="" coords="2067,675,2285,731"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1676,749,1825,791"/>
+<area shape="rect" id="node4" title=" " alt="" coords="692,741,841,783"/>
+<area shape="rect" id="node5" href="$d6/d6f/structsmtrat_1_1Branching.html" title="Stores all necessary information of an branch, which can be used to detect probable infinite loop of ..." alt="" coords="214,782,353,809"/>
+<area shape="rect" id="node6" title=" " alt="" coords="219,409,348,435"/>
+<area shape="rect" id="node8" title=" " alt="" coords="673,455,860,482"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1133,80,1425,121"/>
+<area shape="rect" id="node18" title=" " alt="" coords="909,163,1109,204"/>
+<area shape="rect" id="node19" title=" " alt="" coords="677,339,856,380"/>
+<area shape="rect" id="node24" title=" " alt="" coords="673,221,860,263"/>
+<area shape="rect" id="node30" title=" " alt="" coords="675,573,858,599"/>
+<area shape="rect" id="node31" title=" " alt="" coords="655,507,879,548"/>
+<area shape="rect" id="node35" title=" " alt="" coords="691,624,842,665"/>
+<area shape="rect" id="node37" title=" " alt="" coords="686,287,847,314"/>
+<area shape="rect" id="node42" title=" " alt="" coords="665,405,868,431"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,909,44,935"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1212,1029,1347,1055"/>
+<area shape="rect" id="node17" title=" " alt="" coords="205,58,362,85"/>
+<area shape="rect" id="node23" title=" " alt="" coords="229,959,337,986"/>
+<area shape="rect" id="node41" title=" " alt="" coords="217,909,350,935"/>
+<area shape="rect" id="node43" title=" " alt="" coords="1665,1037,1836,1079"/>
+<area shape="rect" id="node13" title=" " alt="" coords="747,1087,786,1114"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1225,1101,1334,1127"/>
+<area shape="rect" id="node14" href="$dc/d65/classsmtrat_1_1StrategyGraph.html" title=" " alt="" coords="1667,170,1834,197"/>
+<area shape="rect" id="node16" title=" " alt="" coords="669,5,864,47"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1880,1099,2041,1126"/>
+<area shape="rect" id="node22" href="$da/d5e/classsmtrat_1_1ModuleInput.html" title="The input formula a module has to consider for it&#39;s satisfiability check." alt="" coords="689,959,844,986"/>
+<area shape="rect" id="node25" title=" " alt="" coords="201,122,365,149"/>
+<area shape="rect" id="node26" title=" " alt="" coords="2124,1141,2228,1167"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1678,1155,1823,1196"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1194,1162,1365,1189"/>
+<area shape="rect" id="node29" title=" " alt="" coords="713,1162,820,1189"/>
+<area shape="rect" id="node32" href="$dd/ddb/structsmtrat_1_1Module_1_1TheoryPropagation.html" title=" " alt="" coords="157,602,409,629"/>
+<area shape="rect" id="node33" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html" title=" " alt="" coords="648,690,885,717"/>
+<area shape="rect" id="node34" title=" " alt="" coords="242,731,325,758"/>
+<area shape="rect" id="node36" href="$d0/d7f/structsmtrat_1_1Module_1_1Lemma.html" title=" " alt="" coords="194,653,373,679"/>
+<area shape="rect" id="node38" title=" " alt="" coords="723,858,810,885"/>
+<area shape="rect" id="node39" title=" " alt="" coords="214,843,353,884"/>
+<area shape="rect" id="node40" title=" " alt="" coords="680,909,853,935"/>
+</map>

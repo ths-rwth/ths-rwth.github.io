@@ -1,0 +1,6 @@
+<map id="carl::ReductorEntry::empty" name="carl::ReductorEntry::empty">
+<area shape="rect" id="node1" title=" " alt="" coords="447,39,593,80"/>
+<area shape="rect" id="node2" href="$d1/dda/a02255.html#a352c49e8db018be32840b29a4056223f" title=" " alt="" coords="252,5,399,47"/>
+<area shape="rect" id="node4" href="$d1/dda/a02255.html#ae99ede6f8aea5be000aded3f0d49c247" title="Output the current polynomial." alt="" coords="252,71,399,112"/>
+<area shape="rect" id="node3" href="$df/d71/a02247.html#a5726fc6e3c832a8a136a8073a6a77a03" title="should only be called if the compare result was EQUAL eliminate duplicate leading monomials" alt="" coords="5,5,204,47"/>
+</map>

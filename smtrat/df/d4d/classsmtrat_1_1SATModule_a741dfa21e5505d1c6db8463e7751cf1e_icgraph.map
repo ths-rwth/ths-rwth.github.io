@@ -1,0 +1,4 @@
+<map id="smtrat::SATModule::newVar" name="smtrat::SATModule::newVar">
+<area shape="rect" id="node1" title="Creates a new SAT variable in the solver." alt="" coords="208,5,363,47"/>
+<area shape="rect" id="node2" href="$df/d4d/classsmtrat_1_1SATModule.html#ad0921957e6dff11f6f5d1494be1e93a6" title="Constructs a SATModule." alt="" coords="5,5,160,47"/>
+</map>

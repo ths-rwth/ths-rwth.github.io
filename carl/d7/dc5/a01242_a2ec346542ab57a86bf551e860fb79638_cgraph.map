@@ -1,0 +1,4 @@
+<map id="carl::operator+=" name="carl::operator+=">
+<area shape="rect" id="node1" title="Operator for the addition of an interval and a number with assignment." alt="" coords="5,5,136,32"/>
+<area shape="rect" id="node2" href="$d0/d80/a02281.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="184,5,345,32"/>
+</map>

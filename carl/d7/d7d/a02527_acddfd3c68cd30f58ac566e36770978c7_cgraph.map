@@ -1,0 +1,9 @@
+<map id="carl::UnivariatePolynomial::negate_variable" name="carl::UnivariatePolynomial::negate_variable">
+<area shape="rect" id="node1" title="Constructs a new polynomial q such that &#160;where p is this polynomial." alt="" coords="5,49,200,90"/>
+<area shape="rect" id="node2" href="$d7/d7d/a02527.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="248,19,443,61"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a98df826da90dc24a6e5254f13df7b057" title=" " alt="" coords="305,85,385,112"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#ae0d525094e8ca4f57347d606e8ce40fa" title="Get the bit size of the representation of a integer." alt="" coords="535,5,633,32"/>
+<area shape="rect" id="node5" href="$d5/d4d/a02763.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="725,78,912,119"/>
+<area shape="rect" id="node6" href="$d5/d4d/a02763.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="491,107,677,149"/>
+<area shape="rect" id="node7" href="$d5/d4d/a02763.html#a9392daa40b9085e09ed2cfe20c44fd2a" title=" " alt="" coords="491,173,677,214"/>
+</map>

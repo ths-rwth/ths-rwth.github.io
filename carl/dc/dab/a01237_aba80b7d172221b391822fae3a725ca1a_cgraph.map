@@ -1,0 +1,15 @@
+<map id="carl::covering::heuristic::greedy_bounded" name="carl::covering::heuristic::greedy_bounded">
+<area shape="rect" id="node1" title="Bounded greedy heuristic: Selects the largest remaining set until at most bound constraints remain." alt="" coords="5,169,180,211"/>
+<area shape="rect" id="node2" href="$d6/dd5/a03214.html#a00b6d74a508b81462929264c4f9bd7ae" title="Returns the number of active sets (that still cover uncovered elements)." alt="" coords="228,5,405,47"/>
+<area shape="rect" id="node3" href="$d6/dd5/a03214.html#a9458855752177817a34dc22cd47a5f93" title="Returns the uncovered elements." alt="" coords="228,71,405,112"/>
+<area shape="rect" id="node4" href="$d6/dd5/a03214.html#af9f2f05702d7fa08f9ec128d52142417" title="Returns the id of the largest set." alt="" coords="228,136,405,177"/>
+<area shape="rect" id="node10" href="$d6/dd5/a03214.html#a2fa176558650d830fe65bf7445705d4b" title="Removes empty sets." alt="" coords="228,201,405,243"/>
+<area shape="rect" id="node11" href="$d6/dd5/a03214.html#a24536d5abdd1155dc974db0d0749ee05" title="Selects the given set and purges the covered elements from all other sets." alt="" coords="228,267,405,308"/>
+<area shape="rect" id="node12" href="$d4/db9/a02918.html#a9de0d41fc6b1ee50437f2e828db25412" title="Sets the given bit to a value, true by default." alt="" coords="257,333,377,359"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#a98df826da90dc24a6e5254f13df7b057" title=" " alt="" coords="499,143,579,170"/>
+<area shape="rect" id="node6" href="$dc/db6/a01212.html#ae0d525094e8ca4f57347d606e8ce40fa" title="Get the bit size of the representation of a integer." alt="" coords="717,63,814,90"/>
+<area shape="rect" id="node7" href="$dd/deb/a02766.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="907,136,1093,177"/>
+<area shape="rect" id="node8" href="$dd/deb/a02766.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="672,165,859,207"/>
+<area shape="rect" id="node9" href="$dd/deb/a02766.html#a9392daa40b9085e09ed2cfe20c44fd2a" title=" " alt="" coords="672,231,859,272"/>
+<area shape="rect" id="node13" href="$d4/db9/a02918.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="453,333,624,359"/>
+</map>

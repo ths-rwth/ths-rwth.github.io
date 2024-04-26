@@ -1,0 +1,11 @@
+<map id="carl::initialize" name="carl::initialize">
+<area shape="rect" id="node1" title="Method to ensure that upon inclusion, init() is called exactly once." alt="" coords="5,225,116,251"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a66293184efb43015989a86d518919cea" title="The routine for initializing the carl library." alt="" coords="164,225,239,251"/>
+<area shape="rect" id="node3" href="$dc/d83/a01254.html#a8fea23f542143af72cc428d1c3b52b9e" title=" " alt="" coords="287,159,457,200"/>
+<area shape="rect" id="node8" href="$d7/db8/a03060.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="923,188,1097,229"/>
+<area shape="rect" id="node4" href="$dc/d83/a01254.html#a1f6ea271980ab353f97c71fd5aec72da" title=" " alt="" coords="505,129,672,171"/>
+<area shape="rect" id="node5" href="$d4/d43/a03700.html#a12f8440cc7879cc40f546e2bf61067b0" title="Installs the given sink." alt="" coords="720,5,875,47"/>
+<area shape="rect" id="node6" href="$d4/d43/a03700.html#ac89bb2de4d444b85385c92a0bf4f2d58" title="Retrieves the Filter for some Sink." alt="" coords="720,71,875,112"/>
+<area shape="rect" id="node7" href="$dc/d83/a01254.html#a380c12cb3d69ec8dedc4f28b24fe0dba" title="Returns the single global instance of a Logger." alt="" coords="722,137,873,163"/>
+<area shape="rect" id="node9" href="$d4/d43/a03700.html#addfb61c76ed27ba1ba9537b6d7d5f75b" title="Reconfigures all Formatter objects." alt="" coords="720,188,875,229"/>
+</map>

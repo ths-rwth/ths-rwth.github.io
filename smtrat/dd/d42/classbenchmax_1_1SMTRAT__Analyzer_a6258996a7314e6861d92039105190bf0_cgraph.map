@@ -1,0 +1,4 @@
+<map id="benchmax::SMTRAT_Analyzer::canHandle" name="benchmax::SMTRAT_Analyzer::canHandle">
+<area shape="rect" id="node1" title="Only handle .smt2 files." alt="" coords="5,5,220,47"/>
+<area shape="rect" id="node2" href="$d0/d1d/namespacebenchmax.html#aca8b44f9a120bc8b307020ef2cdd9204" title="Checks whether the extension of the filename is as specified." alt="" coords="268,13,448,39"/>
+</map>

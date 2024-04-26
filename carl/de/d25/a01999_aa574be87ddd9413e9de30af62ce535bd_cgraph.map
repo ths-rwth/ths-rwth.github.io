@@ -1,0 +1,9 @@
+<map id="carl::VariablePool::VariablePool" name="carl::VariablePool::VariablePool">
+<area shape="rect" id="node1" title="Private default constructor." alt="" coords="5,127,140,168"/>
+<area shape="rect" id="node2" href="$de/d25/a01999.html#ac370bc810b22cb2c7c9469bb4d2a85eb" title="Clears everything already created in this pool." alt="" coords="188,93,323,135"/>
+<area shape="rect" id="node7" href="$de/d25/a01999.html#a6ca3a5015a0408b763ff9d2ecf475f1b" title="Sets the prefix used when printing anonymous variables." alt="" coords="188,159,323,200"/>
+<area shape="rect" id="node3" href="$de/d25/a01999.html#a609d1de5e480fa4d03114bc814f68021" title="Get a variable which was not used before." alt="" coords="373,5,512,47"/>
+<area shape="rect" id="node4" href="$d6/d8e/a01979.html#ae00fad76caa1ec7042dff9e50aa46f36" title="Retrieves the id of the variable." alt="" coords="379,71,506,98"/>
+<area shape="rect" id="node5" href="$de/d25/a01999.html#ab0f306fef67d765f146778b023dddc59" title=" " alt="" coords="375,123,510,164"/>
+<area shape="rect" id="node6" href="$d6/d8e/a01979.html#ae954c1f1e59102d1c58af6c9d326717a" title="Retrieves the type of the variable." alt="" coords="371,189,515,215"/>
+</map>

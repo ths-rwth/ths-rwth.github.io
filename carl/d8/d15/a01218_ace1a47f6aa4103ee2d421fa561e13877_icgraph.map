@@ -1,0 +1,7 @@
+<map id="carl::primitive_part" name="carl::primitive_part">
+<area shape="rect" id="node1" title="The primitive part of p is the normal part of p divided by the content of p." alt="" coords="561,42,708,69"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#ac2b216eaf8da91b9a816264e3e0a95aa" title="Computes the GCD of two univariate polynomial with coefficients from a unique factorization domain us..." alt="" coords="331,13,513,39"/>
+<area shape="rect" id="node5" href="$d0/d67/a01232.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="343,64,501,105"/>
+<area shape="rect" id="node3" href="$d0/d88/a01231.html#a4fea6065a4a0696ca75fac75e7d6ccd2" title=" " alt="" coords="131,5,283,47"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#af5dd729b6f9a5bb6abbf84261214ef0b" title=" " alt="" coords="5,13,83,39"/>
+</map>

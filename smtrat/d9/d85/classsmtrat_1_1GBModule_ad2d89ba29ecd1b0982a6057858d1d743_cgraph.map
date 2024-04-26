@@ -1,0 +1,5 @@
+<map id="smtrat::GBModule::GBModule" name="smtrat::GBModule::GBModule">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,220,73"/>
+<area shape="rect" id="node2" href="$d9/d85/classsmtrat_1_1GBModule.html#a53b98394eb1d99eba1dac941e2308068" title="To implement backtrackability, we save the current state after each equality we add." alt="" coords="268,5,512,47"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#ab05e438caef4485af13d0b103bcd886f" title=" " alt="" coords="293,71,487,112"/>
+</map>

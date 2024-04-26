@@ -1,0 +1,6 @@
+<map id="benchmax::ssh::SSHConnection::uploadFile" name="benchmax::ssh::SSHConnection::uploadFile">
+<area shape="rect" id="node1" title="Upload a file to the remote." alt="" coords="5,39,232,80"/>
+<area shape="rect" id="node2" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#ad37a6e3c5cfb2df3a500dad4c20f506b" title="Terminate a SSH channel." alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node3" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a1b840b4b1639be0f929fc6dec072696d" title="Get a new SCP session for file transfer." alt="" coords="280,71,507,112"/>
+<area shape="rect" id="node4" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a8d7449b8d3a23f482fb66040c0003a24" title="Check if all channels are busy." alt="" coords="555,71,781,112"/>
+</map>

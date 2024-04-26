@@ -1,0 +1,20 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,194,60,221"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a06f82f23ebc5f7c3cdd66b862e616e40" title=" " alt="" coords="113,169,273,195"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#afb434888658ab23c5298803e99c9faed" title=" " alt="" coords="108,219,277,246"/>
+<area shape="rect" id="node3" href="$d9/dca/a01879.html#a9f306b52642d5d1c9ea47cfa8a16d45c" title="Creates a monomial from a variable and an exponent." alt="" coords="325,103,472,144"/>
+<area shape="rect" id="node15" href="$d9/d65/a03215.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="520,161,715,203"/>
+<area shape="rect" id="node4" href="$d9/dca/a01879.html#afdbdbd7787242a1bfa2dc8daf90deb92" title=" " alt="" coords="528,110,707,137"/>
+<area shape="rect" id="node5" href="$d9/dca/a01879.html#af7f6910d485ff70a4832f5ffe78b6030" title=" " alt="" coords="763,51,909,92"/>
+<area shape="rect" id="node8" href="$d1/d89/a03035.html#a0bac494107e882e1864c96692211e17b" title=" " alt="" coords="773,162,899,189"/>
+<area shape="rect" id="node6" href="$d7/d45/a03175.html#a7ffd1bad4bba6b8358a0444273eb4055" title=" " alt="" coords="958,5,1135,47"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="1231,13,1308,39"/>
+<area shape="rect" id="node9" href="$d5/dea/a02927.html#a628941994cf797ec0738c07071411eb5" title="Retrieves the index of the first bit that is set to true." alt="" coords="985,71,1109,112"/>
+<area shape="rect" id="node10" href="$d5/dea/a02927.html#a48617442a84186325efed2c8a69635f6" title="Retrieves the number of blocks used to store mData." alt="" coords="957,137,1136,163"/>
+<area shape="rect" id="node11" href="$d5/dea/a02927.html#a8f800fdff578d0774d6e24fcd76418ff" title="Resets a bit to false." alt="" coords="980,187,1113,214"/>
+<area shape="rect" id="node13" href="$d5/dea/a02927.html#a896f5f79d53d884b5f2da45b7100f9af" title="Resize the Bitset to hold at least num_bits bits. New bits are set to the given value." alt="" coords="977,238,1116,265"/>
+<area shape="rect" id="node14" href="$d5/dea/a02927.html#acf742d4731e26aa5230889d1a391e015" title="Retrieves the size of mData." alt="" coords="983,289,1110,315"/>
+<area shape="rect" id="node12" href="$d5/dea/a02927.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="1184,187,1355,214"/>
+<area shape="rect" id="node17" href="$d6/da1/a01233.html#aa2b7fb76e43c3bb556590d029a3d0b29" title=" " alt="" coords="329,219,469,246"/>
+<area shape="rect" id="node18" href="$de/d25/a01999.html#a609d1de5e480fa4d03114bc814f68021" title="Get a variable which was not used before." alt="" coords="548,227,687,268"/>
+</map>

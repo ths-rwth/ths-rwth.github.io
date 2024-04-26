@@ -1,0 +1,7 @@
+<map id="benchmax::SlurmBackend::parse_result_file" name="benchmax::SlurmBackend::parse_result_file">
+<area shape="rect" id="node1" title="Parse the content of an output file." alt="" coords="5,104,196,145"/>
+<area shape="rect" id="node2" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="257,5,409,47"/>
+<area shape="rect" id="node3" href="$d0/d1d/namespacebenchmax.html#ac92d4b7e784de37490217791d4388317" title=" " alt="" coords="247,71,420,112"/>
+<area shape="rect" id="node4" href="$d9/d1a/namespacebenchmax_1_1slurm.html#aea2ca30c45b9d5c3e595947332c4cee1" title="Parse a single result information from the output." alt="" coords="244,136,423,177"/>
+<area shape="rect" id="node5" href="$d6/d67/classbenchmax_1_1Jobs.html#acd614f4a1cd246397c5cbce80deaa904" title="Returns the set of tools." alt="" coords="251,202,416,229"/>
+</map>

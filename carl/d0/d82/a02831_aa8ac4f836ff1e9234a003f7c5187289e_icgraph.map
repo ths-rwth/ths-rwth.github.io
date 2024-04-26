@@ -1,0 +1,27 @@
+<map id="carl::real_algebraic_number_interval::interval_int" name="carl::real_algebraic_number_interval::interval_int">
+<area shape="rect" id="node1" title=" " alt="" coords="472,783,691,825"/>
+<area shape="rect" id="node2" href="$d0/d82/a02831.html#a2a38c01e6f0e6204b4d3bfd81ac87481" title=" " alt="" coords="219,5,424,61"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a801ba04705c4aecaee107c286f0f4b1a" title=" " alt="" coords="242,85,401,112"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a0713400ae7c2989310a49da82f07c608" title=" " alt="" coords="283,136,360,163"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#ae650bf9de86291328c32c1a18374e308" title=" " alt="" coords="266,187,377,213"/>
+<area shape="rect" id="node6" href="$d0/d82/a02831.html#aa237ea95df177259deeaeb1ed057d5d8" title=" " alt="" coords="219,237,424,293"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a793c3078e87e6019c636d63a608c98e4" title=" " alt="" coords="280,317,363,344"/>
+<area shape="rect" id="node8" href="$d0/d82/a02831.html#ab2a29bce1c1ede5f980d188ef4af2d52" title=" " alt="" coords="219,368,424,424"/>
+<area shape="rect" id="node9" href="$d0/d82/a02831.html#a620b898fcc76f1f6061f2abcd217cfb8" title=" " alt="" coords="219,448,424,504"/>
+<area shape="rect" id="node10" href="$d0/d82/a02831.html#a8f6c6ec74fe402f1ae05b6b30793a796" title=" " alt="" coords="219,528,424,584"/>
+<area shape="rect" id="node11" href="$d0/d82/a02831.html#a7e0c88448f925d70daadd07762db417f" title=" " alt="" coords="219,608,424,664"/>
+<area shape="rect" id="node12" href="$d0/d82/a02831.html#aadcef8b1c0730780dedb1c297de676fc" title=" " alt="" coords="219,688,424,744"/>
+<area shape="rect" id="node13" href="$d0/d82/a02831.html#add47562461f53a51914acbb678d2ad05" title=" " alt="" coords="219,769,424,839"/>
+<area shape="rect" id="node14" href="$d0/d82/a02831.html#a3f558bc6346c5889155332739ba770c1" title=" " alt="" coords="219,864,424,920"/>
+<area shape="rect" id="node15" href="$d0/d82/a02831.html#ac2baa2d1b4ed1809eac530e47d70b66e" title="Returns the sign of &quot;interval_int() &#45; pivot&quot;: Returns ZERO if pivot is equal to RAN." alt="" coords="219,944,424,1000"/>
+<area shape="rect" id="node16" href="$d0/d82/a02831.html#a724f0b3aba100866dc14a9766252e505" title="Refines until the number is either numeric or the interval does not contain any integer." alt="" coords="219,1024,424,1080"/>
+<area shape="rect" id="node17" href="$d0/d82/a02831.html#a6a9900c9103957241c4f04cdb829e46a" title=" " alt="" coords="219,1104,424,1160"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#aee3845b8054e3abcf1bad1ac47822ae1" title=" " alt="" coords="247,1184,396,1211"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#a848a354319e59931ce271f911898c7ae" title=" " alt="" coords="247,1235,395,1261"/>
+<area shape="rect" id="node20" href="$d6/da1/a01233.html#a5b4d68b3c4842c275f2728d2b19d5bd8" title=" " alt="" coords="239,1285,404,1312"/>
+<area shape="rect" id="node22" href="$d0/d82/a02831.html#a33e13f449dbd3bd28332cbce87d79e3c" title=" " alt="" coords="219,1336,424,1392"/>
+<area shape="rect" id="node23" href="$d0/d82/a02831.html#a560f8706da6456b291fd975d129ca0a0" title=" " alt="" coords="219,1416,424,1472"/>
+<area shape="rect" id="node24" href="$d0/d82/a02831.html#ab6e3bbc530520f8ec8c403a06775f5fc" title=" " alt="" coords="219,1496,424,1552"/>
+<area shape="rect" id="node25" href="$d0/d82/a02831.html#ab528cc4212e038562e36e56e242bb08b" title=" " alt="" coords="219,1576,424,1632"/>
+<area shape="rect" id="node21" href="$d6/da1/a01233.html#ad531a4fd4bfadae5cb9f17a05095b6e4" title=" " alt="" coords="5,1285,171,1312"/>
+</map>

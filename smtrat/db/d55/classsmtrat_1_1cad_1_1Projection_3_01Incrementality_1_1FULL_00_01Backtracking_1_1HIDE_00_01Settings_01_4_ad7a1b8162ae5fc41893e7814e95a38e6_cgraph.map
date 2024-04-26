@@ -1,0 +1,14 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::reset" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::reset">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,217,127"/>
+<area shape="rect" id="node2" href="$d4/d00/classsmtrat_1_1PriorityQueue.html#a0d92ef803c599cf4386499551edb2d59" title=" " alt="" coords="307,9,469,51"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="271,78,505,105"/>
+<area shape="rect" id="node8" href="$d5/d81/classsmtrat_1_1cad_1_1ProjectionInformation.html#ab7aa6e354bfcf3d4ac52a15b9b9971ac" title=" " alt="" coords="265,233,511,275"/>
+<area shape="rect" id="node3" href="$d4/d00/classsmtrat_1_1PriorityQueue.html#a5a57fabce9280c1c1307d63d640b7809" title=" " alt="" coords="599,5,761,47"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="579,71,781,112"/>
+<area shape="rect" id="node6" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af1c4a845a809170ee3744feaa7ee07ef" title="Returns the variables used for projection." alt="" coords="579,136,781,177"/>
+<area shape="rect" id="node7" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#ae7d22ef2db76ccf1574655744d00cfe7" title=" " alt="" coords="849,136,1056,177"/>
+<area shape="rect" id="node9" href="$d5/d62/classsmtrat_1_1cad_1_1ProjectionGlobalInformation.html#ad842283de8d39518e1600c5421c0b6a3" title=" " alt="" coords="575,201,785,243"/>
+<area shape="rect" id="node10" href="$d2/dcd/classsmtrat_1_1cad_1_1ProjectionLevelInformation.html#a3a8890823591d04212c343ddfbf1ab2f" title=" " alt="" coords="578,267,782,308"/>
+<area shape="rect" id="node12" href="$de/da8/classsmtrat_1_1cad_1_1ProjectionPolynomialInformation.html#ae4b5877fad152277487d0aee49318e47" title=" " alt="" coords="559,332,801,373"/>
+<area shape="rect" id="node11" href="$d2/dcd/classsmtrat_1_1cad_1_1ProjectionLevelInformation.html#a3ccd85e3ec5ebf74c1180978413e59f2" title=" " alt="" coords="851,267,1055,308"/>
+</map>

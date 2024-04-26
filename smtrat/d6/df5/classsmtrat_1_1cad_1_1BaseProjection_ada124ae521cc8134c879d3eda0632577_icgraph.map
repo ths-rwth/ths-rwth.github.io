@@ -1,0 +1,8 @@
+<map id="smtrat::cad::BaseProjection::canBePurgedByBounds" name="smtrat::cad::BaseProjection::canBePurgedByBounds">
+<area shape="rect" id="node1" title="Checks whether a polynomial can safely be ignored due to the bounds." alt="" coords="565,155,767,196"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af9101f43b9b075e399dc4c390516767d" title=" " alt="" coords="311,115,512,156"/>
+<area shape="rect" id="node6" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a6df07db45b8838e88efc185fb0f2f516" title=" " alt="" coords="305,180,517,251"/>
+<area shape="rect" id="node3" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a97e199498b9ccace13554df6683d4838" title="Inserts a polynomial with the given origin into the given level." alt="" coords="25,5,237,76"/>
+<area shape="rect" id="node4" href="$d6/d5d/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01BT_00_01Settings_01_4_1_1PurgedPolynomials.html#a78d14a103740d3151e48ac66a5082a0b" title=" " alt="" coords="5,100,257,171"/>
+<area shape="rect" id="node5" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a2f3d712cbc07a40e3cf139974460db07" title=" " alt="" coords="25,195,237,265"/>
+</map>

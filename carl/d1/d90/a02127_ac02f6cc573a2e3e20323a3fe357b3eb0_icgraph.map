@@ -1,0 +1,26 @@
+<map id="carl::MultivariateRoot::poly" name="carl::MultivariateRoot::poly">
+<area shape="rect" id="node1" title=" " alt="" coords="797,297,960,339"/>
+<area shape="rect" id="node2" href="$d5/dff/a03403.html#aa4cebc15fe4c399a1726fa42cce252cc" title="Check if this substitution needs the given model variable." alt="" coords="517,5,739,47"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a78757c1311a940f5a2201764dac03063" title=" " alt="" coords="527,71,729,112"/>
+<area shape="rect" id="node6" href="$de/d04/a01209.html#a5c97764ba251bcc3aad1bd58315753d2" title=" " alt="" coords="507,137,749,163"/>
+<area shape="rect" id="node7" href="$de/d04/a01209.html#a7895607105dcc6cd11ce5d407ba49b58" title="Return the emerging algebraic real after pluggin in a subpoint to replace all variables with algebrai..." alt="" coords="573,187,683,214"/>
+<area shape="rect" id="node8" href="$d3/da9/a02131.html#a33b76d78adf2d9c62ba073eb26678290" title=" " alt="" coords="525,239,731,280"/>
+<area shape="rect" id="node9" href="$de/d04/a01209.html#acee8a3a8b73cd133aa1ea28523e1056d" title=" " alt="" coords="568,305,688,331"/>
+<area shape="rect" id="node10" href="$de/d04/a01209.html#aa79e097fb7870773b96c8a102fb97270" title=" " alt="" coords="563,355,693,382"/>
+<area shape="rect" id="node11" href="$de/d04/a01209.html#a2d3a00938a93eea54d25a09396c8c7a1" title=" " alt="" coords="563,406,693,433"/>
+<area shape="rect" id="node12" href="$d3/d7b/a01249.html#ad5b4aa3676afed7d74cc6829a9fa4d7f" title="Applies a substitution to a variable comparison." alt="" coords="557,457,699,483"/>
+<area shape="rect" id="node13" href="$de/d04/a01209.html#af7d12c39cf6a4b068d126587124e6442" title="Create a copy of the underlying polynomial with the given variable replaced by the given polynomial." alt="" coords="541,507,715,534"/>
+<area shape="rect" id="node24" href="$de/d04/a01209.html#ae11f3515f3963f17640f713ca90134c8" title="Add the variables mentioned in underlying polynomial, excluding the root&#45;variable &quot;_z&quot;." alt="" coords="571,558,685,585"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#aedd49e992a1c315f06d95f93a460927c" title=" " alt="" coords="256,107,459,134"/>
+<area shape="rect" id="node5" href="$de/d04/a01209.html#a8b4e9b847d470d7abc59242c5fce8b59" title=" " alt="" coords="5,107,208,134"/>
+<area shape="rect" id="node14" href="$d6/d97/a02835.html#a8166101bda0b1fea4d03333382199080" title=" " alt="" coords="272,315,443,356"/>
+<area shape="rect" id="node15" href="$de/d04/a01209.html#af84e5cb03c9b9390ebd461f67b92d741" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="302,381,413,407"/>
+<area shape="rect" id="node16" href="$de/d04/a01209.html#ab52c48c5003df3fe3852df690fb80e4a" title="Evaluates a bitvector term to a ModelValue over a Model." alt="" coords="275,431,440,458"/>
+<area shape="rect" id="node19" href="$de/d04/a01209.html#a8a90d05d2a46798d342ba43553776da7" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="298,482,417,509"/>
+<area shape="rect" id="node20" href="$de/d04/a01209.html#a4418733913b640d1f4724820de2babee" title=" " alt="" coords="281,533,434,559"/>
+<area shape="rect" id="node21" href="$de/d04/a01209.html#a0f666d714f3d0de033bea1a1080ff990" title=" " alt="" coords="298,583,417,610"/>
+<area shape="rect" id="node22" href="$de/d04/a01209.html#a82eb1705bccb1d0c70e27d03620c99a4" title=" " alt="" coords="271,634,444,661"/>
+<area shape="rect" id="node23" href="$d6/d97/a02835.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="275,685,439,727"/>
+<area shape="rect" id="node17" href="$de/d04/a01209.html#aea1206846804300d7d140dac6b863a07" title="Evaluates a given expression t over a model." alt="" coords="51,406,162,433"/>
+<area shape="rect" id="node18" href="$de/d04/a01209.html#a753b7266733b0e1f4d1c69ed11dd9b20" title="Evaluates a uninterpreted function instance to a ModelValue over a Model." alt="" coords="24,457,189,483"/>
+</map>

@@ -1,0 +1,39 @@
+<map id="carl::to_univariate_polynomial" name="carl::to_univariate_polynomial">
+<area shape="rect" id="node1" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="1175,751,1315,793"/>
+<area shape="rect" id="node2" href="$d8/db0/a01243.html#a2e5a506d3ce86f7a7f77de3f77a1fc13" title="Implements algebraic substitution by Gröbner basis computation." alt="" coords="918,488,1093,544"/>
+<area shape="rect" id="node4" href="$d8/d8e/a01224.html#af84e5cb03c9b9390ebd461f67b92d741" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="198,452,309,479"/>
+<area shape="rect" id="node8" href="$d8/db0/a01243.html#ad81c8b19229c789a99c52e77f06cf9e2" title="Implements algebraic substitution by resultant computation." alt="" coords="397,161,571,217"/>
+<area shape="rect" id="node9" href="$d8/d8e/a01224.html#a78757c1311a940f5a2201764dac03063" title=" " alt="" coords="904,686,1107,727"/>
+<area shape="rect" id="node12" href="$d8/d8e/a01224.html#a5c97764ba251bcc3aad1bd58315753d2" title=" " alt="" coords="884,635,1127,661"/>
+<area shape="rect" id="node13" href="$da/dd8/a01265.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="403,511,565,537"/>
+<area shape="rect" id="node14" href="$d8/ddf/a01238.html#a4fea6065a4a0696ca75fac75e7d6ccd2" title=" " alt="" coords="929,751,1081,793"/>
+<area shape="rect" id="node16" href="$dc/d44/a02899.html#aa75c4a80d2ac6d031e118553883be6bd" title=" " alt="" coords="917,817,1093,858"/>
+<area shape="rect" id="node17" href="$d6/d1a/a02895.html#a0d668f381c18fa52c494107c58065da3" title=" " alt="" coords="911,882,1099,923"/>
+<area shape="rect" id="node18" href="$d8/d8e/a01224.html#aea39864845670450afc26ab268f385a3" title=" " alt="" coords="918,948,1093,975"/>
+<area shape="rect" id="node19" href="$d8/d8e/a01224.html#a8211b0a0bb14f560103fdf876f80dfc1" title="Replaces the main variable in a polynomial." alt="" coords="934,569,1077,610"/>
+<area shape="rect" id="node28" href="$d8/d8e/a01224.html#a3e97e4df9ce3ccbe80f1a65d0d65ca14" title="Implements a subresultants algorithm with optimizations described in &#160;." alt="" coords="934,999,1077,1025"/>
+<area shape="rect" id="node31" href="$d8/d8e/a01224.html#a9ff3e0716bd8ae224ff752713b0aa68b" title=" " alt="" coords="946,1049,1065,1076"/>
+<area shape="rect" id="node32" href="$d8/d8e/a01224.html#a82eb1705bccb1d0c70e27d03620c99a4" title=" " alt="" coords="919,1100,1092,1127"/>
+<area shape="rect" id="node33" href="$d8/d8e/a01224.html#af424543799e3edc75eebae2578a31705" title="Switches the main variable using a purely syntactical restructuring." alt="" coords="907,267,1103,293"/>
+<area shape="rect" id="node36" href="$d6/d1a/a02895.html#afee272f05dc5672d6138ae5947fa8657" title=" " alt="" coords="911,1151,1099,1193"/>
+<area shape="rect" id="node37" href="$d8/d8e/a01224.html#a930ce431f139c930c544ee50f09df682" title=" " alt="" coords="946,1217,1065,1244"/>
+<area shape="rect" id="node3" href="$d8/db0/a01243.html#a81e240c71214a271179974c2318050d1" title="Computes the algebraic substitution of the given defining polynomials into a multivariate polynomial ..." alt="" coords="397,445,571,486"/>
+<area shape="rect" id="node7" href="$d8/db0/a01243.html#afb03b1c496785555c816c5316d7a24ba" title="Implements algebraic substitution by Gröbner basis computation." alt="" coords="647,368,822,424"/>
+<area shape="rect" id="node5" href="$d8/db0/a01243.html#a0e944bedfb2307ca158abf2c6ea590c8" title=" " alt="" coords="172,580,335,636"/>
+<area shape="rect" id="node6" href="$d8/d8e/a01224.html#a8a90d05d2a46798d342ba43553776da7" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,595,124,621"/>
+<area shape="rect" id="node10" href="$d8/d8e/a01224.html#aedd49e992a1c315f06d95f93a460927c" title=" " alt="" coords="633,784,836,811"/>
+<area shape="rect" id="node11" href="$d8/d8e/a01224.html#a8b4e9b847d470d7abc59242c5fce8b59" title=" " alt="" coords="383,847,585,873"/>
+<area shape="rect" id="node15" href="$d8/d8e/a01224.html#af5dd729b6f9a5bb6abbf84261214ef0b" title=" " alt="" coords="696,835,773,861"/>
+<area shape="rect" id="node20" href="$d0/de4/a02851.html#a8166101bda0b1fea4d03333382199080" title=" " alt="" coords="649,449,820,490"/>
+<area shape="rect" id="node21" href="$d8/d8e/a01224.html#abdec8ba08c2ec67e6036dcfc63973c18" title="Return a polynomial containing the lhs&#45;variable that has a same root for the this lhs&#45;variable as the..." alt="" coords="641,565,828,592"/>
+<area shape="rect" id="node23" href="$d3/df5/a02827.html#ac81a35b598d8c954aee8cef9c8bcebe6" title="Extend the current number field with the field extension defined by r." alt="" coords="391,663,577,705"/>
+<area shape="rect" id="node24" href="$dc/d6a/a02779.html#ae7f40e7b7283f6fc0b74684361b6d589" title=" " alt="" coords="639,718,830,759"/>
+<area shape="rect" id="node22" href="$d8/d8e/a01224.html#a189cd6c3a77e81d7811469bd472aede1" title=" " alt="" coords="433,561,535,588"/>
+<area shape="rect" id="node25" href="$dc/d6a/a02779.html#a715f4e918a7eac7f894804d799d82bec" title=" " alt="" coords="391,781,577,822"/>
+<area shape="rect" id="node27" href="$d8/d8e/a01224.html#ab211ba1072a80f45e2039707ec2b67d4" title=" " alt="" coords="445,729,523,756"/>
+<area shape="rect" id="node26" href="$d8/d8e/a01224.html#a756bab5243693499197657f54903fb98" title=" " alt="" coords="198,788,309,815"/>
+<area shape="rect" id="node29" href="$d8/d8e/a01224.html#a218e17ae9496f248113d5e25a736be51" title=" " alt="" coords="635,962,834,1003"/>
+<area shape="rect" id="node30" href="$d8/d8e/a01224.html#a183f443c45e61ca68ad5c72e9edd618b" title=" " alt="" coords="679,1028,791,1055"/>
+<area shape="rect" id="node34" href="$d8/db0/a01243.html#a897bcef0c3dce0c64702e8f419539e1b" title="Implements algebraic substitution by resultant computation." alt="" coords="647,187,822,243"/>
+<area shape="rect" id="node35" href="$d8/d8e/a01224.html#a1efb34078e18bc7fdd6f2a2f055c5645" title=" " alt="" coords="646,267,823,293"/>
+</map>

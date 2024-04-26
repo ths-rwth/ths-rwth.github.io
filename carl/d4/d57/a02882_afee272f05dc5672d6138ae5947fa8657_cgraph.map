@@ -1,0 +1,29 @@
+<map id="carl::TarskiQueryManager::TarskiQueryManager" name="carl::TarskiQueryManager::TarskiQueryManager">
+<area shape="rect" id="node1" title=" " alt="" coords="5,145,193,186"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a0c0448ac4cee24dd4f080db6241a21de" title="Computes the n&#39;th derivative of a number, which is either the number itself (for n = 0) or zero." alt="" coords="275,5,395,32"/>
+<area shape="rect" id="node4" href="$db/de7/a02866.html#a4127f2b1f143d9e43b6f866015d6f784" title=" " alt="" coords="262,57,409,98"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="531,123,631,149"/>
+<area shape="rect" id="node11" href="$db/de7/a02866.html#a08d188828c11123ba723f222dd77e536" title=" " alt="" coords="262,239,409,281"/>
+<area shape="rect" id="node14" href="$d4/d57/a02882.html#a17a7e7510c4be945ae4398b07d420042" title=" " alt="" coords="241,174,429,215"/>
+<area shape="rect" id="node15" href="$dc/db6/a01212.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="265,479,405,521"/>
+<area shape="rect" id="node3" href="$d1/d9a/a02454.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="493,5,668,32"/>
+<area shape="rect" id="node6" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1241,122,1364,163"/>
+<area shape="rect" id="node7" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1413,104,1561,131"/>
+<area shape="rect" id="node9" href="$dc/d5a/a02254.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="774,122,897,163"/>
+<area shape="rect" id="node8" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1412,155,1561,181"/>
+<area shape="rect" id="node10" href="$dc/d5a/a02254.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1026,151,1154,193"/>
+<area shape="rect" id="node12" href="$db/de7/a02866.html#ae76b42369bd7e8ae41a2c8bce464718d" title=" " alt="" coords="493,268,668,295"/>
+<area shape="rect" id="node13" href="$dc/db6/a01212.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="533,217,629,244"/>
+<area shape="rect" id="node16" href="$db/df5/a02534.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="477,378,684,419"/>
+<area shape="rect" id="node20" href="$dc/db6/a01212.html#a98df826da90dc24a6e5254f13df7b057" title=" " alt="" coords="541,487,621,513"/>
+<area shape="rect" id="node25" href="$db/df5/a02534.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="477,538,684,579"/>
+<area shape="rect" id="node26" href="$dc/db6/a01212.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="523,636,638,663"/>
+<area shape="rect" id="node17" href="$db/df5/a02534.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="732,319,939,361"/>
+<area shape="rect" id="node19" href="$d2/d83/a02754.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="755,385,915,412"/>
+<area shape="rect" id="node18" href="$db/df5/a02534.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="987,319,1193,361"/>
+<area shape="rect" id="node21" href="$dc/db6/a01212.html#ae0d525094e8ca4f57347d606e8ce40fa" title="Get the bit size of the representation of a integer." alt="" coords="787,436,884,463"/>
+<area shape="rect" id="node22" href="$dd/deb/a02766.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="997,509,1183,550"/>
+<area shape="rect" id="node23" href="$dd/deb/a02766.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="742,538,929,579"/>
+<area shape="rect" id="node24" href="$dd/deb/a02766.html#a9392daa40b9085e09ed2cfe20c44fd2a" title=" " alt="" coords="742,603,929,645"/>
+<area shape="rect" id="node27" href="$d8/d9c/a02070.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="744,669,927,696"/>
+</map>

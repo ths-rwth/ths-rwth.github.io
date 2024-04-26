@@ -1,0 +1,13 @@
+<map id="carl::EZGCD::getMainVar" name="carl::EZGCD::getMainVar">
+<area shape="rect" id="node1" title="Given the two polynomials, find a suitable main variable for gcd." alt="" coords="5,159,188,186"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a9e12491561bd080f9cf41abe12546611" title="Intersects two intervals in a set&#45;theoretic manner." alt="" coords="236,130,395,157"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="258,185,373,211"/>
+<area shape="rect" id="node3" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="473,89,595,131"/>
+<area shape="rect" id="node6" href="$dc/d5a/a02254.html#a419f459b6179b9d18124a2c2b802d3c3" title=" " alt="" coords="460,155,608,196"/>
+<area shape="rect" id="node8" href="$dc/d5a/a02254.html#ae1453cadc09e4729614396e815feef89" title=" " alt="" coords="459,24,609,65"/>
+<area shape="rect" id="node4" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="674,122,822,149"/>
+<area shape="rect" id="node5" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="673,71,823,98"/>
+<area shape="rect" id="node7" href="$dc/d5a/a02254.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="674,173,822,215"/>
+<area shape="rect" id="node9" href="$dc/d5a/a02254.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="673,5,823,47"/>
+<area shape="rect" id="node11" href="$d8/d9c/a02070.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="443,221,625,247"/>
+</map>

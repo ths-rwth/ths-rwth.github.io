@@ -1,0 +1,9 @@
+<map id="carl::Interval::is_zero" name="carl::Interval::is_zero">
+<area shape="rect" id="node1" title="Function which determines, if the interval is the zero interval." alt="" coords="5,56,164,83"/>
+<area shape="rect" id="node2" href="$da/d74/a02451.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="212,5,387,32"/>
+<area shape="rect" id="node3" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="611,99,733,141"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="238,107,361,149"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="782,81,930,108"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="781,132,931,159"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="435,158,563,199"/>
+</map>

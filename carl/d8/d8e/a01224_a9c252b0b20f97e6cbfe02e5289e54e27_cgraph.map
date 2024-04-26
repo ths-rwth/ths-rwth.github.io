@@ -1,0 +1,5 @@
+<map id="carl::get_denom" name="carl::get_denom">
+<area shape="rect" id="node1" title="Implicitly converts the number to a rational and returns the denominator." alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$d8/d8e/a01224.html#abfa557902ca711efa9f03e7ae1679407" title="Extract the denominator from a fraction." alt="" coords="193,5,320,32"/>
+<area shape="rect" id="node3" href="$d9/d5e/a02355.html#a8e0ff0d4391f8ac31435984e8050e221" title="Getter for the raw value contained." alt="" coords="180,56,333,83"/>
+</map>

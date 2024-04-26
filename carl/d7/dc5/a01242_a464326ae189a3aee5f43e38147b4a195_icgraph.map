@@ -1,0 +1,5 @@
+<map id="carl::formula_to_cnf::construct_iff" name="carl::formula_to_cnf::construct_iff">
+<area shape="rect" id="node1" title="Constructs the equivalent of (iff lhs (and *rhs_and))) The result is the list (=&gt; lhs (and *rhs_and))..." alt="" coords="377,5,529,47"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#ae5348ec0d0b3073c97a0d0ce99b96026" title="Converts the given formula to CNF." alt="" coords="235,13,329,39"/>
+<area shape="rect" id="node3" href="$d3/dbd/a03575.html#adacbe6f985dfafd6acb3be1cb94686fb" title=" " alt="" coords="5,5,187,47"/>
+</map>

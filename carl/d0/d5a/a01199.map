@@ -1,0 +1,8 @@
+<map id="CLN Usage" name="CLN Usage">
+<area shape="rect" id="node1" href="$de/d04/a01209.html" title="The associated integral type of any type can be defined with IntegralType." alt="" coords="460,47,563,73"/>
+<area shape="rect" id="node2" href="$d7/d5a/a01204.html" title="All integral types that can (in theory) represent all integers are marked with is_integer_type." alt="" coords="450,107,573,133"/>
+<area shape="rect" id="node3" href="$d5/dad/a01207.html" title="All integral types that can (in theory) represent all rationals are marked with is_rational_type." alt="" coords="448,167,575,193"/>
+<area shape="rect" id="node4" href="$dc/dcc/a01200.html" title="We define custom type traits for number types we use." alt="" coords="466,217,557,242"/>
+<area shape="rect" id="node5" href="$d4/d10/a01197.html" title=" " alt="" coords="5,138,120,163"/>
+<area shape="rect" id="node6" title=" " alt="" coords="169,138,263,163"/>
+</map>

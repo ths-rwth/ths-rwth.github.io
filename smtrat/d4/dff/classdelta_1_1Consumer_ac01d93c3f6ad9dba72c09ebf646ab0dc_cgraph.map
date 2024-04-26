@@ -1,0 +1,6 @@
+<map id="delta::Consumer::performCheck" name="delta::Consumer::performCheck">
+<area shape="rect" id="node1" title="Calls the checker and checks the result." alt="" coords="5,49,195,90"/>
+<area shape="rect" id="node2" href="$d2/d5d/classdelta_1_1TempFilenameGenerator.html#a7e147514277cb4fc82a2be4d971aa4d4" title="Retrieve a filename for a temporary file that is not in use." alt="" coords="243,5,495,32"/>
+<area shape="rect" id="node3" href="$d4/dff/classdelta_1_1Consumer.html#a695d3f487e255355057e75ad5036c4c1" title="Checks if at least one job was successful." alt="" coords="268,56,469,83"/>
+<area shape="rect" id="node4" href="$d2/d5d/classdelta_1_1TempFilenameGenerator.html#ac4b51fa8d516d851a45fc76f8772df87" title="Returns a filename to the pool of available filenames." alt="" coords="243,107,495,133"/>
+</map>

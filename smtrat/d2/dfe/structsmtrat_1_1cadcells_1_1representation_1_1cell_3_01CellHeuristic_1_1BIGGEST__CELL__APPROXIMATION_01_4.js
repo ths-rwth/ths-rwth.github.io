@@ -1,0 +1,4 @@
+var structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL__APPROXIMATION_01_4 =
+[
+    [ "compute", "d2/dfe/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL__APPROXIMATION_01_4.html#abf539813c903a4adca9782a4c52abcd1", null ]
+];

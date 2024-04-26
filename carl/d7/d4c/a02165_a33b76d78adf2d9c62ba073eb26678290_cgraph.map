@@ -1,0 +1,8 @@
+<map id="std::hash&lt; carl::MultivariateRoot&lt; Pol &gt; &gt;::operator()" name="std::hash&lt; carl::MultivariateRoot&lt; Pol &gt; &gt;::operator()">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,212,90"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#adaacd0edf059de852747a03380c0d844" title="Hashes an arbitrary number of values." alt="" coords="295,5,403,32"/>
+<area shape="rect" id="node5" href="$df/dbf/a02161.html#a5fc45685b48d62488b81d869f85c6d83" title="Return k, the index of the root." alt="" coords="260,56,439,83"/>
+<area shape="rect" id="node6" href="$df/dbf/a02161.html#ac02f6cc573a2e3e20323a3fe357b3eb0" title=" " alt="" coords="268,107,431,149"/>
+<area shape="rect" id="node3" href="$d7/dc5/a01242.html#afb5d79b5282cd444932fbf48cc14e739" title="Add hash of the given value to the hash seed." alt="" coords="487,5,603,32"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#aec22a2c4a0fc59da17946b89c423bb20" title="Add a value to the given hash seed." alt="" coords="651,5,799,32"/>
+</map>

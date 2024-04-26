@@ -1,0 +1,7 @@
+<map id="carl::VariablePool::set_name" name="carl::VariablePool::set_name">
+<area shape="rect" id="node1" title="Add a name for a given Variable." alt="" coords="359,86,493,127"/>
+<area shape="rect" id="node2" href="$d3/da9/a02131.html#a872000caf70dd63713cdd1d5c1d7e243" title=" " alt="" coords="148,5,311,61"/>
+<area shape="rect" id="node3" href="$d3/da9/a02131.html#aecba0b6dbb544ab787fdeebc562f77fb" title="Get a variable with was not used before and set a name for it." alt="" coords="154,86,305,127"/>
+<area shape="rect" id="node4" href="$d8/d8e/a01224.html#a2fcb10752a9d408b948cb813e16c8df3" title=" " alt="" coords="182,152,277,179"/>
+<area shape="rect" id="node5" href="$d8/d8e/a01224.html#a317d4abe08728d5325d1a5f4a4230f6b" title="Transforms this formula to its equivalent in prenex normal form." alt="" coords="5,152,100,179"/>
+</map>

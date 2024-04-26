@@ -1,0 +1,10 @@
+<map id="carl::rounding::acos_down" name="carl::rounding::acos_down">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,196,124"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#a14b31222e2c4f2cc9b75c4669df804d9" title=" " alt="" coords="244,97,328,124"/>
+<area shape="rect" id="node3" href="$d0/d80/a02281.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="376,5,537,32"/>
+<area shape="rect" id="node4" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="395,57,518,98"/>
+<area shape="rect" id="node7" href="$d0/d80/a02281.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="383,122,531,163"/>
+<area shape="rect" id="node8" href="$d0/d80/a02281.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="382,187,531,229"/>
+<area shape="rect" id="node5" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="586,39,734,65"/>
+<area shape="rect" id="node6" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="585,89,735,116"/>
+</map>

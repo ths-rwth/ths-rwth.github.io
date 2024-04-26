@@ -1,0 +1,12 @@
+<map id="carl::operator&lt;" name="carl::operator&lt;">
+<area shape="rect" id="node1" title="Checks if the first arguments is less than the second." alt="" coords="5,106,125,133"/>
+<area shape="rect" id="node2" href="$da/d74/a02451.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="189,55,364,82"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="227,106,327,133"/>
+<area shape="rect" id="node9" href="$d9/dc8/a02531.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="173,169,380,211"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="859,52,981,93"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1030,114,1178,141"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="470,27,593,68"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1029,59,1179,86"/>
+<area shape="rect" id="node8" href="$df/d71/a02247.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="683,27,811,68"/>
+<area shape="rect" id="node10" href="$d9/dc8/a02531.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="428,195,635,236"/>
+</map>

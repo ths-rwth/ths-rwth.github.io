@@ -1,0 +1,12 @@
+<map id="carl::switch_main_variable" name="carl::switch_main_variable">
+<area shape="rect" id="node1" title="Switches the main variable using a purely syntactical restructuring." alt="" coords="5,75,201,102"/>
+<area shape="rect" id="node2" href="$d6/d24/a02536.html#a61c640608d515e986f81c454662b35a5" title="Asserts that this polynomial over numeric coefficients complies with the requirements and assumptions..." alt="" coords="249,35,444,76"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="277,100,417,141"/>
+<area shape="rect" id="node4" href="$d4/db0/a02540.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="492,35,699,76"/>
+<area shape="rect" id="node8" href="$d4/db0/a02540.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="492,100,699,141"/>
+<area shape="rect" id="node9" href="$d8/d15/a01218.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="538,166,653,193"/>
+<area shape="rect" id="node5" href="$d4/db0/a02540.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="747,5,953,47"/>
+<area shape="rect" id="node7" href="$d3/d55/a02760.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="770,71,930,98"/>
+<area shape="rect" id="node6" href="$d4/db0/a02540.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="1001,5,1208,47"/>
+<area shape="rect" id="node10" href="$db/d87/a02076.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="759,166,941,193"/>
+</map>

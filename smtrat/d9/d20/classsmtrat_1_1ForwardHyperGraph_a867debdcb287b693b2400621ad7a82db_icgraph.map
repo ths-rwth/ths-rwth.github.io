@@ -1,0 +1,4 @@
+<map id="smtrat::ForwardHyperGraph::newEdge" name="smtrat::ForwardHyperGraph::newEdge">
+<area shape="rect" id="node1" title="Creates a new edge where the given vertex is the incoming vertex that is labeled with the given edge ..." alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node2" href="$d9/d20/classsmtrat_1_1ForwardHyperGraph.html#a2516a0c581323a4076d85ff4f6edab7a" title="Creates a new edge where the given vertex is the incoming vertex that is labeled with the given edge ..." alt="" coords="5,5,208,47"/>
+</map>

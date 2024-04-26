@@ -1,0 +1,26 @@
+var structsmtrat_1_1GBSettings41 =
+[
+    [ "Groebner", "d0/dd8/structsmtrat_1_1GBSettings41.html#ab5c60b9b6da341fca12ae7aee2c0c0a7", null ],
+    [ "MultivariateIdeal", "d0/dd8/structsmtrat_1_1GBSettings41.html#a5948c8078cb057bc42b2fdd44e8db481", null ],
+    [ "Order", "d0/dd8/structsmtrat_1_1GBSettings41.html#a2a70d26265a3de6ec7e8e9dc73b2143c", null ],
+    [ "passPolynomial", "d0/dd8/structsmtrat_1_1GBSettings41.html#a0b1095d5f63731b2ca347b1df8cc87a5", null ],
+    [ "PolynomialWithReasons", "d0/dd8/structsmtrat_1_1GBSettings41.html#a239dbae81c8e9d91c8a1714edb8e8512", null ],
+    [ "Reductor", "d0/dd8/structsmtrat_1_1GBSettings41.html#af83b234aee6ff714116c72c84cd36b17", null ],
+    [ "addTheoryDeductions", "d0/dd8/structsmtrat_1_1GBSettings41.html#a99bb2304f8e40ab09b570a7c47ac2057", null ],
+    [ "applyNSS", "d0/dd8/structsmtrat_1_1GBSettings41.html#a3e5cefeccf7acff2f53ef69b30c3d898", null ],
+    [ "checkEqualitiesForTrivialSumOfSquares", "d0/dd8/structsmtrat_1_1GBSettings41.html#a3a6179725abd6695dd3ef583b118d99e", null ],
+    [ "checkInequalities", "d0/dd8/structsmtrat_1_1GBSettings41.html#adfcd5a00273dcc0884f870a286f05b35", null ],
+    [ "checkInequalitiesForTrivialSumOfSquares", "d0/dd8/structsmtrat_1_1GBSettings41.html#a4165854547439128f87754e4b6fee830", null ],
+    [ "getReasonsForInfeasibility", "d0/dd8/structsmtrat_1_1GBSettings41.html#a399d647d8b8c5b9b38cc96e7da26d9fd", null ],
+    [ "identifier", "d0/dd8/structsmtrat_1_1GBSettings41.html#ad259c66d260e1d80ef27ac9f939a2f6a", null ],
+    [ "iterativeVariableRewriting", "d0/dd8/structsmtrat_1_1GBSettings41.html#ae3fdfa858a3c09e5b2a8ddefd5fd0fac", null ],
+    [ "maxSDPdegree", "d0/dd8/structsmtrat_1_1GBSettings41.html#ac6c755338a7f0affc06fb85a31353223", null ],
+    [ "moduleName", "d0/dd8/structsmtrat_1_1GBSettings41.html#a24a1cd38b8dbac11bf6838b11bb9a9ca", null ],
+    [ "passGB", "d0/dd8/structsmtrat_1_1GBSettings41.html#ad5aa7d84bfbef30499e8371db7ecfebf", null ],
+    [ "passInequalities", "d0/dd8/structsmtrat_1_1GBSettings41.html#ac164d2f576ac33ae0ebf4dad4809de81", null ],
+    [ "passWithMinimalReasons", "d0/dd8/structsmtrat_1_1GBSettings41.html#aaccb9ccfcda01cd612583f5be590ece6", null ],
+    [ "SDPupperBoundNrVariables", "d0/dd8/structsmtrat_1_1GBSettings41.html#a871d4579a48173cbc1110f377c198706", null ],
+    [ "setCheckInequalitiesToBeginAfter", "d0/dd8/structsmtrat_1_1GBSettings41.html#a23e486cc310241beb209cf79637df7c0", null ],
+    [ "transformIntoEqualities", "d0/dd8/structsmtrat_1_1GBSettings41.html#a4ec0f1fb643f0dac291cd166512e63d6", null ],
+    [ "withInfeasibleSubset", "d0/dd8/structsmtrat_1_1GBSettings41.html#a54b90a38f2866989d5baec3b6a78d27d", null ]
+];

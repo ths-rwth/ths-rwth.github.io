@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::hasOnlyInconsistentChildren" name="smtrat::vs::State::hasOnlyInconsistentChildren">
+<area shape="rect" id="node1" title="Checks whether a child exists, which is not yet marked as inconsistent." alt="" coords="192,5,400,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="5,5,144,47"/>
+</map>

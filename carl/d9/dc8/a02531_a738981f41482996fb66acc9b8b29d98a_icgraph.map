@@ -1,0 +1,5 @@
+<map id="carl::UnivariatePolynomial::is_one" name="carl::UnivariatePolynomial::is_one">
+<area shape="rect" id="node1" title="Checks if the polynomial is equal to one." alt="" coords="496,5,691,47"/>
+<area shape="rect" id="node2" href="$d8/dc9/a02671.html#a412e65e91b24e0f84c5f1ce8c787340b" title="EEAlift computes s,t such that s*a + tb == 1 (mod p^k) with deg(s) &lt; deg(b) and deg(t) &lt; deg(a)." alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$d8/dc9/a02671.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="5,5,203,47"/>
+</map>

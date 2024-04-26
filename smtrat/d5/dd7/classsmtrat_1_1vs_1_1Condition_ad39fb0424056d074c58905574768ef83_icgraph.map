@@ -1,0 +1,7 @@
+<map id="smtrat::vs::Condition::flag" name="smtrat::vs::Condition::flag">
+<area shape="rect" id="node1" title=" " alt="" coords="264,104,423,145"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#af7984277f1c1d00878477c3fe2ea3e34" title=" " alt="" coords="5,5,216,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aada4ee76c63a22f40e44c5e0df3ae912" title="Determines the most adequate condition and in it the most adequate variable in the state to generate ..." alt="" coords="41,71,180,112"/>
+<area shape="rect" id="node4" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#a0606a8b969a41f5c12889bf6c2fd62cd" title="Prints the condition to an output stream." alt="" coords="31,136,190,177"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="41,201,180,243"/>
+</map>

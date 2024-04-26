@@ -1,0 +1,102 @@
+<map id="smtrat&#45;modules/NewCoveringModule/Backend.h" name="smtrat&#45;modules/NewCoveringModule/Backend.h">
+<area shape="rect" id="node1" title=" " alt="" coords="1970,5,2187,47"/>
+<area shape="rect" id="node2" href="$d0/d2a/unsat__intervals_8h.html" title=" " alt="" coords="3357,184,3555,225"/>
+<area shape="rect" id="node4" href="$d1/dca/smtrat-cadcells_2common_8h.html" title=" " alt="" coords="2241,869,2437,896"/>
+<area shape="rect" id="node43" href="$de/d4a/LevelWiseInformation_8h.html" title=" " alt="" coords="1838,102,2015,129"/>
+<area shape="rect" id="node82" href="$d1/d95/NewCoveringModule_8h.html" title=" " alt="" coords="1994,191,2163,218"/>
+<area shape="rect" id="node83" href="$d8/d61/NewCoveringSettings_8h.html" title=" " alt="" coords="1714,281,1889,307"/>
+<area shape="rect" id="node100" title=" " alt="" coords="3149,95,3299,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="3373,1272,3435,1299"/>
+<area shape="rect" id="node5" href="$d6/d8a/smtrat-common_8h.html" title=" " alt="" coords="1993,1033,2167,1075"/>
+<area shape="rect" id="node37" href="$dc/d51/model_8h.html" title=" " alt="" coords="2596,951,2780,978"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2277,951,2419,978"/>
+<area shape="rect" id="node42" title=" " alt="" coords="1938,944,2099,985"/>
+<area shape="rect" id="node6" href="$d9/dc6/smtrat-common_2config_8h.html" title=" " alt="" coords="2118,1197,2191,1224"/>
+<area shape="rect" id="node7" href="$d7/dfd/smtrat-common_2types_8h.html" title=" " alt="" coords="1853,1354,1923,1381"/>
+<area shape="rect" id="node16" href="$db/d1e/smtrat-common_2logging_8h.html" title="Use your own judgement for the following log levels: TRACE Finer&#45;grained informational events than th..." alt="" coords="2113,1123,2196,1149"/>
+<area shape="rect" id="node17" href="$d0/d76/smtrat-common_2settings_2Settings_8h.html" title=" " alt="" coords="1711,1272,1854,1299"/>
+<area shape="rect" id="node26" href="$d5/d33/Validation_8h.html" title=" " alt="" coords="1711,1123,1879,1149"/>
+<area shape="rect" id="node35" href="$d8/da8/Checkpoints_8h.html" title=" " alt="" coords="2221,1123,2417,1149"/>
+<area shape="rect" id="node8" title=" " alt="" coords="995,1436,1186,1477"/>
+<area shape="rect" id="node9" title=" " alt="" coords="2827,1443,3010,1470"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1706,1443,1881,1470"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1905,1436,2063,1477"/>
+<area shape="rect" id="node12" title=" " alt="" coords="2087,1436,2244,1477"/>
+<area shape="rect" id="node13" title=" " alt="" coords="172,1436,375,1477"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1507,1436,1682,1477"/>
+<area shape="rect" id="node15" title=" " alt="" coords="3405,1443,3472,1470"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1301,1347,1467,1388"/>
+<area shape="rect" id="node19" title=" " alt="" coords="1657,1354,1829,1381"/>
+<area shape="rect" id="node20" title=" " alt="" coords="1491,1354,1538,1381"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1563,1354,1632,1381"/>
+<area shape="rect" id="node22" title=" " alt="" coords="799,1354,886,1381"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2308,1354,2359,1381"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1948,1354,2023,1381"/>
+<area shape="rect" id="node25" title=" " alt="" coords="2225,1354,2284,1381"/>
+<area shape="rect" id="node27" href="$d1/d93/ValidationCollector_8h.html" title=" " alt="" coords="1938,1197,2094,1224"/>
+<area shape="rect" id="node33" href="$d2/dcb/ValidationSettings_8h.html" title=" " alt="" coords="1711,1197,1863,1224"/>
+<area shape="rect" id="node28" href="$d6/daf/ValidationPoint_8h.html" title=" " alt="" coords="1919,1272,2051,1299"/>
+<area shape="rect" id="node32" title=" " alt="" coords="2127,1272,2204,1299"/>
+<area shape="rect" id="node29" title=" " alt="" coords="3285,1354,3371,1381"/>
+<area shape="rect" id="node30" title=" " alt="" coords="2047,1354,2121,1381"/>
+<area shape="rect" id="node31" title=" " alt="" coords="2146,1354,2201,1381"/>
+<area shape="rect" id="node34" href="$d9/d77/smtrat-common_2settings_2SettingsParser_8h.html" title=" " alt="" coords="1391,1272,1585,1299"/>
+<area shape="rect" id="node36" title=" " alt="" coords="2215,1197,2441,1224"/>
+<area shape="rect" id="node38" title=" " alt="" coords="2351,1033,2497,1075"/>
+<area shape="rect" id="node39" title=" " alt="" coords="2522,1041,2681,1067"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2191,1033,2326,1075"/>
+<area shape="rect" id="node44" href="$df/dd6/polynomials_8h.html" title=" " alt="" coords="985,780,1207,821"/>
+<area shape="rect" id="node49" href="$d8/d3a/projections_8h.html" title=" " alt="" coords="951,601,1172,643"/>
+<area shape="rect" id="node59" href="$df/db6/operator__mccallum_8h.html" title=" " alt="" coords="999,273,1188,315"/>
+<area shape="rect" id="node72" href="$df/d8d/heuristics_8h.html" title=" " alt="" coords="1581,363,1803,404"/>
+<area shape="rect" id="node81" href="$d2/dc4/Helper_8h.html" title=" " alt="" coords="1863,452,1939,479"/>
+<area shape="rect" id="node85" href="$df/d72/NewCoveringStatistics_8h.html" title=" " alt="" coords="2649,452,2831,479"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1111,869,1281,896"/>
+<area shape="rect" id="node46" href="$d7/d74/OCApproximationStatistics_8h.html" title=" " alt="" coords="865,869,1087,896"/>
+<area shape="rect" id="node47" href="$d2/dee/smtrat-common_2statistics_2Statistics_8h.html" title=" " alt="" coords="1506,944,1697,985"/>
+<area shape="rect" id="node48" title=" " alt="" coords="1508,1041,1695,1067"/>
+<area shape="rect" id="node50" title=" " alt="" coords="488,698,563,725"/>
+<area shape="rect" id="node51" href="$d1/d8a/roots_8h.html" title=" " alt="" coords="1364,698,1431,725"/>
+<area shape="rect" id="node54" title=" " alt="" coords="587,691,752,732"/>
+<area shape="rect" id="node55" title=" " alt="" coords="777,691,938,732"/>
+<area shape="rect" id="node56" title=" " alt="" coords="962,691,1137,732"/>
+<area shape="rect" id="node57" title=" " alt="" coords="1657,698,1860,725"/>
+<area shape="rect" id="node58" href="$d1/d46/CADCellsStatistics_8h.html" title=" " alt="" coords="195,698,362,725"/>
+<area shape="rect" id="node52" title=" " alt="" coords="1557,780,1705,821"/>
+<area shape="rect" id="node53" title=" " alt="" coords="1282,780,1430,821"/>
+<area shape="rect" id="node60" href="$d7/de0/operator_8h.html" title=" " alt="" coords="1428,370,1516,397"/>
+<area shape="rect" id="node65" href="$d3/d2a/operators_2properties_8h.html" title=" " alt="" coords="698,527,798,553"/>
+<area shape="rect" id="node66" href="$d9/d3e/rules_8h.html" title=" " alt="" coords="765,370,832,397"/>
+<area shape="rect" id="node61" href="$d0/d34/derivation_8h.html" title=" " alt="" coords="1485,527,1696,553"/>
+<area shape="rect" id="node64" href="$d0/d2b/representation_8h.html" title=" " alt="" coords="1314,452,1553,479"/>
+<area shape="rect" id="node62" href="$db/ddd/delineation_8h.html" title=" " alt="" coords="1536,609,1643,635"/>
+<area shape="rect" id="node63" href="$d8/d4c/datastructures_2properties_8h.html" title=" " alt="" coords="2375,698,2475,725"/>
+<area shape="rect" id="node67" href="$dc/d79/properties__util_8h.html" title=" " alt="" coords="481,452,609,479"/>
+<area shape="rect" id="node68" href="$de/d90/rules__filter_8h.html" title=" " alt="" coords="129,452,231,479"/>
+<area shape="rect" id="node70" href="$d4/d0e/rules__covering_8h.html" title=" " alt="" coords="327,452,457,479"/>
+<area shape="rect" id="node71" href="$d6/d6c/rules__null_8h.html" title=" " alt="" coords="837,452,934,479"/>
+<area shape="rect" id="node69" href="$da/d96/rules__filter__util_8h.html" title=" " alt="" coords="43,527,173,553"/>
+<area shape="rect" id="node73" href="$d8/d3c/util_8h.html" title=" " alt="" coords="567,609,622,635"/>
+<area shape="rect" id="node74" href="$d9/dad/heuristics__cell_8h.html" title=" " alt="" coords="634,452,761,479"/>
+<area shape="rect" id="node75" href="$d6/d4c/heuristics__covering_8h.html" title=" " alt="" coords="1628,452,1788,479"/>
+<area shape="rect" id="node76" href="$d6/d0a/heuristics__approximation_8h.html" title=" " alt="" coords="1759,527,1958,553"/>
+<area shape="rect" id="node77" href="$d3/d2b/CellApproximator_8h.html" title=" " alt="" coords="1978,609,2225,635"/>
+<area shape="rect" id="node78" href="$d0/d51/ApproximationSettings_8h.html" title=" " alt="" coords="1935,698,2118,725"/>
+<area shape="rect" id="node79" href="$d3/d89/ran__approximation_8h.html" title=" " alt="" coords="2143,698,2300,725"/>
+<area shape="rect" id="node80" href="$d7/d5d/criteria_8h.html" title=" " alt="" coords="1505,1123,1585,1149"/>
+<area shape="rect" id="node84" href="$d8/dea/smtrat-modules_2NewCoveringModule_2Sampling_8h.html" title=" " alt="" coords="1946,370,2041,397"/>
+<area shape="rect" id="node87" href="$da/d8c/smtrat-mcsat_2variableordering_2VariableOrdering_8h.html" title=" " alt="" coords="2801,363,3023,404"/>
+<area shape="rect" id="node93" href="$d4/dc7/Module_8h.html" title=" " alt="" coords="3255,787,3430,814"/>
+<area shape="rect" id="node99" title=" " alt="" coords="2329,281,2524,307"/>
+<area shape="rect" id="node86" title=" " alt="" coords="2707,527,2773,553"/>
+<area shape="rect" id="node88" href="$df/d0b/feature__based_8h.html" title=" " alt="" coords="2855,951,2982,978"/>
+<area shape="rect" id="node91" href="$df/df8/greedy__max__univariate_8h.html" title=" " alt="" coords="3058,951,3246,978"/>
+<area shape="rect" id="node89" href="$d4/da1/helper_8h.html" title=" " alt="" coords="3007,1197,3081,1224"/>
+<area shape="rect" id="node90" title=" " alt="" coords="2756,1041,2831,1067"/>
+<area shape="rect" id="node92" title=" " alt="" coords="3109,1033,3315,1075"/>
+<area shape="rect" id="node94" title=" " alt="" coords="3535,951,3577,978"/>
+<area shape="rect" id="node95" title=" " alt="" coords="3608,869,3672,896"/>
+<area shape="rect" id="node96" href="$db/d1b/ModuleInput_8h.html" title=" " alt="" coords="3285,869,3400,896"/>
+<area shape="rect" id="node97" title=" " alt="" coords="3321,951,3364,978"/>
+<area shape="rect" id="node98" title=" " alt="" coords="3389,951,3459,978"/>
+</map>

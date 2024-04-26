@@ -1,0 +1,5 @@
+<map id="carl::Pool::assignId" name="carl::Pool::assignId">
+<area shape="rect" id="node1" title="Assigns a unique id to the generated element." alt="" coords="343,5,487,32"/>
+<area shape="rect" id="node2" href="$de/d11/a03387.html#a39a15abc38433ea0bd382a5634138e03" title="Inserts the given element into the pool, if it does not yet occur in there." alt="" coords="168,5,295,32"/>
+<area shape="rect" id="node3" href="$de/d11/a03387.html#af37fb10dcc2bc1dd24afa8091054a147" title="Adds the given element to the pool, if it does not yet occur in there." alt="" coords="5,5,120,32"/>
+</map>

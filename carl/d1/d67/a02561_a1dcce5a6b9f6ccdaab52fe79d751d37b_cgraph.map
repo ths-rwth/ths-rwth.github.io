@@ -1,0 +1,5 @@
+<map id="carl::UnivariatePolynomial::one" name="carl::UnivariatePolynomial::one">
+<area shape="rect" id="node1" title="Creates a polynomial of value one with the same main variable." alt="" coords="5,46,232,73"/>
+<area shape="rect" id="node2" href="$d1/d67/a02561.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="280,5,475,47"/>
+<area shape="rect" id="node3" href="$d1/d67/a02561.html#a814394d2b5bfa7814a88a3d6297bb315" title="Declare all instantiations of univariate polynomials as friends." alt="" coords="280,71,475,112"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="carl::definiteness" name="carl::definiteness">
+<area shape="rect" id="node1" title=" " alt="" coords="5,414,139,440"/>
+<area shape="rect" id="node2" href="$df/d02/a02755.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="736,42,863,68"/>
+<area shape="rect" id="node3" href="$d6/d51/a02535.html#a53849432ef8cebc9000f009bfacd4e12" title="Retrieve the constant term of this polynomial or zero, if there is no constant term." alt="" coords="187,101,393,142"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a5579996718779de958a6f2b776d6a57d" title=" " alt="" coords="478,123,611,150"/>
+<area shape="rect" id="node12" href="$d6/d51/a02535.html#a761a9a703b7c7fd8571047ae6451a30f" title="Check if the polynomial has a constant term that is not zero." alt="" coords="441,202,648,244"/>
+<area shape="rect" id="node16" href="$dc/db6/a01212.html#a27f538cfe45145c285bc67d66c882f7f" title=" " alt="" coords="481,568,609,595"/>
+<area shape="rect" id="node18" href="$dc/db6/a01212.html#af3428e921d7ac6b02ce0199b4a19821a" title=" " alt="" coords="235,387,345,414"/>
+<area shape="rect" id="node19" href="$dc/db6/a01212.html#ab911f291835dda642be82b78d32262a0" title=" " alt="" coords="480,1191,609,1218"/>
+<area shape="rect" id="node23" href="$d6/d51/a02535.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="696,312,903,353"/>
+<area shape="rect" id="node24" href="$d6/d51/a02535.html#a5a7bd22cd4e9774f66f208649ada5581" title=" " alt="" coords="441,437,648,478"/>
+<area shape="rect" id="node25" href="$d6/d51/a02535.html#a780bb9ff8aa2bb57c56fe5819166b3d0" title=" " alt="" coords="441,502,648,544"/>
+<area shape="rect" id="node26" href="$dc/db6/a01212.html#a1ea81c002749c68ce22a72909b4923a5" title=" " alt="" coords="201,618,379,644"/>
+<area shape="rect" id="node48" href="$dc/db6/a01212.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="222,1179,358,1206"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="1004,1102,1104,1128"/>
+<area shape="rect" id="node11" href="$df/d02/a02755.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="719,92,879,119"/>
+<area shape="rect" id="node6" href="$d1/d0c/a02251.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1591,832,1713,873"/>
+<area shape="rect" id="node7" href="$d1/d0c/a02251.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1762,1102,1910,1128"/>
+<area shape="rect" id="node9" href="$d1/d0c/a02251.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="1225,1033,1347,1074"/>
+<area shape="rect" id="node8" href="$d1/d0c/a02251.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1761,667,1911,694"/>
+<area shape="rect" id="node10" href="$d1/d0c/a02251.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1415,974,1543,1016"/>
+<area shape="rect" id="node13" href="$df/d02/a02755.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="715,260,883,287"/>
+<area shape="rect" id="node14" href="$d6/d51/a02535.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="951,166,1157,208"/>
+<area shape="rect" id="node15" href="$d6/d51/a02535.html#a22fb242dd7551b3cdd5c48badea9e539" title="Give the last term according to Ordering." alt="" coords="696,144,903,185"/>
+<area shape="rect" id="node17" href="$da/dfd/a02619.html#a18ff5ebfd5c74e48865b6815a9d69df6" title=" " alt="" coords="710,377,889,418"/>
+<area shape="rect" id="node20" href="$dc/dc2/a01251.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="728,1254,871,1280"/>
+<area shape="rect" id="node21" href="$da/db0/a03747.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="963,1290,1145,1332"/>
+<area shape="rect" id="node22" href="$df/d0c/a03055.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="959,1225,1149,1266"/>
+<area shape="rect" id="node27" href="$d6/d51/a02535.html#a710a3efef2f7f20bdaf15c311edb9650" title="Returns the coefficient of the leading term." alt="" coords="441,320,648,361"/>
+<area shape="rect" id="node28" href="$dc/db6/a01212.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="504,798,585,824"/>
+<area shape="rect" id="node41" href="$d6/d51/a02535.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="441,1125,648,1166"/>
+<area shape="rect" id="node42" href="$dc/db6/a01212.html#aa19fe29df8e7d5a732333423ce74acf6" title=" " alt="" coords="491,619,598,646"/>
+<area shape="rect" id="node29" href="$dc/db6/a01212.html#a2621c3f57bc93187374da1f40c0afd67" title="Method which returns the absolute value of the passed number." alt="" coords="761,646,838,672"/>
+<area shape="rect" id="node31" href="$d1/d0c/a02251.html#a4d1dedfa64629a6509d858c9edae03f2" title="Checks if the interval contains the given value." alt="" coords="716,1102,883,1128"/>
+<area shape="rect" id="node32" href="$d1/d0c/a02251.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="1205,806,1367,832"/>
+<area shape="rect" id="node33" href="$dc/db6/a01212.html#a5c205dc504d657271c884a200a13b2d9" title=" " alt="" coords="1015,751,1093,778"/>
+<area shape="rect" id="node34" href="$d1/d0c/a02251.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="1212,857,1360,898"/>
+<area shape="rect" id="node35" href="$d1/d0c/a02251.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="1211,689,1361,730"/>
+<area shape="rect" id="node36" href="$df/db6/a02455.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="712,899,887,926"/>
+<area shape="rect" id="node37" href="$d1/d0c/a02251.html#ad88c24babf3db53859977f3cfce82db7" title="Function which determines, if the interval is (&#45;oo,oo)." alt="" coords="1417,642,1540,684"/>
+<area shape="rect" id="node38" href="$dc/db6/a01212.html#a0d957abf20560cb00e51ba63d1fea986" title="Returns a polynomial to the given power." alt="" coords="759,798,840,824"/>
+<area shape="rect" id="node40" href="$dc/db6/a01212.html#a25002180a22642ffa3952656b7f8d76f" title=" " alt="" coords="755,950,843,976"/>
+<area shape="rect" id="node30" href="$d1/d0c/a02251.html#ace798498657175679c31f1213f37e340" title="Calculates the absolute value of the interval." alt="" coords="987,646,1121,672"/>
+<area shape="rect" id="node39" href="$d9/dc8/a02531.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="957,802,1151,844"/>
+<area shape="rect" id="node43" href="$d5/d39/a01219.html#a0e1875df6d0e8c42efbaf5d5574876d6" title=" " alt="" coords="704,443,895,470"/>
+<area shape="rect" id="node44" href="$da/d37/a02787.html#a38965085a6b18ed80a6011d44fdc9987" title=" " alt="" coords="973,362,1135,404"/>
+<area shape="rect" id="node45" href="$da/d37/a02787.html#ae5a451621988dccb3706a5e877ca1b64" title=" " alt="" coords="982,428,1126,469"/>
+<area shape="rect" id="node46" href="$da/d37/a02787.html#ae422960a1142381629df98a5da39f35e" title=" " alt="" coords="984,232,1124,273"/>
+<area shape="rect" id="node47" href="$da/d37/a02787.html#abe0f5032c87ae2b8101733d61a141f48" title=" " alt="" coords="977,297,1131,338"/>
+<area shape="rect" id="node49" href="$d3/d25/a02683.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="467,1242,623,1268"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="carl/ran/thom" name="carl/ran/thom">
+<area shape="rect" id="node2" href="dir_5f5ff201a854bd1e045c57977e3fbdf8.html" title="SignDetermination" alt="" coords="37,159,181,207"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000050_000051.html" title="1" alt="" coords="121,135,130,150"/>
+<area shape="rect" id="node5" href="dir_62e22c61b0d9de9e75e6a6dc1cd8aa72.html" title="interval" alt="" coords="211,351,283,399"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000050_000022.html" title="1" alt="" coords="247,324,256,339"/>
+<area shape="rect" id="node3" href="dir_338b24c4891b7b839163501e83faaff3.html" title="TarskiQuery" alt="" coords="37,255,136,303"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000051_000052.html" title="1" alt="" coords="100,232,109,246"/>
+<area shape="rect" id="node4" href="dir_aa96c1a297af1ba2db0d0a38fb1c860e.html" title="core" alt="" coords="137,447,209,495"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000051_000020.html" title="2" alt="" coords="177,421,186,435"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000052_000020.html" title="5" alt="" coords="118,439,127,454"/>
+<area shape="rect" id="node6" href="dir_55760b850b6914df4610e234bc4a04f2.html" title="groebner" alt="" coords="56,351,136,399"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000052_000034.html" title="1" alt="" coords="96,324,105,339"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000020_000022.html" title="3" alt="" coords="214,402,224,416"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000022_000020.html" title="10" alt="" coords="192,429,209,444"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000034_000020.html" title="14" alt="" coords="141,420,158,435"/>
+<area shape="rect" id="clust2" href="dir_b9d8cc0f8aaf38d51aaffbc97c4e77c6.html" alt="" coords="27,52,192,313"/>
+<area shape="rect" id="clust1" href="dir_f615d7766f3d802dae934290908eb735.html" title="ran" alt="" coords="16,16,203,324"/>
+</map>

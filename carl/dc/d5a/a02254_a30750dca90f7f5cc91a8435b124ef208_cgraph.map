@@ -1,0 +1,10 @@
+<map id="carl::Interval::Interval" name="carl::Interval::Interval">
+<area shape="rect" id="node1" title="Constructor which constructs the interval according to the passed general float bounds (e...." alt="" coords="5,161,168,187"/>
+<area shape="rect" id="node2" href="$d4/d22/a01250.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="232,45,375,71"/>
+<area shape="rect" id="node5" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="229,95,377,122"/>
+<area shape="rect" id="node6" href="$d3/d6e/a02266.html#aac501d64c8051ab8d9362752834ba4f2" title=" " alt="" coords="216,146,391,202"/>
+<area shape="rect" id="node7" href="$dc/db6/a01212.html#ac03fe5e4344486fbb1f8a558b57e4472" title="Converts the given fraction to a double." alt="" coords="244,226,363,253"/>
+<area shape="rect" id="node8" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="229,277,378,303"/>
+<area shape="rect" id="node3" href="$db/db0/a03722.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="443,5,625,47"/>
+<area shape="rect" id="node4" href="$dd/d84/a03034.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="439,71,629,112"/>
+</map>

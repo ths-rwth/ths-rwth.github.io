@@ -1,0 +1,4 @@
+var structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__CACHE__GLOBAL_01_4 =
+[
+    [ "compute", "d9/db6/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__CACHE__GLOBAL_01_4.html#a0da8d389767545dc174f3dada85ade8b", null ]
+];

@@ -1,0 +1,6 @@
+<map id="carl::Term::drop_variable" name="carl::Term::drop_variable">
+<area shape="rect" id="node1" title="Removes the given variable from the term." alt="" coords="5,56,188,83"/>
+<area shape="rect" id="node2" href="$da/d7d/a02785.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="253,5,379,32"/>
+<area shape="rect" id="node3" href="$da/d7d/a02785.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="236,56,396,83"/>
+<area shape="rect" id="node4" href="$da/d7d/a02785.html#a2881ed5125f612268d339c896f95542c" title="Default constructor." alt="" coords="253,107,379,133"/>
+</map>

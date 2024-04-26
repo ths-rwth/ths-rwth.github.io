@@ -1,0 +1,17 @@
+<map id="carl::primitive_part" name="carl::primitive_part">
+<area shape="rect" id="node1" title="The primitive part of p is the normal part of p divided by the content of p." alt="" coords="5,267,152,293"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a01ac9cb767d10987a195fe8a8701be36" title="The content of a polynomial is the gcd of the coefficients of the normal part of a polynomial." alt="" coords="200,209,303,236"/>
+<area shape="rect" id="node8" href="$d6/d24/a02536.html#a286814f7ffd4c4c10d4b00becc2fd892" title="Checks whether the polynomial is unit normal." alt="" coords="351,259,545,301"/>
+<area shape="rect" id="node15" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="398,325,498,352"/>
+<area shape="rect" id="node3" href="$d6/d24/a02536.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="351,194,545,235"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#a518fcd588efdefd1c48c6d3aaaacee2c" title="Calculate the greatest common divisor of two integers." alt="" coords="409,75,487,101"/>
+<area shape="rect" id="node9" href="$d8/d15/a01218.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="400,143,496,169"/>
+<area shape="rect" id="node5" href="$d8/d15/a01218.html#ac837952cbddb45a8e57ab93789d56ba6" title=" " alt="" coords="616,56,693,83"/>
+<area shape="rect" id="node6" href="$d8/d15/a01218.html#abfa557902ca711efa9f03e7ae1679407" title="Extract the denominator from a fraction." alt="" coords="765,5,891,32"/>
+<area shape="rect" id="node7" href="$d8/d15/a01218.html#a6b99ff3d1ab9ac9b56cbd908cf818546" title="Extract the numerator from a fraction." alt="" coords="773,56,883,83"/>
+<area shape="rect" id="node10" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="940,230,1063,271"/>
+<area shape="rect" id="node11" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1111,212,1259,239"/>
+<area shape="rect" id="node13" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="593,234,716,275"/>
+<area shape="rect" id="node12" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1111,263,1260,289"/>
+<area shape="rect" id="node14" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="764,259,892,301"/>
+</map>

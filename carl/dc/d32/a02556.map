@@ -1,0 +1,17 @@
+<map id="carl::has_subtype&lt; T &gt;" name="carl::has_subtype&lt; T &gt;">
+<area shape="rect" id="node1" title="This template is designed to provide types that are related to other types." alt="" coords="5,209,180,236"/>
+<area shape="rect" id="node2" href="$d5/d6e/a01240.html#d5/d95/a02625" title="Gives the underlying number type of a complex object." alt="" coords="401,43,647,69"/>
+<area shape="rect" id="node3" href="$dd/d98/a02557.html" title=" " alt="" coords="435,93,613,149"/>
+<area shape="rect" id="node6" href="$dd/d98/a02557.html" title=" " alt="" coords="451,202,597,243"/>
+<area shape="rect" id="node9" href="$dd/d98/a02557.html" title=" " alt="" coords="451,282,597,323"/>
+<area shape="rect" id="node12" href="$dd/d98/a02557.html" title=" " alt="" coords="451,445,597,486"/>
+<area shape="rect" id="node4" href="$d5/d6e/a01240.html#dd/d4a/a02761" title="States that UnderlyingNumberType of MultivariatePolynomial&lt;C,O,P&gt; is UnderlyingNumberType&lt;C&gt;::type." alt="" coords="709,5,915,61"/>
+<area shape="rect" id="node5" href="$d5/d6e/a01240.html#d7/d75/a02805" title="States that UnderlyingNumberType of UnivariatePolynomial&lt;T&gt; is UnderlyingNumberType&lt;C&gt;::type." alt="" coords="696,86,928,127"/>
+<area shape="rect" id="node7" href="$d7/dbf/a01239.html#d0/dc0/a02365" title="States that IntegralType of cln::cl_I is cln::cl_I ." alt="" coords="745,151,879,193"/>
+<area shape="rect" id="node8" href="$d7/dbf/a01239.html#df/def/a02369" title="States that IntegralType of cln::cl_RA is cln::cl_I ." alt="" coords="745,217,879,258"/>
+<area shape="rect" id="node10" href="$d7/dbf/a01239.html#da/d18/a02421" title="States that IntegralType of mpq_class is mpz_class ." alt="" coords="745,282,879,323"/>
+<area shape="rect" id="node11" href="$d7/dbf/a01239.html#d9/d9d/a02425" title="States that IntegralType of mpz_class is mpz_class ." alt="" coords="745,347,879,389"/>
+<area shape="rect" id="node13" href="$d7/dbf/a01239.html#d0/dc2/a02477" title="States that IntegralType of double is sint ." alt="" coords="745,413,879,454"/>
+<area shape="rect" id="node14" href="$d7/dbf/a01239.html#d9/dc1/a02473" title="States that IntegralType of float is sint ." alt="" coords="745,478,879,519"/>
+<area shape="rect" id="node15" href="$d7/dbf/a01239.html#d9/dd8/a02481" title="States that IntegralType of long double is sint ." alt="" coords="745,543,879,585"/>
+</map>
