@@ -1,0 +1,10 @@
+<map id="carl::evaluate_inplace" name="carl::evaluate_inplace">
+<area shape="rect" id="node1" title="Evaluates a bitvector term to a ModelValue over a Model." alt="" coords="5,81,171,108"/>
+<area shape="rect" id="node2" href="$dd/d6f/a03315.html#a77433aa1632987ff63f9fe64336e0afa" title=" " alt="" coords="219,5,405,32"/>
+<area shape="rect" id="node3" href="$dd/d6f/a03315.html#af33aba06a772059c8a9600df3e8d45b4" title=" " alt="" coords="472,25,613,52"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#af7d12c39cf6a4b068d126587124e6442" title="Create a copy of the underlying polynomial with the given variable replaced by the given polynomial." alt="" coords="225,107,399,133"/>
+<area shape="rect" id="node7" href="$dd/d6f/a03315.html#ad909b3a85a68f0b42b81f0059e8ccf3b" title=" " alt="" coords="238,159,386,185"/>
+<area shape="rect" id="node4" href="$d9/dc9/a03347.html#a3b975242e84275d11d62792852214faa" title=" " alt="" coords="680,18,835,59"/>
+<area shape="rect" id="node6" href="$d3/da9/a02131.html#ac02f6cc573a2e3e20323a3fe357b3eb0" title=" " alt="" coords="461,97,624,138"/>
+<area shape="rect" id="node8" href="$d9/dc9/a03347.html#a63745ee14d9b35c3ea0e29f4f4edde72" title=" " alt="" coords="453,163,632,189"/>
+</map>

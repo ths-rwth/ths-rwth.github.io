@@ -1,0 +1,20 @@
+<map id="carl::TarskiQueryManager::TarskiQueryManager" name="carl::TarskiQueryManager::TarskiQueryManager">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,193,197"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a0c0448ac4cee24dd4f080db6241a21de" title="Computes the n&#39;th derivative of a number, which is either the number itself (for n = 0) or zero." alt="" coords="275,5,395,32"/>
+<area shape="rect" id="node4" href="$dc/d44/a02899.html#a4127f2b1f143d9e43b6f866015d6f784" title=" " alt="" coords="262,57,409,98"/>
+<area shape="rect" id="node5" href="$dc/d44/a02899.html#a08d188828c11123ba723f222dd77e536" title=" " alt="" coords="262,122,409,163"/>
+<area shape="rect" id="node10" href="$d6/deb/a02915.html#a17a7e7510c4be945ae4398b07d420042" title=" " alt="" coords="241,187,429,229"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="533,195,628,221"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="265,307,405,349"/>
+<area shape="rect" id="node3" href="$d2/d11/a02647.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="493,5,668,32"/>
+<area shape="rect" id="node6" href="$dc/d44/a02899.html#ae76b42369bd7e8ae41a2c8bce464718d" title=" " alt="" coords="493,85,668,112"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="535,136,626,163"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="732,122,939,163"/>
+<area shape="rect" id="node9" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="732,187,939,229"/>
+<area shape="rect" id="node13" href="$d1/d34/a01211.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="477,246,684,287"/>
+<area shape="rect" id="node14" href="$d1/d34/a01211.html#aca1a0a63b9bd18ec2fc62246e88e3d57" title="Calculates the max." alt="" coords="477,311,684,353"/>
+<area shape="rect" id="node15" href="$d6/da1/a01233.html#a8215a604fc693189ab2161942a85a6d2" title="Add the variables of the given monomial to the variables." alt="" coords="523,377,638,404"/>
+<area shape="rect" id="node16" href="$d6/d19/a02007.html#a9df560421a3fdbadf68035f008e8b9c7" title=" " alt="" coords="750,377,921,404"/>
+<area shape="rect" id="node17" href="$d7/d98/a02003.html#abfedf1dcbc7eb5d6df23dcf5ea0477e4" title=" " alt="" coords="987,337,1129,378"/>
+<area shape="rect" id="node18" href="$d6/d19/a02007.html#ab22291bd03f45a207ab29ec8bb0aa2f7" title=" " alt="" coords="989,402,1127,443"/>
+</map>

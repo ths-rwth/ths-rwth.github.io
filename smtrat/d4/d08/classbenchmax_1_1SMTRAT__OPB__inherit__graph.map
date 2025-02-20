@@ -1,0 +1,5 @@
+<map id="benchmax::SMTRAT_OPB" name="benchmax::SMTRAT_OPB">
+<area shape="rect" id="node1" title="Adapts the SMTRAT solver for OPB files." alt="" coords="5,155,191,181"/>
+<area shape="rect" id="node2" href="$df/d62/classbenchmax_1_1SMTRAT.html" title="Tool wrapper for SMT&#45;RAT for SMT&#45;LIB." alt="" coords="23,80,173,107"/>
+<area shape="rect" id="node3" href="$d2/d45/classbenchmax_1_1Tool.html" title="Base class for any tool." alt="" coords="36,5,160,32"/>
+</map>

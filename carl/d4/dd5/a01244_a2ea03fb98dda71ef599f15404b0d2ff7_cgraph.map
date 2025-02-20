@@ -1,0 +1,4 @@
+<map id="carl::constraints::toPolynomialConstraints" name="carl::constraints::toPolynomialConstraints">
+<area shape="rect" id="node1" title="Converts Constraint&lt;RationalFunction&lt;Poly&gt;&gt; to Constraint&lt;Poly&gt;" alt="" coords="5,5,188,47"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#ab3d32415866c01c32423ce682ccb0f95" title="Inverts the given relation symbol." alt="" coords="236,13,339,39"/>
+</map>

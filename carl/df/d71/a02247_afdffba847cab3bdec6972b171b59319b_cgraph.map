@@ -1,0 +1,8 @@
+<map id="carl::Interval::Interval" name="carl::Interval::Interval">
+<area shape="rect" id="node1" title="Constructor which constructs an interval from the passed int bounds." alt="" coords="5,95,168,122"/>
+<area shape="rect" id="node2" href="$dd/d95/a01247.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="219,45,362,71"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="217,95,365,122"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="216,146,365,173"/>
+<area shape="rect" id="node3" href="$d7/da7/a03719.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="418,5,599,47"/>
+<area shape="rect" id="node4" href="$d4/de4/a03031.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="413,71,604,112"/>
+</map>

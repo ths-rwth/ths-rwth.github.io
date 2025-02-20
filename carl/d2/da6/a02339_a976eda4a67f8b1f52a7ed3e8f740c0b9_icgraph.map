@@ -1,0 +1,5 @@
+<map id="carl::FLOAT_T::sin" name="carl::FLOAT_T::sin">
+<area shape="rect" id="node1" title="Function which calculates the sine of this number and puts it into a passed result parameter." alt="" coords="208,31,344,57"/>
+<area shape="rect" id="node2" href="$d2/da6/a02339.html#aa511e870c28ad9289b6c84a7844f5ce8" title="Function required for extension of Eigen3 with FLOAT_T as a custom type which calculates the sine." alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a14ccf6d0758b22f0b37150bd2775d8cc" title=" " alt="" coords="46,56,119,83"/>
+</map>

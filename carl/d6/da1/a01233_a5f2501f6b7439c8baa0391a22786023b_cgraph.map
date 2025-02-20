@@ -1,0 +1,26 @@
+<map id="carl::sturm_sequence" name="carl::sturm_sequence">
+<area shape="rect" id="node1" title="Computes the sturm sequence of a polynomial as defined at , page 333, example 22." alt="" coords="5,31,167,57"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a0c0448ac4cee24dd4f080db6241a21de" title="Computes the n&#39;th derivative of a number, which is either the number itself (for n = 0) or zero." alt="" coords="235,5,355,32"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a0a7b1c21762f6b6b2dea7127d1812f16" title="Computes the sturm sequence of two polynomials." alt="" coords="215,56,376,83"/>
+<area shape="rect" id="node3" href="$d2/d11/a02647.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="424,5,599,32"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="1163,9,1257,36"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#abfeb486514341498d6b363229506eae8" title=" " alt="" coords="451,193,572,220"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="1361,53,1568,94"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a349e672eaeb08c5fbfc6d508d1f86df1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="647,325,816,352"/>
+<area shape="rect" id="node9" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="864,253,1059,294"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="864,318,1059,359"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a9cc2f7f3c081d4856a654898f6871206" title="Checks whether the monomial is a constant." alt="" coords="897,384,1025,411"/>
+<area shape="rect" id="node14" href="$dc/db6/a01212.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="864,435,1059,477"/>
+<area shape="rect" id="node15" href="$dc/db6/a01212.html#a9d54ed3853631a633e6a994f49b1d655" title="Retrieves the main variable of this polynomial." alt="" coords="864,501,1059,542"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#a96cd07c72b28bef5bbac66f30da58177" title="Calculates the quotient of a polynomial division." alt="" coords="907,201,1015,228"/>
+<area shape="rect" id="node24" href="$dc/db6/a01212.html#a13d3ac385e1da1103fef9d7d14c32174" title=" " alt="" coords="864,566,1059,607"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="1142,541,1278,568"/>
+<area shape="rect" id="node13" href="$d1/d34/a01211.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="1387,541,1543,568"/>
+<area shape="rect" id="node17" href="$d1/d34/a01211.html#aa13c5f6ad05544c3d2560ecbc7e8f53d" title=" " alt="" coords="1107,162,1313,203"/>
+<area shape="rect" id="node18" href="$d1/d34/a01211.html#af716ddd074dd7a443647e6da6ed728ed" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="1107,227,1313,269"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="1165,111,1255,137"/>
+<area shape="rect" id="node20" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="1361,202,1568,243"/>
+<area shape="rect" id="node21" href="$d1/d34/a01211.html#a688b16a4d60518728edece4a089cc8c0" title=" " alt="" coords="1107,345,1313,386"/>
+<area shape="rect" id="node22" href="$d1/d34/a01211.html#aa3c95cc57ba22c850a88fc80cc21c8f2" title="Drops the leading term." alt="" coords="1107,410,1313,451"/>
+<area shape="rect" id="node23" href="$d1/d34/a01211.html#a5e572c9d7e1844778a965a766c116a1f" title="Subtract a term times a polynomial from this polynomial." alt="" coords="1107,475,1313,517"/>
+</map>

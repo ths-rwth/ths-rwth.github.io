@@ -1,0 +1,5 @@
+<map id="carl::settings::SettingsParser::name_of_config_file" name="carl::settings::SettingsParser::name_of_config_file">
+<area shape="rect" id="node1" title="Gives the option name for the config file name. Can be overridden." alt="" coords="447,5,647,47"/>
+<area shape="rect" id="node2" href="$dc/df3/a03773.html#a6cfc3b92528d9e57d88520444796913e" title="Parses the config file if one was configured." alt="" coords="220,5,399,47"/>
+<area shape="rect" id="node3" href="$dc/df3/a03773.html#a01c01fafdb9c4ae7f0f9744d08ec54d7" title="Parse the options." alt="" coords="5,5,172,47"/>
+</map>

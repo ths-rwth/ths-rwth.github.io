@@ -1,0 +1,11 @@
+<map id="carl::try_divide" name="carl::try_divide">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,124,83"/>
+<area shape="rect" id="node2" href="$da/d7d/a02785.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="189,5,315,32"/>
+<area shape="rect" id="node3" href="$d7/dc5/a01242.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="202,56,302,83"/>
+<area shape="rect" id="node9" href="$da/d7d/a02785.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="172,107,332,133"/>
+<area shape="rect" id="node4" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="727,82,849,123"/>
+<area shape="rect" id="node5" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="898,35,1046,61"/>
+<area shape="rect" id="node7" href="$d0/d80/a02281.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="380,107,503,149"/>
+<area shape="rect" id="node6" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="897,89,1047,116"/>
+<area shape="rect" id="node8" href="$d0/d80/a02281.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="551,107,679,149"/>
+</map>

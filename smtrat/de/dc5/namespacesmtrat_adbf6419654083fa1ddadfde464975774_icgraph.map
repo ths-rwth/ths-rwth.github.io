@@ -1,0 +1,11 @@
+<map id="smtrat::abstractMonomial" name="smtrat::abstractMonomial">
+<area shape="rect" id="node1" title="It linearizes a non&#45;linear monomial." alt="" coords="417,224,608,251"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#a86b9a7e8c08dce4f227909983fc62de2" title=" " alt="" coords="215,224,369,251"/>
+<area shape="rect" id="node3" href="$db/d90/classsmtrat_1_1ICPModule.html#a860bd10fee54f09762b1333b5cc0c2b9" title=" " alt="" coords="7,5,165,61"/>
+<area shape="rect" id="node4" href="$df/ded/classsmtrat_1_1CSplitModule.html#ae8a8295fed003a64adf4a2212250bf8d" title="The module has to take the given sub&#45;formula of the received formula into account." alt="" coords="7,86,165,127"/>
+<area shape="rect" id="node5" href="$df/ded/classsmtrat_1_1CSplitModule.html#a3f7a84331abdedd4cf3ac162faa98323" title="Analyzes the infeasible subset of the LRA solver and constructs an infeasible subset of the received ..." alt="" coords="7,151,165,193"/>
+<area shape="rect" id="node6" href="$d3/de4/classsmtrat_1_1NRAILModule.html#a7c2f3c3fa5e7d4eeeffe145e73a864de" title=" " alt="" coords="5,217,167,258"/>
+<area shape="rect" id="node7" href="$db/d90/classsmtrat_1_1ICPModule.html#a85d49a9d2e4e614dc2b605df9d523a7f" title=" " alt="" coords="7,283,165,339"/>
+<area shape="rect" id="node8" href="$df/ded/classsmtrat_1_1CSplitModule.html#a1375071558a319a0efbf9bcaf6ffe0c5" title="Removes the subformula of the received formula at the given position to the considered ones of this m..." alt="" coords="7,363,165,405"/>
+<area shape="rect" id="node9" href="$db/d90/classsmtrat_1_1ICPModule.html#a44587959043a4a4ddf2bc735a826f9e3" title=" " alt="" coords="7,429,165,485"/>
+</map>

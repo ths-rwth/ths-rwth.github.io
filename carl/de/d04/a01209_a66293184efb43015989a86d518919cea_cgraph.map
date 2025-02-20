@@ -1,0 +1,10 @@
+<map id="carl::init" name="carl::init">
+<area shape="rect" id="node1" title="The routine for initializing the carl library." alt="" coords="5,225,80,251"/>
+<area shape="rect" id="node2" href="$d1/d31/a01245.html#a8fea23f542143af72cc428d1c3b52b9e" title=" " alt="" coords="128,159,299,200"/>
+<area shape="rect" id="node7" href="$d4/de4/a03031.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="764,188,939,229"/>
+<area shape="rect" id="node3" href="$d1/d31/a01245.html#a1f6ea271980ab353f97c71fd5aec72da" title=" " alt="" coords="347,129,513,171"/>
+<area shape="rect" id="node4" href="$dd/d15/a03667.html#a12f8440cc7879cc40f546e2bf61067b0" title="Installs the given sink." alt="" coords="561,5,716,47"/>
+<area shape="rect" id="node5" href="$dd/d15/a03667.html#ac89bb2de4d444b85385c92a0bf4f2d58" title="Retrieves the Filter for some Sink." alt="" coords="561,71,716,112"/>
+<area shape="rect" id="node6" href="$d1/d31/a01245.html#a380c12cb3d69ec8dedc4f28b24fe0dba" title="Returns the single global instance of a Logger." alt="" coords="563,137,714,163"/>
+<area shape="rect" id="node8" href="$dd/d15/a03667.html#addfb61c76ed27ba1ba9537b6d7d5f75b" title="Reconfigures all Formatter objects." alt="" coords="561,188,716,229"/>
+</map>

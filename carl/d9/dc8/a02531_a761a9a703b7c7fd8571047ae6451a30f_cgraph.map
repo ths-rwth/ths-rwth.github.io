@@ -1,0 +1,6 @@
+<map id="carl::MultivariatePolynomial::has_constant_term" name="carl::MultivariatePolynomial::has_constant_term">
+<area shape="rect" id="node1" title="Check if the polynomial has a constant term that is not zero." alt="" coords="5,49,212,90"/>
+<area shape="rect" id="node2" href="$df/d23/a02751.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="279,5,447,32"/>
+<area shape="rect" id="node3" href="$d9/dc8/a02531.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="515,78,721,119"/>
+<area shape="rect" id="node4" href="$d9/dc8/a02531.html#a22fb242dd7551b3cdd5c48badea9e539" title="Give the last term according to Ordering." alt="" coords="260,107,467,149"/>
+</map>

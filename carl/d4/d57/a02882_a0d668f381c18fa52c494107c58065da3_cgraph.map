@@ -1,0 +1,52 @@
+<map id="carl::TarskiQueryManager::operator()" name="carl::TarskiQueryManager::operator()">
+<area shape="rect" id="node1" title=" " alt="" coords="5,461,193,502"/>
+<area shape="rect" id="node2" href="$d4/d57/a02882.html#a3360f32564131427d43ee5287e94d77c" title=" " alt="" coords="251,234,439,275"/>
+<area shape="rect" id="node3" href="$db/df5/a02534.html#a710a3efef2f7f20bdaf15c311edb9650" title="Returns the coefficient of the leading term." alt="" coords="496,110,703,151"/>
+<area shape="rect" id="node9" href="$d4/d57/a02882.html#ad3cfcf94157d7500aaf0a66f5ea7d86c" title=" " alt="" coords="251,169,439,210"/>
+<area shape="rect" id="node10" href="$db/df5/a02534.html#a2f6524b8552fc389eafd79a6302ecd4a" title="Check if the polynomial is constant." alt="" coords="496,45,703,86"/>
+<area shape="rect" id="node12" href="$db/df5/a02534.html#a58267603fefed5001f241d883d743610" title="Checks whether only one variable occurs." alt="" coords="241,461,448,502"/>
+<area shape="rect" id="node13" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="808,628,908,655"/>
+<area shape="rect" id="node19" href="$d4/d57/a02882.html#a17a7e7510c4be945ae4398b07d420042" title=" " alt="" coords="251,578,439,619"/>
+<area shape="rect" id="node20" href="$d3/d41/a02530.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="247,875,442,917"/>
+<area shape="rect" id="node21" href="$dc/db6/a01212.html#a73e8440453b0ada4b1cf4c5197bf862d" title=" " alt="" coords="259,810,431,851"/>
+<area shape="rect" id="node37" href="$dc/db6/a01212.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="275,395,415,437"/>
+<area shape="rect" id="node48" href="$dc/db6/a01212.html#ac21bb1811b2cf42b013c9dd32b86f8af" title=" " alt="" coords="246,661,443,688"/>
+<area shape="rect" id="node7" href="$db/df5/a02534.html#a788cea982ff0f00e914b91eee71644f6" title="For a polynomial p, returns p/lc(p)" alt="" coords="496,227,703,269"/>
+<area shape="rect" id="node8" href="$dc/db6/a01212.html#a950ad7b037cc356cc3dc210953f36804" title="Obtain the sign of the given number." alt="" coords="561,176,638,203"/>
+<area shape="rect" id="node4" href="$d2/d83/a02754.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="795,173,921,200"/>
+<area shape="rect" id="node5" href="$db/df5/a02534.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="755,107,961,149"/>
+<area shape="rect" id="node6" href="$db/df5/a02534.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="1013,78,1220,119"/>
+<area shape="rect" id="node11" href="$d2/d83/a02754.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="774,5,942,32"/>
+<area shape="rect" id="node14" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1474,621,1597,662"/>
+<area shape="rect" id="node15" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1665,716,1813,743"/>
+<area shape="rect" id="node17" href="$dc/d5a/a02254.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="1055,621,1178,662"/>
+<area shape="rect" id="node16" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1664,855,1813,881"/>
+<area shape="rect" id="node18" href="$dc/d5a/a02254.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1273,621,1401,662"/>
+<area shape="rect" id="node22" href="$dc/db6/a01212.html#acb9e48799c5668d38831be5b6ba8982c" title=" " alt="" coords="1065,851,1168,877"/>
+<area shape="rect" id="node30" href="$d2/d80/a02874.html#af71027790e679af175d6c9d562d68527" title=" " alt="" coords="511,898,688,939"/>
+<area shape="rect" id="node31" href="$d2/d80/a02874.html#a2f8ca8633f6dfd327590f6ef9013f29e" title=" " alt="" coords="511,963,688,1005"/>
+<area shape="rect" id="node33" href="$d2/d80/a02874.html#ac7830d38b9ce300dcc6ded56bfbece17" title=" " alt="" coords="511,781,688,822"/>
+<area shape="rect" id="node34" href="$dc/db6/a01212.html#a52242f9017e6b88f6007975126c7ad40" title="Counts the number of sign variations in the given object range." alt="" coords="523,729,676,756"/>
+<area shape="rect" id="node35" href="$d2/d80/a02874.html#ace63f33aa0a2ca3987a5c24ceed4800f" title=" " alt="" coords="511,1029,688,1070"/>
+<area shape="rect" id="node23" href="$dc/db6/a01212.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="1299,979,1376,1005"/>
+<area shape="rect" id="node26" href="$dc/db6/a01212.html#a3f0098e50807dbdc3c033a7dd7f64ce7" title=" " alt="" coords="1268,855,1407,881"/>
+<area shape="rect" id="node27" href="$dc/db6/a01212.html#a6ce64aec99b53fea39b96c47924c33fd" title=" " alt="" coords="1298,804,1377,831"/>
+<area shape="rect" id="node24" href="$dc/d5a/a02254.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="1461,971,1609,1013"/>
+<area shape="rect" id="node25" href="$dc/d5a/a02254.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="1461,906,1610,947"/>
+<area shape="rect" id="node28" href="$dc/d5a/a02254.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="1455,687,1616,713"/>
+<area shape="rect" id="node29" href="$dc/d5a/a02254.html#a8d1227b8e2dd9b1e42e0070f69ff55e9" title="Method which returns the empty interval rooted at 0." alt="" coords="1458,738,1613,779"/>
+<area shape="rect" id="node32" href="$d0/dee/a02870.html#aaf817cb23d2d5771d7b477af6730d35d" title=" " alt="" coords="751,973,965,1000"/>
+<area shape="rect" id="node36" href="$d2/d80/a02874.html#a82f09ad4565063dfed6d330a242303f8" title=" " alt="" coords="769,1029,947,1070"/>
+<area shape="rect" id="node38" href="$db/df5/a02534.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="496,293,703,334"/>
+<area shape="rect" id="node40" href="$dc/db6/a01212.html#a98df826da90dc24a6e5254f13df7b057" title=" " alt="" coords="559,476,639,503"/>
+<area shape="rect" id="node45" href="$db/df5/a02534.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="496,410,703,451"/>
+<area shape="rect" id="node46" href="$dc/db6/a01212.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="542,359,657,385"/>
+<area shape="rect" id="node39" href="$d2/d83/a02754.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="778,292,938,319"/>
+<area shape="rect" id="node41" href="$dc/db6/a01212.html#ae0d525094e8ca4f57347d606e8ce40fa" title="Get the bit size of the representation of a integer." alt="" coords="809,460,907,487"/>
+<area shape="rect" id="node42" href="$dd/deb/a02766.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="1023,503,1210,545"/>
+<area shape="rect" id="node43" href="$dd/deb/a02766.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="765,562,951,603"/>
+<area shape="rect" id="node44" href="$dd/deb/a02766.html#a9392daa40b9085e09ed2cfe20c44fd2a" title=" " alt="" coords="765,394,951,435"/>
+<area shape="rect" id="node47" href="$d8/d9c/a02070.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="767,343,949,369"/>
+<area shape="rect" id="node49" href="$dc/db6/a01212.html#a0a7b1c21762f6b6b2dea7127d1812f16" title="Computes the sturm sequence of two polynomials." alt="" coords="519,679,680,705"/>
+<area shape="rect" id="node50" href="$dc/db6/a01212.html#ae3d7d6656ab362001ff43fcb07743d94" title="Calculate the remainder of the integer division." alt="" coords="797,679,919,705"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="smtrat::vs::State::simplify" name="smtrat::vs::State::simplify">
+<area shape="rect" id="node1" title="Cleans up all conditions in this state according to comparison between the corresponding constraints." alt="" coords="5,290,144,331"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#abcf5606aec48263312dec2eb163af628" title="Adds a conflict set to the map of substitutions to conflict sets." alt="" coords="223,64,361,106"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a583087aa1f530895efd62f803f8d46af" title=" " alt="" coords="458,6,597,47"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a729495c59b8cb26bba4f2b1f121eba20" title=" " alt="" coords="215,130,369,171"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a67023ea495c49778f68ec5a047f6c950" title=" " alt="" coords="192,195,392,236"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a04d470c750ffb4c56d3d90ba07b86efb" title=" " alt="" coords="207,260,377,302"/>
+<area shape="rect" id="node8" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#accb184c0177f9925a4d1d35601d67333" title=" " alt="" coords="203,326,381,353"/>
+<area shape="rect" id="node9" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09e850d5fd674de1644036c9b1cbf256" title=" " alt="" coords="223,378,361,419"/>
+<area shape="rect" id="node10" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a6633865b3b2f34e5951064edb26e0e71" title=" " alt="" coords="205,443,379,484"/>
+<area shape="rect" id="node11" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a3fa096922a648fe8b0c873fd06a65944" title=" " alt="" coords="207,508,377,550"/>
+<area shape="rect" id="node12" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa5b12ff53a2c47b9d6c1660a355f77f8" title=" " alt="" coords="213,574,371,615"/>
+<area shape="rect" id="node4" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#afdceb3218d044c7e6eb0c5e82f82c74b" title=" " alt="" coords="440,71,615,112"/>
+</map>

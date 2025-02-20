@@ -1,0 +1,13 @@
+<map id="smtrat::mcsat::variableordering::detail::abstract_feature" name="smtrat::mcsat::variableordering::detail::abstract_feature">
+<area shape="rect" id="node1" title=" " alt="" coords="724,235,952,276"/>
+<area shape="rect" id="node2" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a72cb99d80fb08dc077fcf95ed0f3e167" title=" " alt="" coords="444,5,672,47"/>
+<area shape="rect" id="node3" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a3e7552770173ec13eb442ea5afa37018" title=" " alt="" coords="444,71,672,112"/>
+<area shape="rect" id="node4" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a038a25a4ad7cbfa4a4b00d78d699d0b3" title="The maximum degree of this variable." alt="" coords="444,136,672,177"/>
+<area shape="rect" id="node5" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a97ec49f4426b0006c0d0494843408e7b" title=" " alt="" coords="440,201,676,243"/>
+<area shape="rect" id="node6" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a2fe02572bdd963f3e54a65d5f5d9d349" title="The maximum total degree of a term involving this variable." alt="" coords="443,267,673,308"/>
+<area shape="rect" id="node7" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#affaa7adcd719eae757324a95c8cc9754" title=" " alt="" coords="444,332,672,373"/>
+<area shape="rect" id="node10" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a4cb27c2d61cdd8a27d82f8f9539e719b" title=" " alt="" coords="444,397,672,439"/>
+<area shape="rect" id="node11" href="$de/db9/namespacesmtrat_1_1mcsat_1_1variableordering_1_1detail.html#a50db63425ba4c70400c865d488365445" title=" " alt="" coords="444,463,672,504"/>
+<area shape="rect" id="node8" href="$d9/d6a/namespacesmtrat_1_1covering__ng_1_1variables_1_1impl.html#ad9bf96fb0582c729f7d91ec98297087d" title="Calculates a variable ordering based on the given quantifier blocks and the given formula." alt="" coords="232,325,392,381"/>
+<area shape="rect" id="node9" href="$df/d41/namespacesmtrat_1_1covering__ng_1_1variables.html#a6963f15926c78f37764b837f2040ac5b" title=" " alt="" coords="5,325,184,381"/>
+</map>

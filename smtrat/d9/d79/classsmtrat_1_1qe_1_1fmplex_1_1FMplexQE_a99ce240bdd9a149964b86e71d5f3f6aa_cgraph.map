@@ -1,0 +1,6 @@
+<map id="smtrat::qe::fmplex::FMplexQE::collect_constraint" name="smtrat::qe::fmplex::FMplexQE::collect_constraint">
+<area shape="rect" id="node1" title="truncates the given row to not contain any &quot;origin&quot; information and inserts the result into the set o..." alt="" coords="5,5,152,61"/>
+<area shape="rect" id="node2" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#ab19d6a8a238a80d5c32bb35ea0e4574b" title=" " alt="" coords="200,13,392,54"/>
+<area shape="rect" id="node3" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a847f06adc2f9e8b667f3df8449839b88" title=" " alt="" coords="440,5,600,61"/>
+<area shape="rect" id="node4" href="$d6/d34/structsmtrat_1_1qe_1_1util_1_1VariableIndex.html#a05c2a262a8f4b99223e88e0dbe30061b" title=" " alt="" coords="648,13,827,54"/>
+</map>

@@ -1,0 +1,149 @@
+\_form#0=19x9:$>=$
+\_form#1=13x6:$m$
+\_form#2=44x14:$C_{rcv}(m)$
+\_form#3=8x9:$\varphi$
+\_form#4=106x14:$C_{inf}(m)\subseteq C_{rcv}(m)$
+\_form#5=44x14:$C_{pas}(m)$
+\_form#6=63x14:$T:=(V, E)$
+\_form#7=10x10:$V$
+\_form#8=110x13:$E\subseteq V\times \Omega\times\Sigma\times V$
+\_form#9=9x10:$\Omega$
+\_form#10=9x10:$\Sigma$
+\_form#11=96x14:$\Sigma=\{1,\ \ldots,\ |E|\}$
+\_form#12=33x14:$C_{input}$
+\_form#13=18x9:$m_r$
+\_form#14=100x14:$C_{rcv}(m_r) = C_{input}$
+\_form#15=38x11:$m\in V$
+\_form#16=53x14:$(\sigma, m, m')$
+\_form#17=10x13:$Q$
+\_form#18=91x14:$(m, \omega, \sigma, m')\in E$
+\_form#19=9x6:$\omega$
+\_form#20=8x9:$p$
+\_form#21=15x10:$m'$
+\_form#22=109x14:$C_{rcv}(m') = C_{pas}(m)$
+\_form#23=68x14:$\varphi \in C_{pas}(m)$
+\_form#24=119x14:$R_1,\ldots, R_n \subseteq C_{rcv}(m)$
+\_form#25=13x13:$R_i$
+\_form#26=104x14:$C_{pas}(SATModule)$
+\_form#27=174x11:\[c_0:x\leq0,\ c_1:x\geq 0,\ c_2:x=0\]
+\_form#28=10x9:$c_0$
+\_form#29=10x9:$c_1$
+\_form#30=10x9:$c_2$
+\_form#31=51x11:$c_2:x=0$
+\_form#32=108x14:\[c_2\ \mapsto\ (c_0 \land c_1,\ c_2).\]
+\_form#33=456x104:\[ \begin{array}{rccccccccccccc} p &\quad ::=\quad & a & | & b & | & x & | & (p + p) & | & (p \cdot p) & | & (p^e) \\ v &\quad ::=\quad & u & | & x \\ s &\quad ::=\quad & f(v,\ldots,v) & | & u & | & x \\ e &\quad ::=\quad & s = s \\ c &\quad ::=\quad & p = 0 & | & p < 0 & | & p \leq 0 & | & p > 0 & | & p \geq 0 & | & p \neq 0 \\ \varphi &\quad ::=\quad & c & | & (\neg \varphi) & | & (\varphi\land\varphi) & | & (\varphi\lor\varphi) & | & (\varphi\rightarrow\varphi) & | \\ && (\varphi\leftrightarrow\varphi) & | & (\varphi\oplus\varphi) \end{array} \]
+\_form#34=6x6:$a$
+\_form#35=5x6:$e$
+\_form#36=5x10:$b$
+\_form#37=8x6:$x$
+\_form#38=8x13:$f$
+\_form#39=23x14:$o(f)$
+\_form#40=9x6:$u$
+\_form#41=5x6:$c$
+\_form#42=359x16:\[(\neg b\ \land\ x^2-y<0\ \land\ 4x+y-8y^7=0 )\ \rightarrow\ (\neg(x^2-y<0)\ \lor\ b ),\]
+\_form#43=8x9:$y$
+\_form#44=116x14:\[v = f(u,u)\ \oplus\ w \neq u\]
+\_form#45=8x6:$v$
+\_form#46=10x6:$w$
+\_form#47=9x10:$S$
+\_form#48=10x9:$T$
+\_form#49=31x11:$T^{S\times S}$
+\_form#50=8x9:$\land$
+\_form#51=8x9:$\lor$
+\_form#52=9x6:$n$
+\_form#53=8x4:$\neg$
+\_form#54=309x34:\[a_1\overbrace{x_{1,1}^{e_{1,1}}\cdot\ldots\cdot x_{1,k_1}^{e_{1,k_1}}}^{m_1}+\ldots+a_n\overbrace{x_{n,1}^{e_{n,1}}\cdot\ldots\cdot x_{n,k_n}^{e_{n,k_n}}}^{m_n}\ + \ d\ \sim \ 0\]
+\_form#55=31x11:$n\geq0$
+\_form#56=5x9:$i$
+\_form#57=10x9:$a_i$
+\_form#58=19x13:$\neq 0$
+\_form#59=6x10:$d$
+\_form#60=21x10:$x_{i,j_i}$
+\_form#61=19x10:$e_{i,j_i}$
+\_form#62=51x11:$1\leq i\leq n$
+\_form#63=59x13:$1\leq j_i\leq k_i$
+\_form#64=60x14:$x_{i,j_i}\neq x_{i,l_i}$
+\_form#65=34x13:$j_i\neq l_i$
+\_form#66=71x13:$1\leq j_i, l_i\leq k_i$
+\_form#67=56x14:$m_{i_1}\neq m_{i_2}$
+\_form#68=36x13:$i_1\neq i_2$
+\_form#69=73x11:$1\leq i_1,i_2\leq n$
+\_form#70=8x9:$0$
+\_form#71=9x4:$\sim$
+\_form#72=9x4:$=$
+\_form#73=9x9:$<$
+\_form#74=74x13:$a_1,\ldots,\ a_n,\ d$
+\_form#75=5x9:$1$
+\_form#76=215x26:\[\frac{a_1}{g}\cdot m_1\ +\ \ldots\ +\ \frac{a_n}{g}\cdot m_n\ + \ d'\ \sim' \ 0,\]
+\_form#77=8x9:$g$
+\_form#78=56x9:$a_1,\ldots,\ a_n$
+\_form#79=131x46:\[\sim'=\left\{ \begin{array}{ll} \leq, &\text{ if }\sim\text{ is }< \\ \geq, &\text{ if }\sim\text{ is }> \\ \sim, &\text{ otherwise } \end{array} \right.\]
+\_form#80=141x54:\[ d' = \left\{ \begin{array}{ll} \lceil\frac{d}{g}\rceil &\text{ if }\sim'\text{ is }\leq \\ \lfloor\frac{d}{g}\rfloor &\text{ if }\sim'\text{ is }\geq \\ \frac{d}{g} &\text{ otherwise } \end{array} \right.\]
+\_form#81=8x19:$\frac{d}{g}$
+\_form#82=13x9:$\sim'$
+\_form#83=30x10:$0<0$
+\_form#84=9x13:$\neq$
+\_form#85=30x9:$0=0$
+\_form#86=36x11:$x^3=0$
+\_form#87=31x9:$x=0$
+\_form#88=36x14:$x^2\leq 0$
+\_form#89=36x11:$x^2=0$
+\_form#90=195x14:$ \{ leading_coeff(p), discriminant(p) \} $
+\_form#91=198x16:$ \bigcup_{B \in RED(p)} \{ ldcf(B) \} \cup PSC(B, B') $
+\_form#92=200x16:$ \bigcup_{B_1 \in RED(p), B_2 \in RED(q)} PSC(B_1, B_2) $
+\_form#93=120x16:$ \bigcup_{F \in RED(p)} PSC(F, q) $
+\_form#94=291x14:$ \{ leading_coeff(p), trailing_coeff(p), discriminant(p) \} $
+\_form#95=201x14:$ coefficients(p) \cup \{ discriminant(p) \} $
+\_form#96=91x14:$ \{ resultant(p, q) \} $
+\_form#97=30x13:$ e \land \varphi' $
+\_form#98=5x6:$ e $
+\_form#99=11x13:$ \varphi' $
+\_form#100=29x9:$ x = t $
+\_form#101=8x6:$ x $
+\_form#102=5x9:$ t $
+\_form#103=24x9:$ true $
+\_form#104=53x11:$ x \geq y + z $
+\_form#105=20x9:$ y,z $
+\_form#106=9x13:$ \neq $
+\_form#107=30x11:$p \sim 0$
+\_form#108=120x14:$\sim \in \{ =, \neq, \geq, >, \leq, < \}$
+\_form#109=6x9:$q$
+\_form#110=45x9:$p = q \cdot r$
+\_form#111=20x14:$q(b)$
+\_form#112=44x11:$q \cdot r \sim 0$
+\_form#113=44x14:$q(b) > 0$
+\_form#114=44x14:$q(b) \geq 0$
+\_form#115=44x14:$q(b) = 0$
+\_form#116=44x14:$q(b) < 0$
+\_form#117=44x14:$q(b) \leq 0$
+\_form#118=34x9:$p := r$
+\_form#119=99x13:$f := q=0 \vee r=0$
+\_form#120=34x11:$p := 0$
+\_form#121=99x13:$f := q>0 \wedge r \neq 0$
+\_form#122=99x13:$f := q<0 \wedge r \neq 0$
+\_form#123=9x11:$\geq$
+\_form#124=99x13:$f := q=0 \vee r \geq 0$
+\_form#125=54x11:$c := r \leq 0$
+\_form#126=99x13:$f := q=0 \vee r \leq 0$
+\_form#127=9x9:$>$
+\_form#128=99x13:$f := q>0 \wedge r>0$
+\_form#129=54x10:$c := r<0$
+\_form#130=99x13:$f := q<0 \wedge r<0$
+\_form#131=9x11:$\leq$
+\_form#132=54x11:$c := r \geq 0$
+\_form#133=99x13:$f := q>0 \wedge r<0$
+\_form#134=54x10:$c := r>0$
+\_form#135=99x13:$f := q<0 \wedge r>0$
+\_form#136=36x13:$p := p'$
+\_form#137=58x13:$c := p' \sim 0$
+\_form#138=38x13:$f := f'$
+\_form#139=11x9:$p_i$
+\_form#140=64x18:$p = \prod_{i=1}^k p_i$
+\_form#141=13x14:$P_q$
+\_form#142=13x13:$P_r$
+\_form#143=63x16:$q = \prod_{t \in P_q} t$
+\_form#144=56x15:$r = \prod_{t \in P_r}$
+\_form#145=3x3:$\cdot$
+\_form#146=9x11:$ \leq $
+\_form#147=9x11:$ \geq $
+\_form#148=9x4:$ = $

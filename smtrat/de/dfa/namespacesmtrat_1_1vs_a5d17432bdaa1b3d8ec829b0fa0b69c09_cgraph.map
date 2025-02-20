@@ -1,0 +1,10 @@
+<map id="smtrat::vs::substituteInf" name="smtrat::vs::substituteInf">
+<area shape="rect" id="node1" title=" " alt="" coords="5,123,184,149"/>
+<area shape="rect" id="node2" href="$de/dfa/namespacesmtrat_1_1vs.html#a911fce3f0cd9cb26aedda71156221c90" title=" " alt="" coords="274,5,422,32"/>
+<area shape="rect" id="node4" href="$de/dfa/namespacesmtrat_1_1vs.html#a3337b7cd5eb82a4ceabd83f7b0702ad6" title="Applies the given substitution to the given constraint, where the substitution is of the form [x &#45;&gt; +..." alt="" coords="259,57,437,98"/>
+<area shape="rect" id="node6" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a74c4006dbd14742413c5675ef1c05b58" title=" " alt="" coords="512,147,687,189"/>
+<area shape="rect" id="node7" href="$de/dfa/namespacesmtrat_1_1vs.html#a6b158a282f908d3583e2928aae6c1b36" title="Deals with the case, that the left hand side of the constraint to substitute is not a trivial polynom..." alt="" coords="256,174,440,215"/>
+<area shape="rect" id="node8" href="$de/dfa/namespacesmtrat_1_1vs.html#aeba1bfa00d86777d9e7dc71da63598c1" title="Deals with the case, that the left hand side of the constraint to substitute is a trivial polynomial ..." alt="" coords="232,240,464,267"/>
+<area shape="rect" id="node3" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="537,5,662,32"/>
+<area shape="rect" id="node5" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#afdceb3218d044c7e6eb0c5e82f82c74b" title=" " alt="" coords="512,57,687,98"/>
+</map>

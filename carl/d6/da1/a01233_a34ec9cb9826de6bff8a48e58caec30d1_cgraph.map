@@ -1,0 +1,12 @@
+<map id="carl::divide" name="carl::divide">
+<area shape="rect" id="node1" title=" " alt="" coords="5,101,100,127"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="148,5,343,47"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a26949d97442e59bac3353498d2c17d93" title=" " alt="" coords="198,71,293,98"/>
+<area shape="rect" id="node9" href="$dc/db6/a01212.html#a0afd13ffb079bbb402362a18138b5e17" title="Asserts that this polynomial over numeric coefficients complies with the requirements and assumptions..." alt="" coords="148,123,343,164"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#a9d54ed3853631a633e6a994f49b1d655" title="Retrieves the main variable of this polynomial." alt="" coords="148,188,343,229"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="599,21,725,47"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a64f6d2e32b05ab6591f3577583a8c3be" title="Checks whether a term is zero." alt="" coords="421,71,521,98"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="391,122,551,149"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="615,71,709,98"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="773,64,980,105"/>
+</map>

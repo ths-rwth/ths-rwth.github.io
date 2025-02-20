@@ -1,0 +1,9 @@
+<map id="smtrat::generateAbsFormula" name="smtrat::generateAbsFormula">
+<area shape="rect" id="node1" title="| x1 | = (and (=&gt; (x1 &gt;= 0) (y1 = x1)) (=&gt; (x1 &lt; 0) (y1 = &#45;x1)) )" alt="" coords="720,111,928,138"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#a7fc82e7706084979a8bde64e38d0d7dd" title=" " alt="" coords="468,5,667,47"/>
+<area shape="rect" id="node5" href="$de/dc5/namespacesmtrat.html#aea49e91894e1eace9a2e90c019edf14d" title=" " alt="" coords="463,71,672,112"/>
+<area shape="rect" id="node6" href="$de/dc5/namespacesmtrat.html#a2939b5c190f62661574e5f9b843375d1" title=" " alt="" coords="469,136,666,177"/>
+<area shape="rect" id="node7" href="$de/dc5/namespacesmtrat.html#ade882a41016d02801388397697356fce" title="| x1 | &lt;= | x1 | = (and (=&gt; (x1 &gt;= 0) (y1 = x1)) (=&gt; (x1 &lt; 0) (y1 = &#45;x1)) (=&gt; (x2 &gt;= 0) (y2 = x2)) (=..." alt="" coords="463,202,671,229"/>
+<area shape="rect" id="node3" href="$de/dc5/namespacesmtrat.html#a20d9097d9f1e658b11fdf3ba0453fb31" title=" " alt="" coords="216,78,415,105"/>
+<area shape="rect" id="node4" href="$d1/db1/classsmtrat_1_1AxiomFactory.html#a4c19eef40462623f35ac76f6b4f0786a" title=" " alt="" coords="5,71,168,112"/>
+</map>

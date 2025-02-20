@@ -1,0 +1,4 @@
+var structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1LDB__COVERING__CACHE_01_4 =
+[
+    [ "compute", "dc/def/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1LDB__COVERING__CACHE_01_4.html#a221e4733df8ed7687a76259f627e435f", null ]
+];

@@ -1,0 +1,5 @@
+<map id="carl::FLOAT_T::FLOAT_T" name="carl::FLOAT_T::FLOAT_T">
+<area shape="rect" id="node1" title="Default empty constructor, which initializes to zero." alt="" coords="231,31,404,57"/>
+<area shape="rect" id="node2" href="$da/db3/a02343.html#a19c6e8da1994daa21736dfa42bbc8363" title="Function required for extension of Eigen3 with FLOAT_T as a custom type which calculates the imaginar..." alt="" coords="9,5,179,32"/>
+<area shape="rect" id="node3" href="$da/db3/a02343.html#a6352ba5d4a351b52c74f54e3c4d5fda2" title="Operator for unary negation of this number." alt="" coords="5,56,183,83"/>
+</map>

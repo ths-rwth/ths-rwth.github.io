@@ -1,0 +1,11 @@
+<map id="smtrat::IntEqModule::checkCore" name="smtrat::IntEqModule::checkCore">
+<area shape="rect" id="node1" title="Checks the received formula for consistency." alt="" coords="5,123,160,164"/>
+<area shape="rect" id="node2" href="$d9/d9c/namespacesmtrat_1_1lra.html#a6f07c38ecba22454ac6d5c59cee8f1e1" title="Calculates the absolute value of the given Numeric." alt="" coords="261,13,383,39"/>
+<area shape="rect" id="node4" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#aa2682a2723c615a142ca75e69f9e7234" title=" " alt="" coords="208,64,436,105"/>
+<area shape="rect" id="node5" href="$d6/d0b/namespaceMinisat.html#ad12020b5bf6befcbd2ed73d63cbc26ee" title=" " alt="" coords="269,130,375,157"/>
+<area shape="rect" id="node6" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="250,181,394,223"/>
+<area shape="rect" id="node9" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="511,247,610,274"/>
+<area shape="rect" id="node3" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#a123d57c87eba110786852a222651a1f1" title=" " alt="" coords="484,5,637,47"/>
+<area shape="rect" id="node7" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="485,116,637,157"/>
+<area shape="rect" id="node8" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="489,181,633,223"/>
+</map>

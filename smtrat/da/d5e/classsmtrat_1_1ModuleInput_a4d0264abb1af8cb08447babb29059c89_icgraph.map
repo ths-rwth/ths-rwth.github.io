@@ -1,0 +1,6 @@
+<map id="smtrat::ModuleInput::gatherVariables" name="smtrat::ModuleInput::gatherVariables">
+<area shape="rect" id="node1" title=" " alt="" coords="519,35,673,76"/>
+<area shape="rect" id="node2" href="$d6/def/classsmtrat_1_1CNFerModule.html#afbf31e434a97a17b8676cd6def0d6c39" title="Checks the received formula for consistency." alt="" coords="262,5,422,47"/>
+<area shape="rect" id="node3" href="$de/dc5/namespacesmtrat.html#a980a6b2789f418ffd5fd259bcb33fe50" title="Creates the estimated model." alt="" coords="213,71,471,98"/>
+<area shape="rect" id="node4" href="$d3/de4/classsmtrat_1_1NRAILModule.html#a87574c628c48daa804f15eeb236baccd" title="Checks the received formula for consistency." alt="" coords="5,64,165,105"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="smtrat::qe::fmplex::FMplexQE::split_into_independent_nodes" name="smtrat::qe::fmplex::FMplexQE::split_into_independent_nodes">
+<area shape="rect" id="node1" title="Splits the given node into multiple nodes that are independent in the following sense:" alt="" coords="5,190,169,246"/>
+<area shape="rect" id="node2" href="$d5/db9/structsmtrat_1_1qe_1_1fmplex_1_1Node.html#a319998011ca713859ad08e6fd608de19" title=" " alt="" coords="217,59,416,100"/>
+<area shape="rect" id="node3" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#ad1a36900efa08c13f95f3871c9c2640f" title=" " alt="" coords="464,5,632,47"/>
+<area shape="rect" id="node4" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a211dd757d30404bb960b0db37351d798" title=" " alt="" coords="464,80,632,121"/>
+<area shape="rect" id="node5" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a61929e943e74b17a3fcc40bd4380ffd8" title=" " alt="" coords="464,164,632,205"/>
+<area shape="rect" id="node6" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a791a9b346654b328f3db8a1a1666212e" title=" " alt="" coords="233,227,401,268"/>
+<area shape="rect" id="node7" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#adff08b0296a4fac4a004548c37cf169c" title=" " alt="" coords="233,292,401,333"/>
+<area shape="rect" id="node9" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a98d1007875074ed3be72c5f977032754" title=" " alt="" coords="233,357,401,399"/>
+<area shape="rect" id="node11" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#ad96e2f546c3c9e71136267d5271c0f19" title=" " alt="" coords="233,423,401,464"/>
+<area shape="rect" id="node8" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#aa136f257b606fac4914f7a3f5ade433d" title=" " alt="" coords="464,292,632,333"/>
+<area shape="rect" id="node10" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a32dc294d7a22c4cdfc74c3d9c8390165" title=" " alt="" coords="464,357,632,399"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="smtrat::vs::State::addConflictSet" name="smtrat::vs::State::addConflictSet">
+<area shape="rect" id="node1" title="Adds a conflict set to the map of substitutions to conflict sets." alt="" coords="467,136,605,177"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac76830e243392cac2bd5a274b6fa404e" title="Checks whether the test candidate of this state is valid against the variable intervals in the father..." alt="" coords="192,5,419,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="236,71,375,112"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae3e52230c1a3dbc92d034cad806c08fb" title="Checks whether there are no zeros for the left&#45;hand side of the constraint of the given condition." alt="" coords="208,136,403,177"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="228,201,383,243"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a62b7ab69457edac098cce1101c5a4530" title="Cleans up all conditions in this state according to comparison between the corresponding constraints." alt="" coords="236,267,375,308"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="5,267,144,308"/>
+</map>

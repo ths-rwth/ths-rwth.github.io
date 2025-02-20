@@ -1,0 +1,27 @@
+<map id="carl::Variable::type" name="carl::Variable::type">
+<area shape="rect" id="node1" title="Retrieves the type of the variable." alt="" coords="741,405,885,431"/>
+<area shape="rect" id="node2" href="$d0/d71/a02329.html#a323de1c287dc0bb3ec4d2c8770b03c16" title=" " alt="" coords="504,5,685,47"/>
+<area shape="rect" id="node4" href="$d4/d78/a03677.html#a6846b60050b9ede262b0816790807e3e" title=" " alt="" coords="513,71,676,112"/>
+<area shape="rect" id="node5" href="$df/de9/a02153.html#a257975ed5e0865c26eb4d4f3e3c4bb61" title=" " alt="" coords="523,136,666,177"/>
+<area shape="rect" id="node6" href="$d2/da0/a02149.html#ac370bc810b22cb2c7c9469bb4d2a85eb" title="Clears everything already created in this pool." alt="" coords="527,201,662,243"/>
+<area shape="rect" id="node8" href="$d7/d52/a02337.html#ae10384534dea0d2fea062cf173af9b46" title=" " alt="" coords="520,267,669,308"/>
+<area shape="rect" id="node9" href="$de/d33/a01274.html#aa8efcbaed19defcf70e4c2dbedce37b2" title=" " alt="" coords="505,332,685,373"/>
+<area shape="rect" id="node10" href="$d1/ddd/a03693.html#a56505db8f5066f48aaaca325322bb6e4" title="Declare a fresh variable via declare&#45;fun." alt="" coords="510,397,679,439"/>
+<area shape="rect" id="node11" href="$d2/da0/a02149.html#a42ad87c3c524a030765d9822aa57098d" title="Get a human&#45;readable name for the given variable." alt="" coords="527,463,662,504"/>
+<area shape="rect" id="node14" href="$d5/d32/a01214.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="77,538,131,565"/>
+<area shape="rect" id="node20" href="$d8/db0/a01243.html#a3f582b840b36974248cf551ce69b4f32" title=" " alt="" coords="521,580,669,621"/>
+<area shape="rect" id="node21" href="$d4/dfb/a02341.html#a4db4b7509c56628823d89b5823c4d59a" title=" " alt="" coords="496,645,693,687"/>
+<area shape="rect" id="node24" href="$d5/d88/a02141.html#a17c9fddcf5a9a11308f9dbb90eca0c53" title="Retrieves a unique name of the variable of the form &lt;type&gt;&lt;id&gt;." alt="" coords="501,711,688,738"/>
+<area shape="rect" id="node25" href="$d5/d88/a02141.html#a715fb5fe92b58d53ded8a2fdfd21efe4" title="Private constructor to be used by the VariablePool." alt="" coords="511,762,679,789"/>
+<area shape="rect" id="node3" href="$d0/d71/a02329.html#ab6c0c1e1cd1ab72b5fc50e95e0064f95" title="Evaluates this solution formula for the given mapping of the variables occurring in the solution form..." alt="" coords="259,5,440,47"/>
+<area shape="rect" id="node7" href="$d2/da0/a02149.html#aa574be87ddd9413e9de30af62ce535bd" title="Private default constructor." alt="" coords="282,201,417,243"/>
+<area shape="rect" id="node12" href="$da/d3b/a03641.html#a425fafd34f98550bcf8e0f1c69d50375" title=" " alt="" coords="252,357,447,399"/>
+<area shape="rect" id="node13" href="$d5/d88/a02141.html#ace553270faf6182cfd4088a99c9a3f7f" title="Retrieves the name of the variable." alt="" coords="273,423,425,450"/>
+<area shape="rect" id="node19" href="$dd/df1/a03397.html#a64c5b4a32c242a60cb74d0161b079fb6" title=" " alt="" coords="257,474,441,501"/>
+<area shape="rect" id="node15" href="$d7/dc5/a01242.html#a2e9f238156da627dcd0c27b47ae0e2f1" title="Streaming operator for Variable." alt="" coords="39,290,169,317"/>
+<area shape="rect" id="node16" href="$d4/d35/a03617.html#a7d16590a8a8918571be2873c2eb35309" title=" " alt="" coords="23,341,185,383"/>
+<area shape="rect" id="node17" href="$d3/d4a/a03689.html#a4ec224241c701741c84f85c43f9ffb1f" title=" " alt="" coords="17,407,191,448"/>
+<area shape="rect" id="node18" href="$d1/ddd/a03693.html#a8ac533c78eab9489f1151882234d5b1d" title=" " alt="" coords="19,472,189,513"/>
+<area shape="rect" id="node22" href="$d4/dfb/a02341.html#a2f25f60aaa327ed2e492ee0261199ecd" title=" " alt="" coords="251,645,448,687"/>
+<area shape="rect" id="node23" href="$d4/dfb/a02341.html#a12243e6bf41327089e8d3a7936bcd621" title="Evaluate this contraction over the given assignment." alt="" coords="5,645,203,687"/>
+</map>

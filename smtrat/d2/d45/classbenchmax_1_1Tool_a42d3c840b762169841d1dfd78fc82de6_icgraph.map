@@ -1,0 +1,8 @@
+<map id="benchmax::Tool::name" name="benchmax::Tool::name">
+<area shape="rect" id="node1" title="Common name of this tool." alt="" coords="515,78,684,105"/>
+<area shape="rect" id="node2" href="$df/d62/classbenchmax_1_1SMTRAT.html#af37ed5ea56529c8b06ffe0cd50b6ab85" title="Computes the answer string from the exit code and parses statistics output." alt="" coords="244,5,467,47"/>
+<area shape="rect" id="node3" href="$dd/d42/classbenchmax_1_1SMTRAT__Analyzer.html#a7ccc6ab1cff9d12f6cf329428314e985" title="Computes the answer string from the exit code and parses statistics output." alt="" coords="248,71,463,112"/>
+<area shape="rect" id="node4" href="$d4/d9f/classbenchmax_1_1Backend.html#a0b1d17aba472f2352a9b17c2e2cd0b93" title="Add a result." alt="" coords="275,136,436,177"/>
+<area shape="rect" id="node5" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a33cf24e7711867083fbc3e719f40d32e" title=" " alt="" coords="5,103,196,144"/>
+<area shape="rect" id="node6" href="$df/d9e/classbenchmax_1_1LocalBackend.html#a1f281d9c286668778466d51cfa1fb17e" title="Execute the tool on the file manually." alt="" coords="7,168,194,209"/>
+</map>

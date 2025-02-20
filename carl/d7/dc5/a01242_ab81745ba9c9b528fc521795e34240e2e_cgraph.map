@@ -1,0 +1,7 @@
+<map id="carl::is_at_most_linear" name="carl::is_at_most_linear">
+<area shape="rect" id="node1" title="Checks whether the monomial has at most degree one." alt="" coords="5,31,175,57"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#a368f083629ffcf99ef50bf7fd3090265" title="Checks whether the monomial has at most degree one." alt="" coords="223,5,392,32"/>
+<area shape="rect" id="node5" href="$da/d7d/a02785.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="227,56,387,83"/>
+<area shape="rect" id="node3" href="$d7/dc5/a01242.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="440,5,576,32"/>
+<area shape="rect" id="node4" href="$dc/d1d/a02713.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="624,5,780,32"/>
+</map>

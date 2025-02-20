@@ -1,0 +1,5 @@
+<map id="carl::UFInstanceManager::newUFInstance" name="carl::UFInstanceManager::newUFInstance">
+<area shape="rect" id="node1" title="Tries to add the given uninterpreted function instance&#39;s content to the so far stored uninterpreted f..." alt="" coords="237,35,421,76"/>
+<area shape="rect" id="node2" href="$d1/d5e/a03502.html#a4b62d8b8bbaa4dd13450c839d456b873" title="Gets the uninterpreted function instance with the given name, domain, arguments and codomain." alt="" coords="5,5,189,47"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a51eae67aa3487b42faa17ca8ea649e93" title="Gets the uninterpreted function instance with the given name, domain, arguments and codomain." alt="" coords="20,71,175,98"/>
+</map>

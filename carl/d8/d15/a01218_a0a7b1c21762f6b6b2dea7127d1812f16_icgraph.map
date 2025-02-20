@@ -1,0 +1,11 @@
+<map id="carl::sturm_sequence" name="carl::sturm_sequence">
+<area shape="rect" id="node1" title="Computes the sturm sequence of two polynomials." alt="" coords="496,132,657,159"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#ae73a1af390927f2918e2430de9d6d6a9" title="Count the number of real roots of p within the given interval using Sturm sequences." alt="" coords="268,5,431,32"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#af84e5cb03c9b9390ebd461f67b92d741" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="294,56,405,83"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#ab211ba1072a80f45e2039707ec2b67d4" title=" " alt="" coords="311,107,388,133"/>
+<area shape="rect" id="node5" href="$d8/d15/a01218.html#a5f2501f6b7439c8baa0391a22786023b" title="Computes the sturm sequence of a polynomial as defined at , page 333, example 22." alt="" coords="269,157,430,184"/>
+<area shape="rect" id="node6" href="$d8/d15/a01218.html#ac21bb1811b2cf42b013c9dd32b86f8af" title=" " alt="" coords="251,208,448,235"/>
+<area shape="rect" id="node9" href="$df/de1/a02844.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="267,259,431,301"/>
+<area shape="rect" id="node7" href="$d4/d04/a02888.html#a0d668f381c18fa52c494107c58065da3" title=" " alt="" coords="10,171,198,213"/>
+<area shape="rect" id="node8" href="$d8/d15/a01218.html#aefa8e0f210795a9a3106a4d1bce829ec" title=" " alt="" coords="5,237,203,264"/>
+</map>

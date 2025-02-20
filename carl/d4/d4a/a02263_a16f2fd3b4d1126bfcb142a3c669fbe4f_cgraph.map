@@ -1,0 +1,7 @@
+<map id="carl::Interval::set_upper_bound_type" name="carl::Interval::set_upper_bound_type">
+<area shape="rect" id="node1" title="The setter for the upper bound type of the interval." alt="" coords="5,27,155,69"/>
+<area shape="rect" id="node2" href="$d4/d4a/a02263.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="203,5,351,32"/>
+<area shape="rect" id="node3" href="$d4/d4a/a02263.html#a23394ab441faabae38563e829b83ea9c" title="The setter for the upper boundary of the interval." alt="" coords="211,57,343,98"/>
+<area shape="rect" id="node4" href="$d4/d4a/a02263.html#a83393b0f5cbda008018e5722740d9d50" title="Advanced setter to modify both boundaries at once." alt="" coords="399,64,531,91"/>
+<area shape="rect" id="node5" href="$d4/d4a/a02263.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="579,64,740,91"/>
+</map>

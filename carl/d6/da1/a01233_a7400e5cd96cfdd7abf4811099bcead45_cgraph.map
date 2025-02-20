@@ -1,0 +1,13 @@
+<map id="carl::divide" name="carl::divide">
+<area shape="rect" id="node1" title="Calculating the quotient and the remainder, such that for a given polynomial p we have p = divisor * ..." alt="" coords="5,157,100,184"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a64f6d2e32b05ab6591f3577583a8c3be" title="Checks whether a term is zero." alt="" coords="433,237,533,264"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#af716ddd074dd7a443647e6da6ed728ed" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="148,51,355,92"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="148,116,355,158"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#aa3c95cc57ba22c850a88fc80cc21c8f2" title="Drops the leading term." alt="" coords="148,182,355,223"/>
+<area shape="rect" id="node9" href="$d1/d34/a01211.html#a5e572c9d7e1844778a965a766c116a1f" title="Subtract a term times a polynomial from this polynomial." alt="" coords="148,247,355,288"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a14bbf8da48feb9ba71b1e9108f1f8bfc" title=" " alt="" coords="192,313,311,340"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="611,288,737,314"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="627,237,721,264"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="785,230,992,271"/>
+<area shape="rect" id="node11" href="$d1/d34/a01211.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="403,338,563,365"/>
+</map>

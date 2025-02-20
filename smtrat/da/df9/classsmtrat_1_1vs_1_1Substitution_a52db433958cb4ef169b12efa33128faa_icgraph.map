@@ -1,0 +1,6 @@
+<map id="smtrat::vs::Substitution::rOriginalConditions" name="smtrat::vs::Substitution::rOriginalConditions">
+<area shape="rect" id="node1" title=" " alt="" coords="457,39,632,80"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad9d891684d67c8aeb241a53098bcef2b" title="Removes everything in this state originated by the given vector of conditions." alt="" coords="231,5,370,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac7a64f4c15d97d5f811737fcea8e086e" title="Updates the original conditions of substitutions having the same test candidate as the given." alt="" coords="192,71,409,112"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa4e25abeb10a5b63464fec9bb054a420" title="Adds a state as child to this state with the given substitution." alt="" coords="5,71,144,112"/>
+</map>

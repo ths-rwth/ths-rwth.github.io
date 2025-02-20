@@ -1,0 +1,4 @@
+<map id="carl::to_int" name="carl::to_int">
+<area shape="rect" id="node1" title="Casts the FLOAT_T to an arbitrary integer type which has a constructor for a native int." alt="" coords="5,5,96,32"/>
+<area shape="rect" id="node2" href="$d2/da6/a02339.html#a8e0ff0d4391f8ac31435984e8050e221" title="Getter for the raw value contained." alt="" coords="144,5,297,32"/>
+</map>

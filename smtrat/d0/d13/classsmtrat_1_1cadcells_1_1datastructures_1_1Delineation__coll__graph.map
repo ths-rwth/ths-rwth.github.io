@@ -1,0 +1,13 @@
+<map id="smtrat::cadcells::datastructures::Delineation" name="smtrat::cadcells::datastructures::Delineation">
+<area shape="rect" id="node1" title="Represents the delineation of a set of polynomials (at a sample), that is." alt="" coords="196,525,424,567"/>
+<area shape="rect" id="node2" title=" " alt="" coords="189,421,431,463"/>
+<area shape="rect" id="node3" title=" " alt="" coords="134,325,185,351"/>
+<area shape="rect" id="node4" title=" " alt="" coords="209,317,411,359"/>
+<area shape="rect" id="node5" href="$dd/d4e/structsmtrat_1_1cadcells_1_1datastructures_1_1TaggedIndexedRoot.html" title=" " alt="" coords="5,213,233,255"/>
+<area shape="rect" id="node6" href="$d7/dda/structsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRoot.html" title="Represents the i&#45;th root of a multivariate polynomial at its main variable (given an appropriate samp..." alt="" coords="5,109,233,151"/>
+<area shape="rect" id="node7" href="$d1/d23/structsmtrat_1_1cadcells_1_1datastructures_1_1PolyRef.html" title="Refers to a polynomial." alt="" coords="5,5,233,47"/>
+<area shape="rect" id="node8" title=" " alt="" coords="257,221,387,247"/>
+<area shape="rect" id="node9" title=" " alt="" coords="351,117,389,143"/>
+<area shape="rect" id="node10" title=" " alt="" coords="424,221,559,247"/>
+<area shape="rect" id="node11" title=" " alt="" coords="495,117,533,143"/>
+</map>

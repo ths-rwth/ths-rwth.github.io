@@ -1,0 +1,8 @@
+<map id="benchmax::settings_core" name="benchmax::settings_core">
+<area shape="rect" id="node1" title="Retrieved core settings." alt="" coords="512,71,697,98"/>
+<area shape="rect" id="node2" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a33cf24e7711867083fbc3e719f40d32e" title=" " alt="" coords="273,5,464,47"/>
+<area shape="rect" id="node3" href="$de/dcc/benchmax_8cpp.html#a3ea057c6f49e14c089d66ed675437e1c" title="Initialized the application." alt="" coords="307,71,430,98"/>
+<area shape="rect" id="node5" href="$db/da2/classbenchmax_1_1SlurmBackend.html#ae2164830134b6a51e80567d1e3383809" title=" " alt="" coords="273,123,464,164"/>
+<area shape="rect" id="node4" href="$de/dcc/benchmax_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main program." alt="" coords="88,71,143,98"/>
+<area shape="rect" id="node6" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a8e934ea372ec8227610385f308b9f420" title="Run all tools on all benchmarks using Slurm." alt="" coords="5,130,225,157"/>
+</map>

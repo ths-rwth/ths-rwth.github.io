@@ -1,0 +1,4 @@
+<map id="smtrat::union_find::initialize" name="smtrat::union_find::initialize">
+<area shape="rect" id="node1" title="Initialize the union&#45;find datastructure with an array of new_size default&#45;constructed entries,..." alt="" coords="193,5,333,47"/>
+<area shape="rect" id="node2" href="$d8/d47/classsmtrat_1_1union__find.html#a3e83071a7e7cb541fc225922484af4a4" title="Construct union&#45;find datastructure with an array of size_ default&#45;constructed elements." alt="" coords="5,5,145,47"/>
+</map>

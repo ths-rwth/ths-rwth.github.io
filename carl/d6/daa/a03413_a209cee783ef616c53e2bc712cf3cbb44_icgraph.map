@@ -1,0 +1,52 @@
+<map id="carl::Formula::is_nary" name="carl::Formula::is_nary">
+<area shape="rect" id="node1" title=" " alt="" coords="1285,329,1448,356"/>
+<area shape="rect" id="node2" href="$d6/daa/a03413.html#a0f16d51315438dc9ee1cb6951f952cea" title=" " alt="" coords="1064,77,1215,104"/>
+<area shape="rect" id="node3" href="$dd/d39/a01271.html#a11ca97d11b7cd21d771432a2d541bd8e" title="[Auxiliary method]" alt="" coords="755,187,981,229"/>
+<area shape="rect" id="node10" href="$d6/daa/a03413.html#ac7ddb7da295e722bdf3f1c45f3fd1fd1" title=" " alt="" coords="1070,128,1209,155"/>
+<area shape="rect" id="node13" href="$d6/daa/a03413.html#a6c21f29113898645ba9df96e327a9c94" title=" " alt="" coords="1061,405,1217,432"/>
+<area shape="rect" id="node14" href="$d6/daa/a03413.html#a76faef192d6beac76397dabebaa625fb" title=" " alt="" coords="1067,456,1211,483"/>
+<area shape="rect" id="node15" href="$d6/daa/a03413.html#a6052f4236f00b93b4c6c949eba4c7194" title=" " alt="" coords="1041,355,1237,381"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#ae5348ec0d0b3073c97a0d0ce99b96026" title="Converts the given formula to CNF." alt="" coords="289,72,384,99"/>
+<area shape="rect" id="node6" href="$d4/d0e/a01272.html#ada7ee1423bb4e90d63c19f339822c1c0" title="Converts an OR to cnf." alt="" coords="515,35,667,77"/>
+<area shape="rect" id="node7" href="$d7/dc5/a01242.html#a123081a99e9a8112b9a5c1a2ace74f4c" title=" " alt="" coords="543,203,638,229"/>
+<area shape="rect" id="node8" href="$d7/dc5/a01242.html#aa5c6b0b11517cec1915fcd2669e7d371" title=" " alt="" coords="543,253,638,280"/>
+<area shape="rect" id="node5" href="$d8/d13/a03609.html#adacbe6f985dfafd6acb3be1cb94686fb" title=" " alt="" coords="5,65,187,106"/>
+<area shape="rect" id="node9" href="$d7/dc5/a01242.html#a317d4abe08728d5325d1a5f4a4230f6b" title="Transforms this formula to its equivalent in prenex normal form." alt="" coords="289,304,384,331"/>
+<area shape="rect" id="node11" href="$d6/daa/a03413.html#afd0135b2bf586c722f000ebdf2d00a7d" title=" " alt="" coords="795,56,941,83"/>
+<area shape="rect" id="node12" href="$d6/daa/a03413.html#a47f0a9c8c703792b35d1a4771878b853" title=" " alt="" coords="783,5,953,32"/>
+<area shape="rect" id="node16" href="$d8/dbe/a03521.html#a86d4c0d11d0f421ef1f619f9812cc36b" title=" " alt="" coords="768,406,968,447"/>
+<area shape="rect" id="node18" href="$d7/dc5/a01242.html#a2756a8ed3035cc21bef009668699312c" title=" " alt="" coords="795,355,941,381"/>
+<area shape="rect" id="node20" href="$d7/dc5/a01242.html#a76de9f14da53a3e8a519eb0e169d06f5" title="Resolves the outermost negation of this formula." alt="" coords="785,119,951,145"/>
+<area shape="rect" id="node21" href="$de/d85/a01273.html#a85ca89601959bc0697376cef124091ad" title=" " alt="" coords="743,472,993,499"/>
+<area shape="rect" id="node23" href="$d7/dc5/a01242.html#a8d40fe175f6a1861da8daa35403639a2" title="Recursively calls func on every subformula." alt="" coords="827,924,909,951"/>
+<area shape="rect" id="node46" href="$d7/dc5/a01242.html#ae96351310a8ead78a16bf37793796e55" title="Recursively calls func on every subformula and return a new formula." alt="" coords="805,975,931,1001"/>
+<area shape="rect" id="node48" href="$d4/d35/a03617.html#a4ed7eb770970d7d4b07042f38a73aed0" title=" " alt="" coords="787,1026,949,1067"/>
+<area shape="rect" id="node49" href="$d3/d4a/a03689.html#a1120dc829866e6cc21dea71b002ce04c" title=" " alt="" coords="781,1091,955,1133"/>
+<area shape="rect" id="node50" href="$d1/ddd/a03693.html#a9f87754766e47da1adb320a8a37f9e77" title=" " alt="" coords="783,1157,953,1198"/>
+<area shape="rect" id="node17" href="$d8/dbe/a03521.html#ae430738372ce97aa3b6a4e6b41d8e2e7" title=" " alt="" coords="487,406,695,447"/>
+<area shape="rect" id="node19" href="$d7/dc5/a01242.html#a8e1c470a4b90eea09071b4641bce2d65" title=" " alt="" coords="517,304,664,331"/>
+<area shape="rect" id="node22" href="$d7/dc5/a01242.html#a0ea49fdbb441dcaed3f504e69023eb2f" title="Substitutes all variables from a model within a formula." alt="" coords="504,472,677,499"/>
+<area shape="rect" id="node24" href="$d7/dc5/a01242.html#a96d4ccdb4e0316e6b6d96243cebf0cfb" title="Collects all constraint occurring in this formula." alt="" coords="491,1092,691,1119"/>
+<area shape="rect" id="node25" href="$d7/dc5/a01242.html#a82bbe848b7b7967833e58c2e3fc2ae79" title=" " alt="" coords="501,1143,680,1169"/>
+<area shape="rect" id="node26" href="$d9/d74/a03477.html#a34c9cdd5ab2fe35bd48115750edc6d18" title=" " alt="" coords="504,1193,677,1220"/>
+<area shape="rect" id="node28" href="$d7/d7b/a03593.html#a8fcb10487efed8b453b31f958011159e" title=" " alt="" coords="502,1361,679,1388"/>
+<area shape="rect" id="node30" href="$d7/dc5/a01242.html#abc3d0b90eac3e6823b8ef06ca9502a0a" title=" " alt="" coords="527,1244,654,1271"/>
+<area shape="rect" id="node31" href="$d9/d9d/a03417.html#a3829060c3212142519acb18f15a45bd7" title=" " alt="" coords="506,1295,675,1337"/>
+<area shape="rect" id="node32" href="$d7/d7b/a03593.html#a528a13e5fbb8eae749626b0663bf09ea" title=" " alt="" coords="514,873,667,900"/>
+<area shape="rect" id="node34" href="$dd/d8e/a03377.html#a7573ed9efa7e96b164323f7fadb76d81" title=" " alt="" coords="513,1413,668,1454"/>
+<area shape="rect" id="node35" href="$d7/d7b/a03593.html#a2dbb8c2f17ec232e8240f19db7212a7e" title=" " alt="" coords="505,1479,676,1505"/>
+<area shape="rect" id="node36" href="$d7/d7b/a03593.html#ad84d0eb891e4aeb4a3fe9b568c0c69ee" title=" " alt="" coords="487,1529,694,1556"/>
+<area shape="rect" id="node37" href="$de/d3a/a03597.html#ae08d76e0da2c11d72f16e88871478d85" title=" " alt="" coords="505,523,676,565"/>
+<area shape="rect" id="node38" href="$d7/dc5/a01242.html#ad31d6aa26d350ddfc198d5ffb65d9885" title=" " alt="" coords="531,589,651,616"/>
+<area shape="rect" id="node39" href="$d7/dc5/a01242.html#a9a3242a7adf296c42f9dd9a5da3afa81" title="Output a std::variant with arbitrary content." alt="" coords="525,640,656,667"/>
+<area shape="rect" id="node40" href="$d7/dc5/a01242.html#a47d55a67e4e969148330c73e1b063716" title=" " alt="" coords="525,691,656,717"/>
+<area shape="rect" id="node41" href="$d7/dc5/a01242.html#a5c21f3259bf85a9896432f942797b4eb" title=" " alt="" coords="519,742,662,783"/>
+<area shape="rect" id="node42" href="$d7/dc5/a01242.html#ab56a0e840c52d2e987e337d8c1120c63" title=" " alt="" coords="519,807,662,849"/>
+<area shape="rect" id="node43" href="$d7/dc5/a01242.html#aed2182e57f8ddfdd9d910976b41d891c" title=" " alt="" coords="533,924,648,951"/>
+<area shape="rect" id="node44" href="$d9/d74/a03477.html#ae9467725c66bbbdf8587597f1576e374" title=" " alt="" coords="507,975,674,1001"/>
+<area shape="rect" id="node45" href="$d1/ddd/a03693.html#a706e2dee5140a43d6370b35e714ea6ba" title=" " alt="" coords="506,1026,675,1067"/>
+<area shape="rect" id="node27" href="$d9/d74/a03477.html#a9ebbebc63a6a5e6edc31b45a316e9268" title=" " alt="" coords="235,1193,439,1220"/>
+<area shape="rect" id="node29" href="$d9/d54/a03537.html#a24961780f8af6bee93996a70ea6eef5b" title=" " alt="" coords="238,1361,435,1388"/>
+<area shape="rect" id="node33" href="$d9/d54/a03537.html#a6e8828a549a55b40dd0673488e0c1ccc" title="Constructs an uninterpreted equality." alt="" coords="243,873,430,900"/>
+<area shape="rect" id="node47" href="$d7/dc5/a01242.html#a5009bd3bff3aa43c8f7733bcf44ca418" title=" " alt="" coords="531,1580,650,1607"/>
+</map>

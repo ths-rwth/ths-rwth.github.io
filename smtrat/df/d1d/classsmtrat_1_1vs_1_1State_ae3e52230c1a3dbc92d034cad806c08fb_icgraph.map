@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::hasRootsInVariableBounds" name="smtrat::vs::State::hasRootsInVariableBounds">
+<area shape="rect" id="node1" title="Checks whether there are no zeros for the left&#45;hand side of the constraint of the given condition." alt="" coords="261,5,456,47"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#aef417e2757b66a5eb4c3a569e7884882" title="Eliminates the given variable by finding test candidates of the constraint of the given condition." alt="" coords="5,13,213,39"/>
+</map>

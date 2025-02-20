@@ -1,0 +1,8 @@
+<map id="smtrat::vs::State::pSubstitution" name="smtrat::vs::State::pSubstitution">
+<area shape="rect" id="node1" title=" " alt="" coords="467,103,605,144"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac1e77041136f5ac4f2e067a184865822" title="Adds a constraint to the conditions of this state." alt="" coords="236,37,375,79"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac76830e243392cac2bd5a274b6fa404e" title="Checks whether the test candidate of this state is valid against the variable intervals in the father..." alt="" coords="192,103,419,144"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="228,168,383,209"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="5,71,144,112"/>
+</map>

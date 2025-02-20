@@ -1,0 +1,10 @@
+<map id="carl::Reductor::Reductor" name="carl::Reductor::Reductor">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,184,53"/>
+<area shape="rect" id="node2" href="$db/d6d/a02239.html#afa27dbe57cdb1348491fbc2b104cf4b3" title=" " alt="" coords="232,27,389,53"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="437,27,537,53"/>
+<area shape="rect" id="node4" href="$d1/d0c/a02251.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="932,53,1055,94"/>
+<area shape="rect" id="node5" href="$d1/d0c/a02251.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1103,5,1251,32"/>
+<area shape="rect" id="node7" href="$d1/d0c/a02251.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="585,78,708,119"/>
+<area shape="rect" id="node6" href="$d1/d0c/a02251.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1103,60,1252,87"/>
+<area shape="rect" id="node8" href="$d1/d0c/a02251.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="756,78,884,119"/>
+</map>

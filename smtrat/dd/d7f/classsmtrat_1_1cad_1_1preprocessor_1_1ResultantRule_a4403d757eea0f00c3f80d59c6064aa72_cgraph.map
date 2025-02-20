@@ -1,0 +1,11 @@
+<map id="smtrat::cad::preprocessor::ResultantRule::compute" name="smtrat::cad::preprocessor::ResultantRule::compute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,193,80"/>
+<area shape="rect" id="node2" href="$dd/d7f/classsmtrat_1_1cad_1_1preprocessor_1_1ResultantRule.html#a3615d0c563a2a5d16fc69910bfb76a74" title=" " alt="" coords="544,5,732,47"/>
+<area shape="rect" id="node5" href="$dd/d7f/classsmtrat_1_1cad_1_1preprocessor_1_1ResultantRule.html#a60e4de8b717fa8dc7dc86aaecdb0d1c2" title=" " alt="" coords="241,68,496,109"/>
+<area shape="rect" id="node3" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="782,5,969,47"/>
+<area shape="rect" id="node4" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="1019,13,1144,39"/>
+<area shape="rect" id="node6" href="$db/d11/structsmtrat_1_1cad_1_1preprocessor_1_1Origins.html#a06a4dc464749d3dedda8c6dde548de9c" title=" " alt="" coords="544,71,732,112"/>
+<area shape="rect" id="node7" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a391a9f68fa5ee4e488ee00847b69ac8f" title="Computes the resultant of two polynomials." alt="" coords="553,136,723,177"/>
+<area shape="rect" id="node8" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="791,103,960,144"/>
+<area shape="rect" id="node9" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#ae78f1ba02e35a73db902d0714ea7f1c6" title=" " alt="" coords="780,168,971,209"/>
+</map>

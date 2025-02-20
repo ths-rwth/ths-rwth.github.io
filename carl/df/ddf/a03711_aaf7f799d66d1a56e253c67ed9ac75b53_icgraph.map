@@ -1,0 +1,7 @@
+<map id="carl::settings::SettingsParser::warn_for_unrecognized_option" name="carl::settings::SettingsParser::warn_for_unrecognized_option">
+<area shape="rect" id="node1" title="Prints a warning if an option was unrecognized. Can be overridden." alt="" coords="747,31,968,87"/>
+<area shape="rect" id="node2" href="$df/ddf/a03711.html#ad728c18e9ed65cc2677130b79fb106ee" title="Checks for unrecognized options that were found." alt="" coords="477,39,699,80"/>
+<area shape="rect" id="node3" href="$df/ddf/a03711.html#adbefb46716d52b81741a221b2f387bde" title="Parses the command line." alt="" coords="220,5,429,47"/>
+<area shape="rect" id="node5" href="$df/ddf/a03711.html#a6cfc3b92528d9e57d88520444796913e" title="Parses the config file if one was configured." alt="" coords="235,71,414,112"/>
+<area shape="rect" id="node4" href="$df/ddf/a03711.html#a01c01fafdb9c4ae7f0f9744d08ec54d7" title="Parse the options." alt="" coords="5,39,172,80"/>
+</map>

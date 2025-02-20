@@ -1,0 +1,8 @@
+<map id="smtrat::VarSchedulerMinisat" name="smtrat::VarSchedulerMinisat">
+<area shape="rect" id="node1" title="Minisat&#39;s activity&#45;based variable scheduling." alt="" coords="19,421,225,448"/>
+<area shape="rect" id="node2" href="$d5/d1d/classsmtrat_1_1VarSchedulerBase.html" title="Base class for variable schedulers." alt="" coords="5,317,196,344"/>
+<area shape="rect" id="node3" href="$df/d6c/classMinisat_1_1Heap.html" title=" " alt="" coords="221,303,391,359"/>
+<area shape="rect" id="node4" href="$df/d6c/classMinisat_1_1Heap.html" title=" " alt="" coords="216,199,396,225"/>
+<area shape="rect" id="node5" href="$de/dcd/classMinisat_1_1vec.html" title=" " alt="" coords="232,95,380,121"/>
+<area shape="rect" id="node6" href="$de/dcd/classMinisat_1_1vec.html" title=" " alt="" coords="237,5,375,32"/>
+</map>

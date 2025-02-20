@@ -1,0 +1,5 @@
+<map id="smtrat::vs::substituteInfLessGreater" name="smtrat::vs::substituteInfLessGreater">
+<area shape="rect" id="node1" title="Applies the given substitution to the given constraint, where the substitution is of the form [x &#45;&gt; +..." alt="" coords="5,39,184,80"/>
+<area shape="rect" id="node2" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#afdceb3218d044c7e6eb0c5e82f82c74b" title=" " alt="" coords="232,5,407,47"/>
+<area shape="rect" id="node3" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a74c4006dbd14742413c5675ef1c05b58" title=" " alt="" coords="232,71,407,112"/>
+</map>

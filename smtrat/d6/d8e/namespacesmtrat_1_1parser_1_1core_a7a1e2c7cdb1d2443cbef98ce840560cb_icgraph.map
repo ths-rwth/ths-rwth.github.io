@@ -1,0 +1,7 @@
+<map id="smtrat::parser::core::convertTerm" name="smtrat::parser::core::convertTerm">
+<area shape="rect" id="node1" title=" " alt="" coords="496,71,647,112"/>
+<area shape="rect" id="node2" href="$d6/d8e/namespacesmtrat_1_1parser_1_1core.html#ad9f8dae3bef990a315d7c27df4eec78c" title=" " alt="" coords="274,37,425,79"/>
+<area shape="rect" id="node5" href="$da/daf/structsmtrat_1_1parser_1_1CoreTheory.html#a67639691ad611d8c3a2097b8da7e25ca" title="Resolve an if&#45;then&#45;else operator." alt="" coords="251,103,448,144"/>
+<area shape="rect" id="node3" href="$da/daf/structsmtrat_1_1parser_1_1CoreTheory.html#ad6ce2392a2a4bc1cf3ed04b240559e05" title="Resolve another unknown function call." alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node4" href="$da/daf/structsmtrat_1_1parser_1_1CoreTheory.html#ad0d9252855743691e74b30dfed4af58e" title="Resolve a distinct operator." alt="" coords="5,71,203,112"/>
+</map>

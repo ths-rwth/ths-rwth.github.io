@@ -1,0 +1,5 @@
+<map id="smtrat::fixedsize_allocator&lt; void &gt;" name="smtrat::fixedsize_allocator&lt; void &gt;">
+<area shape="rect" id="node1" title="I do not know where an allocator for void would be of any use; but in order to mimic std::allocator (..." alt="" coords="5,171,200,212"/>
+<area shape="rect" id="node2" title=" " alt="" coords="30,95,175,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="83,5,122,32"/>
+</map>

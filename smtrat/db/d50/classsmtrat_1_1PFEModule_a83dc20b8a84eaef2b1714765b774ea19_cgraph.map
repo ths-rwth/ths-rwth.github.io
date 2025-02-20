@@ -1,0 +1,6 @@
+<map id="smtrat::PFEModule::generateVariableAssignments" name="smtrat::PFEModule::generateVariableAssignments">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,223,112"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#a4966e7cbfd19dc31379a053dae95d35b" title="Adds the given formula to the passed formula with no origin." alt="" coords="271,5,499,47"/>
+<area shape="rect" id="node3" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html#a3a5e6a7cdb292199bffd02f7f7bc273a" title="Creates an evalintervalmap corresponding to the variable bounds." alt="" coords="285,71,484,112"/>
+<area shape="rect" id="node4" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html#aed0a1fd8296b52a1338149c89ead39de" title=" " alt="" coords="285,136,484,177"/>
+</map>

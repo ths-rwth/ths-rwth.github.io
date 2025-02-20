@@ -1,0 +1,39 @@
+<map id="carl::lcm" name="carl::lcm">
+<area shape="rect" id="node1" title=" " alt="" coords="5,735,84,762"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#af5dd729b6f9a5bb6abbf84261214ef0b" title=" " alt="" coords="132,735,209,762"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="1287,565,1382,591"/>
+<area shape="rect" id="node32" href="$d6/da1/a01233.html#a96cd07c72b28bef5bbac66f30da58177" title="Calculates the quotient of a polynomial division." alt="" coords="1027,945,1135,971"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#ac661f4e8a790efa60aa3cb94f64cec82" title="Retrieve the constant term of this polynomial or zero, if there is no constant term." alt="" coords="257,903,464,944"/>
+<area shape="rect" id="node4" href="$d7/dbf/a01239.html#a4fea6065a4a0696ca75fac75e7d6ccd2" title=" " alt="" coords="285,533,437,575"/>
+<area shape="rect" id="node13" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="1289,747,1380,774"/>
+<area shape="rect" id="node31" href="$d1/d34/a01211.html#ae8c9cf4c56ae84b2661a9035bd8841b7" title="Check if the polynomial is constant." alt="" coords="257,837,464,879"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a40921232139a1383703e451ea900cf4b" title=" " alt="" coords="541,515,665,542"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#ac2b216eaf8da91b9a816264e3e0a95aa" title="Computes the GCD of two univariate polynomial with coefficients from a unique factorization domain us..." alt="" coords="512,598,695,625"/>
+<area shape="rect" id="node19" href="$d7/dbf/a01239.html#acd5c2994c0f0852ca3b288e27734963e" title=" " alt="" coords="519,180,687,221"/>
+<area shape="rect" id="node6" href="$d7/d73/a01266.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="769,463,911,490"/>
+<area shape="rect" id="node7" href="$dd/da8/a03523.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="991,391,1172,432"/>
+<area shape="rect" id="node8" href="$d9/d65/a03215.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="986,456,1177,497"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a01ac9cb767d10987a195fe8a8701be36" title="The content of a polynomial is the gcd of the coefficients of the normal part of a polynomial." alt="" coords="1030,685,1133,711"/>
+<area shape="rect" id="node17" href="$dc/db6/a01212.html#af408f5a70ab4d41596882ac19e757425" title="The normal part of a polynomial is the polynomial divided by the unit part." alt="" coords="743,619,937,660"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#ace1a47f6aa4103ee2d421fa561e13877" title="The primitive part of p is the normal part of p divided by the content of p." alt="" coords="767,567,913,594"/>
+<area shape="rect" id="node11" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="1237,681,1432,723"/>
+<area shape="rect" id="node12" href="$dc/db6/a01212.html#a2999abb724e57d411690d76e2598c2b3" title="Checks whether the polynomial is unit normal." alt="" coords="1237,616,1432,657"/>
+<area shape="rect" id="node14" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="1492,921,1699,963"/>
+<area shape="rect" id="node15" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="1492,740,1699,781"/>
+<area shape="rect" id="node20" href="$d6/da1/a01233.html#a9e12491561bd080f9cf41abe12546611" title="Intersects two intervals in a set&#45;theoretic manner." alt="" coords="761,187,919,214"/>
+<area shape="rect" id="node27" href="$d6/da1/a01233.html#a8215a604fc693189ab2161942a85a6d2" title="Add the variables of the given monomial to the variables." alt="" coords="783,107,897,134"/>
+<area shape="rect" id="node21" href="$d5/d73/a02423.html#abccdf63161e8de9c1a496680b1c503ed" title="A quick check for the bound values." alt="" coords="985,187,1177,214"/>
+<area shape="rect" id="node24" href="$d5/d73/a02423.html#af91ba23a0d6a89c96cdd0759ded90298" title=" " alt="" coords="987,238,1176,265"/>
+<area shape="rect" id="node25" href="$d5/d73/a02423.html#a34b42e2a84d680190d30d9beff11a8cc" title=" " alt="" coords="986,137,1177,163"/>
+<area shape="rect" id="node22" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1261,187,1409,214"/>
+<area shape="rect" id="node23" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1260,238,1409,265"/>
+<area shape="rect" id="node26" href="$d5/d73/a02423.html#a5ff744c1668b51981f0b169fd9cd41a2" title="The getter for the lower bound type of the interval." alt="" coords="1225,137,1444,163"/>
+<area shape="rect" id="node28" href="$d6/d19/a02007.html#a9df560421a3fdbadf68035f008e8b9c7" title=" " alt="" coords="996,78,1167,105"/>
+<area shape="rect" id="node29" href="$d7/d98/a02003.html#abfedf1dcbc7eb5d6df23dcf5ea0477e4" title=" " alt="" coords="1263,5,1406,47"/>
+<area shape="rect" id="node30" href="$d6/d19/a02007.html#ab22291bd03f45a207ab29ec8bb0aa2f7" title=" " alt="" coords="1265,71,1404,112"/>
+<area shape="rect" id="node33" href="$d1/d34/a01211.html#aa13c5f6ad05544c3d2560ecbc7e8f53d" title=" " alt="" coords="1231,980,1438,1021"/>
+<area shape="rect" id="node34" href="$d1/d34/a01211.html#af716ddd074dd7a443647e6da6ed728ed" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="1231,1097,1438,1139"/>
+<area shape="rect" id="node35" href="$d1/d34/a01211.html#a688b16a4d60518728edece4a089cc8c0" title=" " alt="" coords="1231,1163,1438,1204"/>
+<area shape="rect" id="node36" href="$d1/d34/a01211.html#aa3c95cc57ba22c850a88fc80cc21c8f2" title="Drops the leading term." alt="" coords="1231,849,1438,891"/>
+<area shape="rect" id="node37" href="$d1/d34/a01211.html#a5e572c9d7e1844778a965a766c116a1f" title="Subtract a term times a polynomial from this polynomial." alt="" coords="1231,915,1438,956"/>
+</map>

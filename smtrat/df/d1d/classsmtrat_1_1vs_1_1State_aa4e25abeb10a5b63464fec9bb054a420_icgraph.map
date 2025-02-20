@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::addChild" name="smtrat::vs::State::addChild">
+<area shape="rect" id="node1" title="Adds a state as child to this state with the given substitution." alt="" coords="261,5,400,47"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#aef417e2757b66a5eb4c3a569e7884882" title="Eliminates the given variable by finding test candidates of the constraint of the given condition." alt="" coords="5,13,213,39"/>
+</map>

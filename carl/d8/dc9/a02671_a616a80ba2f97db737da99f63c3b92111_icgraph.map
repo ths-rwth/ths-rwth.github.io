@@ -1,0 +1,5 @@
+<map id="carl::DiophantineEquations::solveMultivariateDiophantine" name="carl::DiophantineEquations::solveMultivariateDiophantine">
+<area shape="rect" id="node1" title="Solve in the domain Z_(p^k)[x_!,...,x_v] the multivariate polynomial diophantine equation sigma_1 * b..." alt="" coords="496,5,719,47"/>
+<area shape="rect" id="node2" href="$d8/dc9/a02671.html#a187a097a5e5283781b543202e6be25a1" title=" " alt="" coords="251,5,448,47"/>
+<area shape="rect" id="node3" href="$d8/dc9/a02671.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="5,5,203,47"/>
+</map>

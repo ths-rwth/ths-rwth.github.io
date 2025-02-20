@@ -1,0 +1,4 @@
+<map id="smtrat::cadcells::datastructures::DelineatedDerivation&lt; Properties &gt;" name="smtrat::cadcells::datastructures::DelineatedDerivation&lt; Properties &gt;">
+<area shape="rect" id="node1" title="A DelineatedDerivation is a BaseDerivation with a Delineation and an underlying SampledDerivation." alt="" coords="5,109,271,151"/>
+<area shape="rect" id="node2" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html" title="Represents the delineation of a set of polynomials (at a sample), that is." alt="" coords="24,5,252,47"/>
+</map>

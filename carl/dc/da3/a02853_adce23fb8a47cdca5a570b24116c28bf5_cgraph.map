@@ -1,0 +1,24 @@
+<map id="carl::ran::interval::RealRootIsolation::update_root_bounds" name="carl::ran::interval::RealRootIsolation::update_root_bounds">
+<area shape="rect" id="node1" title="Use root bounds to shrink mInterval." alt="" coords="5,154,168,210"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#ad39ad79b773b9e5c6f397c629c751127" title=" " alt="" coords="216,278,368,305"/>
+<area shape="rect" id="node18" href="$d7/dc5/a01242.html#a9e12491561bd080f9cf41abe12546611" title="Intersects two intervals in a set&#45;theoretic manner." alt="" coords="885,67,1044,94"/>
+<area shape="rect" id="node3" href="$d7/dc5/a01242.html#a2621c3f57bc93187374da1f40c0afd67" title="Method which returns the absolute value of the passed number." alt="" coords="475,453,552,479"/>
+<area shape="rect" id="node5" href="$d1/d67/a02561.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="416,271,611,312"/>
+<area shape="rect" id="node6" href="$d1/d67/a02561.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="416,336,611,377"/>
+<area shape="rect" id="node7" href="$d8/d44/a02485.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="426,402,601,429"/>
+<area shape="rect" id="node8" href="$d7/dc5/a01242.html#a27f538cfe45145c285bc67d66c882f7f" title=" " alt="" coords="449,118,577,145"/>
+<area shape="rect" id="node10" href="$d7/dc5/a01242.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="463,219,563,246"/>
+<area shape="rect" id="node16" href="$d1/d67/a02561.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="416,504,611,545"/>
+<area shape="rect" id="node17" href="$d7/dc5/a01242.html#a4fd1d78fcbf18091e1998be458e7157e" title=" " alt="" coords="456,169,571,195"/>
+<area shape="rect" id="node4" href="$d0/d80/a02281.html#ace798498657175679c31f1213f37e340" title="Calculates the absolute value of the interval." alt="" coords="681,453,815,479"/>
+<area shape="rect" id="node9" href="$d9/dfe/a02649.html#a18ff5ebfd5c74e48865b6815a9d69df6" title=" " alt="" coords="659,111,837,152"/>
+<area shape="rect" id="node11" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1105,184,1228,225"/>
+<area shape="rect" id="node12" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1290,191,1438,218"/>
+<area shape="rect" id="node14" href="$d0/d80/a02281.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="687,176,809,217"/>
+<area shape="rect" id="node13" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1289,71,1439,98"/>
+<area shape="rect" id="node15" href="$d0/d80/a02281.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="901,125,1029,167"/>
+<area shape="rect" id="node19" href="$d0/d80/a02281.html#a419f459b6179b9d18124a2c2b802d3c3" title=" " alt="" coords="1093,119,1241,160"/>
+<area shape="rect" id="node21" href="$d0/d80/a02281.html#ae1453cadc09e4729614396e815feef89" title=" " alt="" coords="1092,53,1241,95"/>
+<area shape="rect" id="node20" href="$d0/d80/a02281.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="1290,123,1438,164"/>
+<area shape="rect" id="node22" href="$d0/d80/a02281.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="1289,5,1439,47"/>
+</map>

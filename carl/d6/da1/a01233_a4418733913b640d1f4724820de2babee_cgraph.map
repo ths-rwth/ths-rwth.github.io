@@ -1,0 +1,20 @@
+<map id="carl::realRootsThom" name="carl::realRootsThom">
+<area shape="rect" id="node1" title=" " alt="" coords="5,201,159,227"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a7515a8e9ba04cc780873dd186c4264a0" title=" " alt="" coords="207,95,401,136"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#adce5c998a6357ae47df2a18d0bfbda0b" title="Checks if the polynomial is equal to zero." alt="" coords="207,160,401,201"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a9d54ed3853631a633e6a994f49b1d655" title="Retrieves the main variable of this polynomial." alt="" coords="207,225,401,267"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#ad3f1d8c71d2a3433a43b832ed7138d85" title=" " alt="" coords="227,291,381,318"/>
+<area shape="rect" id="node6" href="$db/da5/a02919.html#a14890f94f89470634c8875c1a5a8f583" title=" " alt="" coords="466,71,653,112"/>
+<area shape="rect" id="node9" href="$d1/d34/a01211.html#a390ef87395dac609c335304753c220b1" title="Calculates the degree of this polynomial with respect to the given variable." alt="" coords="717,136,924,177"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a7d966bc50ac65ad95230ac2c4873006f" title=" " alt="" coords="522,190,597,217"/>
+<area shape="rect" id="node13" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="485,241,633,267"/>
+<area shape="rect" id="node14" href="$d5/d73/a02423.html#a5ff744c1668b51981f0b169fd9cd41a2" title="The getter for the lower bound type of the interval." alt="" coords="450,291,669,318"/>
+<area shape="rect" id="node15" href="$d3/d07/a01241.html#a04a1c5b7dd6634e40342a8cf6d3f03a8" title="Reverses the order of the coefficients of this polynomial." alt="" coords="461,343,658,384"/>
+<area shape="rect" id="node16" href="$d6/d1a/a02895.html#a026be2f3674ba919c427ad5e7efca3e1" title=" " alt="" coords="471,408,647,449"/>
+<area shape="rect" id="node17" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="485,474,634,501"/>
+<area shape="rect" id="node18" href="$d5/d73/a02423.html#a65a2d0faa7ec9c7bb8b43b35a41b434e" title="The getter for the upper bound type of the interval." alt="" coords="449,525,669,551"/>
+<area shape="rect" id="node7" href="$db/da5/a02919.html#acff61181b981fa16649b4964919614be" title=" " alt="" coords="745,5,896,47"/>
+<area shape="rect" id="node8" href="$db/da5/a02919.html#a90d677ff1c3bb73da50da56a9e194f88" title=" " alt="" coords="745,71,896,112"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a0c0448ac4cee24dd4f080db6241a21de" title="Computes the n&#39;th derivative of a number, which is either the number itself (for n = 0) or zero." alt="" coords="761,202,881,229"/>
+<area shape="rect" id="node12" href="$d2/d11/a02647.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="972,202,1147,229"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="smtrat::cadcells::datastructures::Projections::degree" name="smtrat::cadcells::datastructures::Projections::degree">
+<area shape="rect" id="node1" title=" " alt="" coords="1477,623,1705,665"/>
+<area shape="rect" id="node2" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a59623bb0dc6c4cb618afd85c5bb8f408" title=" " alt="" coords="1200,381,1429,422"/>
+<area shape="rect" id="node17" href="$df/d3b/classsmtrat_1_1cadcells_1_1representation_1_1approximation_1_1ApxCriteria.html#a52d527057dda9ded860195b6790e6cbf" title=" " alt="" coords="1200,536,1429,592"/>
+<area shape="rect" id="node21" href="$df/d3b/classsmtrat_1_1cadcells_1_1representation_1_1approximation_1_1ApxCriteria.html#a93fb51dd17db005670027d06b1728d48" title=" " alt="" coords="1200,616,1429,672"/>
+<area shape="rect" id="node23" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a47e94f6229fb31a55ececcaadaf212a0" title=" " alt="" coords="1200,697,1429,738"/>
+<area shape="rect" id="node25" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#ae416b614a851f0f727c14b34f0a4553b" title=" " alt="" coords="1217,762,1413,803"/>
+<area shape="rect" id="node3" href="$d1/d92/namespacesmtrat_1_1cadcells_1_1representation.html#aca5ba0e6e145a612d1ca3028a16650c1" title=" " alt="" coords="626,133,855,174"/>
+<area shape="rect" id="node7" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#afdc6d74fbf1c14a03efc2f5486acbc09" title=" " alt="" coords="916,381,1145,422"/>
+<area shape="rect" id="node4" href="$d3/dde/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__EQ_01_4.html#adfef76d16a726bf548eb0e4bcd359c6f" title=" " alt="" coords="311,85,570,141"/>
+<area shape="rect" id="node5" href="$d6/df4/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS_01_4.html#a449b2eac24cbc773dccfc1d18cf7f7a4" title=" " alt="" coords="323,165,558,221"/>
+<area shape="rect" id="node6" href="$dd/d8e/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__EW_01_4.html#ac68d776519726d68b22a8cabc112818a" title=" " alt="" coords="309,5,572,61"/>
+<area shape="rect" id="node8" href="$d2/d4f/classsmtrat_1_1cadcells_1_1representation_1_1approximation_1_1CellApproximator.html#a7bec2a29da2ee6ce0a66eacd0db16ee5" title=" " alt="" coords="317,565,564,621"/>
+<area shape="rect" id="node10" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a851857b1d96e4deafe59bf2d3cb67866" title=" " alt="" coords="626,333,855,374"/>
+<area shape="rect" id="node15" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#af78c3d657ec6fe826dcee35024b3799a" title=" " alt="" coords="626,267,855,309"/>
+<area shape="rect" id="node16" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#ad3c20ee52956061b3e86182b99487d09" title=" " alt="" coords="626,413,855,454"/>
+<area shape="rect" id="node9" href="$d2/dfe/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL__APPROXIMATION_01_4.html#ad8b39a4b124da6ba1e82b752a2d087ea" title=" " alt="" coords="5,528,261,584"/>
+<area shape="rect" id="node11" href="$dc/dc7/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1CHAIN__COVERING_01_4.html#ab2dd79652929e574d217c9cce93740a1" title=" " alt="" coords="326,405,555,461"/>
+<area shape="rect" id="node12" href="$d0/dbe/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL_01_4.html#a473d65be1bb55734c772c0ab3bbddbea" title=" " alt="" coords="326,325,555,381"/>
+<area shape="rect" id="node13" href="$de/de9/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL__EW_01_4.html#ac329e7e1d2f60c99506292f90b72358d" title=" " alt="" coords="326,245,555,301"/>
+<area shape="rect" id="node14" href="$db/d38/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1CHAIN__EQ_01_4.html#a5a9d89a9aae38c33c3b3b063432bccb7" title=" " alt="" coords="326,485,555,541"/>
+<area shape="rect" id="node18" href="$df/d3b/classsmtrat_1_1cadcells_1_1representation_1_1approximation_1_1ApxCriteria.html#ae1d6b8bed053069dcc8c77cd8aa66d7b" title=" " alt="" coords="916,463,1145,519"/>
+<area shape="rect" id="node20" href="$df/d3b/classsmtrat_1_1cadcells_1_1representation_1_1approximation_1_1ApxCriteria.html#ad4c4ccacf41d350f67c08e0e9ef25e97" title=" " alt="" coords="916,543,1145,599"/>
+<area shape="rect" id="node19" href="$df/d3b/classsmtrat_1_1cadcells_1_1representation_1_1approximation_1_1ApxCriteria.html#aa5863458e7129ffa2d9a9f70066fdae6" title=" " alt="" coords="620,573,861,614"/>
+<area shape="rect" id="node22" href="$df/d3b/classsmtrat_1_1cadcells_1_1representation_1_1approximation_1_1ApxCriteria.html#af25d92a858d8765332c07174cbf694fe" title=" " alt="" coords="909,623,1152,665"/>
+<area shape="rect" id="node24" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#ad68ec2b10ba3554b635267722c46d98e" title=" " alt="" coords="916,697,1145,738"/>
+<area shape="rect" id="node26" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#acb244d4c2e60ab67067f8b7f5b35f6a7" title=" " alt="" coords="933,793,1129,834"/>
+<area shape="rect" id="node27" href="$dd/d4c/namespacesmtrat_1_1cadcells_1_1operators_1_1rules_1_1filter__util.html#adb354034d56efc3cb737b43fd913a264" title=" " alt="" coords="639,753,843,809"/>
+<area shape="rect" id="node37" href="$db/d22/namespacesmtrat_1_1cadcells_1_1operators_1_1mccallum__filtered__impl.html#a004c9ce4ce19553eac706e6f85527606" title=" " alt="" coords="643,833,839,889"/>
+<area shape="rect" id="node38" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#ab7a5584a5724b439b4dd41f7982625c1" title=" " alt="" coords="643,913,839,969"/>
+<area shape="rect" id="node28" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#ae8ea490261b8d3f4c730dda714a05ecf" title=" " alt="" coords="343,662,539,703"/>
+<area shape="rect" id="node30" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#a504c750022f9038ccbfd8d8b26c22c0e" title=" " alt="" coords="326,761,555,802"/>
+<area shape="rect" id="node33" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#ad94ad0d31d0186671fd2a47ffd162ad8" title=" " alt="" coords="331,878,551,919"/>
+<area shape="rect" id="node35" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#ad93429e991020d0ce395f3bc6e881922" title=" " alt="" coords="343,954,539,995"/>
+<area shape="rect" id="node29" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#a0bd503673c36be1a3f17f67f66eb67ca" title=" " alt="" coords="31,608,236,664"/>
+<area shape="rect" id="node31" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#a9bda42718120cfacc308ba33d7564e6a" title=" " alt="" coords="35,689,231,759"/>
+<area shape="rect" id="node32" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#ac5875ee44f41a8a232d727f3a4a7f7a9" title=" " alt="" coords="35,783,231,854"/>
+<area shape="rect" id="node34" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#ab8be738ce15a297fa26b2d7f8091075f" title=" " alt="" coords="35,878,231,949"/>
+<area shape="rect" id="node36" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#a8e72d907b388dfed7e63f272d5e682c3" title=" " alt="" coords="11,973,255,1029"/>
+</map>

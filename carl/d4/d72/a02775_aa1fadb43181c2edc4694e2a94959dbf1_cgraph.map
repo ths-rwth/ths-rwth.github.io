@@ -1,0 +1,11 @@
+<map id="carl::TermAdditionManager::getMaxTerm" name="carl::TermAdditionManager::getMaxTerm">
+<area shape="rect" id="node1" title=" " alt="" coords="5,75,203,116"/>
+<area shape="rect" id="node2" href="$d8/d8e/a01224.html#a27f538cfe45145c285bc67d66c882f7f" title=" " alt="" coords="251,35,379,62"/>
+<area shape="rect" id="node4" href="$d8/d8e/a01224.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="265,107,365,134"/>
+<area shape="rect" id="node3" href="$d0/d9a/a02631.html#a18ff5ebfd5c74e48865b6815a9d69df6" title=" " alt="" coords="427,5,605,47"/>
+<area shape="rect" id="node5" href="$d4/d4a/a02263.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="829,96,952,137"/>
+<area shape="rect" id="node6" href="$d4/d4a/a02263.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1001,158,1149,185"/>
+<area shape="rect" id="node8" href="$d4/d4a/a02263.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="455,71,577,112"/>
+<area shape="rect" id="node7" href="$d4/d4a/a02263.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1000,103,1149,130"/>
+<area shape="rect" id="node9" href="$d4/d4a/a02263.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="653,71,781,112"/>
+</map>

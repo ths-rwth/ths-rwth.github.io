@@ -1,0 +1,8 @@
+<map id="carl::io::MapleStream::write" name="carl::io::MapleStream::write">
+<area shape="rect" id="node1" title=" " alt="" coords="5,57,167,98"/>
+<area shape="rect" id="node2" href="$d5/d23/a02110.html#ace553270faf6182cfd4088a99c9a3f7f" title="Retrieves the name of the variable." alt="" coords="215,64,367,91"/>
+<area shape="rect" id="node3" href="$db/d34/a02118.html#a42ad87c3c524a030765d9822aa57098d" title="Get a human&#45;readable name for the given variable." alt="" coords="439,23,573,65"/>
+<area shape="rect" id="node6" href="$dd/d84/a03034.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="415,89,597,130"/>
+<area shape="rect" id="node4" href="$d5/d23/a02110.html#ae00fad76caa1ec7042dff9e50aa46f36" title="Retrieves the id of the variable." alt="" coords="654,5,781,32"/>
+<area shape="rect" id="node5" href="$d5/d23/a02110.html#ae954c1f1e59102d1c58af6c9d326717a" title="Retrieves the type of the variable." alt="" coords="645,56,789,83"/>
+</map>

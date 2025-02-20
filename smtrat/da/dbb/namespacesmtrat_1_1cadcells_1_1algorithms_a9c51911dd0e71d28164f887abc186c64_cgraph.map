@@ -1,0 +1,5 @@
+<map id="smtrat::cadcells::algorithms::get_level_covering" name="smtrat::cadcells::algorithms::get_level_covering">
+<area shape="rect" id="node1" title="Computes an unsat covering w.r.t." alt="" coords="5,39,209,80"/>
+<area shape="rect" id="node2" href="$d0/d21/structsmtrat_1_1cadcells_1_1representation_1_1covering.html#a0dfafe7b8ebb2ac9c1402a1ee6cf0235" title=" " alt="" coords="257,5,487,47"/>
+<area shape="rect" id="node3" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#a518cf7d9c99cc533764d2e9c530f871e" title="Merges the underlying derivations of a set of sampled derivations." alt="" coords="258,71,486,112"/>
+</map>

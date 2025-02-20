@@ -1,0 +1,6 @@
+<map id="benchmax::Tool::binary" name="benchmax::Tool::binary">
+<area shape="rect" id="node1" title="Full path to the binary." alt="" coords="325,71,499,98"/>
+<area shape="rect" id="node2" href="$dd/ddb/classbenchmax_1_1CondorBackend.html#aeff12e9cafaf0b95ba7dfab0a638783f" title="Generate a submit file for the given job." alt="" coords="42,5,241,47"/>
+<area shape="rect" id="node3" href="$d0/d1d/namespacebenchmax.html#ada7ad554a61c6c67b0aa391dbe4b6449" title="Streaming operator for a generic tool." alt="" coords="54,71,229,98"/>
+<area shape="rect" id="node4" href="$d2/d45/classbenchmax_1_1Tool.html#a4574107a9c9cc0c37cb46c07ff5d092a" title="Get dependencies of binary required to run it (via ldd)" alt="" coords="5,122,277,149"/>
+</map>

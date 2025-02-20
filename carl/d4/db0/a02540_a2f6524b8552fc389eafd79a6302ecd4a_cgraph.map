@@ -1,0 +1,6 @@
+<map id="carl::MultivariatePolynomial::is_constant" name="carl::MultivariatePolynomial::is_constant">
+<area shape="rect" id="node1" title="Check if the polynomial is constant." alt="" coords="5,57,212,98"/>
+<area shape="rect" id="node2" href="$d3/d55/a02760.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="279,5,447,32"/>
+<area shape="rect" id="node3" href="$d4/db0/a02540.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="260,57,467,98"/>
+<area shape="rect" id="node4" href="$d4/db0/a02540.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="515,86,721,127"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="smtrat::mcsat::constraint_type::isUnivariate" name="smtrat::mcsat::constraint_type::isUnivariate">
+<area shape="rect" id="node1" title="Checks whether the constraint contains only a single unassigned variable, and this is the next one." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ac3ea7e4e62ecffa1ae6887cf008117a6" title=" " alt="" coords="240,5,427,47"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="475,13,573,39"/>
+</map>

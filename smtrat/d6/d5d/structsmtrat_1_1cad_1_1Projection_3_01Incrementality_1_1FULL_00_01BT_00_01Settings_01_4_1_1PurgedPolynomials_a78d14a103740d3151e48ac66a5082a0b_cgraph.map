@@ -1,0 +1,38 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::PurgedPolynomials::isPurged" name="smtrat::cad::Projection&lt; Incrementality::FULL, BT, Settings &gt;::PurgedPolynomials::isPurged">
+<area shape="rect" id="node1" title=" " alt="" coords="5,300,257,371"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af9101f43b9b075e399dc4c390516767d" title=" " alt="" coords="305,283,507,324"/>
+<area shape="rect" id="node13" href="$dc/dff/namespacesmtrat_1_1qe_1_1coverings.html#aaa78c47ee5ec3bb74e87a103b8b6708b" title=" " alt="" coords="815,355,999,382"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#ada124ae521cc8134c879d3eda0632577" title="Checks whether a polynomial can safely be ignored due to the bounds." alt="" coords="555,283,756,324"/>
+<area shape="rect" id="node12" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a9b46a1ab575a98d6049c7cd103369d98" title="Retrieves a polynomial from its id." alt="" coords="555,217,756,259"/>
+<area shape="rect" id="node4" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a8d4eb9c0a54c8eaad96ac70a34e8ee88" title=" " alt="" coords="804,283,1011,324"/>
+<area shape="rect" id="node5" href="$d3/ddc/namespacesmtrat_1_1lve.html#a0728f680545aacf86d0ed2d7c9906a4b" title=" " alt="" coords="828,225,987,251"/>
+<area shape="rect" id="node6" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="1065,217,1251,259"/>
+<area shape="rect" id="node8" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="1086,71,1230,112"/>
+<area shape="rect" id="node7" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="1341,263,1467,290"/>
+<area shape="rect" id="node9" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="1328,71,1480,112"/>
+<area shape="rect" id="node10" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="1332,5,1476,47"/>
+<area shape="rect" id="node11" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="1355,137,1453,163"/>
+<area shape="rect" id="node14" href="$d7/da7/structsmtrat_1_1qe_1_1coverings_1_1DefaultSettings_1_1formula__evaluation.html#aed23e55d9c4046cd57dc2e2a05ca3269" title=" " alt="" coords="1063,530,1253,586"/>
+<area shape="rect" id="node21" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#a1e15bcbb014bf165b08954e5cef3afd1" title=" " alt="" coords="1063,283,1253,324"/>
+<area shape="rect" id="node22" href="$d9/d5c/classsmtrat_1_1covering__ng_1_1VariableQuantification.html#a8e3d934ade66f66f0968facfbd7b95d0" title=" " alt="" coords="1071,137,1245,193"/>
+<area shape="rect" id="node24" href="$db/d47/namespacesmtrat_1_1covering__ng.html#a664c169438f234ebe7d51ce1aa25592f" title=" " alt="" coords="1589,472,1741,513"/>
+<area shape="rect" id="node27" href="$da/d97/namespacesmtrat_1_1qe_1_1coverings_1_1util.html#a5d5d18afbdfaac7a17acfe6eb3b1d0ff" title=" " alt="" coords="1060,348,1256,389"/>
+<area shape="rect" id="node36" href="$da/d97/namespacesmtrat_1_1qe_1_1coverings_1_1util.html#a7cf968d525eb15ed7388b803967e3296" title=" " alt="" coords="1059,413,1257,455"/>
+<area shape="rect" id="node15" href="$da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#a852457b61dbd073083fd0af577a30ed7" title=" " alt="" coords="1323,530,1485,586"/>
+<area shape="rect" id="node18" href="$da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#ac11605e0fff1c80d0554eb4443e41c21" title="Dolzmann et al 2004." alt="" coords="1305,613,1503,655"/>
+<area shape="rect" id="node16" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a8487d0390a3cfe52422d8cd5df09fd40" title=" " alt="" coords="1551,537,1779,579"/>
+<area shape="rect" id="node17" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#aa7697a91691431c30105730427f0ccdc" title=" " alt="" coords="2147,565,2375,607"/>
+<area shape="rect" id="node19" href="$dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#a0bb391f24c4f4e0ed85aefa26604ef47" title=" " alt="" coords="1569,603,1761,673"/>
+<area shape="rect" id="node20" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a5bc1458e5cb7b032142789963fad2e3f" title=" " alt="" coords="1827,612,2099,653"/>
+<area shape="rect" id="node23" href="$d6/d36/namespacesmtrat_1_1qe.html#a47dc2c31189b4aa2e0fdba719bbc72d2" title=" " alt="" coords="1341,187,1467,214"/>
+<area shape="rect" id="node25" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#a16953f0d16a7370feb245194eb2d04f2" title=" " alt="" coords="1849,475,2077,516"/>
+<area shape="rect" id="node26" href="$d9/d03/classsmtrat_1_1cadcells_1_1datastructures_1_1Bound.html#ac24493a8b2b4ebcca3f6ddf735a7cab4" title=" " alt="" coords="2147,475,2375,516"/>
+<area shape="rect" id="node28" href="$da/d97/namespacesmtrat_1_1qe_1_1coverings_1_1util.html#ac72d0c7c27cd9641fd3dfc90e970b01f" title=" " alt="" coords="1324,348,1484,389"/>
+<area shape="rect" id="node29" href="$d1/d3d/namespacesmtrat_1_1cadcells_1_1helper.html#a5898ed99c3ca918e7be4429c8efa2417" title="Converts a datastructures::SymbolicInterval to a DNF." alt="" coords="1577,347,1752,388"/>
+<area shape="rect" id="node30" href="$d1/d3d/namespacesmtrat_1_1cadcells_1_1helper.html#ade7827942bd5edbc61e1f1a43b07b052" title="Converts an datastructures::IndexedRoot to a MultivariateRoot." alt="" coords="1875,344,2050,385"/>
+<area shape="rect" id="node31" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#a0f96c28a669a1e7c5bf70ad75ad393ad" title="Return the lower bound." alt="" coords="1849,409,2077,451"/>
+<area shape="rect" id="node32" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#ae6e909db5afd9b60cecba2766865da21" title="In case of a section, the defining indexed root is returned." alt="" coords="1849,198,2077,254"/>
+<area shape="rect" id="node35" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#ae28baaa6cc414492a7a39ec5aa5ba077" title="Returns the upper bound." alt="" coords="1849,279,2077,320"/>
+<area shape="rect" id="node33" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a844fad4a0e83de0d80c9f7d546d61aa0" title=" " alt="" coords="2147,173,2375,215"/>
+<area shape="rect" id="node34" href="$d9/d03/classsmtrat_1_1cadcells_1_1datastructures_1_1Bound.html#aa79de91fb3006d9a4a5d92a501279328" title=" " alt="" coords="2147,239,2375,280"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="carl::MultivariateRoot::var" name="carl::MultivariateRoot::var">
+<area shape="rect" id="node1" title=" " alt="" coords="467,189,659,215"/>
+<area shape="rect" id="node2" href="$dd/da4/a02295.html#a460891da25e8a9b8bb334ce8ebb5486f" title="Convert this variable comparison &quot;v &lt; root(..)&quot; into a simpler polynomial (in)equality against zero &quot;..." alt="" coords="233,64,419,105"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#aa79e097fb7870773b96c8a102fb97270" title=" " alt="" coords="261,130,391,157"/>
+<area shape="rect" id="node7" href="$de/d1b/a02187.html#a44d2731471969e1fcf258f7074332366" title=" " alt="" coords="245,181,407,223"/>
+<area shape="rect" id="node8" href="$de/d1b/a02187.html#a67a6637be838be3339b6833c6bb06b30" title="Create a copy of the underlying polynomial with the given variable replaced by the given polynomial." alt="" coords="245,247,407,288"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#ae11f3515f3963f17640f713ca90134c8" title="Add the variables mentioned in underlying polynomial, excluding the root&#45;variable &quot;_z&quot;." alt="" coords="269,313,383,339"/>
+<area shape="rect" id="node3" href="$d8/d08/a02143.html#a5cbfd8ff98373973f4291bbeca66393d" title=" " alt="" coords="24,5,167,47"/>
+<area shape="rect" id="node4" href="$d9/de7/a01257.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="15,71,176,98"/>
+<area shape="rect" id="node5" href="$dc/d58/a03383.html#a36c98e2018c80286af47f607270ed385" title=" " alt="" coords="21,123,170,164"/>
+<area shape="rect" id="node9" href="$d3/d51/a01264.html#acec48430ff7fa5926948a1f7215ddf3d" title="Substitutes a variable with a rational within a MultivariateRoot." alt="" coords="5,254,185,281"/>
+</map>

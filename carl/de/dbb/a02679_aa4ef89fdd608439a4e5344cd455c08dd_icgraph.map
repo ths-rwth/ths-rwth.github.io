@@ -1,0 +1,6 @@
+<map id="carl::Monomial::lexicalCompare" name="carl::Monomial::lexicalCompare">
+<area shape="rect" id="node1" title="This method performs a lexical comparison as defined in , page 47." alt="" coords="284,71,513,98"/>
+<area shape="rect" id="node2" href="$de/dbb/a02679.html#a100680761295edee322d9dfa89e1e279" title=" " alt="" coords="5,5,236,47"/>
+<area shape="rect" id="node3" href="$de/dbb/a02679.html#a00fef0b0a1aa7e0724351b17b4b643f1" title=" " alt="" coords="5,71,236,98"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#a25a9f4469776b770c59934d2377323e7" title="Compares two arguments where one is a Monomial and the other is either a monomial or a variable." alt="" coords="61,122,181,149"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="carl::is_linear" name="carl::is_linear">
+<area shape="rect" id="node1" title="Checks whether the monomial has exactly the degree one." alt="" coords="5,31,115,57"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a9b7403f6556f643fc180b0ef2f61edb8" title="Checks whether the monomial has exactly degree one." alt="" coords="188,5,297,32"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="163,56,323,83"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="371,5,507,32"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="555,5,711,32"/>
+</map>

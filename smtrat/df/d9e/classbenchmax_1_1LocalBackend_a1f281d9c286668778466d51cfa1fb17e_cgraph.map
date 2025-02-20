@@ -1,0 +1,12 @@
+<map id="benchmax::LocalBackend::execute" name="benchmax::LocalBackend::execute">
+<area shape="rect" id="node1" title="Execute the tool on the file manually." alt="" coords="5,264,192,305"/>
+<area shape="rect" id="node2" href="$d4/d9f/classbenchmax_1_1Backend.html#a0b1d17aba472f2352a9b17c2e2cd0b93" title="Add a result." alt="" coords="281,129,443,171"/>
+<area shape="rect" id="node6" href="$d0/d1d/namespacebenchmax.html#a7023b801521b73ccffe81cbfbaaf3a43" title="Return the benchmark settings." alt="" coords="555,188,706,229"/>
+<area shape="rect" id="node7" href="$d0/d1d/namespacebenchmax.html#a39df508bcba44e06344e26e8c2335a3b" title="Runs an external program from some command line and records the output to stdout." alt="" coords="271,246,453,273"/>
+<area shape="rect" id="node8" href="$d2/d45/classbenchmax_1_1Tool.html#a4da2395fee7e4d9923d1f831057c76ef" title="Compose commandline for this tool and the given input file." alt="" coords="240,297,484,323"/>
+<area shape="rect" id="node9" href="$d4/d9f/classbenchmax_1_1Backend.html#a06bc0fcd71dc945d7248a6aa74f1ee09" title="Can be called to give information about the current progress, if available." alt="" coords="281,348,443,389"/>
+<area shape="rect" id="node10" href="$d0/d1d/namespacebenchmax.html#ac92d4b7e784de37490217791d4388317" title=" " alt="" coords="275,413,449,455"/>
+<area shape="rect" id="node3" href="$d2/d45/classbenchmax_1_1Tool.html#ac279ea163344dfc4d451fc1077ea71d0" title="Recover additional results from the tool output." alt="" coords="532,5,729,47"/>
+<area shape="rect" id="node4" href="$dd/d8d/classbenchmax_1_1Results.html#ae371a3adff2407fe2971d905010abe19" title="Add a new result." alt="" coords="553,71,708,112"/>
+<area shape="rect" id="node5" href="$d2/d45/classbenchmax_1_1Tool.html#a42d3c840b762169841d1dfd78fc82de6" title="Common name of this tool." alt="" coords="546,137,715,163"/>
+</map>

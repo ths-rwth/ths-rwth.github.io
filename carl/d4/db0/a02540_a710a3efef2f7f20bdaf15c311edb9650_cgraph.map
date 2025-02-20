@@ -1,0 +1,6 @@
+<map id="carl::MultivariatePolynomial::lcoeff" name="carl::MultivariatePolynomial::lcoeff">
+<area shape="rect" id="node1" title="Returns the coefficient of the leading term." alt="" coords="5,27,212,69"/>
+<area shape="rect" id="node2" href="$d3/d55/a02760.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="300,5,427,32"/>
+<area shape="rect" id="node3" href="$d4/db0/a02540.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="260,57,467,98"/>
+<area shape="rect" id="node4" href="$d4/db0/a02540.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="515,57,721,98"/>
+</map>

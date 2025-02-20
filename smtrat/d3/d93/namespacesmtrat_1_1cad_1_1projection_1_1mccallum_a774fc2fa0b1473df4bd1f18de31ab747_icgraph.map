@@ -1,0 +1,7 @@
+<map id="smtrat::cad::projection::mccallum::paired" name="smtrat::cad::projection::mccallum::paired">
+<area shape="rect" id="node1" title="Implements the part of McCallums projection operator from &#160;that deals with two polynomials p and q: ." alt="" coords="520,65,689,107"/>
+<area shape="rect" id="node2" href="$d2/d33/structsmtrat_1_1cad_1_1ProjectionOperator.html#adc5a5c03347cc323edcff29bb3a627bb" title=" " alt="" coords="5,65,232,107"/>
+<area shape="rect" id="node3" href="$d7/d11/namespacesmtrat_1_1cad_1_1projection_1_1brown.html#ab3786c50fea06d51f7cfae00b50e26d6" title="Implements the part of Browns projection operator from &#160;that deals with two polynomials p and q which..." alt="" coords="291,32,461,73"/>
+<area shape="rect" id="node4" href="$d3/d26/namespacesmtrat_1_1cad_1_1projection_1_1lazard.html#a05010a34e7ebb7f058ecf1042e8b93f3" title="Implements the part of Lazard projection operator from &#160;that deals with two polynomials p and q which..." alt="" coords="291,97,461,139"/>
+<area shape="rect" id="node5" href="$de/dbb/namespacesmtrat_1_1cad_1_1projection_1_1mccallum__partial.html#aa33946e74734cff77d697b924b7e8a2d" title=" " alt="" coords="280,163,472,204"/>
+</map>

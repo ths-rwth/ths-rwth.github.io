@@ -1,0 +1,27 @@
+<map id="smtrat::is_sat" name="smtrat::is_sat">
+<area shape="rect" id="node1" title=" " alt="" coords="1365,203,1476,229"/>
+<area shape="rect" id="node2" href="$de/de9/classsmtrat_1_1MaxSMT.html#abfb2b2464e449d26c56b54428d982dd0" title=" " alt="" coords="1113,9,1307,36"/>
+<area shape="rect" id="node4" href="$d0/d58/classsmtrat_1_1Optimization.html#af76ba5c20802dccac29dedb30f37f281" title=" " alt="" coords="1131,65,1289,106"/>
+<area shape="rect" id="node5" href="$d9/dde/classsmtrat_1_1UnsatCore.html#a635e2b64815936dda9fd550323ede412" title=" " alt="" coords="1135,137,1285,178"/>
+<area shape="rect" id="node10" href="$d8/da6/classsmtrat_1_1Module.html#a49c7a6cdbd281ee4b37c5521d0beffff" title="Sets the solver state to the given answer value." alt="" coords="1103,203,1317,229"/>
+<area shape="rect" id="node23" href="$de/d8f/smtratSolver_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="1183,253,1237,280"/>
+<area shape="rect" id="node24" href="$d4/d8b/structsmtrat_1_1fmplex_1_1Node.html#a5750fb5060510b3fb868540e79266cac" title=" " alt="" coords="1129,305,1291,346"/>
+<area shape="rect" id="node25" href="$d5/db9/structsmtrat_1_1qe_1_1fmplex_1_1Node.html#a56a73f7de89d70a28f153bb060c52da2" title=" " alt="" coords="1139,370,1281,411"/>
+<area shape="rect" id="node3" href="$da/ded/classsmtrat_1_1Executor.html#aca026ab54a5bf1ff76ec2fba577ee8d3" title=" " alt="" coords="844,5,1019,32"/>
+<area shape="rect" id="node6" href="$d9/dde/classsmtrat_1_1UnsatCore.html#a167381a2e4c310c9c437729d86ec8585" title=" " alt="" coords="857,57,1006,98"/>
+<area shape="rect" id="node8" href="$df/d32/classsmtrat_1_1maxsmt_1_1MaxSMTBackend_3_01Solver_00_01MaxSMTStrategy_1_1FU__MALIK__INCREMENTAL_01_4.html#a69b4400b0276e82337ae90bb366405e1" title=" " alt="" coords="808,122,1055,193"/>
+<area shape="rect" id="node9" href="$d1/d1c/classsmtrat_1_1maxsmt_1_1MaxSMTBackend_3_01Solver_00_01MaxSMTStrategy_1_1MSU3_01_4.html#afbd3c425cc252b1cb9374b8878423626" title=" " alt="" coords="808,217,1055,273"/>
+<area shape="rect" id="node7" href="$da/ded/classsmtrat_1_1Executor.html#a87e2bf159d738a7da13901d4ea490631" title=" " alt="" coords="533,64,760,91"/>
+<area shape="rect" id="node11" href="$d8/da6/classsmtrat_1_1Module.html#ae22d78139ef8bc2e2b725fef516aa822" title="The module has to take the given sub&#45;formula of the received formula into account." alt="" coords="855,297,1008,324"/>
+<area shape="rect" id="node19" href="$d8/da6/classsmtrat_1_1Module.html#aa62260ca322fb39c8132b0acdecd33c3" title="Checks the received formula for consistency." alt="" coords="848,411,1015,437"/>
+<area shape="rect" id="node12" href="$d0/df0/classsmtrat_1_1Manager.html#aa691f1417f6a5bc5ecc8db1ef68648ee" title="Adds the given formula to the conjunction of formulas, which will be considered for the next satisfia..." alt="" coords="565,272,728,299"/>
+<area shape="rect" id="node15" href="$dc/d3b/classsmtrat_1_1PModule.html#a7a060f14da95300e5f4feab735469101" title="The module has to take the given sub&#45;formula of the received formula into account." alt="" coords="566,323,727,349"/>
+<area shape="rect" id="node16" href="$d0/df0/classsmtrat_1_1Manager.html#a591271930bdbd9bd9e00de72251e8b52" title="Get the backends to call for the given problem instance required by the given module." alt="" coords="536,221,757,248"/>
+<area shape="rect" id="node13" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="288,373,471,429"/>
+<area shape="rect" id="node14" href="$dc/dd2/structsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder.html#a40e9a1213bb9a2574b61c716b8f95dbc" title=" " alt="" coords="5,381,225,422"/>
+<area shape="rect" id="node17" href="$d8/da6/classsmtrat_1_1Module.html#a0894661497e0f400e1c73290b5fd2e08" title="Informs all backends about the so far encountered constraints, which have not yet been communicated." alt="" coords="304,247,455,273"/>
+<area shape="rect" id="node18" href="$d8/da6/classsmtrat_1_1Module.html#a38d5316bcb51e44908740daea5eddac1" title="Runs the backend solvers on the passed formula." alt="" coords="273,196,485,223"/>
+<area shape="rect" id="node20" href="$dc/d3b/classsmtrat_1_1PModule.html#aefe9a92e4927c92b276b2dd5a780c9c6" title="Checks the received formula for consistency." alt="" coords="559,440,734,467"/>
+<area shape="rect" id="node21" href="$d0/df0/classsmtrat_1_1Manager.html#ad4ceacd4b82f11b14ada8f3ddd969b4f" title="Checks the so far added formulas for satisfiability." alt="" coords="559,491,735,517"/>
+<area shape="rect" id="node22" href="$d1/da0/classsmtrat_1_1ThreadPool.html#a4a0cf59bebd1016f6e7e2e1fc69f40e1" title=" " alt="" coords="573,374,720,415"/>
+</map>

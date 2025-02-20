@@ -1,0 +1,11 @@
+<map id="carl::is_one" name="carl::is_one">
+<area shape="rect" id="node1" title=" " alt="" coords="5,54,101,81"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a2ed72afc9781542235224078016fd31d" title="Checks whether a term is one." alt="" coords="149,130,245,157"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="469,5,676,47"/>
+<area shape="rect" id="node9" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="469,88,676,129"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="294,155,421,182"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a9cc2f7f3c081d4856a654898f6871206" title="Checks whether the monomial is a constant." alt="" coords="293,206,421,233"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="312,105,403,131"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="505,206,641,233"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="724,206,880,233"/>
+</map>

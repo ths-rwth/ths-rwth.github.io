@@ -1,0 +1,6 @@
+<map id="carl::lcm" name="carl::lcm">
+<area shape="rect" id="node1" title="Calculate the least common multiple of two integers." alt="" coords="5,31,84,57"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#ada86ff3cb956713e0f59c569ba9871b7" title=" " alt="" coords="132,31,211,57"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#af7ac5f8f9e3bfef3de677dc9a36d5513" title="Extract the denominator from a fraction." alt="" coords="259,5,381,32"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#ac291873d24bdf2f23fba91bf91848480" title="Extract the numerator from a fraction." alt="" coords="267,56,373,83"/>
+</map>

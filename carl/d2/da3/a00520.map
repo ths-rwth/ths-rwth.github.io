@@ -1,0 +1,52 @@
+<map id="carl&#45;arith/poly/umvpoly/MultivariatePolynomial_operators.h" name="carl&#45;arith/poly/umvpoly/MultivariatePolynomial_operators.h">
+<area shape="rect" id="node1" title=" " alt="" coords="2988,5,3167,61"/>
+<area shape="rect" id="node2" href="$d4/dfb/a00512.html" title=" " alt="" coords="2982,109,3173,151"/>
+<area shape="rect" id="node3" href="$db/dab/a00089.html" title=" " alt="" coords="5,206,152,247"/>
+<area shape="rect" id="node4" href="$d9/db6/a00146.html" title=" " alt="" coords="227,511,397,552"/>
+<area shape="rect" id="node6" href="$d2/d4d/a01079.html" title=" " alt="" coords="318,607,493,634"/>
+<area shape="rect" id="node7" href="$d9/dd0/a00191.html" title=" " alt="" coords="3395,206,3538,247"/>
+<area shape="rect" id="node8" href="$d6/d22/a00245.html" title=" " alt="" coords="3517,310,3725,351"/>
+<area shape="rect" id="node9" href="$d8/dc1/a06288.html" title=" " alt="" coords="415,421,617,448"/>
+<area shape="rect" id="node10" href="$dd/de2/a00320.html" title=" " alt="" coords="516,310,681,351"/>
+<area shape="rect" id="node11" href="$de/dd7/a00362.html" title=" " alt="" coords="4534,206,4709,247"/>
+<area shape="rect" id="node12" href="$de/d6a/a06273.html" title=" " alt="" coords="1058,310,1233,351"/>
+<area shape="rect" id="node13" href="$d8/d21/a00368.html" title=" " alt="" coords="1619,414,1794,455"/>
+<area shape="rect" id="node14" href="$d3/def/a00446.html" title=" " alt="" coords="1488,600,1675,641"/>
+<area shape="rect" id="node15" href="$d5/db5/a00374.html" title=" " alt="" coords="961,511,1143,552"/>
+<area shape="rect" id="node16" href="$d4/d13/a00377.html" title="Implements utility functions concerning the (total) degree of monomials, terms and polynomials." alt="" coords="1359,310,1534,351"/>
+<area shape="rect" id="node17" href="$d3/dee/a06300.html" title=" " alt="" coords="1115,414,1290,455"/>
+<area shape="rect" id="node18" href="$d1/d0b/a00452.html" title=" " alt="" coords="2374,511,2549,552"/>
+<area shape="rect" id="node19" href="$dc/df9/a00554.html" title="This file contains carl::algebraic_substitution which performs what we call an algebraic substitution..." alt="" coords="2490,600,2713,641"/>
+<area shape="rect" id="node20" href="$d9/d34/a00476.html" title=" " alt="" coords="641,414,865,455"/>
+<area shape="rect" id="node21" href="$d8/ddd/a00380.html" title=" " alt="" coords="3115,310,3290,351"/>
+<area shape="rect" id="node22" href="$db/d8e/a00482.html" title=" " alt="" coords="2197,600,2397,641"/>
+<area shape="rect" id="node23" href="$d1/daa/a00638.html" title=" " alt="" coords="3189,414,3333,455"/>
+<area shape="rect" id="node24" href="$da/dee/a00383.html" title=" " alt="" coords="4733,206,4971,247"/>
+<area shape="rect" id="node25" href="$dc/dc9/a00389.html" title=" " alt="" coords="2175,511,2350,552"/>
+<area shape="rect" id="node26" href="$d9/dd1/a00398.html" title=" " alt="" coords="1870,414,2045,455"/>
+<area shape="rect" id="node27" href="$d1/d98/a00407.html" title=" " alt="" coords="1762,310,1937,351"/>
+<area shape="rect" id="node28" href="$d4/dd3/a00428.html" title=" " alt="" coords="3961,199,4175,255"/>
+<area shape="rect" id="node29" href="$dc/d19/a01190.html" title=" " alt="" coords="3989,317,4176,344"/>
+<area shape="rect" id="node30" href="$db/d7f/a06315.html" title=" " alt="" coords="3613,206,3835,247"/>
+<area shape="rect" id="node31" href="$d2/d22/a01196.html" title=" " alt="" coords="3750,310,3965,351"/>
+<area shape="rect" id="node32" href="$d3/d73/a06348.html" title=" " alt="" coords="757,310,931,351"/>
+<area shape="rect" id="node33" href="$d9/d10/a00449.html" title=" " alt="" coords="2273,414,2447,455"/>
+<area shape="rect" id="node34" href="$dd/d63/a00455.html" title=" " alt="" coords="890,414,1091,455"/>
+<area shape="rect" id="node35" href="$d9/d4a/a00479.html" title=" " alt="" coords="4995,206,5178,247"/>
+<area shape="rect" id="node36" href="$d4/ddf/a00488.html" title=" " alt="" coords="5203,206,5411,247"/>
+<area shape="rect" id="node37" href="$d6/d60/a00491.html" title=" " alt="" coords="2367,303,2543,359"/>
+<area shape="rect" id="node38" href="$d5/d54/a00938.html" title=" " alt="" coords="2675,407,2883,463"/>
+<area shape="rect" id="node39" href="$dc/d3e/a06423.html" title=" " alt="" coords="1473,206,1647,247"/>
+<area shape="rect" id="node40" href="$d3/d87/a00539.html" title=" " alt="" coords="1885,206,2064,247"/>
+<area shape="rect" id="node41" href="$d0/d22/a01049.html" title=" " alt="" coords="2618,317,2785,344"/>
+<area shape="rect" id="node42" href="$d6/d80/a01076.html" title=" " alt="" coords="2809,317,2989,344"/>
+<area shape="rect" id="node43" href="$d5/d0a/a00602.html" title=" " alt="" coords="5435,206,5722,247"/>
+<area shape="rect" id="node44" href="$dd/d2b/a06336.html" title=" " alt="" coords="5746,213,5929,240"/>
+<area shape="rect" id="node45" href="$d2/df3/a01085.html" title=" " alt="" coords="4251,213,4407,240"/>
+<area shape="rect" id="node46" href="$de/db5/a01181.html" title=" " alt="" coords="4251,317,4453,344"/>
+<area shape="rect" id="node47" href="$dc/d70/a01187.html" title=" " alt="" coords="4235,421,4469,448"/>
+<area shape="rect" id="node48" href="$d1/d35/a01184.html" title=" " alt="" coords="4477,317,4689,344"/>
+<area shape="rect" id="node49" href="$dd/d43/a01193.html" title=" " alt="" coords="5953,206,6164,247"/>
+<area shape="rect" id="node50" href="$d1/d34/a01211.html" title=" " alt="" coords="6189,206,6409,247"/>
+<area shape="rect" id="node5" href="$d2/df5/a00137.html" title=" " alt="" coords="147,600,293,641"/>
+</map>

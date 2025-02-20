@@ -1,0 +1,7 @@
+<map id="carl::eliminate_zero_root" name="carl::eliminate_zero_root">
+<area shape="rect" id="node1" title="Reduces the given polynomial such that zero is not a root anymore." alt="" coords="5,78,189,105"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="237,5,432,47"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a0afd13ffb079bbb402362a18138b5e17" title="Asserts that this polynomial over numeric coefficients complies with the requirements and assumptions..." alt="" coords="237,71,432,112"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="287,137,382,163"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="480,129,687,171"/>
+</map>

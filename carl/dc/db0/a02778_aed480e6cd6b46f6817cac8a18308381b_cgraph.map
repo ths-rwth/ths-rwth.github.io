@@ -1,0 +1,8 @@
+<map id="std::hash&lt; carl::UnivariatePolynomial&lt; Coefficient &gt; &gt;::operator()" name="std::hash&lt; carl::UnivariatePolynomial&lt; Coefficient &gt; &gt;::operator()">
+<area shape="rect" id="node1" title="Calculates the hash of univariate polynomial." alt="" coords="5,57,201,113"/>
+<area shape="rect" id="node2" href="$d3/d41/a02530.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="249,5,444,47"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#adaacd0edf059de852747a03380c0d844" title="Hashes an arbitrary number of values." alt="" coords="293,71,401,98"/>
+<area shape="rect" id="node6" href="$d3/d41/a02530.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="249,123,444,164"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#afb5d79b5282cd444932fbf48cc14e739" title="Add hash of the given value to the hash seed." alt="" coords="492,71,608,98"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#aec22a2c4a0fc59da17946b89c423bb20" title="Add a value to the given hash seed." alt="" coords="656,71,804,98"/>
+</map>

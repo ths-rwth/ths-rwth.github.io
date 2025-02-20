@@ -1,0 +1,4 @@
+<map id="smtrat::TotalizerEncoder" name="smtrat::TotalizerEncoder">
+<area shape="rect" id="node1" title="TotalizerEncoder implements the Totalizer encoding as described in &quot;Incremental Cardinality Constrain..." alt="" coords="16,80,196,107"/>
+<area shape="rect" id="node2" href="$d6/dbd/classsmtrat_1_1PseudoBoolEncoder.html" title="Base class for a PseudoBoolean Encoder." alt="" coords="5,5,207,32"/>
+</map>

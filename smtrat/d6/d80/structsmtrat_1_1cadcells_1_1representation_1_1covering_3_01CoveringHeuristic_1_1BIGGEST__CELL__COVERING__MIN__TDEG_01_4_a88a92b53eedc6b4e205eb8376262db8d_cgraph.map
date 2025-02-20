@@ -1,0 +1,21 @@
+<map id="smtrat::cadcells::representation::covering&lt; CoveringHeuristic::BIGGEST_CELL_COVERING_MIN_TDEG &gt;::compute" name="smtrat::cadcells::representation::covering&lt; CoveringHeuristic::BIGGEST_CELL_COVERING_MIN_TDEG &gt;::compute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,208,283,279"/>
+<area shape="rect" id="node2" href="$d1/ddf/structsmtrat_1_1cadcells_1_1representation_1_1cell.html#abb581ff256ca95aaba322b9fc22a3c89" title=" " alt="" coords="331,71,560,112"/>
+<area shape="rect" id="node3" href="$d1/d92/namespacesmtrat_1_1cadcells_1_1representation.html#a75c6a57c1d57c9a266859628db112ea0" title=" " alt="" coords="331,136,560,177"/>
+<area shape="rect" id="node9" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a7b9b84ebf75630df15bc1754e6625a16" title=" " alt="" coords="331,307,560,348"/>
+<area shape="rect" id="node18" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title=" " alt="" coords="394,405,497,431"/>
+<area shape="rect" id="node4" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a05fb6db177b5f469bde945c904cde764" title=" " alt="" coords="610,5,838,47"/>
+<area shape="rect" id="node5" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a1879a4adacf1983857ec8c504e5da612" title=" " alt="" coords="610,71,838,112"/>
+<area shape="rect" id="node8" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#aa388ee9bc6611c4dd030520230f223dd" title=" " alt="" coords="608,136,840,177"/>
+<area shape="rect" id="node6" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a6e40b9c086c5a9517cf724b57fc2521e" title=" " alt="" coords="894,103,1122,144"/>
+<area shape="rect" id="node7" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a844fad4a0e83de0d80c9f7d546d61aa0" title=" " alt="" coords="894,37,1122,79"/>
+<area shape="rect" id="node10" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#a4e780845d44bbab99ff28a3e29ace540" title="Compares an upper bound with a lower bound of DelineationIntervals." alt="" coords="610,307,838,348"/>
+<area shape="rect" id="node17" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#a2123b3e6f69746909b486d4f71b7601c" title="Compares the upper bounds of two DelineationIntervals." alt="" coords="610,401,838,443"/>
+<area shape="rect" id="node11" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#af859a2d005b6d4dca8355892dfd43e79" title=" " alt="" coords="894,336,1122,377"/>
+<area shape="rect" id="node12" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a43853db147d7936536a2ee461ba88830" title=" " alt="" coords="889,168,1127,209"/>
+<area shape="rect" id="node13" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a23396f759eafdf95e9d41ac9a777e14f" title=" " alt="" coords="1176,190,1404,246"/>
+<area shape="rect" id="node14" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#ab623319f2aecdc705d59308a767ee595" title=" " alt="" coords="894,401,1122,443"/>
+<area shape="rect" id="node15" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a0b53f2f387b4799df7f0e9fabfa3b657" title=" " alt="" coords="888,467,1128,508"/>
+<area shape="rect" id="node16" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a89d10bab7fef184f8b68ea662424814b" title=" " alt="" coords="1176,459,1404,515"/>
+<area shape="rect" id="node19" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title=" " alt="" coords="643,467,805,494"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="benchmax::Results" name="benchmax::Results">
+<area shape="rect" id="node1" title="Stores results for for whole benchmax run." alt="" coords="1652,124,1799,151"/>
+<area shape="rect" id="node2" title=" " alt="" coords="799,11,946,53"/>
+<area shape="rect" id="node3" title=" " alt="" coords="257,120,392,147"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1312,70,1545,141"/>
+<area shape="rect" id="node9" title=" " alt="" coords="597,295,760,337"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1328,165,1529,206"/>
+<area shape="rect" id="node4" title=" " alt="" coords="55,145,94,172"/>
+<area shape="rect" id="node5" title=" " alt="" coords="55,95,94,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1383,231,1475,257"/>
+<area shape="rect" id="node8" href="$df/d66/structbenchmax_1_1BenchmarkResult.html" title="Results for a single benchmark run." alt="" coords="985,229,1199,256"/>
+<area shape="rect" id="node13" href="$d2/d45/classbenchmax_1_1Tool.html" title="Base class for any tool." alt="" coords="1030,309,1154,336"/>
+<area shape="rect" id="node10" title=" " alt="" coords="281,339,368,365"/>
+<area shape="rect" id="node11" title=" " alt="" coords="5,331,144,373"/>
+</map>

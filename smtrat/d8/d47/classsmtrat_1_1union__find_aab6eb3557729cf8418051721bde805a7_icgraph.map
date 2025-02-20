@@ -1,0 +1,6 @@
+<map id="smtrat::union_find::find" name="smtrat::union_find::find">
+<area shape="rect" id="node1" title="Find the index of the representative of the entry at index index_." alt="" coords="193,71,333,112"/>
+<area shape="rect" id="node2" href="$d8/d47/classsmtrat_1_1union__find.html#afb40fca89003d139e1a61c65553362b3" title="Determines if the two entries at positions index1 and index2 are considered equivalent,..." alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node3" href="$d8/d47/classsmtrat_1_1union__find.html#ad48b77fe77372f1882a20247501eed4e" title="As union_, but does NOT compute find(rep1), find(rep2), but assumes both indices are already pointing..." alt="" coords="5,71,145,112"/>
+<area shape="rect" id="node4" href="$d8/d47/classsmtrat_1_1union__find.html#a58250a9ffde0f34b497936ad98dddf77" title="Make the entries identified by index1 and index2 equivalent." alt="" coords="5,136,145,177"/>
+</map>

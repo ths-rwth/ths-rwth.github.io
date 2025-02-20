@@ -1,0 +1,12 @@
+<map id="carl::UFModel" name="carl::UFModel">
+<area shape="rect" id="node1" title="Implements a sort value, being a value of the uninterpreted domain specified by this sort." alt="" coords="1052,85,1164,112"/>
+<area shape="rect" id="node2" href="$d4/dbd/a03563.html" title="Implements an uninterpreted function." alt="" coords="732,53,931,80"/>
+<area shape="rect" id="node3" title=" " alt="" coords="750,104,913,160"/>
+<area shape="rect" id="node4" href="$dd/daf/a03503.html" title="Implements a sort value, being a value of the uninterpreted domain specified by this sort." alt="" coords="208,164,324,191"/>
+<area shape="rect" id="node6" title=" " alt="" coords="511,111,649,153"/>
+<area shape="rect" id="node5" href="$d1/def/a03475.html" title="Implements a sort (for defining types of variables and functions)." alt="" coords="5,164,85,191"/>
+<area shape="rect" id="node7" title=" " alt="" coords="201,96,331,123"/>
+<area shape="rect" id="node8" title=" " alt="" coords="26,76,65,103"/>
+<area shape="rect" id="node9" title=" " alt="" coords="199,45,333,72"/>
+<area shape="rect" id="node10" title=" " alt="" coords="26,5,65,32"/>
+</map>

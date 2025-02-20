@@ -1,0 +1,4 @@
+<map id="smtrat::cad::ConflictGraph::removeDuplicateColumns" name="smtrat::cad::ConflictGraph::removeDuplicateColumns">
+<area shape="rect" id="node1" title="Returns a new ConflictGraph whose adjacency matrix consists only of the unique columns of the adjacen..." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$d7/df6/classsmtrat_1_1cad_1_1ConflictGraph.html#a3165b97e7b843ed36c0ae2e558aee0b5" title=" " alt="" coords="252,5,444,47"/>
+</map>

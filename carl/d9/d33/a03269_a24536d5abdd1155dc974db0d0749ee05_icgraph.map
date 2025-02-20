@@ -1,0 +1,10 @@
+<map id="carl::covering::SetCover::select_set" name="carl::covering::SetCover::select_set">
+<area shape="rect" id="node1" title="Selects the given set and purges the covered elements from all other sets." alt="" coords="609,100,787,141"/>
+<area shape="rect" id="node2" href="$dc/dd9/a01268.html#a5236c274a6413fb18713a3df16c57339" title="Exact &quot;heuristic&quot;: Computes a minimum set cover." alt="" coords="164,70,339,112"/>
+<area shape="rect" id="node4" href="$dc/dd9/a01268.html#a1ece576470279cbf50ddf89fc6b2b7fb" title="Simple greedy heuristic: Selects the largest remaining set until all elements are covered." alt="" coords="387,34,561,76"/>
+<area shape="rect" id="node5" href="$dc/dd9/a01268.html#aba80b7d172221b391822fae3a725ca1a" title="Bounded greedy heuristic: Selects the largest remaining set until at most bound constraints remain." alt="" coords="387,100,561,141"/>
+<area shape="rect" id="node6" href="$dc/dd9/a01268.html#a8d4f5be8079bd0192c3906839256f787" title="Weighted greedy heuristic: Selects the largest remaining set according to the given weight function u..." alt="" coords="387,230,561,272"/>
+<area shape="rect" id="node8" href="$dc/dd9/a01268.html#aee6074be8f0993e006d7db19a58e6c07" title="Preprocessing heuristic: Selects essential sets which are the only once covering some element." alt="" coords="387,165,561,206"/>
+<area shape="rect" id="node3" href="$d7/dc5/a01242.html#a3bc012d12145a5509f1ad58ecb56227f" title="Evaluates the square root expression." alt="" coords="5,78,116,104"/>
+<area shape="rect" id="node7" href="$dc/dd9/a01268.html#ac02192f0db3b2927064ab23b4716f9ae" title="Weighted greedy heuristic: Selects the largest remaining set according to the given weight function u..." alt="" coords="164,230,339,272"/>
+</map>

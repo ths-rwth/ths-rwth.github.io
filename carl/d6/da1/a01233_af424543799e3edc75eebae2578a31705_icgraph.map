@@ -1,0 +1,10 @@
+<map id="carl::switch_main_variable" name="carl::switch_main_variable">
+<area shape="rect" id="node1" title="Switches the main variable using a purely syntactical restructuring." alt="" coords="843,112,1039,139"/>
+<area shape="rect" id="node2" href="$d0/d33/a01252.html#a897bcef0c3dce0c64702e8f419539e1b" title="Implements algebraic substitution by resultant computation." alt="" coords="620,60,795,116"/>
+<area shape="rect" id="node8" href="$d1/d24/a02847.html#aa093a925323aedc62c631c7a43fd9db7" title=" " alt="" coords="622,141,793,182"/>
+<area shape="rect" id="node3" href="$d0/d33/a01252.html#a81e240c71214a271179974c2318050d1" title="Computes the algebraic substitution of the given defining polynomials into a multivariate polynomial ..." alt="" coords="397,30,572,71"/>
+<area shape="rect" id="node7" href="$d0/d33/a01252.html#ad81c8b19229c789a99c52e77f06cf9e2" title="Implements algebraic substitution by resultant computation." alt="" coords="397,96,572,152"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#acf69f7df84adce86589ec9686663d4cf" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="213,5,323,32"/>
+<area shape="rect" id="node5" href="$d0/d33/a01252.html#aceac25901302849c6e933d465f45ec80" title=" " alt="" coords="187,56,349,112"/>
+<area shape="rect" id="node6" href="$d0/d33/a01252.html#a0ee19ea70c76b3365235c61a66814fb5" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,63,139,105"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="smtrat::Module::checkInfSubsetForMinimality" name="smtrat::Module::checkInfSubsetForMinimality">
+<area shape="rect" id="node1" title="Checks the given infeasible subset for minimality by storing all subsets of it, which have a smaller ..." alt="" coords="5,49,189,90"/>
+<area shape="rect" id="node2" href="$d0/df0/classsmtrat_1_1Manager.html#ac704dfdf2cddc782789ef04f9d9a916c" title=" " alt="" coords="261,5,431,32"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#a26afe62550fa50747b40fa8110f45ee7" title=" " alt="" coords="237,56,455,83"/>
+<area shape="rect" id="node4" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="283,107,409,133"/>
+</map>

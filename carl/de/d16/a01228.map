@@ -1,0 +1,8 @@
+<map id="GMPxx Usage" name="GMPxx Usage">
+<area shape="rect" id="node1" href="$d7/dbf/a01239.html" title="The associated integral type of any type can be defined with IntegralType." alt="" coords="480,46,583,71"/>
+<area shape="rect" id="node2" href="$d6/d1e/a01234.html" title="All integral types that can (in theory) represent all integers are marked with is_integer_type." alt="" coords="470,106,593,131"/>
+<area shape="rect" id="node3" href="$dc/dab/a01237.html" title="All integral types that can (in theory) represent all rationals are marked with is_rational_type." alt="" coords="468,166,595,191"/>
+<area shape="rect" id="node4" href="$d0/d58/a01230.html" title="We define custom type traits for number types we use." alt="" coords="486,215,577,241"/>
+<area shape="rect" id="node5" href="$d9/da8/a01227.html" title=" " alt="" coords="5,137,120,162"/>
+<area shape="rect" id="node6" title=" " alt="" coords="169,137,283,162"/>
+</map>

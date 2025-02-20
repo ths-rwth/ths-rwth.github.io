@@ -1,0 +1,26 @@
+<map id="carl::VarSolutionFormula::evaluate" name="carl::VarSolutionFormula::evaluate">
+<area shape="rect" id="node1" title="Evaluates this solution formula for the given mapping of the variables occurring in the solution form..." alt="" coords="5,280,187,321"/>
+<area shape="rect" id="node2" href="$dd/da4/a02295.html#a323de1c287dc0bb3ec4d2c8770b03c16" title=" " alt="" coords="235,165,416,207"/>
+<area shape="rect" id="node14" href="$de/d04/a01209.html#a7a78710d31854c60bb2a7745354d2f0e" title="Computes the union of two intervals (can result in two distinct intervals)." alt="" coords="503,274,620,301"/>
+<area shape="rect" id="node21" href="$df/d71/a02247.html#a18bcb1823ca5113afb7f71e3dfea1c0d" title="Implements extended interval division with intervals containting zero." alt="" coords="245,313,405,339"/>
+<area shape="rect" id="node22" href="$de/d04/a01209.html#a6aa5825a5dcfebf46047bb9ccd307025" title=" " alt="" coords="270,363,381,390"/>
+<area shape="rect" id="node3" href="$df/d71/a02247.html#ad7517f5809b55e1ca45c210d24856181" title="Computes the integral part of the given interval." alt="" coords="464,223,659,250"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#a1b82af870f81450ebe08f42210cdc02a" title="Function which determines, if the interval is empty." alt="" coords="500,5,623,47"/>
+<area shape="rect" id="node8" href="$df/d71/a02247.html#a67bb6db89a0763261e75388efedb655a" title="Calculates the nth root of the interval with respect to natural interval arithmetic." alt="" coords="492,122,631,149"/>
+<area shape="rect" id="node9" href="$de/d04/a01209.html#a9e12491561bd080f9cf41abe12546611" title="Intersects two intervals in a set&#45;theoretic manner." alt="" coords="482,71,641,98"/>
+<area shape="rect" id="node20" href="$db/dd4/a02107.html#ae954c1f1e59102d1c58af6c9d326717a" title="Retrieves the type of the variable." alt="" coords="489,173,633,199"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="725,129,847,171"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="914,101,1062,127"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="913,151,1063,178"/>
+<area shape="rect" id="node10" href="$df/d71/a02247.html#a419f459b6179b9d18124a2c2b802d3c3" title=" " alt="" coords="712,64,860,105"/>
+<area shape="rect" id="node12" href="$df/d71/a02247.html#ae1453cadc09e4729614396e815feef89" title=" " alt="" coords="711,196,861,237"/>
+<area shape="rect" id="node11" href="$df/d71/a02247.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="914,35,1062,76"/>
+<area shape="rect" id="node13" href="$df/d71/a02247.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="913,203,1063,244"/>
+<area shape="rect" id="node15" href="$de/d04/a01209.html#ad91b61a7e671cf7c10435f5c23982e3f" title="Check whether the two bounds connect, for example as for ...3),[3..." alt="" coords="707,330,865,357"/>
+<area shape="rect" id="node16" href="$df/d71/a02247.html#a8d1227b8e2dd9b1e42e0070f69ff55e9" title="Method which returns the empty interval rooted at 0." alt="" coords="709,264,863,305"/>
+<area shape="rect" id="node17" href="$dd/d95/a01247.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="917,271,1059,298"/>
+<area shape="rect" id="node18" href="$d7/da7/a03719.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="1115,231,1297,272"/>
+<area shape="rect" id="node19" href="$d4/de4/a03031.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="1111,296,1301,337"/>
+<area shape="rect" id="node23" href="$d4/daa/a02067.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="470,350,653,377"/>
+<area shape="rect" id="node24" href="$d4/daa/a02067.html#ae763563c9b0ec6df9b736f0095c8392f" title=" " alt="" coords="483,401,639,443"/>
+</map>

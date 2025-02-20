@@ -1,0 +1,11 @@
+<map id="carl::MultivariatePolynomial::is_one" name="carl::MultivariatePolynomial::is_one">
+<area shape="rect" id="node1" title=" " alt="" coords="5,144,212,185"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="315,93,411,119"/>
+<area shape="rect" id="node8" href="$d3/dff/a02565.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="260,144,467,185"/>
+<area shape="rect" id="node9" href="$d3/dff/a02565.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="515,199,721,240"/>
+<area shape="rect" id="node3" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="945,52,1068,93"/>
+<area shape="rect" id="node4" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1117,114,1265,141"/>
+<area shape="rect" id="node6" href="$d0/d80/a02281.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="557,27,679,68"/>
+<area shape="rect" id="node5" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1116,59,1265,86"/>
+<area shape="rect" id="node7" href="$d0/d80/a02281.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="769,27,897,68"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="smtrat::vs::getSignCombinations" name="smtrat::vs::getSignCombinations">
+<area shape="rect" id="node1" title="For a given constraint f_1*...*f_n ~ 0 this method computes all combinations of constraints f_1 ~_1 0..." alt="" coords="5,31,240,57"/>
+<area shape="rect" id="node2" href="$de/dfa/namespacesmtrat_1_1vs.html#a5302059bfd0394db1d554c0704afc875" title=" " alt="" coords="288,5,500,32"/>
+<area shape="rect" id="node3" href="$de/dfa/namespacesmtrat_1_1vs.html#afa8e776352ceda9ed32efa46471b6d81" title=" " alt="" coords="548,5,755,32"/>
+</map>

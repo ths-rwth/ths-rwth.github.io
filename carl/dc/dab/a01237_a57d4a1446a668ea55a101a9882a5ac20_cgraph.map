@@ -1,0 +1,13 @@
+<map id="carl::covering::heuristic::exact_of_size" name="carl::covering::heuristic::exact_of_size">
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,180,131"/>
+<area shape="rect" id="node2" href="$d6/dd5/a03214.html#a09803c5268b61f4ae4031161e462531c" title="Returns the given set." alt="" coords="230,5,407,47"/>
+<area shape="rect" id="node4" href="$d4/db9/a02918.html#a12040ea03591d842792bec96aa69c7c4" title="Checks wether the bits set is a subset of the bits set in rhs." alt="" coords="228,71,409,98"/>
+<area shape="rect" id="node5" href="$d4/db9/a02918.html#a9de0d41fc6b1ee50437f2e828db25412" title="Sets the given bit to a value, true by default." alt="" coords="259,122,379,149"/>
+<area shape="rect" id="node7" href="$dc/db6/a01212.html#a98df826da90dc24a6e5254f13df7b057" title=" " alt="" coords="279,198,359,225"/>
+<area shape="rect" id="node3" href="$d6/dd5/a03214.html#abe7608326af978310b630c42298bcd88" title="States that s covers the given element." alt="" coords="457,13,663,39"/>
+<area shape="rect" id="node6" href="$d4/db9/a02918.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="475,97,645,123"/>
+<area shape="rect" id="node8" href="$dc/db6/a01212.html#ae0d525094e8ca4f57347d606e8ce40fa" title="Get the bit size of the representation of a integer." alt="" coords="511,147,609,174"/>
+<area shape="rect" id="node9" href="$dd/deb/a02766.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="711,220,897,261"/>
+<area shape="rect" id="node10" href="$dd/deb/a02766.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="467,249,653,291"/>
+<area shape="rect" id="node11" href="$dd/deb/a02766.html#a9392daa40b9085e09ed2cfe20c44fd2a" title=" " alt="" coords="467,315,653,356"/>
+</map>

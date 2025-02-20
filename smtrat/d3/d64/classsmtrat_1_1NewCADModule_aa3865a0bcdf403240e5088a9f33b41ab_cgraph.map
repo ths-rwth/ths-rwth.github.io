@@ -1,0 +1,11 @@
+<map id="smtrat::NewCADModule::addConstraint" name="smtrat::NewCADModule::addConstraint">
+<area shape="rect" id="node1" title=" " alt="" coords="5,61,184,102"/>
+<area shape="rect" id="node2" href="$dc/d29/classsmtrat_1_1cad_1_1Preprocessor.html#a0a2e7f8f517499687a6c8564b796c817" title=" " alt="" coords="232,61,420,102"/>
+<area shape="rect" id="node3" href="$dc/d29/classsmtrat_1_1cad_1_1Preprocessor.html#a11189426bf570507af7a10c7902a1e9c" title=" " alt="" coords="468,61,656,102"/>
+<area shape="rect" id="node4" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title=" " alt="" coords="725,23,827,49"/>
+<area shape="rect" id="node6" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="704,90,848,131"/>
+<area shape="rect" id="node5" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title=" " alt="" coords="896,5,1059,32"/>
+<area shape="rect" id="node7" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="901,57,1053,98"/>
+<area shape="rect" id="node8" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="905,122,1049,163"/>
+<area shape="rect" id="node9" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="928,188,1027,215"/>
+</map>

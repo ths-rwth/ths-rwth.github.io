@@ -1,0 +1,4 @@
+<map id="smtrat::Module::updateLemmas" name="smtrat::Module::updateLemmas">
+<area shape="rect" id="node1" title="Stores all lemmas of any backend of this module in its own lemma vector." alt="" coords="244,5,475,32"/>
+<area shape="rect" id="node2" href="$d0/df0/classsmtrat_1_1Manager.html#aad39eed86b9c6962f4dd6d364e148b28" title="Returns the lemmas/tautologies which were made during the last solving provoked by check()." alt="" coords="5,5,196,32"/>
+</map>

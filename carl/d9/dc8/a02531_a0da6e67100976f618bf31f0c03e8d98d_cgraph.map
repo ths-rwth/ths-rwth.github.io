@@ -1,0 +1,4 @@
+<map id="carl::UnivariatePolynomial::is_constant" name="carl::UnivariatePolynomial::is_constant">
+<area shape="rect" id="node1" title="Checks whether the polynomial is constant with respect to the main variable." alt="" coords="5,5,200,47"/>
+<area shape="rect" id="node2" href="$d9/dc8/a02531.html#a61c640608d515e986f81c454662b35a5" title="Asserts that this polynomial over numeric coefficients complies with the requirements and assumptions..." alt="" coords="248,5,443,47"/>
+</map>

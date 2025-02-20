@@ -1,0 +1,6 @@
+<map id="carl::Formula::property_holds" name="carl::Formula::property_holds">
+<area shape="rect" id="node1" title="Checks if the given property holds for this formula." alt="" coords="596,23,767,65"/>
+<area shape="rect" id="node2" href="$df/d24/a03358.html#aa248980c960fe199fb65ee0cafdfca06" title=" " alt="" coords="377,5,548,32"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#ae5348ec0d0b3073c97a0d0ce99b96026" title="Converts the given formula to CNF." alt="" coords="235,31,329,57"/>
+<area shape="rect" id="node4" href="$df/dab/a03550.html#adacbe6f985dfafd6acb3be1cb94686fb" title=" " alt="" coords="5,23,187,65"/>
+</map>

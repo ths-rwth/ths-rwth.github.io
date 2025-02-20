@@ -1,0 +1,13 @@
+<map id="carl::RealRadicalAwareAdding::addToGb" name="carl::RealRadicalAwareAdding::addToGb">
+<area shape="rect" id="node1" title=" " alt="" coords="5,137,223,178"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="296,89,396,116"/>
+<area shape="rect" id="node8" href="$d8/d15/a01218.html#ae3d7d6656ab362001ff43fcb07743d94" title="Calculate the remainder of the integer division." alt="" coords="285,144,407,171"/>
+<area shape="rect" id="node9" href="$d8/d15/a01218.html#a071adb1e6bb902cfe32ce96788283170" title="Calculates the separable part of this monomial." alt="" coords="271,203,421,229"/>
+<area shape="rect" id="node3" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="853,53,976,94"/>
+<area shape="rect" id="node4" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1025,5,1173,32"/>
+<area shape="rect" id="node6" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="488,78,611,119"/>
+<area shape="rect" id="node5" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1024,60,1173,87"/>
+<area shape="rect" id="node7" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="677,78,805,119"/>
+<area shape="rect" id="node10" href="$d8/d15/a01218.html#a06f82f23ebc5f7c3cdd66b862e616e40" title=" " alt="" coords="469,261,629,288"/>
+<area shape="rect" id="node11" href="$d4/dfe/a02688.html#ac8e1d2070c80034d1480acb5a2d8271c" title="Returns the number of variables that occur in the monomial." alt="" coords="471,195,627,237"/>
+</map>

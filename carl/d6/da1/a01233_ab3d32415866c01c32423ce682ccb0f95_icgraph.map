@@ -1,0 +1,17 @@
+<map id="carl::inverse" name="carl::inverse">
+<area shape="rect" id="node1" title="Inverts the given relation symbol." alt="" coords="1069,195,1172,222"/>
+<area shape="rect" id="node2" href="$dd/da4/a02295.html#a460891da25e8a9b8bb334ce8ebb5486f" title="Convert this variable comparison &quot;v &lt; root(..)&quot; into a simpler polynomial (in)equality against zero &quot;..." alt="" coords="835,64,1021,105"/>
+<area shape="rect" id="node6" href="$dd/da4/a02295.html#afe2d21471dfe0511cb55284ee2892421" title=" " alt="" coords="835,129,1021,171"/>
+<area shape="rect" id="node7" href="$d2/dbe/a02103.html#ad8f9bbbc6728ccc5a504f02225aeec5a" title=" " alt="" coords="835,195,1021,222"/>
+<area shape="rect" id="node14" href="$d9/de7/a01257.html#ad5b4aa3676afed7d74cc6829a9fa4d7f" title="Applies a substitution to a variable comparison." alt="" coords="857,246,999,273"/>
+<area shape="rect" id="node15" href="$d3/d53/a01262.html#a2ea03fb98dda71ef599f15404b0d2ff7" title="Converts Constraint&lt;RationalFunction&lt;Poly&gt;&gt; to Constraint&lt;Poly&gt;" alt="" coords="837,297,1019,339"/>
+<area shape="rect" id="node3" href="$d8/d08/a02143.html#a5cbfd8ff98373973f4291bbeca66393d" title=" " alt="" coords="635,5,777,47"/>
+<area shape="rect" id="node4" href="$d9/de7/a01257.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="625,71,787,98"/>
+<area shape="rect" id="node5" href="$dc/d58/a03383.html#a36c98e2018c80286af47f607270ed385" title=" " alt="" coords="631,123,781,164"/>
+<area shape="rect" id="node8" href="$d8/d08/a02143.html#a9ff9451eafbea38aa7bbafecb028656d" title=" " alt="" coords="635,188,777,229"/>
+<area shape="rect" id="node9" href="$d8/d08/a02143.html#a79dabd967dde20c943df866812f20c9e" title=" " alt="" coords="435,129,577,171"/>
+<area shape="rect" id="node10" href="$d8/d08/a02143.html#a76ac2c03c880a773a7009dd2cb18972c" title=" " alt="" coords="5,246,175,273"/>
+<area shape="rect" id="node11" href="$d8/d08/a02143.html#a835dcf6bfd95a3f70116379e076c09d2" title=" " alt="" coords="435,272,577,313"/>
+<area shape="rect" id="node12" href="$d8/d08/a02143.html#ad18041d7d21b571f9e81d6dbb107d81c" title=" " alt="" coords="233,297,376,339"/>
+<area shape="rect" id="node13" href="$d8/d08/a02143.html#a4f9eb3aaae57bcc71a054f09e7139879" title=" " alt="" coords="223,363,387,390"/>
+</map>

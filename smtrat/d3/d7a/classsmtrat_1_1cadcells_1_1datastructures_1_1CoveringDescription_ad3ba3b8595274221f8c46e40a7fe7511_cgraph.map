@@ -1,0 +1,6 @@
+<map id="smtrat::cadcells::datastructures::CoveringDescription::add" name="smtrat::cadcells::datastructures::CoveringDescription::add">
+<area shape="rect" id="node1" title="Add a CellDescription to the covering." alt="" coords="5,64,233,105"/>
+<area shape="rect" id="node2" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a37b3964e429be5e1d6ae414800255a11" title=" " alt="" coords="281,5,509,47"/>
+<area shape="rect" id="node3" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a52fb640f3688f5a6d2f3f2cc2400c6df" title=" " alt="" coords="557,93,785,135"/>
+<area shape="rect" id="node4" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a586f191f5ed99e56d916ecf6b533ceca" title="Returns the lower bound as IndexedRoot if finite or std::nullopt if the lower bound is &#45;oo." alt="" coords="281,123,509,164"/>
+</map>

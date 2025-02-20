@@ -1,0 +1,9 @@
+<map id="carl::cos" name="carl::cos">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,81,124"/>
+<area shape="rect" id="node2" href="$df/d71/a02247.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="129,5,291,32"/>
+<area shape="rect" id="node3" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="149,57,271,98"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="136,122,284,163"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="135,187,285,229"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="339,39,487,65"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="339,89,488,116"/>
+</map>

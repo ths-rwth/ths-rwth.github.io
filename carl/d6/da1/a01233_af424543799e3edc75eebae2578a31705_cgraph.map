@@ -1,0 +1,11 @@
+<map id="carl::switch_main_variable" name="carl::switch_main_variable">
+<area shape="rect" id="node1" title="Switches the main variable using a purely syntactical restructuring." alt="" coords="5,46,201,73"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a0afd13ffb079bbb402362a18138b5e17" title="Asserts that this polynomial over numeric coefficients complies with the requirements and assumptions..." alt="" coords="249,5,444,47"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="277,71,417,112"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="492,5,699,47"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#aca1a0a63b9bd18ec2fc62246e88e3d57" title="Calculates the max." alt="" coords="492,71,699,112"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a8215a604fc693189ab2161942a85a6d2" title="Add the variables of the given monomial to the variables." alt="" coords="538,137,653,163"/>
+<area shape="rect" id="node7" href="$d6/d19/a02007.html#a9df560421a3fdbadf68035f008e8b9c7" title=" " alt="" coords="747,137,917,163"/>
+<area shape="rect" id="node8" href="$d7/d98/a02003.html#abfedf1dcbc7eb5d6df23dcf5ea0477e4" title=" " alt="" coords="965,96,1108,137"/>
+<area shape="rect" id="node9" href="$d6/d19/a02007.html#ab22291bd03f45a207ab29ec8bb0aa2f7" title=" " alt="" coords="967,161,1106,203"/>
+</map>

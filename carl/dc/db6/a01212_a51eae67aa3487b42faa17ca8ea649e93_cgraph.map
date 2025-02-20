@@ -1,0 +1,5 @@
+<map id="carl::newUFInstance" name="carl::newUFInstance">
+<area shape="rect" id="node1" title="Gets the uninterpreted function instance with the given name, domain, arguments and codomain." alt="" coords="5,46,160,73"/>
+<area shape="rect" id="node2" href="$df/d0c/a03055.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="208,5,411,47"/>
+<area shape="rect" id="node3" href="$da/d72/a03527.html#a7b4c0490cc7a3a2ed0f64f6cc41a80b5" title="Tries to add the given uninterpreted function instance&#39;s content to the so far stored uninterpreted f..." alt="" coords="217,71,401,112"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="smtrat::qe::fmplex::FMplexQE::constant_column" name="smtrat::qe::fmplex::FMplexQE::constant_column">
+<area shape="rect" id="node1" title=" " alt="" coords="1760,287,1920,343"/>
+<area shape="rect" id="node2" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#acc309c5aebc55b5f85a65a7ca96818f7" title="Constructs a matrix from the given constraints." alt="" coords="1037,159,1217,215"/>
+<area shape="rect" id="node8" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#ae3871c8e6d6a98df2c5d2d0b92212391" title=" " alt="" coords="1289,5,1459,61"/>
+<area shape="rect" id="node9" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#ab19d6a8a238a80d5c32bb35ea0e4574b" title=" " alt="" coords="1520,261,1712,302"/>
+<area shape="rect" id="node16" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a8923747d67c4f6b9cd76554356ea40ee" title=" " alt="" coords="1536,326,1696,367"/>
+<area shape="rect" id="node17" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#ab21dfddba32f3350b5a576ba8c094d34" title="writes the given qe problem as a .ine file as used in CDD lib." alt="" coords="1523,392,1709,448"/>
+<area shape="rect" id="node18" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a69504270bfa6c1cd9ddffa72fa452be1" title=" " alt="" coords="1523,472,1709,528"/>
+<area shape="rect" id="node3" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#afb7f42135595657b5e044ba3f95e9df7" title="Constructs the starting nodes from m_query and m_formula as follows:" alt="" coords="797,175,977,231"/>
+<area shape="rect" id="node4" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a6100f570cde3fba1a3fa5a64cdca3b7c" title=" " alt="" coords="583,211,749,267"/>
+<area shape="rect" id="node5" href="$d7/d08/namespacesmtrat_1_1qe_1_1fmplex.html#a44b1f6d5a7e3f3642a8ff6213b9676e9" title=" " alt="" coords="368,225,535,252"/>
+<area shape="rect" id="node6" href="$d6/d36/namespacesmtrat_1_1qe.html#a84014b7bc895b3c0eb882ff928625fa8" title=" " alt="" coords="207,225,320,252"/>
+<area shape="rect" id="node7" href="$da/ded/classsmtrat_1_1Executor.html#a4a54a30b78ef394c8462991bfb14540f" title=" " alt="" coords="5,225,159,252"/>
+<area shape="rect" id="node10" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a99ce240bdd9a149964b86e71d5f3f6aa" title="truncates the given row to not contain any &quot;origin&quot; information and inserts the result into the set o..." alt="" coords="1301,253,1447,309"/>
+<area shape="rect" id="node13" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#afd1c39cea545b39db20aefb4254c43c9" title=" " alt="" coords="1289,465,1459,506"/>
+<area shape="rect" id="node14" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a908f3b792bd9926a79aa61b9f9318463" title=" " alt="" coords="1287,384,1461,440"/>
+<area shape="rect" id="node15" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#adb1dc0ffc3de8ad285ef18aa656270b9" title=" " alt="" coords="1276,137,1472,178"/>
+<area shape="rect" id="node11" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a0da76a8761f9374d113939ce1935d400" title="Eliminates the chosen column in parent using the next eliminator in parent." alt="" coords="1047,388,1207,444"/>
+<area shape="rect" id="node12" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a96d131349bf9d83b3f608eacedaf7ca7" title="Eliminates the chosen column in parent using Fourier&#45;Motzkin, but discards rows with 0 coeff." alt="" coords="1025,322,1228,363"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="carl::extended_gcd" name="carl::extended_gcd">
+<area shape="rect" id="node1" title="Calculates the extended greatest common divisor g of two polynomials." alt="" coords="508,42,653,69"/>
+<area shape="rect" id="node2" href="$da/dd2/a02701.html#a412e65e91b24e0f84c5f1ce8c787340b" title="EEAlift computes s,t such that s*a + tb == 1 (mod p^k) with deg(s) &lt; deg(b) and deg(t) &lt; deg(a)." alt="" coords="257,5,454,47"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#a598db2a85288fd3d66fb84d9e129ee4d" title=" " alt="" coords="251,71,460,98"/>
+<area shape="rect" id="node3" href="$da/dd2/a02701.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node5" href="$d7/dc5/a01242.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="36,71,172,98"/>
+</map>

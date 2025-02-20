@@ -1,0 +1,10 @@
+<map id="smtrat::union_find::fast_union" name="smtrat::union_find::fast_union">
+<area shape="rect" id="node1" title="As union_, but does NOT compute find(rep1), find(rep2), but assumes both indices are already pointing..." alt="" coords="5,72,145,113"/>
+<area shape="rect" id="node2" href="$d8/d47/classsmtrat_1_1union__find.html#aab6eb3557729cf8418051721bde805a7" title="Find the index of the representative of the entry at index index_." alt="" coords="193,25,333,67"/>
+<area shape="rect" id="node6" href="$d8/d47/classsmtrat_1_1union__find.html#accdf385d02e7b022ee65452a39ef2c76" title="Union the two elements (must be representatives) by rank." alt="" coords="193,104,333,145"/>
+<area shape="rect" id="node3" href="$d8/d47/classsmtrat_1_1union__find.html#a773ff97f8e7a22cef2a455f700475908" title="Perform the find operation (walk the path until an entry with class == index is found)." alt="" coords="425,12,565,53"/>
+<area shape="rect" id="node4" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html#a97bd7f6e889f6f72e76ee7125587dc0b" title=" " alt="" coords="667,5,834,47"/>
+<area shape="rect" id="node5" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html#a790fd4af21c2d6af84b1268edaef1c25" title=" " alt="" coords="657,71,844,112"/>
+<area shape="rect" id="node7" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html#abbe0fdb2a0c20d2ad3bdaa42be0c9862" title=" " alt="" coords="381,129,609,171"/>
+<area shape="rect" id="node8" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html#a7ea0d6028487a456856a32f484e623a3" title=" " alt="" coords="418,195,573,236"/>
+</map>

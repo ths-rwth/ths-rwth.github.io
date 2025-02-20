@@ -1,0 +1,4 @@
+var structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__MIN__TDEG_01_4 =
+[
+    [ "compute", "d6/d80/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__MIN__TDEG_01_4.html#a88a92b53eedc6b4e205eb8376262db8d", null ]
+];

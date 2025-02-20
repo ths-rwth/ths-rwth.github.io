@@ -1,0 +1,8 @@
+<map id="smtrat::SATModule::decrementTseitinShadowOccurrences" name="smtrat::SATModule::decrementTseitinShadowOccurrences">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,271,76"/>
+<area shape="rect" id="node2" href="$df/d4d/classsmtrat_1_1SATModule.html#a7824da3b8e54b8353ef71bbdd90a8298" title="Declare if a variable should be eligible for selection in the decision heuristic." alt="" coords="319,35,473,76"/>
+<area shape="rect" id="node3" href="$df/d4d/classsmtrat_1_1SATModule.html#a2ee64353c1ede20b6c51c1853805d448" title="Insert a variable in the decision order priority queue." alt="" coords="521,35,676,76"/>
+<area shape="rect" id="node4" href="$d9/d0b/classsmtrat_1_1mcsat_1_1MCSATMixin.html#a8d34708879eb61239dbefd8799dd122b" title=" " alt="" coords="724,5,927,47"/>
+<area shape="rect" id="node6" href="$de/dcd/classMinisat_1_1vec.html#a97cf3ce028b39491e502479e78e8dd77" title=" " alt="" coords="758,71,893,98"/>
+<area shape="rect" id="node5" href="$d6/df7/structsmtrat_1_1mcsat_1_1MCSATMixin_1_1VarMapping.html#a448a1c3bbd84e04fe40e9c5a98088746" title=" " alt="" coords="975,5,1177,47"/>
+</map>

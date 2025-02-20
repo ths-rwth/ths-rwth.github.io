@@ -1,0 +1,8 @@
+<map id="smtrat::vs::State::isInconsistent" name="smtrat::vs::State::isInconsistent">
+<area shape="rect" id="node1" title=" " alt="" coords="395,71,533,112"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="192,5,347,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ebd8fb230b32c832382b61418b77af3" title="Prints the conditions, the substitution and the substitution results of this state." alt="" coords="200,71,339,112"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aac0ab6c978037bbefa15b09dccfb3cb6" title="Updates the valuation of this state." alt="" coords="200,136,339,177"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="5,39,144,80"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab992013899d44c280f1e6d3e370f8359" title="Prints the conditions, the substitution and the substitution results of this state and all its childr..." alt="" coords="5,104,144,145"/>
+</map>

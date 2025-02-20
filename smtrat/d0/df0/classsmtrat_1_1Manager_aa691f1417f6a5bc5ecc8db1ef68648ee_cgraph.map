@@ -1,0 +1,35 @@
+<map id="smtrat::Manager::add" name="smtrat::Manager::add">
+<area shape="rect" id="node1" title="Adds the given formula to the conjunction of formulas, which will be considered for the next satisfia..." alt="" coords="5,56,168,83"/>
+<area shape="rect" id="node2" href="$da/d5e/classsmtrat_1_1ModuleInput.html#af3399a6ad8adab758dd050fc69641aa1" title=" " alt="" coords="216,5,403,32"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#ae22d78139ef8bc2e2b725fef516aa822" title="The module has to take the given sub&#45;formula of the received formula into account." alt="" coords="233,289,386,316"/>
+<area shape="rect" id="node5" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a33c1578b6f89d0a72affdd18f73ed3f3" title=" " alt="" coords="2317,492,2504,519"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html#a21107a5b5a7d2d28fde881771b60b883" title="The module has to take the given sub&#45;formula of the received formula into account." alt="" coords="478,239,661,265"/>
+<area shape="rect" id="node6" href="$d8/da6/classsmtrat_1_1Module.html#a49c7a6cdbd281ee4b37c5521d0beffff" title="Sets the solver state to the given answer value." alt="" coords="462,492,677,519"/>
+<area shape="rect" id="node14" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="1813,340,1912,367"/>
+<area shape="rect" id="node24" href="$d8/da6/classsmtrat_1_1Module.html#a26afe62550fa50747b40fa8110f45ee7" title=" " alt="" coords="1754,391,1971,417"/>
+<area shape="rect" id="node29" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="1800,857,1925,884"/>
+<area shape="rect" id="node32" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html#ab20769c7706e897398e94e21c3e95ce7" title=" " alt="" coords="451,107,688,149"/>
+<area shape="rect" id="node33" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html#a2be35870d4d075dd4054b13a881c8ca9" title=" " alt="" coords="451,173,688,214"/>
+<area shape="rect" id="node7" href="$d8/da6/classsmtrat_1_1Module.html#a187af478a527699bcddef30219f2d4a2" title="Checks for all antecedent modules and those which run in parallel with the same antecedent modules,..." alt="" coords="743,543,936,585"/>
+<area shape="rect" id="node8" href="$d8/da6/classsmtrat_1_1Module.html#aac6225af43a080a090f6e79fad797b1c" title=" " alt="" coords="736,612,943,639"/>
+<area shape="rect" id="node31" href="$de/dc5/namespacesmtrat.html#a263915446301dc794986d24f87c53608" title=" " alt="" coords="784,441,895,468"/>
+<area shape="rect" id="node9" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a8e2ff207c9812845c73d357a5a3a0d5e" title=" " alt="" coords="1021,605,1175,646"/>
+<area shape="rect" id="node15" href="$d8/da6/classsmtrat_1_1Module.html#a366279a34b155daaad3c2e725e1bc833" title="Updates the model, if the solver has detected the consistency of the received formula,..." alt="" coords="991,704,1205,731"/>
+<area shape="rect" id="node10" href="$d5/d50/classsmtrat_1_1FormulaWithOrigins.html#a5029e24043afc8c265e06957847b6650" title=" " alt="" coords="1259,543,1462,585"/>
+<area shape="rect" id="node11" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="1289,609,1433,650"/>
+<area shape="rect" id="node12" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="1529,609,1681,650"/>
+<area shape="rect" id="node13" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="1533,543,1677,585"/>
+<area shape="rect" id="node16" href="$d8/da6/classsmtrat_1_1Module.html#a0415e67e497d28ffbafa9852128ff54e" title="Clears the assignment, if any was found." alt="" coords="1260,675,1461,701"/>
+<area shape="rect" id="node17" href="$d8/da6/classsmtrat_1_1Module.html#a8bcca0466e1fa969e832b2fded931793" title="Excludes all variables from the current model, which do not occur in the received formula." alt="" coords="1253,791,1468,833"/>
+<area shape="rect" id="node30" href="$d8/da6/classsmtrat_1_1Module.html#ac2d762b60d122194af81aab8ce323d11" title=" " alt="" coords="1255,726,1467,767"/>
+<area shape="rect" id="node18" href="$d8/da6/classsmtrat_1_1Module.html#ac9e261ff1437fae50824387e7795bfd0" title="Removes everything related to the given sub&#45;formula of the received formula." alt="" coords="1516,675,1695,701"/>
+<area shape="rect" id="node19" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a1000cc9ead9e4de0e876a9ebd83871ac" title=" " alt="" coords="1785,609,1940,650"/>
+<area shape="rect" id="node20" href="$d8/da6/classsmtrat_1_1Module.html#aa54e1bd9e37934f715dd5a60865cabeb" title="Removes everything related to the sub&#45;formula to remove from the passed formula in the backends of th..." alt="" coords="1743,543,1983,585"/>
+<area shape="rect" id="node25" href="$d8/da6/classsmtrat_1_1Module.html#a845034a483277da857f82401b0dcb9d2" title="Removes everything related to the given sub&#45;formula of the received formula." alt="" coords="1758,675,1967,701"/>
+<area shape="rect" id="node26" href="$da/d5e/classsmtrat_1_1ModuleInput.html#acbb9ea1cc0840294de98343cf8c24ba9" title=" " alt="" coords="2073,426,2227,467"/>
+<area shape="rect" id="node27" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html#a78fe38812e547466468213d4add383ac" title=" " alt="" coords="1744,726,1981,767"/>
+<area shape="rect" id="node28" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html#a61691b1bc1c47c43b402cc44510d3017" title=" " alt="" coords="1744,791,1981,833"/>
+<area shape="rect" id="node21" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a65f03a1f668e4a8f961b7cf5b9575d2d" title=" " alt="" coords="2073,645,2227,686"/>
+<area shape="rect" id="node22" href="$da/d5e/classsmtrat_1_1ModuleInput.html#ac854d7dbb916c2016483e250c08bfd63" title=" " alt="" coords="2073,710,2227,751"/>
+<area shape="rect" id="node23" href="$d0/df0/classsmtrat_1_1Manager.html#aaf6cd4c8583f7fa3bba580018171c2c9" title="Gets all backends so far instantiated according the strategy and all previous enquiries of the given ..." alt="" coords="2031,593,2269,620"/>
+</map>

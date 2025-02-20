@@ -1,0 +1,13 @@
+<map id="delta::Producer::process" name="delta::Producer::process">
+<area shape="rect" id="node1" title="Performs the actual simplifications." alt="" coords="5,107,184,133"/>
+<area shape="rect" id="node2" href="$de/ddf/structdelta_1_1Node.html#a78d2d5403a49d5280bb18bf541816529" title="Clone this node recursively." alt="" coords="260,5,400,32"/>
+<area shape="rect" id="node4" href="$d4/dff/classdelta_1_1Consumer.html#ab395c6b48819861783590f69589e6c74" title="Initiate asynchronous check for the given node." alt="" coords="232,56,428,83"/>
+<area shape="rect" id="node9" href="$d1/dd4/classdelta_1_1Settings.html#a9f6d6e2466fd20adeafc0a6df21a65db" title="Checks if there is an option with this name." alt="" coords="257,107,403,133"/>
+<area shape="rect" id="node10" href="$de/ddf/structdelta_1_1Node.html#ae2c7ea8b20171a4fabcd406ebd34db76" title="Checks if this node is immutable." alt="" coords="242,157,418,184"/>
+<area shape="rect" id="node11" href="$de/ddf/structdelta_1_1Node.html#ab4727458505b64ead3c0d35fb968daaf" title="Returns a string representation of this node." alt="" coords="265,208,395,235"/>
+<area shape="rect" id="node3" href="$de/ddf/structdelta_1_1Node.html#a6928b64aedbe82171fd4b8cdb7f194ef" title="Create an empty node." alt="" coords="501,5,640,32"/>
+<area shape="rect" id="node5" href="$d4/dff/classdelta_1_1Consumer.html#a695d3f487e255355057e75ad5036c4c1" title="Checks if at least one job was successful." alt="" coords="739,57,940,84"/>
+<area shape="rect" id="node6" href="$d4/dff/classdelta_1_1Consumer.html#ac01d93c3f6ad9dba72c09ebf646ab0dc" title="Calls the checker and checks the result." alt="" coords="476,107,665,149"/>
+<area shape="rect" id="node7" href="$d2/d5d/classdelta_1_1TempFilenameGenerator.html#a7e147514277cb4fc82a2be4d971aa4d4" title="Retrieve a filename for a temporary file that is not in use." alt="" coords="713,112,965,139"/>
+<area shape="rect" id="node8" href="$d2/d5d/classdelta_1_1TempFilenameGenerator.html#ac4b51fa8d516d851a45fc76f8772df87" title="Returns a filename to the pool of available filenames." alt="" coords="713,163,965,189"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="delta::TempFilenameGenerator::get" name="delta::TempFilenameGenerator::get">
+<area shape="rect" id="node1" title="Retrieve a filename for a temporary file that is not in use." alt="" coords="1151,31,1403,57"/>
+<area shape="rect" id="node2" href="$d4/dff/classdelta_1_1Consumer.html#ac01d93c3f6ad9dba72c09ebf646ab0dc" title="Calls the checker and checks the result." alt="" coords="913,23,1103,65"/>
+<area shape="rect" id="node3" href="$d4/dff/classdelta_1_1Consumer.html#ab395c6b48819861783590f69589e6c74" title="Initiate asynchronous check for the given node." alt="" coords="669,31,865,57"/>
+<area shape="rect" id="node4" href="$da/d13/classdelta_1_1Producer.html#a5d32c4ded9f921f1690732807483727c" title="Performs the actual simplifications." alt="" coords="443,31,621,57"/>
+<area shape="rect" id="node5" href="$da/d13/classdelta_1_1Producer.html#aac07e57572d273bb2c2b34f46cceef5c" title="Iterate over nodes using BFS." alt="" coords="247,5,395,32"/>
+<area shape="rect" id="node7" href="$da/d13/classdelta_1_1Producer.html#a0b930803ee6e74fa10a05575f9c456d4" title="Iterate over nodes using DFS." alt="" coords="247,56,395,83"/>
+<area shape="rect" id="node6" href="$da/d13/classdelta_1_1Producer.html#a178bca4117f96734ba66b439c0fa9559" title="Apply simplifications to the given node." alt="" coords="5,31,199,57"/>
+</map>

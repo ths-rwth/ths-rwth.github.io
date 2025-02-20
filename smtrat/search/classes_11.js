@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['randomizationadaptor_7940',['RandomizationAdaptor',['../db/d34/classbenchmax_1_1RandomizationAdaptor.html',1,'benchmax']]],
+  ['ratintblast_7941',['RatIntBlast',['../d6/d49/classsmtrat_1_1RatIntBlast.html',1,'smtrat']]],
+  ['rationalcapsule_7942',['RationalCapsule',['../d3/d5d/classsmtrat_1_1RationalCapsule.html',1,'smtrat']]],
+  ['rationalpolicies_7943',['RationalPolicies',['../d5/d81/structsmtrat_1_1parser_1_1RationalPolicies.html',1,'smtrat::parser']]],
+  ['realalgebraicpoint_7944',['RealAlgebraicPoint',['../d7/d6b/classsmtrat_1_1mcsat_1_1onecellcad_1_1RealAlgebraicPoint.html',1,'smtrat::mcsat::onecellcad']]],
+  ['realalgebraicpoint_3c_20rational_20_3e_7945',['RealAlgebraicPoint&lt; Rational &gt;',['../d7/d6b/classsmtrat_1_1mcsat_1_1onecellcad_1_1RealAlgebraicPoint.html',1,'smtrat::mcsat::onecellcad']]],
+  ['recursivecad_7946',['RecursiveCAD',['../d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html',1,'smtrat::mcsat::onecellcad::recursive']]],
+  ['reducta_7947',['Reducta',['../d8/d94/structsmtrat_1_1cad_1_1projection_1_1Reducta.html',1,'smtrat::cad::projection']]],
+  ['regionallocator_7948',['RegionAllocator',['../da/d2d/classMinisat_1_1RegionAllocator.html',1,'Minisat']]],
+  ['regionallocator_3c_20uint32_5ft_20_3e_7949',['RegionAllocator&lt; uint32_t &gt;',['../da/d2d/classMinisat_1_1RegionAllocator.html',1,'Minisat']]],
+  ['result_7950',['result',['../d4/d70/structsmtrat_1_1parser_1_1ErrorHandler_1_1result.html',1,'smtrat::parser::ErrorHandler']]],
+  ['resultantrule_7951',['ResultantRule',['../dd/d7f/classsmtrat_1_1cad_1_1preprocessor_1_1ResultantRule.html',1,'smtrat::cad::preprocessor']]],
+  ['results_7952',['Results',['../dd/d8d/classbenchmax_1_1Results.html',1,'benchmax']]],
+  ['rnsencoder_7953',['RNSEncoder',['../dd/d7e/classsmtrat_1_1RNSEncoder.html',1,'smtrat']]],
+  ['root_5fordering_5fholds_7954',['root_ordering_holds',['../d8/dd0/structsmtrat_1_1cadcells_1_1operators_1_1properties_1_1root__ordering__holds.html',1,'smtrat::cadcells::operators::properties']]],
+  ['rootfunction_7955',['RootFunction',['../db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html',1,'smtrat::cadcells::datastructures']]],
+  ['rootindexer_7956',['RootIndexer',['../d2/dfb/classsmtrat_1_1mcsat_1_1arithmetic_1_1RootIndexer.html',1,'smtrat::mcsat::arithmetic']]],
+  ['rootindexer_3c_20typename_20poly_3a_3aroottype_20_3e_7957',['RootIndexer&lt; typename Poly::RootType &gt;',['../d2/dfb/classsmtrat_1_1mcsat_1_1arithmetic_1_1RootIndexer.html',1,'smtrat::mcsat::arithmetic']]],
+  ['rootindexer_3c_20typename_20polynomial_3a_3aroottype_20_3e_7958',['RootIndexer&lt; typename Polynomial::RootType &gt;',['../d2/dfb/classsmtrat_1_1mcsat_1_1arithmetic_1_1RootIndexer.html',1,'smtrat::mcsat::arithmetic']]],
+  ['row_5fiterator_7959',['row_iterator',['../db/d6b/structsmtrat_1_1fmplex_1_1Matrix_1_1row__iterator.html',1,'smtrat::fmplex::Matrix::row_iterator'],['../da/d89/structsmtrat_1_1qe_1_1util_1_1Matrix_1_1row__iterator.html',1,'smtrat::qe::util::Matrix::row_iterator']]],
+  ['row_5fview_7960',['row_view',['../d4/dd9/structsmtrat_1_1fmplex_1_1Matrix_1_1row__view.html',1,'smtrat::fmplex::Matrix::row_view'],['../d2/dd2/structsmtrat_1_1qe_1_1util_1_1Matrix_1_1row__view.html',1,'smtrat::qe::util::Matrix::row_view']]],
+  ['rowentry_7961',['RowEntry',['../df/d0e/structsmtrat_1_1fmplex_1_1Matrix_1_1RowEntry.html',1,'smtrat::fmplex::Matrix::RowEntry'],['../db/d86/structsmtrat_1_1qe_1_1util_1_1Matrix_1_1RowEntry.html',1,'smtrat::qe::util::Matrix::RowEntry']]]
+];

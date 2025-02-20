@@ -1,0 +1,7 @@
+<map id="carl::operator*=" name="carl::operator*=">
+<area shape="rect" id="node1" title="Multiply a term with something and return the changed term." alt="" coords="5,56,132,83"/>
+<area shape="rect" id="node2" href="$d1/d34/a01211.html#a7670484a58c6d02292806388a4d5d8c2" title="Set the term to zero with the canonical representation." alt="" coords="180,5,307,32"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="180,56,307,83"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="196,107,291,133"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="355,99,561,141"/>
+</map>

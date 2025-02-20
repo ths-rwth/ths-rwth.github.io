@@ -1,0 +1,5 @@
+<map id="smtrat::cad::projection::resultant" name="smtrat::cad::projection::resultant">
+<area shape="rect" id="node1" title="Computes the resultant of two polynomials." alt="" coords="5,39,175,80"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="233,5,403,47"/>
+<area shape="rect" id="node3" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#ae78f1ba02e35a73db902d0714ea7f1c6" title=" " alt="" coords="223,71,413,112"/>
+</map>

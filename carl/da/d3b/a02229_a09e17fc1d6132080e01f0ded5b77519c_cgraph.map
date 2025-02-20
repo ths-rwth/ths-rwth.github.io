@@ -1,0 +1,20 @@
+<map id="carl::GBProcedure::reduceInput" name="carl::GBProcedure::reduceInput">
+<area shape="rect" id="node1" title="Reduce the input polynomials using the other input polynomials and the current Groebner basis." alt="" coords="5,49,152,90"/>
+<area shape="rect" id="node2" href="$d7/d24/a02261.html#a081d3675249862e5f371872dadc4a113" title=" " alt="" coords="203,5,386,32"/>
+<area shape="rect" id="node3" href="$de/d1b/a02269.html#a3d516020e3dc295520570680fecef702" title="Uses the ideal to reduce a polynomial as far as possible." alt="" coords="200,165,389,192"/>
+<area shape="rect" id="node10" href="$d7/dc5/a01242.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="931,300,1031,327"/>
+<area shape="rect" id="node4" href="$da/df1/a02961.html#ac7c9a53b2fae27b4f10acd9484edc7f2" title=" " alt="" coords="443,165,596,192"/>
+<area shape="rect" id="node5" href="$de/d1b/a02269.html#af8fc2542f3a78c6ac32ce0e0e664d515" title="The basic reduce routine on a priority queue." alt="" coords="437,275,601,301"/>
+<area shape="rect" id="node6" href="$da/df1/a02961.html#a3f90dfe263ad840f3269921c83f12cba" title=" " alt="" coords="676,107,856,149"/>
+<area shape="rect" id="node7" href="$da/d7d/a02785.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="703,173,829,200"/>
+<area shape="rect" id="node8" href="$d7/d24/a02261.html#abdceb8b916f3fe7e9a598d0af2282e53" title=" " alt="" coords="685,224,847,251"/>
+<area shape="rect" id="node9" href="$de/d1b/a02269.html#afa27dbe57cdb1348491fbc2b104cf4b3" title=" " alt="" coords="687,325,845,352"/>
+<area shape="rect" id="node16" href="$da/d7d/a02785.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="686,376,846,403"/>
+<area shape="rect" id="node17" href="$dd/d02/a02185.html#a046c02905cd708c0ff4268edda8597f2" title=" " alt="" coords="669,427,863,469"/>
+<area shape="rect" id="node18" href="$de/d1b/a02269.html#af185526c0e93a834b4d5c22bdb189672" title="A small routine which updates the underlying data structure for the polynomial which is reduced." alt="" coords="649,275,883,301"/>
+<area shape="rect" id="node11" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1425,326,1548,367"/>
+<area shape="rect" id="node12" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1597,279,1745,305"/>
+<area shape="rect" id="node14" href="$d0/d80/a02281.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="1079,351,1201,393"/>
+<area shape="rect" id="node13" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1596,333,1745,360"/>
+<area shape="rect" id="node15" href="$d0/d80/a02281.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1249,351,1377,393"/>
+</map>

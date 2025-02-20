@@ -1,0 +1,10 @@
+<map id="carl::TarskiQueryManager::reduceProduct" name="carl::TarskiQueryManager::reduceProduct">
+<area shape="rect" id="node1" title=" " alt="" coords="5,19,193,61"/>
+<area shape="rect" id="node2" href="$d4/d57/a02882.html#a17a7e7510c4be945ae4398b07d420042" title=" " alt="" coords="241,19,429,61"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="477,27,577,53"/>
+<area shape="rect" id="node4" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="972,53,1095,94"/>
+<area shape="rect" id="node5" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1143,5,1291,32"/>
+<area shape="rect" id="node7" href="$dc/d5a/a02254.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="625,78,748,119"/>
+<area shape="rect" id="node6" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1143,60,1292,87"/>
+<area shape="rect" id="node8" href="$dc/d5a/a02254.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="796,78,924,119"/>
+</map>

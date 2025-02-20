@@ -1,0 +1,54 @@
+<map id="smtrat::preprocessor::Preprocessor::check" name="smtrat::preprocessor::Preprocessor::check">
+<area shape="rect" id="node1" title=" " alt="" coords="5,669,165,711"/>
+<area shape="rect" id="node2" href="$d0/df0/classsmtrat_1_1Manager.html#ad4ceacd4b82f11b14ada8f3ddd969b4f" title="Checks the so far added formulas for satisfiability." alt="" coords="221,546,397,573"/>
+<area shape="rect" id="node49" href="$d0/df0/classsmtrat_1_1Manager.html#acb16413417b304fea77259476e31ed97" title=" " alt="" coords="213,699,405,740"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#aa62260ca322fb39c8132b0acdecd33c3" title="Checks the received formula for consistency." alt="" coords="475,363,642,390"/>
+<area shape="rect" id="node47" href="$d0/df0/classsmtrat_1_1Manager.html#a79ece9acb179f6bb004241e938dbd426" title=" " alt="" coords="459,568,658,609"/>
+<area shape="rect" id="node48" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a59037e7946240497dc74e548a7e00e9b" title="Updates all properties of the formula underlying this module input." alt="" coords="1282,480,1437,521"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html#abae976e2d4f316e0d6644302cfde8d70" title="Checks the received formula for consistency." alt="" coords="2025,90,2223,117"/>
+<area shape="rect" id="node11" href="$d8/da6/classsmtrat_1_1Module.html#ae14e4051462fdb49ba5955029e8b3f66" title="Deletes all yet found lemmas." alt="" coords="722,217,939,243"/>
+<area shape="rect" id="node12" href="$da/d5e/classsmtrat_1_1ModuleInput.html#ae21da7441126fe463451956019adefa1" title=" " alt="" coords="753,268,908,309"/>
+<area shape="rect" id="node13" href="$d8/da6/classsmtrat_1_1Module.html#a49c7a6cdbd281ee4b37c5521d0beffff" title="Sets the solver state to the given answer value." alt="" coords="723,567,938,594"/>
+<area shape="rect" id="node30" href="$d8/da6/classsmtrat_1_1Module.html#a26afe62550fa50747b40fa8110f45ee7" title=" " alt="" coords="2015,357,2233,383"/>
+<area shape="rect" id="node37" href="$d8/da6/classsmtrat_1_1Module.html#a9f818f3b3a9682b790bebdc66a03df94" title=" " alt="" coords="739,151,923,192"/>
+<area shape="rect" id="node39" href="$d8/da6/classsmtrat_1_1Module.html#abfc1cd5ac0122329f7051b67c79f053c" title="Prints everything relevant of the solver." alt="" coords="1787,233,1946,259"/>
+<area shape="rect" id="node43" href="$d8/da6/classsmtrat_1_1Module.html#ac192c6846ed100cec4285851b84139f1" title="Notifies that the received formulas has been checked." alt="" coords="1267,793,1452,835"/>
+<area shape="rect" id="node44" href="$d8/da6/classsmtrat_1_1Module.html#ab05e438caef4485af13d0b103bcd886f" title=" " alt="" coords="733,385,928,427"/>
+<area shape="rect" id="node45" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html#a85f676264768837dc788d7bdbbc8c02b" title=" " alt="" coords="712,451,949,492"/>
+<area shape="rect" id="node46" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html#a9bd14d86388eea378cf397a8de98166e" title=" " alt="" coords="712,779,949,820"/>
+<area shape="rect" id="node5" href="$d8/da6/classsmtrat_1_1Module.html#a06ad858dab391f2e26087311dd3a799d" title="Copies the given sub&#45;formula of the received formula to the passed formula." alt="" coords="2305,5,2518,47"/>
+<area shape="rect" id="node7" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a1000cc9ead9e4de0e876a9ebd83871ac" title=" " alt="" coords="2334,291,2489,332"/>
+<area shape="rect" id="node8" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a33c1578b6f89d0a72affdd18f73ed3f3" title=" " alt="" coords="2599,559,2786,586"/>
+<area shape="rect" id="node9" href="$d8/da6/classsmtrat_1_1Module.html#af0d682ffa4e1e9d6167b1c87695ef50e" title="Copies the infeasible subsets of the passed formula." alt="" coords="2304,123,2519,164"/>
+<area shape="rect" id="node10" href="$d8/da6/classsmtrat_1_1Module.html#a48420cdd01020f552082927a98904f00" title=" " alt="" coords="2305,71,2517,98"/>
+<area shape="rect" id="node6" href="$d8/da6/classsmtrat_1_1Module.html#a4966e7cbfd19dc31379a053dae95d35b" title="Adds the given formula to the passed formula with no origin." alt="" coords="2579,5,2807,47"/>
+<area shape="rect" id="node14" href="$d8/da6/classsmtrat_1_1Module.html#a187af478a527699bcddef30219f2d4a2" title="Checks for all antecedent modules and those which run in parallel with the same antecedent modules,..." alt="" coords="1004,611,1197,652"/>
+<area shape="rect" id="node15" href="$d8/da6/classsmtrat_1_1Module.html#aac6225af43a080a090f6e79fad797b1c" title=" " alt="" coords="997,559,1204,586"/>
+<area shape="rect" id="node36" href="$de/dc5/namespacesmtrat.html#a263915446301dc794986d24f87c53608" title=" " alt="" coords="1045,677,1156,703"/>
+<area shape="rect" id="node16" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a8e2ff207c9812845c73d357a5a3a0d5e" title=" " alt="" coords="1282,545,1437,587"/>
+<area shape="rect" id="node22" href="$d8/da6/classsmtrat_1_1Module.html#a366279a34b155daaad3c2e725e1bc833" title="Updates the model, if the solver has detected the consistency of the received formula,..." alt="" coords="1252,651,1467,678"/>
+<area shape="rect" id="node17" href="$d5/d50/classsmtrat_1_1FormulaWithOrigins.html#a5029e24043afc8c265e06957847b6650" title=" " alt="" coords="1521,480,1723,521"/>
+<area shape="rect" id="node18" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="1550,545,1694,587"/>
+<area shape="rect" id="node19" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="1791,552,1943,593"/>
+<area shape="rect" id="node20" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="1795,487,1939,528"/>
+<area shape="rect" id="node21" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="2075,407,2173,434"/>
+<area shape="rect" id="node23" href="$d8/da6/classsmtrat_1_1Module.html#a0415e67e497d28ffbafa9852128ff54e" title="Clears the assignment, if any was found." alt="" coords="1521,742,1723,769"/>
+<area shape="rect" id="node24" href="$d8/da6/classsmtrat_1_1Module.html#a8bcca0466e1fa969e832b2fded931793" title="Excludes all variables from the current model, which do not occur in the received formula." alt="" coords="1515,611,1729,652"/>
+<area shape="rect" id="node35" href="$d8/da6/classsmtrat_1_1Module.html#ac2d762b60d122194af81aab8ce323d11" title=" " alt="" coords="1516,676,1728,717"/>
+<area shape="rect" id="node25" href="$d8/da6/classsmtrat_1_1Module.html#ac9e261ff1437fae50824387e7795bfd0" title="Removes everything related to the given sub&#45;formula of the received formula." alt="" coords="1777,618,1956,645"/>
+<area shape="rect" id="node26" href="$d8/da6/classsmtrat_1_1Module.html#aa54e1bd9e37934f715dd5a60865cabeb" title="Removes everything related to the sub&#45;formula to remove from the passed formula in the backends of th..." alt="" coords="2004,741,2244,783"/>
+<area shape="rect" id="node31" href="$d8/da6/classsmtrat_1_1Module.html#a4860fef9d3a0e0bb6c65d3f64a7d6b3f" title="Removes everything related to the given sub&#45;formula of the received formula." alt="" coords="2019,807,2229,834"/>
+<area shape="rect" id="node32" href="$da/d5e/classsmtrat_1_1ModuleInput.html#acbb9ea1cc0840294de98343cf8c24ba9" title=" " alt="" coords="2334,493,2489,535"/>
+<area shape="rect" id="node33" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html#a78fe38812e547466468213d4add383ac" title=" " alt="" coords="2005,611,2243,652"/>
+<area shape="rect" id="node34" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html#a61691b1bc1c47c43b402cc44510d3017" title=" " alt="" coords="2005,676,2243,717"/>
+<area shape="rect" id="node27" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a65f03a1f668e4a8f961b7cf5b9575d2d" title=" " alt="" coords="2334,611,2489,652"/>
+<area shape="rect" id="node28" href="$da/d5e/classsmtrat_1_1ModuleInput.html#ac854d7dbb916c2016483e250c08bfd63" title=" " alt="" coords="2334,676,2489,717"/>
+<area shape="rect" id="node29" href="$d0/df0/classsmtrat_1_1Manager.html#aaf6cd4c8583f7fa3bba580018171c2c9" title="Gets all backends so far instantiated according the strategy and all previous enquiries of the given ..." alt="" coords="2292,742,2531,769"/>
+<area shape="rect" id="node38" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a5e45ded4df74715f6a002700ce76194e" title=" " alt="" coords="1023,151,1178,192"/>
+<area shape="rect" id="node40" href="$d8/da6/classsmtrat_1_1Module.html#a57239751b5329c1fc1f3bef24b9d38c9" title="Prints the infeasible subsets." alt="" coords="2013,160,2235,201"/>
+<area shape="rect" id="node41" href="$d8/da6/classsmtrat_1_1Module.html#afb72be4e624fef78f5ca99f97402e409" title="Prints the vector of passed formula." alt="" coords="2022,225,2226,267"/>
+<area shape="rect" id="node42" href="$d8/da6/classsmtrat_1_1Module.html#a0cd582c36e720d2596f6cc09e6c565a8" title="Prints the vector of the received formula." alt="" coords="2015,291,2233,332"/>
+<area shape="rect" id="node50" href="$d8/da6/classsmtrat_1_1Module.html#a4d38c32311a62c30c64f6d0a2d988401" title=" " alt="" coords="453,837,664,879"/>
+<area shape="rect" id="node51" href="$d8/da6/classsmtrat_1_1Module.html#a843caab86c8e586b3d87778f66bb267d" title=" " alt="" coords="729,845,932,871"/>
+<area shape="rect" id="node52" href="$d8/da6/classsmtrat_1_1Module.html#a1594bed64259e4d7e749b3c4713f79ac" title=" " alt="" coords="719,895,942,922"/>
+</map>

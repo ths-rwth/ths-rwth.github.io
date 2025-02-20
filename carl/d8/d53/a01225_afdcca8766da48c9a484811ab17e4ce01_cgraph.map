@@ -1,0 +1,16 @@
+<map id="carl::constraint::normalize_consistency_inplace" name="carl::constraint::normalize_consistency_inplace">
+<area shape="rect" id="node1" title=" " alt="" coords="5,154,197,195"/>
+<area shape="rect" id="node2" href="$d8/d53/a01225.html#a0f7cf139f2dfc087c4b6aa2345ac819e" title=" " alt="" coords="245,154,428,195"/>
+<area shape="rect" id="node3" href="$d8/d8e/a01224.html#a5579996718779de958a6f2b776d6a57d" title=" " alt="" coords="476,81,609,108"/>
+<area shape="rect" id="node12" href="$d8/d8e/a01224.html#a6aa5825a5dcfebf46047bb9ccd307025" title=" " alt="" coords="487,187,598,213"/>
+<area shape="rect" id="node13" href="$d3/d79/a02083.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="657,179,840,205"/>
+<area shape="rect" id="node14" href="$d3/d79/a02083.html#ae763563c9b0ec6df9b736f0095c8392f" title=" " alt="" coords="671,230,827,271"/>
+<area shape="rect" id="node4" href="$dc/d40/a02767.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="685,128,812,155"/>
+<area shape="rect" id="node5" href="$d8/d8e/a01224.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="699,27,799,53"/>
+<area shape="rect" id="node11" href="$dc/d40/a02767.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="669,77,829,104"/>
+<area shape="rect" id="node6" href="$d4/d4a/a02263.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1235,53,1357,94"/>
+<area shape="rect" id="node7" href="$d4/d4a/a02263.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1406,5,1554,32"/>
+<area shape="rect" id="node9" href="$d4/d4a/a02263.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="888,78,1011,119"/>
+<area shape="rect" id="node8" href="$d4/d4a/a02263.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1405,60,1555,87"/>
+<area shape="rect" id="node10" href="$d4/d4a/a02263.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1059,78,1187,119"/>
+</map>

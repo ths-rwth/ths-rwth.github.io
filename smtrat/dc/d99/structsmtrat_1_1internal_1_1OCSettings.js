@@ -1,0 +1,27 @@
+var structsmtrat_1_1internal_1_1OCSettings =
+[
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#aa1402088a8545cadc9cccccc7d76e01a", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a31c13aa25005a842ddbe41badc34d631", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a04add284566ad64db40a889751d76de9", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a31c13aa25005a842ddbe41badc34d631", null ],
+    [ "cell_heuristic", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a129246f0a5b6b7609f9b5ac702516073", null ],
+    [ "clause_chain_with_equivalences", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a7cacd64df299173dcca5cb48369b20ef", null ],
+    [ "clause_chain_with_equivalences", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a7cacd64df299173dcca5cb48369b20ef", null ],
+    [ "covering_heuristic", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a5ac5d0da9bffab1ca3d75dc193dcccf8", null ],
+    [ "enforce_tarski", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#aced0d4c7b5faf9c38a6bbadd521b6f16", null ],
+    [ "enforce_tarski", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#aced0d4c7b5faf9c38a6bbadd521b6f16", null ],
+    [ "exploit_strict_constraints", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a590cd64bc7c11137525eb7bdfaa3f3a2", null ],
+    [ "op", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#aa1402088a8545cadc9cccccc7d76e01a", null ],
+    [ "use_approximation", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a4ec8d1284ad3b97701275bf1a12fb605", null ],
+    [ "use_approximation", "dc/d99/structsmtrat_1_1internal_1_1OCSettings.html#a4ec8d1284ad3b97701275bf1a12fb605", null ]
+];

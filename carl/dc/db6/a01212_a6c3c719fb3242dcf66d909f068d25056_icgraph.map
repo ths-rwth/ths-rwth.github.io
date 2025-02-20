@@ -1,0 +1,10 @@
+<map id="carl::cos" name="carl::cos">
+<area shape="rect" id="node1" title=" " alt="" coords="443,148,519,175"/>
+<area shape="rect" id="node2" href="$da/db3/a02343.html#a03aa8406248a03e41aa95aec63b407ad" title="Function which calculates the cosine of this number and puts it into a passed result parameter." alt="" coords="234,31,373,57"/>
+<area shape="rect" id="node5" href="$da/db3/a02343.html#a37fac52015178d1a64751d6f42e1bed0" title="Assigns the number the cosine of this number." alt="" coords="234,82,373,123"/>
+<area shape="rect" id="node6" href="$dc/db6/a01212.html#a80fa6b2134ae7993cb2eb77952c6d254" title=" " alt="" coords="241,148,366,175"/>
+<area shape="rect" id="node7" href="$dd/d3b/a02291.html#a753ceaa6e92270654f850742b43b9f42" title=" " alt="" coords="212,199,395,225"/>
+<area shape="rect" id="node8" href="$dd/d3b/a02291.html#a5b766a4a4856810f740ad9c7126956f1" title=" " alt="" coords="221,249,385,276"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#aa4ce1340c1b16f19987cf5157c8c68ee" title=" " alt="" coords="47,5,123,32"/>
+<area shape="rect" id="node4" href="$da/db3/a02343.html#a5246fc4d7af5b17e216a3e10f4d56512" title="Function required for extension of Eigen3 with FLOAT_T as a custom type which calculates the cosine." alt="" coords="5,56,164,83"/>
+</map>

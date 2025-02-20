@@ -1,0 +1,8 @@
+<map id="carl::SPolynomial" name="carl::SPolynomial">
+<area shape="rect" id="node1" title="Calculates the S&#45;Polynomial of two polynomials." alt="" coords="5,143,140,170"/>
+<area shape="rect" id="node2" href="$d1/d34/a01211.html#af716ddd074dd7a443647e6da6ed728ed" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="188,5,395,47"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="188,71,395,112"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="188,136,395,177"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="188,201,395,243"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#a412ac3d8055ff37b9c8756d4ec451c53" title="For the polynomial p, the function calculates a polynomial p &#45; lt(p)." alt="" coords="188,267,395,308"/>
+</map>

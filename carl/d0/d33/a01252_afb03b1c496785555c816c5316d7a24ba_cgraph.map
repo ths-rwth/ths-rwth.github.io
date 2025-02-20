@@ -1,0 +1,11 @@
+<map id="carl::ran::interval::algebraic_substitution_groebner" name="carl::ran::interval::algebraic_substitution_groebner">
+<area shape="rect" id="node1" title="Implements algebraic substitution by Gröbner basis computation." alt="" coords="5,93,180,149"/>
+<area shape="rect" id="node2" href="$d0/d33/a01252.html#a2e5a506d3ce86f7a7f77de3f77a1fc13" title="Implements algebraic substitution by Gröbner basis computation." alt="" coords="228,93,403,149"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="451,71,591,112"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a8215a604fc693189ab2161942a85a6d2" title="Add the variables of the given monomial to the variables." alt="" coords="685,137,799,163"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="639,5,845,47"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#aca1a0a63b9bd18ec2fc62246e88e3d57" title="Calculates the max." alt="" coords="639,71,845,112"/>
+<area shape="rect" id="node7" href="$d6/d19/a02007.html#a9df560421a3fdbadf68035f008e8b9c7" title=" " alt="" coords="893,137,1064,163"/>
+<area shape="rect" id="node8" href="$d7/d98/a02003.html#abfedf1dcbc7eb5d6df23dcf5ea0477e4" title=" " alt="" coords="1112,96,1255,137"/>
+<area shape="rect" id="node9" href="$d6/d19/a02007.html#ab22291bd03f45a207ab29ec8bb0aa2f7" title=" " alt="" coords="1114,161,1253,203"/>
+</map>

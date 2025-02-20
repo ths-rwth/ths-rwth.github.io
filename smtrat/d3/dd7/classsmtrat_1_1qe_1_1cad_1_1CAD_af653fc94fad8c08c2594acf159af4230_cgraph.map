@@ -1,0 +1,11 @@
+<map id="smtrat::qe::cad::CAD::reset" name="smtrat::qe::cad::CAD::reset">
+<area shape="rect" id="node1" title=" " alt="" coords="5,124,161,165"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a0359aab839cf22a8b245e2283ffe7961" title="Resets all datastructures, use the given variables from now on." alt="" coords="212,59,413,100"/>
+<area shape="rect" id="node7" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a8379f8cbf62a795dfb10a118f83ba851" title=" " alt="" coords="209,124,416,165"/>
+<area shape="rect" id="node9" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="250,190,375,217"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="464,5,665,47"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af1c4a845a809170ee3744feaa7ee07ef" title="Returns the variables used for projection." alt="" coords="996,60,1197,101"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="713,13,948,39"/>
+<area shape="rect" id="node6" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#ae7d22ef2db76ccf1574655744d00cfe7" title=" " alt="" coords="1245,89,1452,131"/>
+<area shape="rect" id="node8" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html#aa8570d0c5fd64e4e04accdc968ff4748" title=" " alt="" coords="465,177,664,219"/>
+</map>

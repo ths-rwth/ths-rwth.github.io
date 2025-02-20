@@ -1,0 +1,13 @@
+<map id="carl::Formula::variable_comparison" name="carl::Formula::variable_comparison">
+<area shape="rect" id="node1" title=" " alt="" coords="828,154,996,195"/>
+<area shape="rect" id="node2" href="$de/d85/a01273.html#a4d8340dd3fd6195f840ac5bcb5b2c3f9" title=" " alt="" coords="599,11,780,53"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#a76de9f14da53a3e8a519eb0e169d06f5" title="Resolves the outermost negation of this formula." alt="" coords="606,103,773,129"/>
+<area shape="rect" id="node9" href="$d4/d35/a03617.html#a4ed7eb770970d7d4b07042f38a73aed0" title=" " alt="" coords="609,154,770,195"/>
+<area shape="rect" id="node10" href="$d3/d4a/a03689.html#a1120dc829866e6cc21dea71b002ce04c" title=" " alt="" coords="602,219,777,261"/>
+<area shape="rect" id="node11" href="$d1/ddd/a03693.html#a9f87754766e47da1adb320a8a37f9e77" title=" " alt="" coords="605,285,774,326"/>
+<area shape="rect" id="node3" href="$d7/dc5/a01242.html#a0ea49fdbb441dcaed3f504e69023eb2f" title="Substitutes all variables from a model within a formula." alt="" coords="377,5,551,32"/>
+<area shape="rect" id="node5" href="$d7/dc5/a01242.html#ae5348ec0d0b3073c97a0d0ce99b96026" title="Converts the given formula to CNF." alt="" coords="235,85,329,112"/>
+<area shape="rect" id="node7" href="$d4/d0e/a01272.html#ada7ee1423bb4e90d63c19f339822c1c0" title="Converts an OR to cnf." alt="" coords="388,107,540,149"/>
+<area shape="rect" id="node8" href="$d7/dc5/a01242.html#a123081a99e9a8112b9a5c1a2ace74f4c" title=" " alt="" coords="417,173,511,200"/>
+<area shape="rect" id="node6" href="$d8/d13/a03609.html#adacbe6f985dfafd6acb3be1cb94686fb" title=" " alt="" coords="5,78,187,119"/>
+</map>

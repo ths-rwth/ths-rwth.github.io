@@ -1,0 +1,4 @@
+<map id="delta::Consumer::getResult" name="delta::Consumer::getResult">
+<area shape="rect" id="node1" title="Returns the result, assuming that one exists." alt="" coords="5,5,204,32"/>
+<area shape="rect" id="node2" href="$d4/dff/classdelta_1_1Consumer.html#a695d3f487e255355057e75ad5036c4c1" title="Checks if at least one job was successful." alt="" coords="252,5,453,32"/>
+</map>

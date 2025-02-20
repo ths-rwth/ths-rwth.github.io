@@ -1,0 +1,52 @@
+<map id="carl::Interval::lower" name="carl::Interval::lower">
+<area shape="rect" id="node1" title="The getter for the lower boundary of the interval." alt="" coords="896,1561,1044,1588"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="713,364,791,391"/>
+<area shape="rect" id="node5" href="$de/d04/a01209.html#a1abf1d98da2f7331312905d888edadf2" title="Returns the center point of the interval." alt="" coords="464,1105,559,1132"/>
+<area shape="rect" id="node7" href="$de/d04/a01209.html#a18dd7941a668a603002cfd4e1378f8ac" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="233,777,336,804"/>
+<area shape="rect" id="node8" href="$de/d04/a01209.html#a0eee042488989bd97a84e81bfdd5cc22" title="Searches for some point in this interval, preferably near the left endpoint and with a small represen..." alt="" coords="219,1257,350,1284"/>
+<area shape="rect" id="node9" href="$de/d04/a01209.html#ab51ff37d2bc027e91db346045a73f4c9" title="Searches for some point in this interval, preferably near the right endpoint and with a small represe..." alt="" coords="215,207,354,233"/>
+<area shape="rect" id="node10" href="$de/d04/a01209.html#a2a76c518ed903b081e9202cc714cc869" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="213,1381,356,1422"/>
+<area shape="rect" id="node18" href="$de/d04/a01209.html#a7ce3f409d6d916c20b6f7b0a7586638a" title="Checks whether this constraint is consistent with the given assignment from the its variables to inte..." alt="" coords="674,1023,830,1049"/>
+<area shape="rect" id="node19" href="$de/d04/a01209.html#aacefbbb48d9bc3094836070c330ce4c5" title=" " alt="" coords="683,1073,821,1100"/>
+<area shape="rect" id="node20" href="$dd/db9/a02883.html#a11f37d8732c8836f2c799e8c321f5aa6" title=" " alt="" coords="677,1125,827,1166"/>
+<area shape="rect" id="node21" href="$de/d04/a01209.html#ab02b808fa4154105d3079d3d4501cc23" title=" " alt="" coords="701,1191,803,1217"/>
+<area shape="rect" id="node22" href="$de/d04/a01209.html#ae73a1af390927f2918e2430de9d6d6a9" title="Count the number of real roots of p within the given interval using Sturm sequences." alt="" coords="203,1724,366,1751"/>
+<area shape="rect" id="node23" href="$de/d04/a01209.html#af84e5cb03c9b9390ebd461f67b92d741" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="697,1292,807,1319"/>
+<area shape="rect" id="node24" href="$de/d04/a01209.html#a27d1ce2ad393e8bab62327891595dff4" title="Method which returns the next smaller integer of this number or the number itself,..." alt="" coords="711,895,793,921"/>
+<area shape="rect" id="node31" href="$df/d71/a02247.html#ad26df69d4c28436015ea77cb2fd56449" title="Constructor which constructs the weak&#45;bounded interval between lower and upper." alt="" coords="671,1393,833,1420"/>
+<area shape="rect" id="node32" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="691,1445,813,1486"/>
+<area shape="rect" id="node33" href="$de/d04/a01209.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="463,1511,559,1537"/>
+<area shape="rect" id="node34" href="$de/d04/a01209.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="461,1764,561,1791"/>
+<area shape="rect" id="node35" href="$d6/d97/a02835.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="203,1797,367,1838"/>
+<area shape="rect" id="node36" href="$de/d04/a01209.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="471,1561,552,1588"/>
+<area shape="rect" id="node37" href="$de/d04/a01209.html#ad6e739eceb2dc4203064211a3193078a" title="Calculates the complement in a set&#45;theoretic manner (can result in two distinct intervals)." alt="" coords="430,1612,593,1639"/>
+<area shape="rect" id="node38" href="$de/d04/a01209.html#a6ce64aec99b53fea39b96c47924c33fd" title=" " alt="" coords="472,1257,551,1284"/>
+<area shape="rect" id="node39" href="$de/d04/a01209.html#ab58d55dada3f8e62b64b204197bcbdc9" title=" " alt="" coords="693,735,811,761"/>
+<area shape="rect" id="node40" href="$df/d71/a02247.html#a419f459b6179b9d18124a2c2b802d3c3" title=" " alt="" coords="678,1917,826,1958"/>
+<area shape="rect" id="node41" href="$de/d04/a01209.html#ab17c3adc71d45b0aaed15c119acd5a0b" title="Operator for the comparison of two intervals." alt="" coords="451,1895,571,1921"/>
+<area shape="rect" id="node42" href="$de/d04/a01209.html#a446de435542491a3f1aafb0959201260" title="Operator for the comparison of two intervals." alt="" coords="446,1964,577,1991"/>
+<area shape="rect" id="node43" href="$d2/dd2/a02279.html#a0c7e5a6453a33551a557c551d3283c70" title="Calculates the hash of an interval." alt="" coords="656,2034,848,2075"/>
+<area shape="rect" id="node44" href="$de/d04/a01209.html#a29e86393d25d3aec07e2e6164a717425" title="Operator for the comparison of two intervals." alt="" coords="687,2100,817,2127"/>
+<area shape="rect" id="node45" href="$de/d04/a01209.html#a95c59fe6d0c3b75f866264cac05da657" title=" " alt="" coords="675,2151,829,2177"/>
+<area shape="rect" id="node46" href="$d4/d4a/a02263.html#a1e0af5dd317d0575a3b3dfadba86a557" title=" " alt="" coords="428,2249,595,2290"/>
+<area shape="rect" id="node47" href="$df/d71/a02247.html#a23e310f032d686fca91f817f6cf64317" title="Advanced setter to modify both boundaries at once by passing a boost interval." alt="" coords="686,2252,818,2279"/>
+<area shape="rect" id="node48" href="$df/d71/a02247.html#a16f2fd3b4d1126bfcb142a3c669fbe4f" title="The setter for the upper bound type of the interval." alt="" coords="677,2303,827,2345"/>
+<area shape="rect" id="node49" href="$de/d04/a01209.html#a45847fb7d208553eeaac8fa2a624f27a" title="Counts the sign variations (i.e." alt="" coords="675,2369,829,2396"/>
+<area shape="rect" id="node50" href="$de/d04/a01209.html#a6a641709c979cc00234dcff1bd5f05f7" title="Casts the Interval to an arbitrary integer type which has a constructor for a native int." alt="" coords="707,2420,797,2447"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a7e6aa349a21cd24d4a2fb02d2d7ab993" title=" " alt="" coords="473,263,550,289"/>
+<area shape="rect" id="node4" href="$d2/da6/a02339.html#a7e4f0261d9465fd7ca123d29c945d76e" title="Function which calculates the ceiling of this number and puts it into a passed result parameter." alt="" coords="441,313,581,340"/>
+<area shape="rect" id="node11" href="$de/d04/a01209.html#acb9e48799c5668d38831be5b6ba8982c" title=" " alt="" coords="233,525,336,552"/>
+<area shape="rect" id="node12" href="$d2/da6/a01210.html#a3f582b840b36974248cf551ce69b4f32" title=" " alt="" coords="437,618,585,659"/>
+<area shape="rect" id="node13" href="$df/d04/a02287.html#ab6ee81a9bf7bf91efbf050b15ff03e6d" title=" " alt="" coords="432,364,591,391"/>
+<area shape="rect" id="node14" href="$dd/da9/a03027.html#a7ffd1bad4bba6b8358a0444273eb4055" title=" " alt="" coords="423,81,600,122"/>
+<area shape="rect" id="node15" href="$dd/da9/a03027.html#aeaa49bf243ecbf873cf1c5ddb1b72b5e" title=" " alt="" coords="423,146,600,187"/>
+<area shape="rect" id="node16" href="$d2/da6/a02339.html#a569c970c9afa9e4ac7402906f824ca5b" title="Explicit typecast operator to integer." alt="" coords="415,516,608,543"/>
+<area shape="rect" id="node17" href="$de/d04/a01209.html#adbba80e49d55d2a4532c29f7c02478ca" title=" " alt="" coords="437,212,585,239"/>
+<area shape="rect" id="node6" href="$dc/da4/a02303.html#ae10384534dea0d2fea062cf173af9b46" title=" " alt="" coords="5,889,155,930"/>
+<area shape="rect" id="node25" href="$de/d04/a01209.html#ababc6d80cefa251df7029244f0dca267" title=" " alt="" coords="470,785,553,812"/>
+<area shape="rect" id="node26" href="$d2/da6/a02339.html#a0928f9910501170493a04ece6dfe5a90" title="Function which calculates the floor of this number and puts it into a passed result parameter." alt="" coords="438,836,585,863"/>
+<area shape="rect" id="node27" href="$d2/da6/a02339.html#ab1005c4d4435f8f36d872317e5cbb945" title="Assigns the number the floor of this number." alt="" coords="438,887,585,929"/>
+<area shape="rect" id="node28" href="$df/d04/a02287.html#a0a8accfb0b6e822cf7762ddb111a72d2" title=" " alt="" coords="422,953,601,980"/>
+<area shape="rect" id="node29" href="$de/d04/a01209.html#a832f315493a48dec127d32f7c45fb80d" title=" " alt="" coords="438,1004,585,1031"/>
+<area shape="rect" id="node30" href="$de/d04/a01209.html#a379f5e3a8f28e8fd28675d1f8e8d3ff5" title=" " alt="" coords="437,735,586,761"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="carl::getNum" name="carl::getNum">
+<area shape="rect" id="node1" title="Extract the numerator from a fraction." alt="" coords="521,521,628,548"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a81add0aa223ad41dfebc305beb55a070" title="Get the bit size of the representation of a fraction." alt="" coords="320,159,417,185"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a9b65b84a46d65d40f83c97650e63f851" title="Compares _constraintA with _constraintB." alt="" coords="313,209,424,236"/>
+<area shape="rect" id="node13" href="$d8/ddf/a01238.html#a34836e1d10fcc3797323372c470264d2" title=" " alt="" coords="293,514,444,555"/>
+<area shape="rect" id="node15" href="$d6/da1/a01233.html#a4973f14bed31604894eac7d6f4742a18" title="Calculate the greatest common divisor of two fractions." alt="" coords="330,311,407,337"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#aa8d426817ddd465fc36912e0a06bca7d" title="Calculate the greatest common divisor of two fractions." alt="" coords="305,361,432,388"/>
+<area shape="rect" id="node17" href="$d6/da1/a01233.html#a5de7060b3c6b299c1a081412dcf4205b" title="Implicitly converts the number to a rational and returns the nominator." alt="" coords="315,412,422,439"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#ab16f1967bf13d5d5ce2696ac45291d23" title="Calculate the least common multiple of two fractions." alt="" coords="329,463,408,489"/>
+<area shape="rect" id="node19" href="$d5/d9d/a03343.html#a3f389b4b5c69feadd5d95ac6807d57ac" title=" " alt="" coords="287,579,450,621"/>
+<area shape="rect" id="node22" href="$d5/d9d/a03343.html#ad97b5eb7b863037bc375484843e8a762" title=" " alt="" coords="286,710,451,751"/>
+<area shape="rect" id="node24" href="$da/dae/a02467.html#aad4f8df9a19f2b14218f83d23aa64ea3" title=" " alt="" coords="283,645,455,686"/>
+<area shape="rect" id="node25" href="$df/daa/a02135.html#a793813b17af8d7d4fe3a8e4396b2708c" title=" " alt="" coords="294,775,443,817"/>
+<area shape="rect" id="node27" href="$d6/da1/a01233.html#a598db2a85288fd3d66fb84d9e129ee4d" title=" " alt="" coords="264,260,473,287"/>
+<area shape="rect" id="node28" href="$d6/da1/a01233.html#a34c7ec55a2d151518df5cacf3404dd3e" title="Convert a fraction to an integer." alt="" coords="287,841,450,868"/>
+<area shape="rect" id="node29" href="$d6/da1/a01233.html#a5feed11f2279d7288265414a6f1b4484" title="Convert a fraction to an integer." alt="" coords="277,892,460,919"/>
+<area shape="rect" id="node32" href="$d6/da1/a01233.html#aa9466dcdb956399dd11a7b182296762e" title=" " alt="" coords="316,943,421,969"/>
+<area shape="rect" id="node4" href="$d8/df3/a01216.html#a5bcfb0def1a64f2d6ed8fcd13e061db4" title=" " alt="" coords="11,361,210,402"/>
+<area shape="rect" id="node5" href="$d7/d67/a02323.html#a5df5aff941d61a2e4ca7e1f99c67af67" title=" " alt="" coords="5,426,216,467"/>
+<area shape="rect" id="node6" href="$dd/d43/a01193.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="83,5,138,32"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a7f2efd32f528f28513340e855be476c9" title=" " alt="" coords="48,56,173,83"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#aa51fd804aa4eb81da92013d1c7420dce" title=" " alt="" coords="51,107,171,133"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#ae6e7c32b4edfca29b6c99c2a19156684" title=" " alt="" coords="45,157,176,184"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a1ea3b551630d8580ce0204cc00911a2b" title=" " alt="" coords="45,208,176,235"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a86560fa254fe86ef952e6f2ff03201d6" title=" " alt="" coords="51,259,171,285"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#ae839cae2cae10328932ab8a38c3fc4a1" title=" " alt="" coords="45,309,176,336"/>
+<area shape="rect" id="node14" href="$d6/da1/a01233.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="43,492,179,519"/>
+<area shape="rect" id="node20" href="$d5/dd8/a03083.html#add180d38bb64a55b1e91ac4ecf040564" title=" " alt="" coords="21,543,201,599"/>
+<area shape="rect" id="node21" href="$dc/dc0/a03087.html#a9fc9ff9c811ff95b265ea94c5b8ffa90" title=" " alt="" coords="23,623,198,679"/>
+<area shape="rect" id="node23" href="$d9/dc9/a03347.html#aefbc843e9fe26b5a6bc8506d6540a29a" title=" " alt="" coords="19,703,202,759"/>
+<area shape="rect" id="node26" href="$df/daa/a02135.html#a243fd8bfc7a6908e6d196aa37ef6bfab" title=" " alt="" coords="36,783,185,825"/>
+<area shape="rect" id="node30" href="$d6/da1/a01233.html#a2febad9b3d45001ce6504d1b15bef678" title="Convert a fraction to an unsigned." alt="" coords="41,871,180,897"/>
+<area shape="rect" id="node31" href="$d6/da1/a01233.html#a9f8bf9fddc74f1796ea0f6d263c92840" title=" " alt="" coords="41,921,180,948"/>
+</map>

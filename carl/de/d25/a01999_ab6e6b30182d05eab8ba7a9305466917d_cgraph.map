@@ -1,0 +1,8 @@
+<map id="carl::VariablePool::getName" name="carl::VariablePool::getName">
+<area shape="rect" id="node1" title="Get a human&#45;readable name for the given variable." alt="" coords="5,49,140,90"/>
+<area shape="rect" id="node2" href="$d6/d8e/a01979.html#ae00fad76caa1ec7042dff9e50aa46f36" title="Retrieves the id of the variable." alt="" coords="197,5,323,32"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a839416f1a78ae4f99cfdabf37508859e" title=" " alt="" coords="205,56,315,83"/>
+<area shape="rect" id="node6" href="$d6/d8e/a01979.html#ae954c1f1e59102d1c58af6c9d326717a" title="Retrieves the type of the variable." alt="" coords="188,107,332,133"/>
+<area shape="rect" id="node4" href="$d8/ddf/a01951.html#afadc0fb20a56993c591297a8d131890b" title=" " alt="" coords="380,31,573,57"/>
+<area shape="rect" id="node5" href="$d8/ddf/a01951.html#a4a347633ef6c4ae727ccbb57a9fcae5c" title=" " alt="" coords="381,81,572,108"/>
+</map>

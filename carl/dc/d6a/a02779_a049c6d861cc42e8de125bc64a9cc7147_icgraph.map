@@ -1,0 +1,36 @@
+<map id="carl::IntRepRealAlgebraicNumber::interval_int" name="carl::IntRepRealAlgebraicNumber::interval_int">
+<area shape="rect" id="node1" title=" " alt="" coords="1468,1018,1655,1059"/>
+<area shape="rect" id="node2" href="$d8/d8e/a01224.html#a595d19ea36df249c7691cae13d76213a" title=" " alt="" coords="555,82,632,109"/>
+<area shape="rect" id="node3" href="$d8/d8e/a01224.html#a294f4b3ac13ba618c5d17b37a9fd75a4" title=" " alt="" coords="793,32,890,58"/>
+<area shape="rect" id="node4" href="$d8/d8e/a01224.html#aa576ce44af4fdeb61b68be1be3a91c6e" title=" " alt="" coords="1247,1177,1406,1204"/>
+<area shape="rect" id="node5" href="$d8/d8e/a01224.html#a7e6aa349a21cd24d4a2fb02d2d7ab993" title=" " alt="" coords="1288,1228,1365,1254"/>
+<area shape="rect" id="node6" href="$d8/d8e/a01224.html#a756bab5243693499197657f54903fb98" title=" " alt="" coords="538,753,649,780"/>
+<area shape="rect" id="node7" href="$d8/d8e/a01224.html#aacefbbb48d9bc3094836070c330ce4c5" title=" " alt="" coords="773,854,910,881"/>
+<area shape="rect" id="node8" href="$d8/d8e/a01224.html#ababc6d80cefa251df7029244f0dca267" title=" " alt="" coords="1285,1278,1368,1305"/>
+<area shape="rect" id="node9" href="$d8/d8e/a01224.html#a832f315493a48dec127d32f7c45fb80d" title=" " alt="" coords="1253,1329,1400,1356"/>
+<area shape="rect" id="node11" href="$dc/d6a/a02779.html#a0061c4709805a2d571b6c3dd97caee7c" title=" " alt="" coords="172,994,439,1035"/>
+<area shape="rect" id="node12" href="$dc/d6a/a02779.html#aea3bb2935854f1458a1eeb038a636fc8" title=" " alt="" coords="1233,858,1420,899"/>
+<area shape="rect" id="node13" href="$dc/d6a/a02779.html#ac5d32ad0354f24f7a030f313035e98eb" title="Returns the sign of &quot;interval_int() &#45; pivot&quot;: Returns ZERO if pivot is equal to RAN." alt="" coords="991,858,1177,899"/>
+<area shape="rect" id="node14" href="$dc/d6a/a02779.html#a644f871ee8f1891c7d04355a6578ceb3" title=" " alt="" coords="748,906,935,947"/>
+<area shape="rect" id="node16" href="$dc/d6a/a02779.html#a168ccb2c969b60ecfafd0662d678a18c" title="Refines until the number is either numeric or the interval does not contain any integer." alt="" coords="487,1023,700,1064"/>
+<area shape="rect" id="node18" href="$dc/d6a/a02779.html#a102d146d9f7a995e3b25414960548aad" title=" " alt="" coords="748,687,935,728"/>
+<area shape="rect" id="node19" href="$d8/d8e/a01224.html#a36a6c472178e4b6839667120e325bf14" title=" " alt="" coords="511,585,676,612"/>
+<area shape="rect" id="node20" href="$dc/d6a/a02779.html#a715f4e918a7eac7f894804d799d82bec" title=" " alt="" coords="991,792,1177,834"/>
+<area shape="rect" id="node21" href="$d8/d8e/a01224.html#a559141d740c0e9bc2738cfc9f0549062" title=" " alt="" coords="1267,1380,1386,1406"/>
+<area shape="rect" id="node22" href="$dc/d6a/a02779.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="991,426,1177,467"/>
+<area shape="rect" id="node30" href="$dc/d6a/a02779.html#a0aaa60feed2047ca7f0458737cd20cda" title=" " alt="" coords="748,184,935,226"/>
+<area shape="rect" id="node31" href="$d8/d8e/a01224.html#aec6cfb7d87f7114c0595ab69e2c2176b" title=" " alt="" coords="1277,1430,1377,1457"/>
+<area shape="rect" id="node32" href="$d8/d8e/a01224.html#a6581acff70d45d9c05f8f8edf792cd68" title=" " alt="" coords="1252,1481,1401,1508"/>
+<area shape="rect" id="node33" href="$d8/d8e/a01224.html#a1e28eeed0ef99f01827a9c19974a6bf1" title=" " alt="" coords="1253,1532,1401,1558"/>
+<area shape="rect" id="node34" href="$d8/d8e/a01224.html#a87fcb3fb2f1a308886986b6abbc0db4c" title=" " alt="" coords="1288,1582,1365,1609"/>
+<area shape="rect" id="node10" href="$d1/d24/a02847.html#a3a2cd63fe67671c9e5124877411a3fde" title=" " alt="" coords="983,1314,1185,1370"/>
+<area shape="rect" id="node15" href="$d0/de4/a02851.html#a8166101bda0b1fea4d03333382199080" title=" " alt="" coords="508,367,679,408"/>
+<area shape="rect" id="node17" href="$d8/d8e/a01224.html#aa969dd11233ec83434a5757a3cd0f69a" title=" " alt="" coords="511,913,676,940"/>
+<area shape="rect" id="node23" href="$d3/df5/a02827.html#ac81a35b598d8c954aee8cef9c8bcebe6" title="Extend the current number field with the field extension defined by r." alt="" coords="501,184,686,226"/>
+<area shape="rect" id="node26" href="$dc/d6a/a02779.html#a44ef236554680592fd2753f8c52ee32c" title=" " alt="" coords="748,367,935,408"/>
+<area shape="rect" id="node27" href="$d8/d8e/a01224.html#af12d3cfe58d7e1d662de689b8a15d023" title=" " alt="" coords="528,316,659,342"/>
+<area shape="rect" id="node28" href="$d0/ded/a03671.html#ac30ea1e65a1e8bc91cedf5b6b719fa82" title=" " alt="" coords="509,250,678,291"/>
+<area shape="rect" id="node29" href="$dc/d6a/a02779.html#a4844eccb7b3e8acb735509443cbcfd65" title=" " alt="" coords="748,302,935,343"/>
+<area shape="rect" id="node24" href="$d8/db0/a01243.html#a0e944bedfb2307ca158abf2c6ea590c8" title=" " alt="" coords="224,177,387,233"/>
+<area shape="rect" id="node25" href="$d8/d8e/a01224.html#a8a90d05d2a46798d342ba43553776da7" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,192,124,218"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="benchmax::Backend::addResult" name="benchmax::Backend::addResult">
+<area shape="rect" id="node1" title="Add a result." alt="" coords="5,100,167,141"/>
+<area shape="rect" id="node2" href="$d2/d45/classbenchmax_1_1Tool.html#ac279ea163344dfc4d451fc1077ea71d0" title="Recover additional results from the tool output." alt="" coords="215,5,412,47"/>
+<area shape="rect" id="node3" href="$dd/d8d/classbenchmax_1_1Results.html#ae371a3adff2407fe2971d905010abe19" title="Add a new result." alt="" coords="236,71,391,112"/>
+<area shape="rect" id="node4" href="$d2/d45/classbenchmax_1_1Tool.html#a42d3c840b762169841d1dfd78fc82de6" title="Common name of this tool." alt="" coords="229,137,398,163"/>
+<area shape="rect" id="node5" href="$d0/d1d/namespacebenchmax.html#a7023b801521b73ccffe81cbfbaaf3a43" title="Return the benchmark settings." alt="" coords="238,188,389,229"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="carl::Bitset::Bitset" name="carl::Bitset::Bitset">
+<area shape="rect" id="node1" title="Create a bitset from a list of bits indices that shall be set to true." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$d5/dea/a02927.html#a9de0d41fc6b1ee50437f2e828db25412" title="Sets the given bit to a value, true by default." alt="" coords="192,5,312,32"/>
+<area shape="rect" id="node3" href="$d5/dea/a02927.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="360,5,531,32"/>
+</map>

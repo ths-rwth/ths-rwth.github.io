@@ -1,0 +1,10 @@
+<map id="smtrat::cadcells::operators::rules::cell_connected" name="smtrat::cadcells::operators::rules::cell_connected">
+<area shape="rect" id="node1" title=" " alt="" coords="5,195,201,236"/>
+<area shape="rect" id="node2" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a955d05bff1c318eb585b3a41acd2c1e3" title=" " alt="" coords="249,5,477,47"/>
+<area shape="rect" id="node3" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a5389a8fb0d89465fea63af7467a4e773" title=" " alt="" coords="249,71,477,112"/>
+<area shape="rect" id="node4" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a52fb640f3688f5a6d2f3f2cc2400c6df" title=" " alt="" coords="525,333,753,375"/>
+<area shape="rect" id="node5" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a6214f5b343ff78fbadc673b2a487de6c" title=" " alt="" coords="249,187,477,243"/>
+<area shape="rect" id="node6" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#aa0f694e0188a1cc698d19ac17916aed8" title=" " alt="" coords="249,268,477,309"/>
+<area shape="rect" id="node7" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a586f191f5ed99e56d916ecf6b533ceca" title="Returns the lower bound as IndexedRoot if finite or std::nullopt if the lower bound is &#45;oo." alt="" coords="249,333,477,375"/>
+<area shape="rect" id="node8" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a0707451850788bfae62e8d0c96821646" title="Returns the upper bound as IndexedRoot if finite or std::nullopt if the upper bound is oo." alt="" coords="249,399,477,440"/>
+</map>

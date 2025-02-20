@@ -1,0 +1,7 @@
+<map id="smtrat::subtropical::Separator" name="smtrat::subtropical::Separator">
+<area shape="rect" id="node1" title="Represents the class of all original constraints with the same left hand side after a normalization." alt="" coords="69,317,215,359"/>
+<area shape="rect" id="node2" title=" " alt="" coords="59,213,225,255"/>
+<area shape="rect" id="node3" href="$d8/dd4/structsmtrat_1_1subtropical_1_1Vertex.html" title="Represents a term of an original constraint and assigns him a rating variable if a weak separator is ..." alt="" coords="5,95,151,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="175,102,304,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="220,5,259,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="carl::factorization" name="carl::factorization">
+<area shape="rect" id="node1" title="Try to factorize a multivariate polynomial." alt="" coords="5,42,141,69"/>
+<area shape="rect" id="node2" href="$d3/dff/a02565.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="198,5,405,47"/>
+<area shape="rect" id="node3" href="$d7/d88/a01255.html#aa3ffdfd6102dc21fa073711d024bc1d8" title="Returns a factors datastructure containing only the full polynomial as single factor." alt="" coords="189,71,413,98"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="smtrat::cad::BaseProjection::addPolynomial" name="smtrat::cad::BaseProjection::addPolynomial">
+<area shape="rect" id="node1" title="Adds the given polynomial to the projection. Converts to a UPoly and calls the appropriate overload." alt="" coords="255,35,456,76"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#aa0f6640cab47e74880665d88c66b5ef6" title="Adds the given polynomial of an equational constraint to the projection." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node3" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html#ab3f7faee982a1789d8c0ea040660d651" title=" " alt="" coords="10,71,202,98"/>
+</map>

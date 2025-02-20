@@ -1,0 +1,12 @@
+<map id="carl::covering::SetCover::set" name="carl::covering::SetCover::set">
+<area shape="rect" id="node1" title="States that s covers the given element." alt="" coords="863,234,1068,261"/>
+<area shape="rect" id="node2" href="$d5/ddf/a03211.html#a09803c5268b61f4ae4031161e462531c" title="Returns the given set." alt="" coords="623,136,801,178"/>
+<area shape="rect" id="node7" href="$d6/d1e/a01234.html#aa49a96d14621fafba526cb056578c4d6" title="Preprocessing heuristic: Compresses the matrix by removing duplicate columns." alt="" coords="387,234,561,275"/>
+<area shape="rect" id="node9" href="$d9/d65/a03215.html#aae0d89eb734f9f69105da9b6d51146c7" title="States that s covers the given element." alt="" coords="623,256,801,298"/>
+<area shape="rect" id="node10" href="$d5/ddf/a03211.html#ac048822132d923290e9742787557c799" title="States that s covers the given elements." alt="" coords="609,322,815,349"/>
+<area shape="rect" id="node3" href="$d6/d1e/a01234.html#a5236c274a6413fb18713a3df16c57339" title="Exact &quot;heuristic&quot;: Computes a minimum set cover." alt="" coords="164,103,339,144"/>
+<area shape="rect" id="node5" href="$d6/d1e/a01234.html#a57d4a1446a668ea55a101a9882a5ac20" title=" " alt="" coords="387,38,561,79"/>
+<area shape="rect" id="node6" href="$d6/d1e/a01234.html#a1ece576470279cbf50ddf89fc6b2b7fb" title="Simple greedy heuristic: Selects the largest remaining set until all elements are covered." alt="" coords="387,103,561,144"/>
+<area shape="rect" id="node8" href="$d6/d1e/a01234.html#aee6074be8f0993e006d7db19a58e6c07" title="Preprocessing heuristic: Selects essential sets which are the only once covering some element." alt="" coords="387,168,561,210"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#a3bc012d12145a5509f1ad58ecb56227f" title="Evaluates the square root expression." alt="" coords="5,110,116,137"/>
+</map>

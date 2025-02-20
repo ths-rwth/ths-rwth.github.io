@@ -1,0 +1,5 @@
+<map id="carl::Bitset::set_interval" name="carl::Bitset::set_interval">
+<area shape="rect" id="node1" title="Sets the a range of bits to a value, true by default." alt="" coords="5,31,183,57"/>
+<area shape="rect" id="node2" href="$d9/dc5/a02924.html#a17e8c2d1d89e86f0ef565a33677f3ceb" title="Returns an past&#45;the&#45;end iterator." alt="" coords="254,5,378,32"/>
+<area shape="rect" id="node3" href="$d9/dc5/a02924.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="231,56,401,83"/>
+</map>

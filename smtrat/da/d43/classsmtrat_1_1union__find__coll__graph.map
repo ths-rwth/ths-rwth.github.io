@@ -1,0 +1,7 @@
+<map id="smtrat::union_find&lt; T, no_compression, MaxTracebackLength &gt;" name="smtrat::union_find&lt; T, no_compression, MaxTracebackLength &gt;">
+<area shape="rect" id="node1" title="Implements a union&#45;find datastructure, a datastructure containing an array of entries." alt="" coords="87,317,266,373"/>
+<area shape="rect" id="node2" title=" " alt="" coords="71,213,282,255"/>
+<area shape="rect" id="node3" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html" title="Wrapper around data entry and uf_rank_and_class; this class contains a value of type T and both rank ..." alt="" coords="5,95,252,136"/>
+<area shape="rect" id="node4" title=" " alt="" coords="276,102,405,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="321,5,360,32"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="carl::formula::aux::connectPrecedingSubformulas" name="carl::formula::aux::connectPrecedingSubformulas">
+<area shape="rect" id="node1" title="[Auxiliary method]" alt="" coords="577,64,804,105"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#ae5348ec0d0b3073c97a0d0ce99b96026" title="Converts the given formula to CNF." alt="" coords="235,13,329,39"/>
+<area shape="rect" id="node4" href="$d8/ddf/a01238.html#ada7ee1423bb4e90d63c19f339822c1c0" title="Converts an OR to cnf." alt="" coords="377,35,529,76"/>
+<area shape="rect" id="node5" href="$de/d04/a01209.html#a123081a99e9a8112b9a5c1a2ace74f4c" title=" " alt="" coords="406,101,501,127"/>
+<area shape="rect" id="node6" href="$de/d04/a01209.html#a4c7aeec6532ced8833265e79339c586f" title="Transforms this formula to its quantifier free equivalent." alt="" coords="411,151,496,178"/>
+<area shape="rect" id="node3" href="$dd/d6d/a03547.html#adacbe6f985dfafd6acb3be1cb94686fb" title=" " alt="" coords="5,5,187,47"/>
+</map>

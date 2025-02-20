@@ -1,0 +1,4 @@
+<map id="benchmax::Tool::canHandle" name="benchmax::Tool::canHandle">
+<area shape="rect" id="node1" title="Checks whether this cool can handle this file type." alt="" coords="252,13,453,39"/>
+<area shape="rect" id="node2" href="$dd/ddb/classbenchmax_1_1CondorBackend.html#aeff12e9cafaf0b95ba7dfab0a638783f" title="Generate a submit file for the given job." alt="" coords="5,5,204,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="smtrat::generateAbsFormula" name="smtrat::generateAbsFormula">
+<area shape="rect" id="node1" title="| x1 | &lt;= | x1 | = (and (=&gt; (x1 &gt;= 0) (y1 = x1)) (=&gt; (x1 &lt; 0) (y1 = &#45;x1)) (=&gt; (x2 &gt;= 0) (y2 = x2)) (=..." alt="" coords="5,31,213,57"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#af2068b94a365ec8280321605b3e30f28" title="create an auxiliary variable e.g." alt="" coords="261,5,487,32"/>
+<area shape="rect" id="node3" href="$de/dc5/namespacesmtrat.html#a16a1041b4380a1115f96010ea981801c" title="| x1 | = (and (=&gt; (x1 &gt;= 0) (y1 = x1)) (=&gt; (x1 &lt; 0) (y1 = &#45;x1)) )" alt="" coords="270,56,478,83"/>
+</map>

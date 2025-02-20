@@ -1,0 +1,6 @@
+<map id="smtrat::vs::State::variableBounds" name="smtrat::vs::State::variableBounds">
+<area shape="rect" id="node1" title=" " alt="" coords="467,51,605,92"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac76830e243392cac2bd5a274b6fa404e" title="Checks whether the test candidate of this state is valid against the variable intervals in the father..." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae3e52230c1a3dbc92d034cad806c08fb" title="Checks whether there are no zeros for the left&#45;hand side of the constraint of the given condition." alt="" coords="21,84,216,125"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aae7c46f2785a30d44798ba7ebee6fe5c" title="Determines the solution space of the test candidate of this state regarding to the variable bounds of..." alt="" coords="280,51,419,92"/>
+</map>

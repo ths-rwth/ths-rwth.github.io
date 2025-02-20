@@ -1,0 +1,24 @@
+<map id="carl&#45;arith/numbers" name="carl&#45;arith/numbers">
+<area shape="rect" id="node1" href="dir_40d6f66beac4949447d132ece272ed5f.html" title="interval" alt="" coords="436,52,508,100"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000015_000029.html" title="3" alt="" coords="435,133,445,147"/>
+<area shape="rect" id="node9" href="dir_31d4b0f4b2a744942047102b0597edc5.html" title="carl&#45;common" alt="" coords="609,340,717,388"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000015_000035.html" title="3" alt="" coords="663,314,673,328"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000029_000015.html" title="1" alt="" coords="422,101,431,116"/>
+<area shape="rect" id="node4" href="dir_69c700b21ed05966e22ee500d7ccbf12.html" title="adaption_float" alt="" coords="192,244,307,292"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000029_000031.html" title="2" alt="" coords="300,234,310,248"/>
+<area shape="rect" id="node5" href="dir_b0c60aff278d548f58f250a9d43b631d.html" title="adaption_gmpxx" alt="" coords="37,244,168,292"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000029_000032.html" title="3" alt="" coords="183,241,193,256"/>
+<area shape="rect" id="node6" href="dir_55ebd241b9b2066f8d1df15ddd6c0a42.html" title="adaption_native" alt="" coords="331,244,458,292"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000029_000033.html" title="2" alt="" coords="398,218,408,233"/>
+<area shape="rect" id="node7" href="dir_b66a7019b71c8dd47594a4a92754a17d.html" title="conversion" alt="" coords="483,244,576,292"/>
+<area shape="rect" id="edge12-headlabel" href="dir_000029_000038.html" title="1" alt="" coords="482,219,491,234"/>
+<area shape="rect" id="node3" href="dir_c6fa2667a8e3632b4973c285f54bb4b6.html" title="adaption_cln" alt="" coords="471,148,577,196"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000030_000035.html" title="2" alt="" coords="643,312,653,327"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000031_000035.html" title="3" alt="" coords="589,324,598,339"/>
+<area shape="rect" id="node8" href="dir_1f0dcc7c02f31086a43739a2a5029d1a.html" title="parser" alt="" coords="67,340,139,388"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000032_000037.html" title="1" alt="" coords="106,314,116,329"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000032_000035.html" title="2" alt="" coords="588,324,598,339"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000038_000035.html" title="1" alt="" coords="615,315,625,330"/>
+<area shape="rect" id="clust2" href="dir_e38b9419de2a32d204d1c2ba8d1649ae.html" alt="" coords="27,137,587,399"/>
+<area shape="rect" id="clust1" href="dir_1782fbe8c33757ae2401277d4e34710f.html" title="carl&#45;arith" alt="" coords="16,16,597,409"/>
+</map>

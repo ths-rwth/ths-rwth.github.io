@@ -1,0 +1,8 @@
+<map id="carl::logging::setInitialLogLevel" name="carl::logging::setInitialLogLevel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,172,141"/>
+<area shape="rect" id="node2" href="$d1/d00/a03707.html#a12f8440cc7879cc40f546e2bf61067b0" title="Installs the given sink." alt="" coords="220,5,375,47"/>
+<area shape="rect" id="node3" href="$d1/d00/a03707.html#ac89bb2de4d444b85385c92a0bf4f2d58" title="Retrieves the Filter for some Sink." alt="" coords="220,71,375,112"/>
+<area shape="rect" id="node4" href="$de/d34/a01261.html#a380c12cb3d69ec8dedc4f28b24fe0dba" title="Returns the single global instance of a Logger." alt="" coords="222,137,373,163"/>
+<area shape="rect" id="node6" href="$d1/d00/a03707.html#addfb61c76ed27ba1ba9537b6d7d5f75b" title="Reconfigures all Formatter objects." alt="" coords="220,188,375,229"/>
+<area shape="rect" id="node5" href="$da/de2/a03067.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="423,129,597,171"/>
+</map>

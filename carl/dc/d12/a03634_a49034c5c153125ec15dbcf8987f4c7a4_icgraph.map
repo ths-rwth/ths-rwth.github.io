@@ -1,0 +1,4 @@
+<map id="carl::io::SMTLIBStream::content" name="carl::io::SMTLIBStream::content">
+<area shape="rect" id="node1" title="Return the underlying stream buffer." alt="" coords="204,5,373,47"/>
+<area shape="rect" id="node2" href="$d4/dd5/a01244.html#a9f79c2f50d6b20d326d644f66ea8a774" title="Write the written data to some std::ostream." alt="" coords="5,13,156,39"/>
+</map>

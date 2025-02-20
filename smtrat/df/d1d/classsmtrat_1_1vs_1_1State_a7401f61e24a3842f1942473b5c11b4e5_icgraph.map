@@ -1,0 +1,13 @@
+<map id="smtrat::vs::State::conflictSets" name="smtrat::vs::State::conflictSets">
+<area shape="rect" id="node1" title=" " alt="" coords="623,180,761,221"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad80e0146d06b13bf45c4975b4a385b08" title="Deletes everything originated by the given conditions in the children of this state." alt="" coords="379,92,575,133"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="5,165,144,207"/>
+<area shape="rect" id="node8" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="399,209,554,251"/>
+<area shape="rect" id="node9" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a3b1ed558937aef4daac58be692c1f76e" title="Prints the conflict sets of this state." alt="" coords="407,275,546,316"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9b9d71dbb3cadb10bdcccdbebb955809" title="Delete everything originated by the given conditions from the entire subtree with this state as root." alt="" coords="192,27,331,68"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad9d891684d67c8aeb241a53098bcef2b" title="Removes everything in this state originated by the given vector of conditions." alt="" coords="192,92,331,133"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="5,71,144,112"/>
+<area shape="rect" id="node10" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ebd8fb230b32c832382b61418b77af3" title="Prints the conditions, the substitution and the substitution results of this state." alt="" coords="192,260,331,301"/>
+<area shape="rect" id="node11" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab992013899d44c280f1e6d3e370f8359" title="Prints the conditions, the substitution and the substitution results of this state and all its childr..." alt="" coords="5,260,144,301"/>
+</map>

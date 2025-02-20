@@ -1,0 +1,7 @@
+<map id="carl::UninterpretedFunction::codomain" name="carl::UninterpretedFunction::codomain">
+<area shape="rect" id="node1" title=" " alt="" coords="436,64,635,105"/>
+<area shape="rect" id="node2" href="$d1/ddd/a03693.html#ac4b0f64732d53f6d28c5431c2dac341d" title="Declare a fresh function via declare&#45;fun." alt="" coords="219,5,388,47"/>
+<area shape="rect" id="node3" href="$da/df8/a03577.html#a0bb1b853716b2177d9791e097c24d12c" title=" " alt="" coords="233,71,374,98"/>
+<area shape="rect" id="node5" href="$d7/dc5/a01242.html#a7f93276058864d024ce1929a1055747e" title="Prints the given uninterpreted function on the given output stream." alt="" coords="238,122,369,149"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#a753b7266733b0e1f4d1c69ed11dd9b20" title="Evaluates a uninterpreted function instance to a ModelValue over a Model." alt="" coords="5,71,171,98"/>
+</map>

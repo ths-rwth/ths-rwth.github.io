@@ -1,0 +1,12 @@
+<map id="smtrat::mcsat::Bookkeeping::variables" name="smtrat::mcsat::Bookkeeping::variables">
+<area shape="rect" id="node1" title=" " alt="" coords="547,239,752,280"/>
+<area shape="rect" id="node2" href="$dc/dd2/structsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder.html#a40e9a1213bb9a2574b61c716b8f95dbc" title=" " alt="" coords="277,5,497,47"/>
+<area shape="rect" id="node3" href="$dc/d84/structsmtrat_1_1mcsat_1_1icp_1_1Explanation.html#a08842ac8ce6450b1a0f52c328bc46855" title=" " alt="" coords="297,71,477,112"/>
+<area shape="rect" id="node4" href="$de/d82/structsmtrat_1_1mcsat_1_1nlsat_1_1Explanation.html#ac2e50c2ee4e4347831a2b60682990028" title="We construct a formula &#39;E &#45;&gt; I&#39;, i.e." alt="" coords="297,136,477,177"/>
+<area shape="rect" id="node5" href="$d4/d3b/structsmtrat_1_1mcsat_1_1vs_1_1Explanation.html#af1a07174df769e31e433488ae0f61b53" title=" " alt="" coords="301,201,473,243"/>
+<area shape="rect" id="node6" href="$d4/d1c/structsmtrat_1_1mcsat_1_1onecellcad_1_1levelwise_1_1Explanation.html#abfc84ac3ee14f310b378d2f288432b9b" title=" " alt="" coords="292,267,483,323"/>
+<area shape="rect" id="node7" href="$db/d67/structsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1Explanation.html#a327efe47bf089a969e7bf94e11c9ce04" title=" " alt="" coords="292,347,483,403"/>
+<area shape="rect" id="node8" href="$db/db6/classsmtrat_1_1mcsat_1_1Bookkeeping.html#ae9b55b6290ac4bddf879720412ef4ac0" title=" " alt="" coords="285,428,490,469"/>
+<area shape="rect" id="node10" href="$d0/daa/classsmtrat_1_1mcsat_1_1MCSATBackend.html#ae45e95da3095fd22defbe0bf3f10e76b" title=" " alt="" coords="276,493,499,535"/>
+<area shape="rect" id="node9" href="$d0/daa/classsmtrat_1_1mcsat_1_1MCSATBackend.html#af0651f95b50d38c880772c6172107b4b" title=" " alt="" coords="5,461,228,503"/>
+</map>

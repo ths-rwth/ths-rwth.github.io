@@ -1,0 +1,10 @@
+<map id="smtrat::cadcells::representation::approximation::apx_bound&lt; ApxPoly::MAXIMIZE &gt;" name="smtrat::cadcells::representation::approximation::apx_bound&lt; ApxPoly::MAXIMIZE &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,159,235,215"/>
+<area shape="rect" id="node2" href="$d1/dc9/namespacesmtrat_1_1cadcells_1_1representation_1_1approximation.html#a1547f3199346f9ae1932fb3ba4756ff2" title=" " alt="" coords="283,5,512,61"/>
+<area shape="rect" id="node3" href="$d1/dc9/namespacesmtrat_1_1cadcells_1_1representation_1_1approximation.html#af2a9aec42f2d2f7a4e33fd9fb9e772bf" title=" " alt="" coords="283,85,512,141"/>
+<area shape="rect" id="node4" href="$d1/dc9/namespacesmtrat_1_1cadcells_1_1representation_1_1approximation.html#ae2ee746f41c70c884bdbc2dfc09e6297" title=" " alt="" coords="283,166,512,207"/>
+<area shape="rect" id="node5" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a391a9f68fa5ee4e488ee00847b69ac8f" title="Computes the resultant of two polynomials." alt="" coords="313,231,482,273"/>
+<area shape="rect" id="node8" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="348,297,447,324"/>
+<area shape="rect" id="node6" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="571,198,740,239"/>
+<area shape="rect" id="node7" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#ae78f1ba02e35a73db902d0714ea7f1c6" title=" " alt="" coords="560,263,751,305"/>
+</map>

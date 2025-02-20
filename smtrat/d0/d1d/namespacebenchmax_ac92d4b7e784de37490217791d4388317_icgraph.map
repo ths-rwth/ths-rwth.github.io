@@ -1,0 +1,7 @@
+<map id="benchmax::parse_peak_memory" name="benchmax::parse_peak_memory">
+<area shape="rect" id="node1" title=" " alt="" coords="519,71,692,112"/>
+<area shape="rect" id="node2" href="$df/d9e/classbenchmax_1_1LocalBackend.html#a1f281d9c286668778466d51cfa1fb17e" title="Execute the tool on the file manually." alt="" coords="264,5,451,47"/>
+<area shape="rect" id="node3" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a0157e40d065de0a049f006c091eb11a7" title="Execute a command on the remote." alt="" coords="244,71,471,112"/>
+<area shape="rect" id="node4" href="$db/da2/classbenchmax_1_1SlurmBackend.html#afb5904aa2f54abe2b67ed1661fd94839" title="Parse the content of an output file." alt="" coords="262,136,453,177"/>
+<area shape="rect" id="node5" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a33cf24e7711867083fbc3e719f40d32e" title=" " alt="" coords="5,136,196,177"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="smtrat::cadcells::representation::handle_projective_ordering" name="smtrat::cadcells::representation::handle_projective_ordering">
+<area shape="rect" id="node1" title=" " alt="" coords="5,213,235,255"/>
+<area shape="rect" id="node2" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a1879a4adacf1983857ec8c504e5da612" title=" " alt="" coords="283,71,511,112"/>
+<area shape="rect" id="node5" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a6b4481d282131cc46c3a70894bc8614d" title=" " alt="" coords="283,148,511,189"/>
+<area shape="rect" id="node6" href="$d1/d92/namespacesmtrat_1_1cadcells_1_1representation.html#acfbc31f3ab787b5295acbe41d76024dc" title=" " alt="" coords="283,213,512,255"/>
+<area shape="rect" id="node10" href="$d1/d92/namespacesmtrat_1_1cadcells_1_1representation.html#a1a083cf5874d4cc5090d04d72759c3e9" title=" " alt="" coords="283,283,512,324"/>
+<area shape="rect" id="node13" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#adbb76a9a6d9725289d3873c303357a88" title=" " alt="" coords="283,349,511,405"/>
+<area shape="rect" id="node3" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a6e40b9c086c5a9517cf724b57fc2521e" title=" " alt="" coords="560,5,788,47"/>
+<area shape="rect" id="node4" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a844fad4a0e83de0d80c9f7d546d61aa0" title=" " alt="" coords="560,71,788,112"/>
+<area shape="rect" id="node7" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="560,283,788,324"/>
+<area shape="rect" id="node8" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#ab623319f2aecdc705d59308a767ee595" title=" " alt="" coords="560,136,788,177"/>
+<area shape="rect" id="node9" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a89d10bab7fef184f8b68ea662424814b" title=" " alt="" coords="560,202,788,258"/>
+<area shape="rect" id="node11" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#af859a2d005b6d4dca8355892dfd43e79" title=" " alt="" coords="560,348,788,389"/>
+<area shape="rect" id="node12" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a23396f759eafdf95e9d41ac9a777e14f" title=" " alt="" coords="560,414,788,470"/>
+</map>

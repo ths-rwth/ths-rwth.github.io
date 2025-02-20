@@ -1,0 +1,12 @@
+<map id="carl::Interval::Interval" name="carl::Interval::Interval">
+<area shape="rect" id="node1" title="Constructor which constructs the interval according to the passed general rational bounds with the pa..." alt="" coords="5,157,168,183"/>
+<area shape="rect" id="node2" href="$d5/d6f/a01281.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="232,30,375,57"/>
+<area shape="rect" id="node5" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="229,81,377,107"/>
+<area shape="rect" id="node6" href="$d7/dc5/a01242.html#a3686f8db0a62bede098101ebfc138609" title="Returns a down&#45;rounded representation of the given numeric." alt="" coords="239,131,367,158"/>
+<area shape="rect" id="node8" href="$d7/dc5/a01242.html#ab04866812fbcdf92e93e3e002a1bda77" title="Returns a up&#45;rounded representation of the given numeric." alt="" coords="249,182,358,209"/>
+<area shape="rect" id="node9" href="$dd/dc5/a02293.html#aac501d64c8051ab8d9362752834ba4f2" title=" " alt="" coords="216,233,391,289"/>
+<area shape="rect" id="node10" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="229,313,378,339"/>
+<area shape="rect" id="node3" href="$d8/d11/a03789.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="443,5,625,47"/>
+<area shape="rect" id="node4" href="$dc/d45/a03085.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="439,71,629,112"/>
+<area shape="rect" id="node7" href="$d7/dc5/a01242.html#ac03fe5e4344486fbb1f8a558b57e4472" title="Converts the given fraction to a double." alt="" coords="475,150,593,177"/>
+</map>

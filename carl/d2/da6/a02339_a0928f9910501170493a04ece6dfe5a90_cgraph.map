@@ -1,0 +1,8 @@
+<map id="carl::FLOAT_T::floor" name="carl::FLOAT_T::floor">
+<area shape="rect" id="node1" title="Function which calculates the floor of this number and puts it into a passed result parameter." alt="" coords="5,93,152,120"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a27d1ce2ad393e8bab62327891595dff4" title="Method which returns the next smaller integer of this number or the number itself,..." alt="" coords="200,93,283,120"/>
+<area shape="rect" id="node3" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="331,5,479,32"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="331,57,479,98"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="331,123,480,149"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="331,174,480,215"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="delta::Consumer::reset" name="delta::Consumer::reset">
+<area shape="rect" id="node1" title="Reset this executor." alt="" coords="268,56,439,83"/>
+<area shape="rect" id="node2" href="$d4/dff/classdelta_1_1Consumer.html#ae35ac58213a0e9570700c93819514414" title="Constructor." alt="" coords="11,5,214,32"/>
+<area shape="rect" id="node3" href="$da/d13/classdelta_1_1Producer.html#a178bca4117f96734ba66b439c0fa9559" title="Apply simplifications to the given node." alt="" coords="16,56,209,83"/>
+<area shape="rect" id="node4" href="$d4/dff/classdelta_1_1Consumer.html#a83a4007fb0a8f0b66113180a423953a7" title="Destructor." alt="" coords="5,107,220,133"/>
+</map>

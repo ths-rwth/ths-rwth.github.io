@@ -1,0 +1,4 @@
+<map id="smtrat::cadcells::datastructures::PolyPool::clear_levels" name="smtrat::cadcells::datastructures::PolyPool::clear_levels">
+<area shape="rect" id="node1" title=" " alt="" coords="281,5,509,47"/>
+<area shape="rect" id="node2" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a475a68e18b78c973b7482943751f5011" title="Clears all polynomials of the specified level and higher in the polynomial cache as well as their pro..." alt="" coords="5,5,233,47"/>
+</map>

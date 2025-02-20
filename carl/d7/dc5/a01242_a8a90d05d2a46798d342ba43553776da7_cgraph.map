@@ -1,0 +1,52 @@
+<map id="carl::real_roots" name="carl::real_roots">
+<area shape="rect" id="node1" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,637,124,664"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#a6aa5825a5dcfebf46047bb9ccd307025" title=" " alt="" coords="203,51,314,77"/>
+<area shape="rect" id="node5" href="$d1/d67/a02561.html#a108f6d032f01d0d74d2db0987724ada3" title="Checks whether the polynomial is only a number." alt="" coords="393,750,588,791"/>
+<area shape="rect" id="node7" href="$d1/d67/a02561.html#af204d60aa0bf2bbef63f2dd743c8844d" title="Checks if the polynomial is univariate, that means if only one variable occurs." alt="" coords="636,611,831,653"/>
+<area shape="rect" id="node9" href="$d7/dc5/a01242.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="1215,1511,1315,1537"/>
+<area shape="rect" id="node15" href="$d1/d67/a02561.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="1168,527,1363,569"/>
+<area shape="rect" id="node16" href="$d7/dc5/a01242.html#a4c9fd41cb4769195dc53b82315a31601" title="Find all real roots of a univariate &#39;polynomial&#39; with numeric coefficients within a given &#39;interval&#39;." alt="" coords="199,1247,318,1273"/>
+<area shape="rect" id="node27" href="$d7/dc5/a01242.html#af7d12c39cf6a4b068d126587124e6442" title="Create a copy of the underlying polynomial with the given variable replaced by the given polynomial." alt="" coords="172,1700,345,1727"/>
+<area shape="rect" id="node29" href="$de/d34/a01261.html#a0e944bedfb2307ca158abf2c6ea590c8" title=" " alt="" coords="177,623,340,679"/>
+<area shape="rect" id="node33" href="$d7/dc5/a01242.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="1471,136,1586,163"/>
+<area shape="rect" id="node3" href="$da/d71/a02101.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="1680,45,1863,72"/>
+<area shape="rect" id="node4" href="$da/d71/a02101.html#ae763563c9b0ec6df9b736f0095c8392f" title=" " alt="" coords="413,43,569,85"/>
+<area shape="rect" id="node6" href="$d1/d67/a02561.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="1168,771,1363,813"/>
+<area shape="rect" id="node8" href="$d1/d67/a02561.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="1168,654,1363,695"/>
+<area shape="rect" id="node10" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1911,1503,2033,1545"/>
+<area shape="rect" id="node11" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="2082,1456,2230,1483"/>
+<area shape="rect" id="node13" href="$d0/d80/a02281.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="1467,1503,1590,1545"/>
+<area shape="rect" id="node12" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="2081,1511,2231,1537"/>
+<area shape="rect" id="node14" href="$d0/d80/a02281.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1707,1529,1835,1570"/>
+<area shape="rect" id="node17" href="$dc/da3/a02853.html#abfdf1afe71715532c869447c87d34d68" title="Compute and sort the roots of mPolynomial within mInterval." alt="" coords="418,1232,563,1288"/>
+<area shape="rect" id="node18" href="$dc/da3/a02853.html#aaab389347247d06dbdfd4bebad578d3a" title="Do actual root isolation." alt="" coords="661,1304,806,1360"/>
+<area shape="rect" id="node24" href="$d7/dc5/a01242.html#af28aa46d7790188411b39e2f8f5e31f8" title="Try to factorize a multivariate polynomial." alt="" coords="924,1093,1060,1120"/>
+<area shape="rect" id="node19" href="$dc/da3/a02853.html#a8e775938fc5818967e7d25d1e2fced76" title="Check whether the interval bounds are roots." alt="" coords="903,1384,1081,1440"/>
+<area shape="rect" id="node20" href="$dc/da3/a02853.html#aaf4c64bfb6ed062c35b0f23a84b2e764" title="The sturm sequence for mPolynomial." alt="" coords="909,1144,1075,1200"/>
+<area shape="rect" id="node21" href="$dc/da3/a02853.html#ab65d46eaa4c842e22cfd6b24f0c13b84" title="Perform bisection." alt="" coords="911,1224,1073,1280"/>
+<area shape="rect" id="node22" href="$dc/da3/a02853.html#abf9aae59b8c3bbc48483e5308b1e3761" title="Directly solve low&#45;degree polynomials." alt="" coords="907,1464,1077,1520"/>
+<area shape="rect" id="node23" href="$dc/da3/a02853.html#adce23fb8a47cdca5a570b24116c28bf5" title="Use root bounds to shrink mInterval." alt="" coords="911,1304,1073,1360"/>
+<area shape="rect" id="node25" href="$d3/dff/a02565.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="1425,1075,1632,1117"/>
+<area shape="rect" id="node26" href="$d7/d88/a01255.html#aa3ffdfd6102dc21fa073711d024bc1d8" title="Returns a factors datastructure containing only the full polynomial as single factor." alt="" coords="1153,1133,1377,1160"/>
+<area shape="rect" id="node28" href="$df/dbf/a02161.html#ac02f6cc573a2e3e20323a3fe357b3eb0" title=" " alt="" coords="409,1697,572,1738"/>
+<area shape="rect" id="node30" href="$de/d34/a01261.html#a81e240c71214a271179974c2318050d1" title="Computes the algebraic substitution of the given defining polynomials into a multivariate polynomial ..." alt="" coords="403,363,578,405"/>
+<area shape="rect" id="node40" href="$dd/d4f/a02845.html#ac81a35b598d8c954aee8cef9c8bcebe6" title="Extend the current number field with the field extension defined by r." alt="" coords="641,853,826,894"/>
+<area shape="rect" id="node47" href="$d5/dd2/a02849.html#af20b0b9677a79d6663a780b80c9e768d" title=" " alt="" coords="917,1013,1067,1069"/>
+<area shape="rect" id="node31" href="$de/d34/a01261.html#a2e5a506d3ce86f7a7f77de3f77a1fc13" title="Implements algebraic substitution by Gröbner basis computation." alt="" coords="905,160,1079,216"/>
+<area shape="rect" id="node34" href="$de/d34/a01261.html#a897bcef0c3dce0c64702e8f419539e1b" title="Implements algebraic substitution by resultant computation." alt="" coords="646,356,821,412"/>
+<area shape="rect" id="node32" href="$d7/dc5/a01242.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="1195,233,1335,274"/>
+<area shape="rect" id="node35" href="$d1/d67/a02561.html#a63bda97947a050e923091df7805f8be8" title="Checks if the given variable occurs in the polynomial." alt="" coords="879,341,1105,368"/>
+<area shape="rect" id="node36" href="$d7/dc5/a01242.html#aee23dc17b4acd2244d03406cfe1fca85" title="Calculates the pseudo&#45;remainder." alt="" coords="905,728,1079,755"/>
+<area shape="rect" id="node37" href="$d7/dc5/a01242.html#af1228224c74e9587e6e8e49c90853eb2" title=" " alt="" coords="936,291,1048,317"/>
+<area shape="rect" id="node38" href="$d7/dc5/a01242.html#af424543799e3edc75eebae2578a31705" title="Switches the main variable using a purely syntactical restructuring." alt="" coords="894,240,1090,267"/>
+<area shape="rect" id="node39" href="$d1/d67/a02561.html#ad4ceaf0daffcc107bf9b8e7998e4f18d" title="Asserts that is_univariate() is true." alt="" coords="895,393,1089,434"/>
+<area shape="rect" id="node41" href="$d0/d51/a02797.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="1172,889,1359,930"/>
+<area shape="rect" id="node43" href="$d0/d51/a02797.html#a4844eccb7b3e8acb735509443cbcfd65" title=" " alt="" coords="899,947,1085,989"/>
+<area shape="rect" id="node44" href="$d7/dc5/a01242.html#a8211b0a0bb14f560103fdf876f80dfc1" title="Replaces the main variable in a polynomial." alt="" coords="921,662,1063,703"/>
+<area shape="rect" id="node46" href="$d0/d51/a02797.html#a0aaa60feed2047ca7f0458737cd20cda" title=" " alt="" coords="899,830,1085,871"/>
+<area shape="rect" id="node42" href="$d0/d51/a02797.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="1435,859,1622,901"/>
+<area shape="rect" id="node45" href="$d7/dc5/a01242.html#aa4015181e274e56d184eb30b935b57e8" title="Applies the given substitutions to a monomial." alt="" coords="1206,720,1325,747"/>
+<area shape="rect" id="node48" href="$d7/dc5/a01242.html#a28cb73b0a3511d64accc6c6e639a7221" title="Implements the division with remainder." alt="" coords="1211,1028,1319,1055"/>
+<area shape="rect" id="node50" href="$d7/dc5/a01242.html#ae3d7d6656ab362001ff43fcb07743d94" title="Calculate the remainder of the integer division." alt="" coords="1205,977,1326,1004"/>
+<area shape="rect" id="node49" href="$d0/d80/a02281.html#afe0c8594fd65cd3deea44a9389c1a8dc" title="Divides two intervals according to natural interval arithmetic." alt="" coords="1463,1024,1595,1051"/>
+</map>

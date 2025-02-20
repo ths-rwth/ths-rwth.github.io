@@ -1,0 +1,8 @@
+<map id="smtrat::expression::simplifier::BaseSimplifier" name="smtrat::expression::simplifier::BaseSimplifier">
+<area shape="rect" id="node1" title=" " alt="" coords="277,104,471,145"/>
+<area shape="rect" id="node3" href="$d4/d08/structsmtrat_1_1expression_1_1simplifier_1_1DuplicateSimplifier.html" title=" " alt="" coords="519,5,741,47"/>
+<area shape="rect" id="node4" href="$d1/d0c/structsmtrat_1_1expression_1_1simplifier_1_1MergeSimplifier.html" title=" " alt="" coords="529,71,731,112"/>
+<area shape="rect" id="node5" href="$d1/dc1/structsmtrat_1_1expression_1_1simplifier_1_1NegationSimplifier.html" title=" " alt="" coords="520,136,740,177"/>
+<area shape="rect" id="node6" href="$db/dd6/structsmtrat_1_1expression_1_1simplifier_1_1SingletonSimplifier.html" title=" " alt="" coords="519,201,741,243"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,104,229,145"/>
+</map>

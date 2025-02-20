@@ -1,0 +1,26 @@
+var structsmtrat_1_1VSSettingsOnlyLC =
+[
+    [ "branch_and_bound_at_origin", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#ab25492f8196ebe9a4182fd6f6dfa8865", null ],
+    [ "check_conflict_for_side_conditions", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a5b11a87d2f2ad8b246349c4b0bbd527a", null ],
+    [ "elimination_with_factorization", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#aff2f5516d6867687f001fda342608e84", null ],
+    [ "incremental_solving", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a4a8475f362c242d4c07f8b2a88d863f9", null ],
+    [ "infeasible_subset_generation", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a3b40697dda6d0a59ac4d6cf3cdcbdfd5", null ],
+    [ "int_max_range", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#aed526b8cff44955f30ad05124904c0cc", null ],
+    [ "lazy_check_threshold", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#ab3d33c3d80b58b9e191bf1bc9a717a8a", null ],
+    [ "local_conflict_search", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#adde49a29d6601d2a05b0e5e869fbaa4f", null ],
+    [ "make_constraints_strict_for_backend", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#ad27f69d68d18684e51d508519bda9806", null ],
+    [ "mixed_int_real_constraints_allowed", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#ac2653fcffb6291eddf6b4b97a0e93b0f", null ],
+    [ "moduleName", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a593a9c18de741b0829e35b88371db46a", null ],
+    [ "only_split_in_final_call", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#af8d9775802a488d24f9e652dd4e74ac8", null ],
+    [ "prefer_equation_over_all", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a8cb5b4357a8a19420e7516973748cd38", null ],
+    [ "split_neq_constraints", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a06e3134cac75e22d093fa91a8010c498", null ],
+    [ "sturm_sequence_for_root_check", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a30de8aed3d12fbf972b974b5a281d43c", null ],
+    [ "try_first_lazy", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a4bae5fdfe730738c3edb7b0b7eeffacb", null ],
+    [ "use_backjumping", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a573cf4032c702a4dc5184452909d27ea", null ],
+    [ "use_branch_and_bound", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a7a7f8a25cc80a270c82ad0bf22ff7d04", null ],
+    [ "use_fixed_variable_order", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#abf4e63cdc87172a79dd14d2d03640121", null ],
+    [ "use_strict_inequalities_for_test_candidate_generation", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#aa77177d9ce7fbaaf2b1c2131f7ad9d17", null ],
+    [ "use_variable_bounds", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#afa89122011f6a8baf99740242cac0c69", null ],
+    [ "variable_valuation_strategy", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a7e1a705694b95f7c9f3041e76c73ede4", null ],
+    [ "virtual_substitution_according_paper", "d0/da6/structsmtrat_1_1VSSettingsOnlyLC.html#a5dc43e8a74e527ec6852efb84e70e6a1", null ]
+];

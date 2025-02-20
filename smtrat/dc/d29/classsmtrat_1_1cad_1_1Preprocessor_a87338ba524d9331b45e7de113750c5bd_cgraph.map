@@ -1,0 +1,10 @@
+<map id="smtrat::cad::Preprocessor::compute_resultants" name="smtrat::cad::Preprocessor::compute_resultants">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,193,119"/>
+<area shape="rect" id="node2" href="$dc/d29/classsmtrat_1_1cad_1_1Preprocessor.html#a1b135341352fa0dabb3ebbc5f117a2ea" title=" " alt="" coords="241,6,429,47"/>
+<area shape="rect" id="node4" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a391a9f68fa5ee4e488ee00847b69ac8f" title="Computes the resultant of two polynomials." alt="" coords="251,78,420,119"/>
+<area shape="rect" id="node7" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title=" " alt="" coords="284,159,387,185"/>
+<area shape="rect" id="node3" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="510,5,635,32"/>
+<area shape="rect" id="node5" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="488,57,657,98"/>
+<area shape="rect" id="node6" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#ae78f1ba02e35a73db902d0714ea7f1c6" title=" " alt="" coords="477,122,668,163"/>
+<area shape="rect" id="node8" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title=" " alt="" coords="491,188,654,215"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="carl::encode_as_constraints_simple" name="carl::encode_as_constraints_simple">
+<area shape="rect" id="node1" title=" " alt="" coords="5,559,208,601"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#aa5af68ac71eed5ef255b50448199770e" title=" " alt="" coords="263,399,441,425"/>
+<area shape="rect" id="node4" href="$db/ddd/a02136.html#a5fc45685b48d62488b81d869f85c6d83" title="Return k, the index of the root." alt="" coords="263,449,441,476"/>
+<area shape="rect" id="node5" href="$db/ddd/a02136.html#ac02f6cc573a2e3e20323a3fe357b3eb0" title=" " alt="" coords="271,501,433,542"/>
+<area shape="rect" id="node6" href="$d8/d15/a01218.html#a4c9fd41cb4769195dc53b82315a31601" title="Find all real roots of a univariate &#39;polynomial&#39; with numeric coefficients within a given &#39;interval&#39;." alt="" coords="293,567,411,593"/>
+<area shape="rect" id="node41" href="$d8/d15/a01218.html#aa4015181e274e56d184eb30b935b57e8" title="Applies the given substitutions to a monomial." alt="" coords="293,617,411,644"/>
+<area shape="rect" id="node43" href="$d8/d15/a01218.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="282,701,422,742"/>
+<area shape="rect" id="node50" href="$db/ddd/a02136.html#af057382c343485c5fae2c49ed4b0b65e" title=" " alt="" coords="256,767,448,793"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#a6b54dc01d3c5522392ba2447328087b9" title=" " alt="" coords="526,399,673,425"/>
+<area shape="rect" id="node7" href="$d2/d4c/a02828.html#abfdf1afe71715532c869447c87d34d68" title="Compute and sort the roots of mPolynomial within mInterval." alt="" coords="527,460,672,516"/>
+<area shape="rect" id="node12" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="1806,524,1906,551"/>
+<area shape="rect" id="node8" href="$d2/d4c/a02828.html#aaab389347247d06dbdfd4bebad578d3a" title="Do actual root isolation." alt="" coords="1299,245,1445,301"/>
+<area shape="rect" id="node21" href="$d8/d15/a01218.html#af28aa46d7790188411b39e2f8f5e31f8" title="Try to factorize a multivariate polynomial." alt="" coords="786,483,922,509"/>
+<area shape="rect" id="node9" href="$d2/d4c/a02828.html#a8e775938fc5818967e7d25d1e2fced76" title="Check whether the interval bounds are roots." alt="" coords="1532,85,1711,141"/>
+<area shape="rect" id="node11" href="$d2/d4c/a02828.html#aaf4c64bfb6ed062c35b0f23a84b2e764" title="The sturm sequence for mPolynomial." alt="" coords="1538,5,1705,61"/>
+<area shape="rect" id="node18" href="$d2/d4c/a02828.html#ab65d46eaa4c842e22cfd6b24f0c13b84" title="Perform bisection." alt="" coords="1540,165,1703,221"/>
+<area shape="rect" id="node19" href="$d2/d4c/a02828.html#abf9aae59b8c3bbc48483e5308b1e3761" title="Directly solve low&#45;degree polynomials." alt="" coords="1536,325,1707,381"/>
+<area shape="rect" id="node20" href="$d2/d4c/a02828.html#adce23fb8a47cdca5a570b24116c28bf5" title="Use root bounds to shrink mInterval." alt="" coords="1540,245,1703,301"/>
+<area shape="rect" id="node10" href="$d2/d4c/a02828.html#aa6bb2ee1dd9bf8d79ff950f5bff80c18" title="Add a root to mRoots and simplify polynomial accordingly (essentially divide by x&#45;n)" alt="" coords="1783,125,1929,181"/>
+<area shape="rect" id="node13" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="2387,658,2509,699"/>
+<area shape="rect" id="node14" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="2558,473,2706,500"/>
+<area shape="rect" id="node16" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="2021,575,2143,617"/>
+<area shape="rect" id="node15" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="2557,929,2707,956"/>
+<area shape="rect" id="node17" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="2211,626,2339,667"/>
+<area shape="rect" id="node22" href="$d0/d58/a01230.html#a1eb9193857ce1d44fdecdde0abd91536" title=" " alt="" coords="1009,489,1209,516"/>
+<area shape="rect" id="node39" href="$d0/d58/a01230.html#aa3ffdfd6102dc21fa073711d024bc1d8" title="Returns a factors datastructure containing only the full polynomial as single factor." alt="" coords="1260,464,1484,491"/>
+<area shape="rect" id="node40" href="$d4/db0/a02540.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="1005,591,1212,633"/>
+<area shape="rect" id="node23" href="$d8/d15/a01218.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="1331,833,1413,860"/>
+<area shape="rect" id="node24" href="$d8/d15/a01218.html#a2621c3f57bc93187374da1f40c0afd67" title="Method which returns the absolute value of the passed number." alt="" coords="1583,960,1660,987"/>
+<area shape="rect" id="node26" href="$de/dc3/a02256.html#a4d1dedfa64629a6509d858c9edae03f2" title="Checks if the interval contains the given value." alt="" coords="1538,909,1705,936"/>
+<area shape="rect" id="node27" href="$de/dc3/a02256.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="2001,944,2163,971"/>
+<area shape="rect" id="node28" href="$d8/d15/a01218.html#a5c205dc504d657271c884a200a13b2d9" title=" " alt="" coords="1817,867,1895,893"/>
+<area shape="rect" id="node29" href="$de/dc3/a02256.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="2008,1034,2156,1075"/>
+<area shape="rect" id="node30" href="$de/dc3/a02256.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="2007,809,2157,850"/>
+<area shape="rect" id="node31" href="$d9/d04/a02460.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="1534,1112,1709,1139"/>
+<area shape="rect" id="node32" href="$d6/d0f/a01256.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="1550,1221,1693,1248"/>
+<area shape="rect" id="node35" href="$de/dc3/a02256.html#ad88c24babf3db53859977f3cfce82db7" title="Function which determines, if the interval is (&#45;oo,oo)." alt="" coords="2213,691,2336,733"/>
+<area shape="rect" id="node36" href="$d8/d15/a01218.html#a0d957abf20560cb00e51ba63d1fea986" title="Returns a polynomial to the given power." alt="" coords="1581,707,1662,733"/>
+<area shape="rect" id="node38" href="$d8/d15/a01218.html#a25002180a22642ffa3952656b7f8d76f" title=" " alt="" coords="1577,656,1665,683"/>
+<area shape="rect" id="node25" href="$de/dc3/a02256.html#ace798498657175679c31f1213f37e340" title="Calculates the absolute value of the interval." alt="" coords="1789,960,1923,987"/>
+<area shape="rect" id="node33" href="$d0/dbc/a03752.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="1765,1214,1947,1255"/>
+<area shape="rect" id="node34" href="$d7/db8/a03060.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="1761,1279,1951,1321"/>
+<area shape="rect" id="node37" href="$d6/d24/a02536.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="1759,691,1953,733"/>
+<area shape="rect" id="node42" href="$d3/d19/a02464.html#aa36ed895ade4f5f204aeba0135d4f086" title=" " alt="" coords="514,607,685,633"/>
+<area shape="rect" id="node44" href="$d4/db0/a02540.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="496,810,703,851"/>
+<area shape="rect" id="node48" href="$d8/d15/a01218.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="542,708,657,735"/>
+<area shape="rect" id="node45" href="$d4/db0/a02540.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="751,865,957,906"/>
+<area shape="rect" id="node47" href="$d3/d55/a02760.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="774,813,934,840"/>
+<area shape="rect" id="node46" href="$d4/db0/a02540.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="1005,865,1212,906"/>
+<area shape="rect" id="node49" href="$db/d87/a02076.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="763,708,945,735"/>
+</map>

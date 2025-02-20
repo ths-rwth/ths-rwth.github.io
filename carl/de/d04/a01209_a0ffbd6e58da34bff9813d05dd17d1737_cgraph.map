@@ -1,0 +1,7 @@
+<map id="carl::gcd_assign" name="carl::gcd_assign">
+<area shape="rect" id="node1" title="Calculate the greatest common divisor of two integers." alt="" coords="5,31,132,57"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a518fcd588efdefd1c48c6d3aaaacee2c" title="Calculate the greatest common divisor of two integers." alt="" coords="180,31,257,57"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#ac837952cbddb45a8e57ab93789d56ba6" title=" " alt="" coords="305,31,383,57"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#abfa557902ca711efa9f03e7ae1679407" title="Extract the denominator from a fraction." alt="" coords="431,5,557,32"/>
+<area shape="rect" id="node5" href="$de/d04/a01209.html#a6b99ff3d1ab9ac9b56cbd908cf818546" title="Extract the numerator from a fraction." alt="" coords="439,56,549,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="smtrat::impl::fixedsize_freelists&lt; SizeCurrent, SizeMax, LowEnough &gt;" name="smtrat::impl::fixedsize_freelists&lt; SizeCurrent, SizeMax, LowEnough &gt;">
+<area shape="rect" id="node1" title="Publicly derive from all fixedsize_freelist types with chunk sizes between SizeCurrent and SizeMax." alt="" coords="5,45,184,101"/>
+<area shape="rect" id="node2" href="$d7/d7a/classsmtrat_1_1impl_1_1fixedsize__freelists.html" title=" " alt="" coords="424,5,660,61"/>
+<area shape="rect" id="node4" href="$d7/d7a/classsmtrat_1_1impl_1_1fixedsize__freelists.html" title=" " alt="" coords="456,85,628,141"/>
+<area shape="rect" id="node3" href="$df/de5/classsmtrat_1_1impl_1_1fixedsize__allocator__freelists.html" title=" " alt="" coords="714,13,881,54"/>
+<area shape="rect" id="node5" href="$da/da4/classsmtrat_1_1impl_1_1fixedsize__freelists_3_01SizeCurrent_00_01SizeMax_00_01true_01_4.html" title=" " alt="" coords="709,85,885,141"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="smtrat::Module::receivedFormulasAsInfeasibleSubset" name="smtrat::Module::receivedFormulasAsInfeasibleSubset">
+<area shape="rect" id="node1" title="Stores an infeasible subset consisting only of the given received formula." alt="" coords="213,5,420,47"/>
+<area shape="rect" id="node2" href="$d6/def/classsmtrat_1_1CNFerModule.html#afbf31e434a97a17b8676cd6def0d6c39" title="Checks the received formula for consistency." alt="" coords="5,5,165,47"/>
+</map>

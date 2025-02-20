@@ -1,0 +1,8 @@
+<map id="carl::squareFreePart" name="carl::squareFreePart">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,156,124"/>
+<area shape="rect" id="node2" href="$d6/d51/a02535.html#a2f6524b8552fc389eafd79a6302ecd4a" title="Check if the polynomial is constant." alt="" coords="204,57,411,98"/>
+<area shape="rect" id="node6" href="$d6/d51/a02535.html#aa70bde3c36c67d4ab7f3f5f34dde3b85" title="Check if the polynomial is linear." alt="" coords="204,122,411,163"/>
+<area shape="rect" id="node3" href="$df/d02/a02755.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="478,5,646,32"/>
+<area shape="rect" id="node4" href="$d6/d51/a02535.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="459,57,665,98"/>
+<area shape="rect" id="node5" href="$d6/d51/a02535.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="713,86,920,127"/>
+</map>

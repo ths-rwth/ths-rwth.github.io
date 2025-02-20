@@ -1,0 +1,10 @@
+<map id="carl::variables" name="carl::variables">
+<area shape="rect" id="node1" title="Add the variables of the given polynomial to the variables." alt="" coords="5,107,120,134"/>
+<area shape="rect" id="node2" href="$d6/d19/a02007.html#a9df560421a3fdbadf68035f008e8b9c7" title=" " alt="" coords="344,67,515,94"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a9cc2f7f3c081d4856a654898f6871206" title="Checks whether the monomial is a constant." alt="" coords="168,158,296,185"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a8215a604fc693189ab2161942a85a6d2" title="Add the variables of the given monomial to the variables." alt="" coords="175,107,289,134"/>
+<area shape="rect" id="node3" href="$d7/d98/a02003.html#abfedf1dcbc7eb5d6df23dcf5ea0477e4" title=" " alt="" coords="569,5,712,47"/>
+<area shape="rect" id="node4" href="$d6/d19/a02007.html#ab22291bd03f45a207ab29ec8bb0aa2f7" title=" " alt="" coords="571,71,710,112"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="361,158,497,185"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="563,158,719,185"/>
+</map>

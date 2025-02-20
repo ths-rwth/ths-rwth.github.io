@@ -1,0 +1,4 @@
+<map id="benchmax::ssh::SSHConnection::getSCP" name="benchmax::ssh::SSHConnection::getSCP">
+<area shape="rect" id="node1" title="Get a new SCP session for file transfer." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a8d7449b8d3a23f482fb66040c0003a24" title="Check if all channels are busy." alt="" coords="280,5,507,47"/>
+</map>

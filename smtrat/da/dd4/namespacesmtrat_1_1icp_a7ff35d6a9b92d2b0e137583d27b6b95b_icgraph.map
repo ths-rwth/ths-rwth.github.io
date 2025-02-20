@@ -1,0 +1,5 @@
+<map id="smtrat::icp::intervalToConstraint" name="smtrat::icp::intervalToConstraint">
+<area shape="rect" id="node1" title="Creates a new constraint from an existing interval." alt="" coords="295,60,525,87"/>
+<area shape="rect" id="node2" href="$db/d90/classsmtrat_1_1ICPModule.html#a61424c17748c1b169dcf062e31b0bebb" title=" " alt="" coords="44,5,208,61"/>
+<area shape="rect" id="node3" href="$db/d90/classsmtrat_1_1ICPModule.html#aa9f9015e9c2bdbe013f0cf36e3a8f65d" title="creates constraints for the actual bounds of the original variables." alt="" coords="5,85,247,141"/>
+</map>

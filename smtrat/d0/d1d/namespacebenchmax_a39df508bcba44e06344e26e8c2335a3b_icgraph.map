@@ -1,0 +1,10 @@
+<map id="benchmax::call_program" name="benchmax::call_program">
+<area shape="rect" id="node1" title="Runs an external program from some command line and records the output to stdout." alt="" coords="593,143,776,170"/>
+<area shape="rect" id="node2" href="$d9/d1a/namespacebenchmax_1_1slurm.html#a39ddb1852c716e1e67ef39b71d7a99ef" title="Put all log files into an archive." alt="" coords="314,5,505,47"/>
+<area shape="rect" id="node4" href="$df/d9e/classbenchmax_1_1LocalBackend.html#a1f281d9c286668778466d51cfa1fb17e" title="Execute the tool on the file manually." alt="" coords="316,71,503,112"/>
+<area shape="rect" id="node5" href="$d9/d1a/namespacebenchmax_1_1slurm.html#af8896fe03f473976c4cad789bf6874c8" title="Checks if the given job is finished." alt="" coords="332,136,487,177"/>
+<area shape="rect" id="node6" href="$d2/d45/classbenchmax_1_1Tool.html#a4574107a9c9cc0c37cb46c07ff5d092a" title="Get dependencies of binary required to run it (via ldd)" alt="" coords="273,202,545,229"/>
+<area shape="rect" id="node7" href="$db/da2/classbenchmax_1_1SlurmBackend.html#ae2164830134b6a51e80567d1e3383809" title=" " alt="" coords="314,253,505,295"/>
+<area shape="rect" id="node3" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a33cf24e7711867083fbc3e719f40d32e" title=" " alt="" coords="20,71,211,112"/>
+<area shape="rect" id="node8" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a8e934ea372ec8227610385f308b9f420" title="Run all tools on all benchmarks using Slurm." alt="" coords="5,261,225,287"/>
+</map>

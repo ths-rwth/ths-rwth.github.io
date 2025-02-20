@@ -1,0 +1,10 @@
+<map id="smtrat::VarSchedulerMcsatBase" name="smtrat::VarSchedulerMcsatBase">
+<area shape="rect" id="node1" title="Base class for all MCSAT variable scheduler." alt="" coords="244,177,473,203"/>
+<area shape="rect" id="node3" href="$da/dac/classsmtrat_1_1TheoryVarSchedulerStatic.html" title="Schedules theory variables statically." alt="" coords="553,5,756,47"/>
+<area shape="rect" id="node4" href="$d9/da1/classsmtrat_1_1VarSchedulerMcsatActivityPreferTheory.html" title="Activity&#45;based scheduler preferring initially theory variables." alt="" coords="551,71,758,112"/>
+<area shape="rect" id="node5" href="$d9/db8/classsmtrat_1_1VarSchedulerMcsatBooleanFirst.html" title="Variable scheduling that all decides Boolean variables first before deciding any theory variable." alt="" coords="556,136,753,177"/>
+<area shape="rect" id="node6" href="$d9/d1a/classsmtrat_1_1VarSchedulerMcsatTheoryFirst.html" title="Variable scheduling that all decides theory variables first before deciding any Boolean variable." alt="" coords="537,201,772,243"/>
+<area shape="rect" id="node7" href="$da/d9c/classsmtrat_1_1VarSchedulerMcsatUnivariateClausesOnly.html" title="Decides only Constraints occuring in clauses that are univariate in the current theory variable while..." alt="" coords="521,267,788,323"/>
+<area shape="rect" id="node8" href="$d4/db3/classsmtrat_1_1VarSchedulerMcsatUnivariateConstraintsOnly.html" title="Decides only Constraints univariate in the current theory variable while the theory ordering is stati..." alt="" coords="556,347,753,403"/>
+<area shape="rect" id="node2" href="$d5/d1d/classsmtrat_1_1VarSchedulerBase.html" title="Base class for variable schedulers." alt="" coords="5,177,196,203"/>
+</map>

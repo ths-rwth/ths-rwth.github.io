@@ -1,0 +1,4 @@
+<map id="smtrat::vs::Condition::valuate" name="smtrat::vs::Condition::valuate">
+<area shape="rect" id="node1" title="Valuates the constraint according to a variable (it possibly not contains)." alt="" coords="192,5,351,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aada4ee76c63a22f40e44c5e0df3ae912" title="Determines the most adequate condition and in it the most adequate variable in the state to generate ..." alt="" coords="5,5,144,47"/>
+</map>

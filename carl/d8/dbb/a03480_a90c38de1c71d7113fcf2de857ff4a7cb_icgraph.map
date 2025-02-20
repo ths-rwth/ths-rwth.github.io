@@ -1,0 +1,8 @@
+<map id="carl::SortManager::getSort" name="carl::SortManager::getSort">
+<area shape="rect" id="node1" title=" " alt="" coords="392,78,537,119"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a327d66c395c2f9db6c50b3018652ba27" title="Gets the sort specified by the arguments." alt="" coords="221,5,322,32"/>
+<area shape="rect" id="node3" href="$d8/dbb/a03480.html#a28038a8fff52c63d49d6fe62c3ccb395" title="Gets the sort with arity greater than zero corresponding the given name and having the arguments of t..." alt="" coords="5,78,151,119"/>
+<area shape="rect" id="node4" href="$d8/dbb/a03480.html#a3b249d6a471432466b55779eb3e008e6" title=" " alt="" coords="199,173,344,214"/>
+<area shape="rect" id="node6" href="$d8/dbb/a03480.html#a164c068c0f6928e3b979e51e9409b193" title="Recursively replaces sorts within the given sort according to the mapping of sort names to sorts as d..." alt="" coords="199,107,344,149"/>
+<area shape="rect" id="node5" href="$d8/dbb/a03480.html#af5d3655e50bdd8730e5a6882611b99f2" title=" " alt="" coords="5,173,151,214"/>
+</map>

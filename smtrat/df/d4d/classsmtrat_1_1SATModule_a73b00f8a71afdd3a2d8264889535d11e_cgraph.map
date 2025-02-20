@@ -1,0 +1,4 @@
+<map id="smtrat::SATModule::updateModel" name="smtrat::SATModule::updateModel">
+<area shape="rect" id="node1" title="Updates the model, if the solver has detected the consistency of the received formula,..." alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#ac2d762b60d122194af81aab8ce323d11" title=" " alt="" coords="208,5,420,47"/>
+</map>

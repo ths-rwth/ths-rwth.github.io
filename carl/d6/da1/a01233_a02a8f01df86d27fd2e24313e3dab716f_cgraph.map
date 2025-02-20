@@ -1,0 +1,14 @@
+<map id="carl::extended_gcd" name="carl::extended_gcd">
+<area shape="rect" id="node1" title="Calculates the extended greatest common divisor g of two polynomials." alt="" coords="5,256,151,283"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a26949d97442e59bac3353498d2c17d93" title=" " alt="" coords="265,56,359,83"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="697,81,792,108"/>
+<area shape="rect" id="node8" href="$dc/db6/a01212.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="215,183,409,225"/>
+<area shape="rect" id="node9" href="$dc/db6/a01212.html#a9d54ed3853631a633e6a994f49b1d655" title="Retrieves the main variable of this polynomial." alt="" coords="215,249,409,290"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#a8de13a131fe7edb2b7629fa1481d019e" title=" " alt="" coords="215,314,409,355"/>
+<area shape="rect" id="node11" href="$dc/db6/a01212.html#af408f5a70ab4d41596882ac19e757425" title="The normal part of a polynomial is the polynomial divided by the unit part." alt="" coords="215,379,409,421"/>
+<area shape="rect" id="node12" href="$dc/db6/a01212.html#a1dcce5a6b9f6ccdaab52fe79d751d37b" title="Creates a polynomial of value one with the same main variable." alt="" coords="199,445,425,472"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="681,5,808,32"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a64f6d2e32b05ab6591f3577583a8c3be" title="Checks whether a term is zero." alt="" coords="503,31,603,57"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="473,81,633,108"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="856,74,1063,115"/>
+</map>

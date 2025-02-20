@@ -1,0 +1,7 @@
+<map id="is_rational_type" name="is_rational_type">
+<area shape="rect" id="node1" href="$d8/ddf/a01238.html" title="All rational types that can represent a subset of all rationals are marked with is_subset_of_rational..." alt="" coords="457,5,660,31"/>
+<area shape="rect" id="node2" title="All integral types that can (in theory) represent all rationals are marked with is_rational_type." alt="" coords="145,55,272,80"/>
+<area shape="rect" id="node4" href="$de/d16/a01228.html" title=" " alt="" coords="502,55,615,80"/>
+<area shape="rect" id="node5" href="$db/d1c/a01229.html" title=" " alt="" coords="512,115,605,140"/>
+<area shape="rect" id="node3" href="$d0/d58/a01230.html" title="We define custom type traits for number types we use." alt="" coords="5,55,96,80"/>
+</map>

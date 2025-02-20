@@ -1,0 +1,5 @@
+<map id="smtrat::union_find::P_union_by_rank" name="smtrat::union_find::P_union_by_rank">
+<area shape="rect" id="node1" title="Union the two elements (must be representatives) by rank." alt="" coords="193,39,333,80"/>
+<area shape="rect" id="node2" href="$d8/d47/classsmtrat_1_1union__find.html#ad48b77fe77372f1882a20247501eed4e" title="As union_, but does NOT compute find(rep1), find(rep2), but assumes both indices are already pointing..." alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node3" href="$d8/d47/classsmtrat_1_1union__find.html#a58250a9ffde0f34b497936ad98dddf77" title="Make the entries identified by index1 and index2 equivalent." alt="" coords="5,71,145,112"/>
+</map>

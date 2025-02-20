@@ -1,0 +1,13 @@
+<map id="smtrat::Module::addCore" name="smtrat::Module::addCore">
+<area shape="rect" id="node1" title="The module has to take the given sub&#45;formula of the received formula into account." alt="" coords="1004,147,1187,174"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#ae22d78139ef8bc2e2b725fef516aa822" title="The module has to take the given sub&#45;formula of the received formula into account." alt="" coords="803,147,956,174"/>
+<area shape="rect" id="node3" href="$d0/df0/classsmtrat_1_1Manager.html#aa691f1417f6a5bc5ecc8db1ef68648ee" title="Adds the given formula to the conjunction of formulas, which will be considered for the next satisfia..." alt="" coords="563,87,725,114"/>
+<area shape="rect" id="node8" href="$dc/d3b/classsmtrat_1_1PModule.html#a7a060f14da95300e5f4feab735469101" title="The module has to take the given sub&#45;formula of the received formula into account." alt="" coords="563,147,725,174"/>
+<area shape="rect" id="node9" href="$d0/df0/classsmtrat_1_1Manager.html#a591271930bdbd9bd9e00de72251e8b52" title="Get the backends to call for the given problem instance required by the given module." alt="" coords="533,217,755,243"/>
+<area shape="rect" id="node4" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a9824ae886d5194d71a693588ac3ae1e9" title=" " alt="" coords="301,5,458,47"/>
+<area shape="rect" id="node5" href="$da/dae/classsmtrat_1_1preprocessor_1_1Preprocessor.html#a3468cb1a9111aad3238be6790c9c3c9a" title=" " alt="" coords="294,71,465,112"/>
+<area shape="rect" id="node6" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="288,137,471,193"/>
+<area shape="rect" id="node7" href="$dc/dd2/structsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder.html#a40e9a1213bb9a2574b61c716b8f95dbc" title=" " alt="" coords="5,144,225,185"/>
+<area shape="rect" id="node10" href="$d8/da6/classsmtrat_1_1Module.html#a0894661497e0f400e1c73290b5fd2e08" title="Informs all backends about the so far encountered constraints, which have not yet been communicated." alt="" coords="304,217,455,243"/>
+<area shape="rect" id="node11" href="$d8/da6/classsmtrat_1_1Module.html#a38d5316bcb51e44908740daea5eddac1" title="Runs the backend solvers on the passed formula." alt="" coords="273,267,485,294"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="smtrat::VarSchedulerMcsatBooleanFirst&lt; vot &gt;" name="smtrat::VarSchedulerMcsatBooleanFirst&lt; vot &gt;">
+<area shape="rect" id="node1" title="Variable scheduling that all decides Boolean variables first before deciding any theory variable." alt="" coords="21,155,219,196"/>
+<area shape="rect" id="node2" href="$d6/d59/classsmtrat_1_1VarSchedulerMcsatBase.html" title="Base class for all MCSAT variable scheduler." alt="" coords="5,80,235,107"/>
+<area shape="rect" id="node3" href="$d5/d1d/classsmtrat_1_1VarSchedulerBase.html" title="Base class for variable schedulers." alt="" coords="25,5,215,32"/>
+</map>

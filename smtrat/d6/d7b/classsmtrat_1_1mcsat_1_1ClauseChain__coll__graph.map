@@ -1,0 +1,10 @@
+<map id="smtrat::mcsat::ClauseChain" name="smtrat::mcsat::ClauseChain">
+<area shape="rect" id="node1" title="An explanation is either a single clause or a chain of clauses, satisfying the following properties:" alt="" coords="114,332,317,359"/>
+<area shape="rect" id="node2" title=" " alt="" coords="57,221,200,262"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,102,188,129"/>
+<area shape="rect" id="node4" title=" " alt="" coords="77,5,116,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="235,213,393,269"/>
+<area shape="rect" id="node6" href="$db/dfe/structsmtrat_1_1mcsat_1_1ClauseChain_1_1Link.html" title=" " alt="" coords="213,95,415,136"/>
+<area shape="rect" id="node7" title=" " alt="" coords="440,102,569,129"/>
+<area shape="rect" id="node8" title=" " alt="" coords="485,5,524,32"/>
+</map>

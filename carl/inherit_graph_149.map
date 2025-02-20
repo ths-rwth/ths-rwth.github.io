@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$db/d49/a03737.html" title="Base class for a logging sink." alt="" coords="5,31,144,57"/>
+<area shape="rect" id="node2" href="$d7/ded/a03745.html" title="Logging sink for file output." alt="" coords="204,5,365,32"/>
+<area shape="rect" id="node3" href="$d0/d52/a03741.html" title="Logging sink that wraps an arbitrary std::ostream." alt="" coords="192,56,377,83"/>
+</map>

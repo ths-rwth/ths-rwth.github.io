@@ -1,0 +1,6 @@
+<map id="carl::VariablePool::get_fresh_variable" name="carl::VariablePool::get_fresh_variable">
+<area shape="rect" id="node1" title="Get a variable which was not used before." alt="" coords="387,39,537,80"/>
+<area shape="rect" id="node2" href="$db/d34/a02118.html#ac370bc810b22cb2c7c9469bb4d2a85eb" title="Clears everything already created in this pool." alt="" coords="196,5,331,47"/>
+<area shape="rect" id="node4" href="$db/d34/a02118.html#aecba0b6dbb544ab787fdeebc562f77fb" title="Get a variable with was not used before and set a name for it." alt="" coords="188,71,339,112"/>
+<area shape="rect" id="node3" href="$db/d34/a02118.html#aa574be87ddd9413e9de30af62ce535bd" title="Private default constructor." alt="" coords="5,5,140,47"/>
+</map>

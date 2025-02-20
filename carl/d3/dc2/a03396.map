@@ -1,0 +1,10 @@
+<map id="carl::Model&lt; Rational, Poly &gt;" name="carl::Model&lt; Rational, Poly &gt;">
+<area shape="rect" id="node1" title="Represent a collection of assignments/mappings from variables to values." alt="" coords="226,317,393,359"/>
+<area shape="rect" id="node2" title=" " alt="" coords="306,213,529,255"/>
+<area shape="rect" id="node3" href="$d8/d75/a03426.html" title="Represent a sum type/variant over the different kinds of variables that exist in CARL to use them in ..." alt="" coords="512,102,659,129"/>
+<area shape="rect" id="node7" title=" " alt="" coords="124,213,281,255"/>
+<area shape="rect" id="node4" title=" " alt="" coords="270,102,405,129"/>
+<area shape="rect" id="node5" title=" " alt="" coords="286,5,325,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="351,5,390,32"/>
+<area shape="rect" id="node8" href="$d1/deb/a03418.html" title="Represent a sum type/variant over the different kinds of values that can be assigned to the different..." alt="" coords="5,95,208,136"/>
+</map>

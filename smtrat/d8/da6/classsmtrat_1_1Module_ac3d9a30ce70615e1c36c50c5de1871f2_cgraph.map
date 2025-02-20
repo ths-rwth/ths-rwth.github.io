@@ -1,0 +1,7 @@
+<map id="smtrat::Module::getInfeasibleSubsets" name="smtrat::Module::getInfeasibleSubsets">
+<area shape="rect" id="node1" title="Get the infeasible subsets the given backend provides." alt="" coords="5,57,220,98"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#a89753fa85c66a0385a86d2ef81e63c3f" title="Gets the origins of the passed formula at the given position." alt="" coords="279,5,475,32"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html#a060f83741ba5eba7e480473dc70f5d38" title=" " alt="" coords="280,57,473,98"/>
+<area shape="rect" id="node5" href="$d8/da6/classsmtrat_1_1Module.html#a26afe62550fa50747b40fa8110f45ee7" title=" " alt="" coords="268,123,485,149"/>
+<area shape="rect" id="node3" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a33c1578b6f89d0a72affdd18f73ed3f3" title=" " alt="" coords="533,5,720,32"/>
+</map>

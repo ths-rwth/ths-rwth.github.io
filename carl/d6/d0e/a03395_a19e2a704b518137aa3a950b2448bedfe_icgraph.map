@@ -1,0 +1,15 @@
+<map id="carl::Formula::premise" name="carl::Formula::premise">
+<area shape="rect" id="node1" title=" " alt="" coords="799,177,967,203"/>
+<area shape="rect" id="node2" href="$d8/d8e/a01224.html#a2756a8ed3035cc21bef009668699312c" title=" " alt="" coords="591,151,737,178"/>
+<area shape="rect" id="node5" href="$d8/d8e/a01224.html#a76de9f14da53a3e8a519eb0e169d06f5" title="Resolves the outermost negation of this formula." alt="" coords="581,46,747,73"/>
+<area shape="rect" id="node9" href="$d8/d8e/a01224.html#a123081a99e9a8112b9a5c1a2ace74f4c" title=" " alt="" coords="406,101,501,127"/>
+<area shape="rect" id="node10" href="$d8/d8e/a01224.html#a0ea49fdbb441dcaed3f504e69023eb2f" title="Substitutes all variables from a model within a formula." alt="" coords="577,202,751,229"/>
+<area shape="rect" id="node11" href="$d8/d8e/a01224.html#a2fcb10752a9d408b948cb813e16c8df3" title=" " alt="" coords="617,253,711,279"/>
+<area shape="rect" id="node12" href="$d8/d8e/a01224.html#ae96351310a8ead78a16bf37793796e55" title="Recursively calls func on every subformula and return a new formula." alt="" coords="601,303,727,330"/>
+<area shape="rect" id="node3" href="$d8/d8e/a01224.html#a8e1c470a4b90eea09071b4641bce2d65" title=" " alt="" coords="380,151,527,178"/>
+<area shape="rect" id="node4" href="$d8/d8e/a01224.html#a317d4abe08728d5325d1a5f4a4230f6b" title="Transforms this formula to its equivalent in prenex normal form." alt="" coords="406,227,501,254"/>
+<area shape="rect" id="node6" href="$d8/d8e/a01224.html#ae5348ec0d0b3073c97a0d0ce99b96026" title="Converts the given formula to CNF." alt="" coords="235,13,329,39"/>
+<area shape="rect" id="node8" href="$dc/d83/a01254.html#ada7ee1423bb4e90d63c19f339822c1c0" title="Converts an OR to cnf." alt="" coords="377,35,529,76"/>
+<area shape="rect" id="node7" href="$df/d38/a03587.html#adacbe6f985dfafd6acb3be1cb94686fb" title=" " alt="" coords="5,5,187,47"/>
+<area shape="rect" id="node13" href="$d8/d8e/a01224.html#a5009bd3bff3aa43c8f7733bcf44ca418" title=" " alt="" coords="394,303,513,330"/>
+</map>

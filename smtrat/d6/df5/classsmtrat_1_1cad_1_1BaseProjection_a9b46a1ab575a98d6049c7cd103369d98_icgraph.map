@@ -1,0 +1,12 @@
+<map id="smtrat::cad::BaseProjection::getPolynomialById" name="smtrat::cad::BaseProjection::getPolynomialById">
+<area shape="rect" id="node1" title="Retrieves a polynomial from its id." alt="" coords="669,174,871,215"/>
+<area shape="rect" id="node2" href="$d7/d48/classsmtrat_1_1cad_1_1ModelBasedProjection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1ORDERED_00_01Settings_01_4.html#ad58f66180886f83b4269ac9540077b2e" title="Finds pids of polynomials with closest roots." alt="" coords="305,5,621,61"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#aca0854fa29777899d599205887c50039" title="Get a polynomial from this level suited for lifting." alt="" coords="363,86,564,127"/>
+<area shape="rect" id="node4" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html#acbd1fe126ca7d5a9534aa3b0e86354f9" title=" " alt="" coords="53,86,209,127"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af9101f43b9b075e399dc4c390516767d" title=" " alt="" coords="363,203,564,245"/>
+<area shape="rect" id="node9" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a6df07db45b8838e88efc185fb0f2f516" title=" " alt="" coords="357,269,569,339"/>
+<area shape="rect" id="node10" href="$df/deb/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01BT_00_01Settings_01_4.html#ab0bb961c60e25c87b72124ad85c58fb6" title=" " alt="" coords="367,364,559,420"/>
+<area shape="rect" id="node6" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a97e199498b9ccace13554df6683d4838" title="Inserts a polynomial with the given origin into the given level." alt="" coords="25,151,237,222"/>
+<area shape="rect" id="node7" href="$d6/d5d/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01BT_00_01Settings_01_4_1_1PurgedPolynomials.html#a78d14a103740d3151e48ac66a5082a0b" title=" " alt="" coords="5,246,257,317"/>
+<area shape="rect" id="node8" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a2f3d712cbc07a40e3cf139974460db07" title=" " alt="" coords="25,341,237,411"/>
+</map>

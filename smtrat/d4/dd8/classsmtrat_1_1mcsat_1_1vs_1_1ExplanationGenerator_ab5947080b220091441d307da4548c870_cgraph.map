@@ -1,0 +1,25 @@
+<map id="smtrat::mcsat::vs::ExplanationGenerator::getExplanation" name="smtrat::mcsat::vs::ExplanationGenerator::getExplanation">
+<area shape="rect" id="node1" title=" " alt="" coords="5,389,169,445"/>
+<area shape="rect" id="node2" href="$d4/dd8/classsmtrat_1_1mcsat_1_1vs_1_1ExplanationGenerator.html#a522bd8a609a90547d4e0a7329f1f941d" title=" " alt="" coords="237,217,401,273"/>
+<area shape="rect" id="node17" href="$d2/d58/classsmtrat_1_1mcsat_1_1ClauseChain.html#a2198b21bd1933fa654aa10820a4529d6" title="Transforms a given Boolean conjunction over AND and OR to CNF via Tseitin&#45;Transformation so that,..." alt="" coords="217,480,420,521"/>
+<area shape="rect" id="node3" href="$d4/dd8/classsmtrat_1_1mcsat_1_1vs_1_1ExplanationGenerator.html#a01856f684c68deeda1816b048b12d140" title=" " alt="" coords="487,262,651,318"/>
+<area shape="rect" id="node4" href="$d3/ddc/namespacesmtrat_1_1lve.html#a0728f680545aacf86d0ed2d7c9906a4b" title=" " alt="" coords="753,173,912,199"/>
+<area shape="rect" id="node16" href="$d4/dd8/classsmtrat_1_1mcsat_1_1vs_1_1ExplanationGenerator.html#a3599df6d1a841f09d1fd5884b7d3427d" title=" " alt="" coords="1023,71,1209,127"/>
+<area shape="rect" id="node7" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="1044,283,1188,324"/>
+<area shape="rect" id="node10" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="1312,349,1411,375"/>
+<area shape="rect" id="node11" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a5b0ef0d1478291b6175b1ba2841cad48" title="Generate all test candidates according to &quot;vanilla&quot; virtual substitution." alt="" coords="719,224,947,265"/>
+<area shape="rect" id="node15" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a5cc5bdd01a9601b2088f6e2448030275" title=" " alt="" coords="739,392,926,433"/>
+<area shape="rect" id="node5" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="1023,5,1209,47"/>
+<area shape="rect" id="node6" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="1299,50,1424,77"/>
+<area shape="rect" id="node8" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="1285,217,1437,259"/>
+<area shape="rect" id="node9" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="1289,283,1433,324"/>
+<area shape="rect" id="node12" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a6e9bf4d22615f1b9d59238c28d90bc6a" title="Adds a new substitution to the given list of substitutions or merges it to an existing one." alt="" coords="995,152,1237,193"/>
+<area shape="rect" id="node14" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a1b6e43fbd05fde4441b7e45c303ea838" title="Get zeros with side conditions of the given constraint." alt="" coords="1033,217,1199,259"/>
+<area shape="rect" id="node13" href="$d6/d0b/namespaceMinisat.html#a8dde6eed0840d1092688c12829715cd6" title=" " alt="" coords="1310,130,1413,157"/>
+<area shape="rect" id="node18" href="$db/d0c/namespacesmtrat_1_1mcsat.html#a4598e6a48dcdf768f765d42e94acad14" title=" " alt="" coords="473,480,665,521"/>
+<area shape="rect" id="node23" href="$d2/d58/classsmtrat_1_1mcsat_1_1ClauseChain.html#aa09a05ca521153957923ffb918e7cc85" title=" " alt="" coords="468,545,671,587"/>
+<area shape="rect" id="node19" href="$d2/d58/classsmtrat_1_1mcsat_1_1ClauseChain.html#a524c2ddc2eb26ed8600928f53b8aa995" title="Append a conflicting clause (regarding the current assignment)." alt="" coords="731,509,934,551"/>
+<area shape="rect" id="node20" href="$d2/d58/classsmtrat_1_1mcsat_1_1ClauseChain.html#ada3029b0ef67b045dfdf8770117a7bcc" title="Append an additional clause which is neither propagating nor conflicting." alt="" coords="731,575,934,616"/>
+<area shape="rect" id="node21" href="$d2/d58/classsmtrat_1_1mcsat_1_1ClauseChain.html#a6d55671b58c2df80d23919ed0baf133c" title="Append a clause that implies impliedTseitinLiteral under the current assignment." alt="" coords="731,640,934,681"/>
+<area shape="rect" id="node22" href="$d2/d58/classsmtrat_1_1mcsat_1_1ClauseChain.html#a5600c8ed946d44fda09af2a77a319356" title="Create a Tseitin variable for the given formula." alt="" coords="1015,425,1217,467"/>
+</map>

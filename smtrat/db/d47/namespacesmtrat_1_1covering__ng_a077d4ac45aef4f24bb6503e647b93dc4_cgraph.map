@@ -1,0 +1,12 @@
+<map id="smtrat::covering_ng::parameter" name="smtrat::covering_ng::parameter">
+<area shape="rect" id="node1" title=" " alt="" coords="5,247,157,288"/>
+<area shape="rect" id="node2" href="$d0/d21/structsmtrat_1_1cadcells_1_1representation_1_1covering.html#a0dfafe7b8ebb2ac9c1402a1ee6cf0235" title=" " alt="" coords="205,5,435,47"/>
+<area shape="rect" id="node3" href="$db/d47/namespacesmtrat_1_1covering__ng.html#a0cb030bc9da78db3a1f8f5b79118340d" title=" " alt="" coords="238,71,402,112"/>
+<area shape="rect" id="node5" href="$d4/da1/structsmtrat_1_1covering__ng_1_1CoveringResult.html#aa37068b23c6edf2d0991671da7745d98" title=" " alt="" coords="223,136,417,177"/>
+<area shape="rect" id="node6" href="$d4/da1/structsmtrat_1_1covering__ng_1_1CoveringResult.html#ac47034c24ae36a95c3917b5dcb3ca455" title=" " alt="" coords="244,202,396,258"/>
+<area shape="rect" id="node7" href="$db/d47/namespacesmtrat_1_1covering__ng.html#a432c20a82b9d54567961525b7304b25d" title=" " alt="" coords="244,283,396,324"/>
+<area shape="rect" id="node8" href="$d4/da1/structsmtrat_1_1covering__ng_1_1CoveringResult.html#a1d64c127874d8d45e65dc7bfd723a618" title=" " alt="" coords="233,348,407,389"/>
+<area shape="rect" id="node9" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a0b5d4f3c32f7b89258e85480d15f5954" title=" " alt="" coords="206,413,434,455"/>
+<area shape="rect" id="node10" href="$d9/d5c/classsmtrat_1_1covering__ng_1_1VariableQuantification.html#adaa1499aa7515d5f834be7f7d7d20abf" title="Returns the type of the given variable." alt="" coords="233,479,407,535"/>
+<area shape="rect" id="node4" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="483,290,581,317"/>
+</map>

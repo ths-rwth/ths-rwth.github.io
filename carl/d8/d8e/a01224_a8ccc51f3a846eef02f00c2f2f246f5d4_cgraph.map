@@ -1,0 +1,6 @@
+<map id="carl::newUninterpretedFunction" name="carl::newUninterpretedFunction">
+<area shape="rect" id="node1" title="Gets the uninterpreted function with the given name, domain, arguments and codomain." alt="" coords="5,46,232,73"/>
+<area shape="rect" id="node2" href="$da/de2/a03067.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="305,5,510,47"/>
+<area shape="rect" id="node3" href="$d3/d1c/a03551.html#a4ee8c6e9b8badcc24effc69bb32f22b0" title="Gets the uninterpreted function with the given name, domain, arguments and codomain." alt="" coords="280,71,535,112"/>
+<area shape="rect" id="node4" href="$d3/d1c/a03551.html#ac3615c8c2b2d1f47b3abdbe8dfab43cc" title="Tries to add the given uninterpreted function&#39;s content to the so far stored uninterpreted function&#39;s..." alt="" coords="583,78,765,105"/>
+</map>

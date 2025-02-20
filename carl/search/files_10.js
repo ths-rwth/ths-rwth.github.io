@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['ran_2eh_4084',['ran.h',['../d2/da3/a00593.html',1,'']]],
+  ['ran_2eh_4085',['Ran.h',['../d4/d9e/a00569.html',1,'']]],
+  ['ran_5finterval_5fextra_2eh_4086',['ran_interval_extra.h',['../d6/d06/a00572.html',1,'']]],
+  ['ran_5fthom_2eh_4087',['ran_thom.h',['../dc/d25/a00596.html',1,'']]],
+  ['rationalfunction_2eh_4088',['RationalFunction.h',['../d8/d2d/a00815.html',1,'']]],
+  ['rationalfunction_2etpp_4089',['RationalFunction.tpp',['../d3/d60/a00818.html',1,'']]],
+  ['rationalfunctionparser_2eh_4090',['RationalFunctionParser.h',['../d9/d7c/a01073.html',1,'']]],
+  ['realrootisolation_2eh_4091',['RealRootIsolation.h',['../d0/d3e/a00566.html',1,'']]],
+  ['realroots_2ecpp_4092',['RealRoots.cpp',['../d7/db1/a00590.html',1,'']]],
+  ['realroots_2eh_4093',['RealRoots.h',['../d1/d54/a06426.html',1,'(Global Namespace)'],['../d4/d23/a06432.html',1,'(Global Namespace)'],['../d8/d0b/a06429.html',1,'(Global Namespace)']]],
+  ['reasonsadaptor_2eh_4094',['ReasonsAdaptor.h',['../d9/d24/a00524.html',1,'']]],
+  ['reductor_2eh_4095',['Reductor.h',['../dc/d57/a00194.html',1,'']]],
+  ['reductorentry_2eh_4096',['ReductorEntry.h',['../de/db1/a00197.html',1,'']]],
+  ['relation_2eh_4097',['Relation.h',['../d4/d3e/a00116.html',1,'']]],
+  ['remainder_2eh_4098',['Remainder.h',['../d1/d0b/a00452.html',1,'']]],
+  ['remove_5fduplicates_2ecpp_4099',['remove_duplicates.cpp',['../d3/d2c/a00764.html',1,'']]],
+  ['remove_5fduplicates_2eh_4100',['remove_duplicates.h',['../d5/dae/a00767.html',1,'']]],
+  ['representation_2eh_4101',['Representation.h',['../dd/d63/a00455.html',1,'']]],
+  ['resultant_2eh_4102',['Resultant.h',['../da/d65/a00458.html',1,'']]],
+  ['rootbounds_2eh_4103',['RootBounds.h',['../d5/d5f/a00461.html',1,'']]],
+  ['rootcounting_2eh_4104',['RootCounting.h',['../d2/d9d/a00464.html',1,'']]],
+  ['rootelimination_2eh_4105',['RootElimination.h',['../d7/d5e/a00467.html',1,'']]],
+  ['rounding_2eh_4106',['rounding.h',['../dd/d52/a00221.html',1,'']]],
+  ['rounding_5ffloat_5ft_2etpp_4107',['rounding_float_t.tpp',['../d5/ddf/a00224.html',1,'']]],
+  ['roundingconversion_2eh_4108',['roundingConversion.h',['../d9/dd6/a00272.html',1,'']]]
+];

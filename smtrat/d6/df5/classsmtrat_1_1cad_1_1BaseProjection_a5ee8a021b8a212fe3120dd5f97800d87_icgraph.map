@@ -1,0 +1,6 @@
+<map id="smtrat::cad::BaseProjection::freeID" name="smtrat::cad::BaseProjection::freeID">
+<area shape="rect" id="node1" title="Frees a currently used polynomial id for the given level." alt="" coords="332,115,533,156"/>
+<area shape="rect" id="node2" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#ae0ff8b1c6510614e738c1fd0de594386" title="Delete polynomial in mProjection and all other datastructures." alt="" coords="39,5,251,76"/>
+<area shape="rect" id="node3" href="$df/d6f/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1UNORDERED_00_01Settings_01_4.html#a31f9ec78110cc153846e8eeab82c4406" title="Removes the given polynomial from the projection." alt="" coords="32,100,257,171"/>
+<area shape="rect" id="node4" href="$df/deb/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01BT_00_01Settings_01_4.html#a2538fa03fd952b6185acab7c131c2028" title="Removes the polynomial given by the iterator from all datastructures." alt="" coords="5,195,284,251"/>
+</map>

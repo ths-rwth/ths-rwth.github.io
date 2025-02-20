@@ -1,0 +1,11 @@
+<map id="carl::cosh_assign" name="carl::cosh_assign">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,139,108"/>
+<area shape="rect" id="node2" href="$df/d71/a02247.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="367,5,528,32"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#ae1af5ff65f946c761f10f764aab0e46c" title=" " alt="" coords="211,107,295,133"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="386,187,509,229"/>
+<area shape="rect" id="node9" href="$df/d71/a02247.html#a83393b0f5cbda008018e5722740d9d50" title="Advanced setter to modify both boundaries at once." alt="" coords="187,56,319,83"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="373,57,521,98"/>
+<area shape="rect" id="node8" href="$df/d71/a02247.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="373,122,522,163"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="577,169,725,196"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="576,220,725,247"/>
+</map>

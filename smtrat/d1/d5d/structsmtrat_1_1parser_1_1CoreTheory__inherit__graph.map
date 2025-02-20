@@ -1,0 +1,4 @@
+<map id="smtrat::parser::CoreTheory" name="smtrat::parser::CoreTheory">
+<area shape="rect" id="node1" title="Implements the core theory of the booleans." alt="" coords="5,95,203,121"/>
+<area shape="rect" id="node2" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html" title="Base class for all theories." alt="" coords="16,5,192,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="carl::logging::Sink" name="carl::logging::Sink">
+<area shape="rect" id="node1" title="Base class for a logging sink." alt="" coords="115,5,254,32"/>
+<area shape="rect" id="node2" href="$d0/d52/a03741.html" title="Logging sink for file output." alt="" coords="5,80,167,107"/>
+<area shape="rect" id="node3" href="$db/d49/a03737.html" title="Logging sink that wraps an arbitrary std::ostream." alt="" coords="191,80,376,107"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="smtrat::vs::State::addConflicts" name="smtrat::vs::State::addConflicts">
+<area shape="rect" id="node1" title="Adds all conflicts to all sets of the conflict set of the given substitution." alt="" coords="281,23,420,65"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#aef417e2757b66a5eb4c3a569e7884882" title="Eliminates the given variable by finding test candidates of the constraint of the given condition." alt="" coords="15,5,223,32"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="5,56,233,83"/>
+</map>

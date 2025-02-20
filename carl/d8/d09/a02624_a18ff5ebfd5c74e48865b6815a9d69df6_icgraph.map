@@ -1,0 +1,52 @@
+<map id="carl::ContextPolynomial::content" name="carl::ContextPolynomial::content">
+<area shape="rect" id="node1" title=" " alt="" coords="967,805,1145,846"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a2cef233ff4a7dd5e91beff1ad093ce18" title=" " alt="" coords="745,493,880,520"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#ac1147d420630a2b68dc0569ce47400fb" title=" " alt="" coords="757,544,868,571"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#a1d73e7155b1936b3d22016102122bf59" title=" " alt="" coords="725,595,900,621"/>
+<area shape="rect" id="node6" href="$d8/d15/a01218.html#a27f538cfe45145c285bc67d66c882f7f" title=" " alt="" coords="749,696,877,723"/>
+<area shape="rect" id="node36" href="$d8/d15/a01218.html#af3428e921d7ac6b02ce0199b4a19821a" title=" " alt="" coords="758,645,867,672"/>
+<area shape="rect" id="node38" href="$d8/d15/a01218.html#a3c09352dc7075237e2120c671106179a" title=" " alt="" coords="763,747,863,773"/>
+<area shape="rect" id="node39" href="$dd/d32/a02636.html#a1923051cfcef9a5b33d86560ce6b9f79" title=" " alt="" coords="707,797,919,853"/>
+<area shape="rect" id="node40" href="$d8/d15/a01218.html#a8e735087f76a2bd5815fced5d068fdb9" title=" " alt="" coords="753,877,873,904"/>
+<area shape="rect" id="node41" href="$d8/d15/a01218.html#a66dfd578f4750e62c22ed362eae0fb80" title=" " alt="" coords="747,928,878,955"/>
+<area shape="rect" id="node42" href="$d8/d15/a01218.html#a732428ebc93d749371736ebafb5dff4e" title=" " alt="" coords="747,979,878,1005"/>
+<area shape="rect" id="node43" href="$d8/d15/a01218.html#a0b4376d0f9fba15bc81a1aca713513fb" title=" " alt="" coords="753,1029,872,1056"/>
+<area shape="rect" id="node44" href="$d8/d15/a01218.html#af1228224c74e9587e6e8e49c90853eb2" title=" " alt="" coords="757,1395,869,1421"/>
+<area shape="rect" id="node50" href="$d8/d15/a01218.html#ac84f1e0f5724fde39e8f73c45020553b" title=" " alt="" coords="755,1445,870,1472"/>
+<area shape="rect" id="node5" href="$da/da1/a01258.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="473,5,635,32"/>
+<area shape="rect" id="node7" href="$d8/d15/a01218.html#afdcf963c8932f388540ee5c531bbe56b" title=" " alt="" coords="483,157,625,184"/>
+<area shape="rect" id="node8" href="$d8/d15/a01218.html#a69bb2518166d66ce4a90d6972277058b" title=" " alt="" coords="233,208,367,235"/>
+<area shape="rect" id="node9" href="$d8/d53/a01225.html#a34836e1d10fcc3797323372c470264d2" title=" " alt="" coords="479,361,629,402"/>
+<area shape="rect" id="node10" href="$d8/d15/a01218.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="232,368,368,395"/>
+<area shape="rect" id="node11" href="$d3/d7e/a02768.html#aa1fadb43181c2edc4694e2a94959dbf1" title=" " alt="" coords="455,478,653,519"/>
+<area shape="rect" id="node12" href="$d8/d15/a01218.html#a6f2f1e3841c1defdf4f8588508320b65" title=" " alt="" coords="471,544,637,571"/>
+<area shape="rect" id="node13" href="$d8/d15/a01218.html#a52e2c3f493c581b3c695d06fce2c5e11" title="Check if the polynomial is linear." alt="" coords="490,595,618,621"/>
+<area shape="rect" id="node14" href="$d8/d15/a01218.html#aa3aae605f62c0643d8cd27546949fcea" title=" " alt="" coords="499,645,609,672"/>
+<area shape="rect" id="node15" href="$d8/d15/a01218.html#acb08d2606de92d93f1d039881c761f09" title=" " alt="" coords="493,696,615,723"/>
+<area shape="rect" id="node16" href="$db/d87/a02076.html#adda5f5812dc5da0b16ba82c0b10d380f" title=" " alt="" coords="476,747,632,789"/>
+<area shape="rect" id="node19" href="$db/d87/a02076.html#a6be4472caf024427e440538b0491ae6f" title=" " alt="" coords="476,813,632,854"/>
+<area shape="rect" id="node20" href="$d8/d15/a01218.html#ad39ad79b773b9e5c6f397c629c751127" title=" " alt="" coords="478,944,630,971"/>
+<area shape="rect" id="node23" href="$d8/d15/a01218.html#a822e17789e6cb91e6b52da39bcac92f3" title=" " alt="" coords="453,878,655,919"/>
+<area shape="rect" id="node25" href="$d8/d15/a01218.html#a349e672eaeb08c5fbfc6d508d1f86df1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="469,995,639,1021"/>
+<area shape="rect" id="node27" href="$d8/d15/a01218.html#a183f443c45e61ca68ad5c72e9edd618b" title=" " alt="" coords="244,1053,356,1080"/>
+<area shape="rect" id="node28" href="$d0/d67/a01232.html#acbb5856111407c2f5f44d35dcf372e3e" title="An implementation of the naive resultant algorithm based on the silvester matrix." alt="" coords="475,1147,633,1189"/>
+<area shape="rect" id="node29" href="$d0/d67/a01232.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="475,1213,633,1254"/>
+<area shape="rect" id="node30" href="$d8/d15/a01218.html#a1ea81c002749c68ce22a72909b4923a5" title=" " alt="" coords="465,259,643,285"/>
+<area shape="rect" id="node31" href="$d8/d15/a01218.html#a598db2a85288fd3d66fb84d9e129ee4d" title=" " alt="" coords="449,427,659,453"/>
+<area shape="rect" id="node32" href="$d8/d15/a01218.html#a3e97e4df9ce3ccbe80f1a65d0d65ca14" title="Implements a subresultants algorithm with optimizations described in &#160;." alt="" coords="483,1096,625,1123"/>
+<area shape="rect" id="node34" href="$d8/d15/a01218.html#af4b23e6c3ac20be2d64039060be823fb" title=" " alt="" coords="495,1279,613,1305"/>
+<area shape="rect" id="node35" href="$d8/d15/a01218.html#ad16d78e5c4773d5250247599e6015726" title="Add the variables of the given polynomial to the variables." alt="" coords="497,1329,611,1356"/>
+<area shape="rect" id="node17" href="$db/d87/a02076.html#adf14ba12eab7bd9439edf302ae841eab" title=" " alt="" coords="222,791,378,833"/>
+<area shape="rect" id="node18" href="$d8/d15/a01218.html#a0df4dc804925707f8c1eec46cfde5a2c" title=" " alt="" coords="23,832,133,859"/>
+<area shape="rect" id="node21" href="$d2/d4c/a02828.html#adce23fb8a47cdca5a570b24116c28bf5" title="Use root bounds to shrink mInterval." alt="" coords="219,923,381,979"/>
+<area shape="rect" id="node22" href="$d2/d4c/a02828.html#aaab389347247d06dbdfd4bebad578d3a" title="Do actual root isolation." alt="" coords="5,923,151,979"/>
+<area shape="rect" id="node24" href="$d8/d15/a01218.html#aad130db0888a2aeee7b94b05e80a5913" title="Computes a lower bound on the value of the positive real roots of the given univariate polynomial." alt="" coords="199,857,401,898"/>
+<area shape="rect" id="node26" href="$d8/d15/a01218.html#abfeb486514341498d6b363229506eae8" title=" " alt="" coords="239,1003,361,1029"/>
+<area shape="rect" id="node33" href="$d8/d15/a01218.html#a218e17ae9496f248113d5e25a736be51" title=" " alt="" coords="201,1105,399,1146"/>
+<area shape="rect" id="node37" href="$d8/d15/a01218.html#a4d9319239224cce06be38f663e30151a" title="Checks whether the monomial has exactly the degree one." alt="" coords="499,107,609,133"/>
+<area shape="rect" id="node45" href="$d8/d2b/a01236.html#a897bcef0c3dce0c64702e8f419539e1b" title="Implements algebraic substitution by resultant computation." alt="" coords="467,1380,641,1436"/>
+<area shape="rect" id="node48" href="$df/de1/a02844.html#a8166101bda0b1fea4d03333382199080" title=" " alt="" coords="469,1461,639,1502"/>
+<area shape="rect" id="node49" href="$d8/d15/a01218.html#ae62fcd71edb110f794615012b62b06eb" title=" " alt="" coords="487,1527,621,1553"/>
+<area shape="rect" id="node46" href="$d8/d2b/a01236.html#a81e240c71214a271179974c2318050d1" title="Computes the algebraic substitution of the given defining polynomials into a multivariate polynomial ..." alt="" coords="213,1351,387,1393"/>
+<area shape="rect" id="node47" href="$d8/d2b/a01236.html#ad81c8b19229c789a99c52e77f06cf9e2" title="Implements algebraic substitution by resultant computation." alt="" coords="213,1417,387,1473"/>
+</map>

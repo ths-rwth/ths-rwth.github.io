@@ -1,0 +1,4 @@
+<map id="smtrat::VSModule::insertTooHighDegreeStatesInRanking" name="smtrat::VSModule::insertTooHighDegreeStatesInRanking">
+<area shape="rect" id="node1" title="Inserts all states with too high degree conditions being the given state or any of its successors in ..." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#af27239b0ce71c8372b464017eefe32a4" title=" " alt="" coords="280,5,419,47"/>
+</map>

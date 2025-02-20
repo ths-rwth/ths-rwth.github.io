@@ -1,0 +1,5 @@
+<map id="carl::UVariable" name="carl::UVariable">
+<area shape="rect" id="node1" title="Implements an uninterpreted variable." alt="" coords="176,95,293,121"/>
+<area shape="rect" id="node2" href="$d5/d88/a02141.html" title="A Variable represents an algebraic variable that can be used throughout carl." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node3" href="$d6/d04/a03493.html" title="Implements a sort (for defining types of variables and functions)." alt="" coords="255,5,335,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="carl::Variable::name" name="carl::Variable::name">
+<area shape="rect" id="node1" title="Retrieves the name of the variable." alt="" coords="5,64,157,91"/>
+<area shape="rect" id="node2" href="$d2/da0/a02149.html#a42ad87c3c524a030765d9822aa57098d" title="Get a human&#45;readable name for the given variable." alt="" coords="229,23,364,65"/>
+<area shape="rect" id="node5" href="$dc/d45/a03085.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="205,89,388,130"/>
+<area shape="rect" id="node3" href="$d5/d88/a02141.html#ae00fad76caa1ec7042dff9e50aa46f36" title="Retrieves the id of the variable." alt="" coords="445,5,571,32"/>
+<area shape="rect" id="node4" href="$d5/d88/a02141.html#ae954c1f1e59102d1c58af6c9d326717a" title="Retrieves the type of the variable." alt="" coords="436,56,580,83"/>
+</map>

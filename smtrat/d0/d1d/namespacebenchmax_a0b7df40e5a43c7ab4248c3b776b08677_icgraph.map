@@ -1,0 +1,5 @@
+<map id="benchmax::settings_ssh" name="benchmax::settings_ssh">
+<area shape="rect" id="node1" title="Return the SSH settings." alt="" coords="280,46,459,73"/>
+<area shape="rect" id="node2" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a7c7fe9099a150e7a5baa0696b6d9c1f3" title="Create a temporary directory on the remote." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a0157e40d065de0a049f006c091eb11a7" title="Execute a command on the remote." alt="" coords="5,71,232,112"/>
+</map>

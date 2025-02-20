@@ -1,0 +1,12 @@
+<map id="smtrat::mcsat::onecell::Base" name="smtrat::mcsat::onecell::Base">
+<area shape="rect" id="node1" title=" " alt="" coords="5,267,173,308"/>
+<area shape="rect" id="node2" href="$dd/d70/structsmtrat_1_1mcsat_1_1onecell_1_1BCFilteredSettings.html" title=" " alt="" coords="255,136,423,177"/>
+<area shape="rect" id="node7" href="$d0/df3/structsmtrat_1_1mcsat_1_1onecell_1_1BCSettings.html" title=" " alt="" coords="255,233,423,275"/>
+<area shape="rect" id="node9" href="$d1/da5/structsmtrat_1_1mcsat_1_1onecell_1_1LDBFilteredAllSelectiveSettings.html" title=" " alt="" coords="221,299,456,340"/>
+<area shape="rect" id="node10" href="$db/d03/structsmtrat_1_1mcsat_1_1onecell_1_1LDBSettings.html" title=" " alt="" coords="255,364,423,405"/>
+<area shape="rect" id="node3" href="$d4/d34/structsmtrat_1_1mcsat_1_1onecell_1_1BCFilteredAllSelectiveSettings.html" title=" " alt="" coords="504,5,731,47"/>
+<area shape="rect" id="node4" href="$dc/dc5/structsmtrat_1_1mcsat_1_1onecell_1_1BCFilteredAllSettings.html" title=" " alt="" coords="533,71,701,112"/>
+<area shape="rect" id="node5" href="$dd/d81/structsmtrat_1_1mcsat_1_1onecell_1_1BCFilteredBoundsSettings.html" title=" " alt="" coords="518,136,717,177"/>
+<area shape="rect" id="node6" href="$d7/d66/structsmtrat_1_1mcsat_1_1onecell_1_1BCFilteredSamplesSettings.html" title=" " alt="" coords="514,201,721,243"/>
+<area shape="rect" id="node8" href="$dc/d27/structsmtrat_1_1mcsat_1_1onecell_1_1BCApproximationSettings.html" title=" " alt="" coords="519,267,716,308"/>
+</map>

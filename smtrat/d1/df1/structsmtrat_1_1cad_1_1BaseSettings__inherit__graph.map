@@ -1,0 +1,11 @@
+<map id="smtrat::cad::BaseSettings" name="smtrat::cad::BaseSettings">
+<area shape="rect" id="node1" title=" " alt="" coords="5,229,195,255"/>
+<area shape="rect" id="node2" href="$d1/dfb/structsmtrat_1_1analyzer_1_1SettingsBrown.html" title=" " alt="" coords="259,5,450,47"/>
+<area shape="rect" id="node3" href="$df/d29/structsmtrat_1_1analyzer_1_1SettingsCollins.html" title=" " alt="" coords="259,71,450,112"/>
+<area shape="rect" id="node4" href="$d3/d28/structsmtrat_1_1analyzer_1_1SettingsHong.html" title=" " alt="" coords="243,137,467,163"/>
+<area shape="rect" id="node5" href="$d5/dc2/structsmtrat_1_1analyzer_1_1SettingsLazard.html" title=" " alt="" coords="259,188,450,229"/>
+<area shape="rect" id="node6" href="$df/d5e/structsmtrat_1_1analyzer_1_1SettingsMcCallum.html" title=" " alt="" coords="259,253,450,295"/>
+<area shape="rect" id="node7" href="$db/de0/structsmtrat_1_1analyzer_1_1SettingsMcCallumPartial.html" title=" " alt="" coords="259,319,450,360"/>
+<area shape="rect" id="node8" href="$d5/deb/structsmtrat_1_1mcsat_1_1nlsat_1_1ExplanationGenerator_1_1ProjectionSettings.html" title=" " alt="" coords="269,385,441,441"/>
+<area shape="rect" id="node9" href="$d6/dd0/structsmtrat_1_1qe_1_1cad_1_1CADSettings.html" title=" " alt="" coords="250,465,459,491"/>
+</map>

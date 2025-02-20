@@ -1,0 +1,12 @@
+<map id="delta::Settings::has" name="delta::Settings::has">
+<area shape="rect" id="node1" title="Checks if there is an option with this name." alt="" coords="711,157,857,184"/>
+<area shape="rect" id="node2" href="$d1/dd4/classdelta_1_1Settings.html#a9c3cae215c8fef1e144151c38eb8472d" title="Get option with given name as a given type." alt="" coords="502,157,641,184"/>
+<area shape="rect" id="node3" href="$dd/d3d/delta_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="312,81,367,108"/>
+<area shape="rect" id="node4" href="$da/d13/classdelta_1_1Producer.html#a178bca4117f96734ba66b439c0fa9559" title="Apply simplifications to the given node." alt="" coords="5,284,199,311"/>
+<area shape="rect" id="node5" href="$da/d13/classdelta_1_1Producer.html#afd805d9193255b6aef01618a24f1ac22" title="Create a new manager that uses the given checker." alt="" coords="247,208,432,235"/>
+<area shape="rect" id="node6" href="$d1/dd4/classdelta_1_1Settings.html#a6a2c6d42ed3f298eb46e27669bc41e89" title="Check if the option with the given name was set due to its default value." alt="" coords="480,5,663,32"/>
+<area shape="rect" id="node7" href="$da/d13/classdelta_1_1Producer.html#a5d32c4ded9f921f1690732807483727c" title="Performs the actual simplifications." alt="" coords="482,309,661,336"/>
+<area shape="rect" id="node10" href="$d1/dd4/classdelta_1_1Settings.html#aafdc11f67f4350aafe637566ff88ce62" title="Set option with given name as a given type." alt="" coords="499,56,643,83"/>
+<area shape="rect" id="node8" href="$da/d13/classdelta_1_1Producer.html#aac07e57572d273bb2c2b34f46cceef5c" title="Iterate over nodes using BFS." alt="" coords="265,360,413,387"/>
+<area shape="rect" id="node9" href="$da/d13/classdelta_1_1Producer.html#a0b930803ee6e74fa10a05575f9c456d4" title="Iterate over nodes using DFS." alt="" coords="265,309,413,336"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="smtrat::cadcells::representation::covering::compute" name="smtrat::cadcells::representation::covering::compute">
+<area shape="rect" id="node1" title=" " alt="" coords="496,104,725,145"/>
+<area shape="rect" id="node2" href="$db/d47/namespacesmtrat_1_1covering__ng.html#a5420367aa5c0530fdb0d4442ed68daf8" title=" " alt="" coords="253,5,427,47"/>
+<area shape="rect" id="node3" href="$de/df0/classsmtrat_1_1LevelWiseInformation.html#acf1db4436f2bb895754e3c1f21054498" title=" " alt="" coords="232,71,448,112"/>
+<area shape="rect" id="node4" href="$da/dbb/namespacesmtrat_1_1cadcells_1_1algorithms.html#a9c51911dd0e71d28164f887abc186c64" title="Computes an unsat covering w.r.t." alt="" coords="238,136,442,177"/>
+<area shape="rect" id="node5" href="$db/d47/namespacesmtrat_1_1covering__ng.html#a077d4ac45aef4f24bb6503e647b93dc4" title=" " alt="" coords="264,201,416,243"/>
+<area shape="rect" id="node6" href="$df/d6f/namespacesmtrat_1_1subtropical.html#a7b095c0a3021dc070cdcab304e69acf6" title="Requires a quantifier&#45;free real arithmetic formula with no negations." alt="" coords="5,201,184,243"/>
+</map>

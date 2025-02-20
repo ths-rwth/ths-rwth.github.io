@@ -1,0 +1,52 @@
+<map id="carl::swap" name="carl::swap">
+<area shape="rect" id="node1" title=" " alt="" coords="1288,1310,1376,1337"/>
+<area shape="rect" id="node2" href="$de/d87/a02939.html#ae9b94dd027d1ff292426878864160221" title="Append another tree as last child of the root element." alt="" coords="1073,418,1209,445"/>
+<area shape="rect" id="node3" href="$d1/d24/a02975.html#a3533221dbcc5c594cdfc18b8c5919cb0" title=" " alt="" coords="1068,469,1215,511"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#af770236c096c5ef00d08f6fe22ce872c" title="Perform a multiplication involving a monomial." alt="" coords="1083,535,1199,562"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="1101,586,1182,613"/>
+<area shape="rect" id="node23" href="$d9/da8/a01227.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="503,1343,662,1384"/>
+<area shape="rect" id="node24" href="$dc/db6/a01212.html#a3e97e4df9ce3ccbe80f1a65d0d65ca14" title="Implements a subresultants algorithm with optimizations described in &#160;." alt="" coords="511,1409,654,1435"/>
+<area shape="rect" id="node27" href="$d9/da8/a01227.html#acbb5856111407c2f5f44d35dcf372e3e" title="An implementation of the naive resultant algorithm based on the silvester matrix." alt="" coords="794,1273,953,1315"/>
+<area shape="rect" id="node48" href="$d5/d4d/a02763.html#ae2bea74a72b4eea147ada2993694e111" title=" " alt="" coords="1043,1441,1240,1483"/>
+<area shape="rect" id="node49" href="$d1/d24/a02975.html#a2c4ecf7b745c42c382ed6231b27dec9c" title=" " alt="" coords="1051,1507,1232,1534"/>
+<area shape="rect" id="node50" href="$dd/daf/a03503.html#a6e8828a549a55b40dd0673488e0c1ccc" title="Constructs an uninterpreted equality." alt="" coords="1048,1558,1235,1585"/>
+<area shape="rect" id="node6" href="$dc/db6/a01212.html#a1aca023d3caed5fa32fad4086edc7b1b" title=" " alt="" coords="818,173,929,199"/>
+<area shape="rect" id="node7" href="$d3/d0b/a01253.html#a6b2be379a4d726d275ceaf1318bcd350" title="Gathers zeros with side conditions from the given constraint in the given variable." alt="" coords="233,138,395,165"/>
+<area shape="rect" id="node10" href="$d6/d9a/a02491.html#a02af3c0f1130238c5e3715ef4749253b" title=" " alt="" coords="788,353,959,395"/>
+<area shape="rect" id="node11" href="$d8/d07/a03627.html#ae231ec1cd70d5e4a1d4e97b1f3a38fe4" title=" " alt="" coords="752,419,995,460"/>
+<area shape="rect" id="node12" href="$d9/dff/a02099.html#ab4d6a382d9ad57fdfbea1e4b96d32a32" title=" " alt="" coords="782,485,965,511"/>
+<area shape="rect" id="node13" href="$dc/db6/a01212.html#a01c22030c748400a8f5eac16a6287d95" title=" " alt="" coords="833,535,914,562"/>
+<area shape="rect" id="node14" href="$da/db3/a02343.html#a5641bd21fe6e19bf500f5b97094f083f" title="Function which calculates the power of this number and puts it into a passed result parameter." alt="" coords="801,586,945,613"/>
+<area shape="rect" id="node17" href="$dc/db6/a01212.html#a2cfd3ac5e5c5fdab6e0a1c0db1087f04" title=" " alt="" coords="808,637,939,663"/>
+<area shape="rect" id="node18" href="$dc/db6/a01212.html#aee23dc17b4acd2244d03406cfe1fca85" title="Calculates the pseudo&#45;remainder." alt="" coords="786,1121,961,1147"/>
+<area shape="rect" id="node28" href="$d8/d53/a01225.html#a1eb9193857ce1d44fdecdde0abd91536" title=" " alt="" coords="773,283,973,310"/>
+<area shape="rect" id="node30" href="$dc/db6/a01212.html#a90d508f57729bfcce3a49c1a1b09c8bd" title="Compute the signed pseudo&#45;remainder." alt="" coords="798,5,949,47"/>
+<area shape="rect" id="node31" href="$dc/db6/a01212.html#a1ea81c002749c68ce22a72909b4923a5" title=" " alt="" coords="784,71,963,98"/>
+<area shape="rect" id="node33" href="$dc/db6/a01212.html#aa4015181e274e56d184eb30b935b57e8" title="Applies the given substitutions to a monomial." alt="" coords="814,687,933,714"/>
+<area shape="rect" id="node47" href="$dc/db6/a01212.html#a73c056f5a398c396974aaf2dd370a47b" title=" " alt="" coords="787,122,960,149"/>
+<area shape="rect" id="node8" href="$d3/d0b/a01253.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="5,113,167,139"/>
+<area shape="rect" id="node9" href="$d3/d0b/a01253.html#ad5b4aa3676afed7d74cc6829a9fa4d7f" title="Applies a substitution to a variable comparison." alt="" coords="15,163,157,190"/>
+<area shape="rect" id="node15" href="$da/db3/a02343.html#a21d328d8e558364fa0c3e90509ee01f8" title="Function required for extension of Eigen3 with FLOAT_T as a custom type which calculates the power." alt="" coords="501,265,664,291"/>
+<area shape="rect" id="node16" href="$dc/db6/a01212.html#a1cfedff35bcf803cc48578b9f47d3c6a" title=" " alt="" coords="542,214,623,241"/>
+<area shape="rect" id="node19" href="$d0/d88/a01231.html#a897bcef0c3dce0c64702e8f419539e1b" title="Implements algebraic substitution by resultant computation." alt="" coords="495,1262,670,1318"/>
+<area shape="rect" id="node20" href="$d8/d87/a02839.html#a8166101bda0b1fea4d03333382199080" title=" " alt="" coords="229,1016,399,1057"/>
+<area shape="rect" id="node21" href="$dc/db6/a01212.html#ac2b216eaf8da91b9a816264e3e0a95aa" title="Computes the GCD of two univariate polynomial with coefficients from a unique factorization domain us..." alt="" coords="491,1161,674,1187"/>
+<area shape="rect" id="node22" href="$dc/db6/a01212.html#aea39864845670450afc26ab268f385a3" title=" " alt="" coords="495,1211,670,1238"/>
+<area shape="rect" id="node25" href="$dc/db6/a01212.html#a218e17ae9496f248113d5e25a736be51" title=" " alt="" coords="215,1372,413,1413"/>
+<area shape="rect" id="node26" href="$dc/db6/a01212.html#a183f443c45e61ca68ad5c72e9edd618b" title=" " alt="" coords="258,1438,370,1465"/>
+<area shape="rect" id="node29" href="$dc/db6/a01212.html#af28aa46d7790188411b39e2f8f5e31f8" title="Try to factorize a multivariate polynomial." alt="" coords="515,163,651,190"/>
+<area shape="rect" id="node32" href="$dc/db6/a01212.html#a69bb2518166d66ce4a90d6972277058b" title=" " alt="" coords="516,62,649,89"/>
+<area shape="rect" id="node34" href="$dc/db6/a01212.html#a78757c1311a940f5a2201764dac03063" title=" " alt="" coords="481,993,684,1035"/>
+<area shape="rect" id="node35" href="$dc/db6/a01212.html#a5c97764ba251bcc3aad1bd58315753d2" title=" " alt="" coords="461,1059,704,1086"/>
+<area shape="rect" id="node36" href="$dc/db6/a01212.html#a3bc012d12145a5509f1ad58ecb56227f" title="Evaluates the square root expression." alt="" coords="527,315,638,342"/>
+<area shape="rect" id="node37" href="$de/dbb/a02679.html#a50b6cde6b68206310d68d3fc1b391646" title=" " alt="" coords="503,367,663,408"/>
+<area shape="rect" id="node38" href="$d3/d74/a03411.html#a0995adec27f0139a5ecea8766b032844" title=" " alt="" coords="495,432,671,473"/>
+<area shape="rect" id="node39" href="$dd/d04/a02887.html#a0c0f40fd0237fc42423000be8b91227e" title=" " alt="" coords="507,497,658,539"/>
+<area shape="rect" id="node40" href="$dc/db6/a01212.html#a8211b0a0bb14f560103fdf876f80dfc1" title="Replaces the main variable in a polynomial." alt="" coords="511,928,654,969"/>
+<area shape="rect" id="node41" href="$dc/db6/a01212.html#a48055ab937ff3f7d98091e176afb760a" title="Checks whether the given assignment satisfies this constraint." alt="" coords="517,563,649,590"/>
+<area shape="rect" id="node42" href="$d8/dc9/a02671.html#a616a80ba2f97db737da99f63c3b92111" title="Solve in the domain Z_(p^k)[x_!,...,x_v] the multivariate polynomial diophantine equation sigma_1 * b..." alt="" coords="471,615,694,656"/>
+<area shape="rect" id="node43" href="$d8/dbf/a03275.html#adfe933779ffa69393d4a8e341f36dffc" title=" " alt="" coords="501,680,664,721"/>
+<area shape="rect" id="node44" href="$dc/db6/a01212.html#a8feae7067ae2b53f6ee0339d9c13730c" title=" " alt="" coords="523,746,642,773"/>
+<area shape="rect" id="node45" href="$d6/d6c/a02819.html#af20b0b9677a79d6663a780b80c9e768d" title=" " alt="" coords="507,797,658,853"/>
+<area shape="rect" id="node46" href="$dc/db6/a01212.html#a556e86365c69f9023aa180fe2f7390fa" title="Substitutes all variables from a model within a bitvector term." alt="" coords="496,877,669,903"/>
+</map>

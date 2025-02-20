@@ -1,0 +1,7 @@
+<map id="smtrat::cadcells::operators::rules::poly_irreducible_sgn_inv_pdel" name="smtrat::cadcells::operators::rules::poly_irreducible_sgn_inv_pdel">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,201,153"/>
+<area shape="rect" id="node2" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a955d05bff1c318eb585b3a41acd2c1e3" title=" " alt="" coords="249,5,477,47"/>
+<area shape="rect" id="node3" href="$d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a5389a8fb0d89465fea63af7467a4e773" title=" " alt="" coords="249,71,477,112"/>
+<area shape="rect" id="node4" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#a0f96c28a669a1e7c5bf70ad75ad393ad" title="Return the lower bound." alt="" coords="249,136,477,177"/>
+<area shape="rect" id="node5" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#ae28baaa6cc414492a7a39ec5aa5ba077" title="Returns the upper bound." alt="" coords="249,201,477,243"/>
+</map>

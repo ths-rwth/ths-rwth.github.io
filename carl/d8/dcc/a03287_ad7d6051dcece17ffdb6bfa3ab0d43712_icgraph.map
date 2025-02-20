@@ -1,0 +1,12 @@
+<map id="carl::RationalFunction::denominatorAsPolynomial" name="carl::RationalFunction::denominatorAsPolynomial">
+<area shape="rect" id="node1" title=" " alt="" coords="447,235,649,276"/>
+<area shape="rect" id="node2" href="$d8/dcc/a03287.html#a45cd4234bdffb91fc6746a8f329db933" title=" " alt="" coords="226,5,389,47"/>
+<area shape="rect" id="node3" href="$d8/dcc/a03287.html#a0a7e76176294ea2c7f16ace01d2fb9f5" title="Evaluate the polynomial at the point described by substitutions." alt="" coords="226,71,389,112"/>
+<area shape="rect" id="node4" href="$d8/dcc/a03287.html#aac99369f1af6931fc1efeb7322a0713b" title="Add all occurring variables to the set vars." alt="" coords="226,136,389,177"/>
+<area shape="rect" id="node5" href="$d8/dcc/a03287.html#aded17c7af1c83b0746e4feb6de02bcb5" title=" " alt="" coords="226,201,389,243"/>
+<area shape="rect" id="node6" href="$d8/dcc/a03287.html#acde165d7b91cf619377252bcae3be972" title="Check whether the rational function is zero." alt="" coords="226,267,389,308"/>
+<area shape="rect" id="node8" href="$da/dbb/a03291.html#aefbc843e9fe26b5a6bc8506d6540a29a" title=" " alt="" coords="216,333,399,389"/>
+<area shape="rect" id="node9" href="$d8/dcc/a03287.html#a72d455d84817c8daab37e824c4ee75de" title=" " alt="" coords="226,413,389,455"/>
+<area shape="rect" id="node10" href="$d8/dcc/a03287.html#adfe933779ffa69393d4a8e341f36dffc" title=" " alt="" coords="226,479,389,520"/>
+<area shape="rect" id="node7" href="$d8/dcc/a03287.html#a73a4ec40c4e9fa3588b83cb2384ac033" title="Returns the inverse of this rational function." alt="" coords="5,267,168,308"/>
+</map>

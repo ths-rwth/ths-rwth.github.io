@@ -1,0 +1,17 @@
+<map id="carl::sample_right" name="carl::sample_right">
+<area shape="rect" id="node1" title="Searches for some point in this interval, preferably near the right endpoint and with a small represe..." alt="" coords="5,359,144,386"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="455,270,533,297"/>
+<area shape="rect" id="node3" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="827,99,975,126"/>
+<area shape="rect" id="node5" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="827,377,976,403"/>
+<area shape="rect" id="node6" href="$d0/d80/a02281.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="629,521,779,563"/>
+<area shape="rect" id="node7" href="$d7/dc5/a01242.html#a1abf1d98da2f7331312905d888edadf2" title="Returns the center point of the interval." alt="" coords="228,359,323,386"/>
+<area shape="rect" id="node11" href="$da/dbe/a02489.html#aa36ed895ade4f5f204aeba0135d4f086" title=" " alt="" coords="409,625,579,651"/>
+<area shape="rect" id="node12" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="643,92,765,133"/>
+<area shape="rect" id="node13" href="$d0/d80/a02281.html#a1b82af870f81450ebe08f42210cdc02a" title="Function which determines, if the interval is empty." alt="" coords="433,88,555,129"/>
+<area shape="rect" id="node15" href="$d0/d80/a02281.html#a4d1dedfa64629a6509d858c9edae03f2" title="Checks if the interval contains the given value." alt="" coords="192,777,359,803"/>
+<area shape="rect" id="node4" href="$d0/d80/a02281.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="630,260,778,301"/>
+<area shape="rect" id="node8" href="$d0/d80/a02281.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="413,473,575,499"/>
+<area shape="rect" id="node9" href="$d7/dc5/a01242.html#a27d1ce2ad393e8bab62327891595dff4" title="Method which returns the next smaller integer of this number or the number itself,..." alt="" coords="453,371,535,398"/>
+<area shape="rect" id="node10" href="$d8/d44/a02485.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="407,523,581,550"/>
+<area shape="rect" id="node14" href="$d0/d80/a02281.html#ad88c24babf3db53859977f3cfce82db7" title="Function which determines, if the interval is (&#45;oo,oo)." alt="" coords="433,153,555,195"/>
+</map>

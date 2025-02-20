@@ -1,0 +1,5 @@
+<map id="smtrat::vs::State::passConflictToFather" name="smtrat::vs::State::passConflictToFather">
+<area shape="rect" id="node1" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="276,27,431,69"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="9,5,224,32"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a879c92ff19715ba269272fad7c4d8551" title="Run the backend solvers on the conditions of the given state." alt="" coords="5,57,228,98"/>
+</map>

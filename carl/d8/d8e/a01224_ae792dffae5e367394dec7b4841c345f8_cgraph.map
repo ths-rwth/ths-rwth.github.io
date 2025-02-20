@@ -1,0 +1,7 @@
+<map id="carl::coprimePart" name="carl::coprimePart">
+<area shape="rect" id="node1" title="Calculates the coprime part of p and q." alt="" coords="5,64,137,91"/>
+<area shape="rect" id="node2" href="$da/d96/a02547.html#a2f6524b8552fc389eafd79a6302ecd4a" title="Check if the polynomial is constant." alt="" coords="185,57,392,98"/>
+<area shape="rect" id="node3" href="$dc/d40/a02767.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="459,5,627,32"/>
+<area shape="rect" id="node4" href="$da/d96/a02547.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="440,57,647,98"/>
+<area shape="rect" id="node5" href="$da/d96/a02547.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="695,86,901,127"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="smtrat::vs::splitProducts" name="smtrat::vs::splitProducts">
+<area shape="rect" id="node1" title="Splits the given constraint into a set of constraints which compare the factors of the factorization ..." alt="" coords="981,31,1161,57"/>
+<area shape="rect" id="node2" href="$de/dfa/namespacesmtrat_1_1vs.html#ac93da9f3b68e17cc7a842cf977c52878" title="Splits all constraints in the given disjunction of conjunctions of constraints having a non&#45;trivial f..." alt="" coords="753,5,933,32"/>
+<area shape="rect" id="node3" href="$de/dfa/namespacesmtrat_1_1vs.html#ab5d22b2a12ac6d38989044aa031eda02" title=" " alt="" coords="763,56,924,83"/>
+<area shape="rect" id="node4" href="$de/dfa/namespacesmtrat_1_1vs.html#a35b39be98c4a2280062e525a80df24ba" title=" " alt="" coords="496,56,705,83"/>
+<area shape="rect" id="node5" href="$de/dfa/namespacesmtrat_1_1vs.html#a4c0c28dad9c60e3264a4544af563799b" title=" " alt="" coords="264,45,448,86"/>
+<area shape="rect" id="node6" href="$de/dfa/namespacesmtrat_1_1vs.html#a9f7a787fa6f9bbf81d26eb077615ed6c" title=" " alt="" coords="5,81,216,108"/>
+</map>

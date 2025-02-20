@@ -1,0 +1,10 @@
+<map id="carl::Monomial::~Monomial" name="carl::Monomial::~Monomial">
+<area shape="rect" id="node1" title=" " alt="" coords="5,89,208,116"/>
+<area shape="rect" id="node2" href="$d1/d3c/a02714.html#aa360c866e534838c1e4e98b6c444f51d" title=" " alt="" coords="280,49,427,90"/>
+<area shape="rect" id="node8" href="$dd/d84/a03034.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="256,114,451,155"/>
+<area shape="rect" id="node3" href="$d7/de1/a03006.html#aad45082b56debee194062ec06fc1b914" title=" " alt="" coords="503,31,633,57"/>
+<area shape="rect" id="node7" href="$df/dad/a02682.html#a7de26ed1a7aa3fd5d5fc87015de972d1" title="Return the id of this monomial." alt="" coords="499,81,637,108"/>
+<area shape="rect" id="node4" href="$d4/db9/a02918.html#a9de0d41fc6b1ee50437f2e828db25412" title="Sets the given bit to a value, true by default." alt="" coords="689,5,809,32"/>
+<area shape="rect" id="node6" href="$d4/db9/a02918.html#acf742d4731e26aa5230889d1a391e015" title="Retrieves the size of mData." alt="" coords="685,56,812,83"/>
+<area shape="rect" id="node5" href="$d4/db9/a02918.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="860,5,1031,32"/>
+</map>

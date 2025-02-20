@@ -1,0 +1,7 @@
+<map id="carl::settings::SettingsParser::parse_config_file" name="carl::settings::SettingsParser::parse_config_file">
+<area shape="rect" id="node1" title="Parses the config file if one was configured." alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node2" href="$df/ddf/a03711.html#ab9b82a93e420ce3d36e2e3269c0b781f" title="Gives the option name for the config file name. Can be overridden." alt="" coords="243,5,443,47"/>
+<area shape="rect" id="node3" href="$df/ddf/a03711.html#a8175a0c2e78fc552bc5eafad6187d3f4" title="Prints a warning if loading the config file failed. Can be overridden." alt="" coords="255,71,430,112"/>
+<area shape="rect" id="node4" href="$df/ddf/a03711.html#ad728c18e9ed65cc2677130b79fb106ee" title="Checks for unrecognized options that were found." alt="" coords="232,136,453,177"/>
+<area shape="rect" id="node5" href="$df/ddf/a03711.html#aaf7f799d66d1a56e253c67ed9ac75b53" title="Prints a warning if an option was unrecognized. Can be overridden." alt="" coords="501,129,723,185"/>
+</map>

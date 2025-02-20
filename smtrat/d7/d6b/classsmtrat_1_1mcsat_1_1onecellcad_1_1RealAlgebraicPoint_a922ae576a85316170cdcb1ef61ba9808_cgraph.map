@@ -1,0 +1,5 @@
+<map id="smtrat::mcsat::onecellcad::RealAlgebraicPoint::prefixPoint" name="smtrat::mcsat::onecellcad::RealAlgebraicPoint::prefixPoint">
+<area shape="rect" id="node1" title="Make a (lower dimensional) copy that contains only the first &#39;componentCount&#39;&#45;many components." alt="" coords="5,27,236,69"/>
+<area shape="rect" id="node2" href="$d6/d0b/namespaceMinisat.html#ad8714c7d062a4cbf6f2e35a6c1f1d8b2" title=" " alt="" coords="371,5,481,32"/>
+<area shape="rect" id="node3" href="$d7/d6b/classsmtrat_1_1mcsat_1_1onecellcad_1_1RealAlgebraicPoint.html#afe4f55a34386acb43838ab77ac9f9239" title="Create an empty point of dimension 0." alt="" coords="284,57,568,98"/>
+</map>

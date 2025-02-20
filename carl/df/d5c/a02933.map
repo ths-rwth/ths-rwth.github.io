@@ -1,0 +1,4 @@
+<map id="carl::Bitset::iterator" name="carl::Bitset::iterator">
+<area shape="rect" id="node1" title="Iterate for iterate over all bits of a Bitset that are set to true." alt="" coords="5,95,153,121"/>
+<area shape="rect" id="node2" href="$df/d74/a02931.html" title="This class is a simple wrapper around boost::dynamic_bitset." alt="" coords="33,5,125,32"/>
+</map>

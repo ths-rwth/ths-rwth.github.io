@@ -1,0 +1,6 @@
+<map id="carl::ModelFormulaSubstitution&lt; Rational, Poly &gt;" name="carl::ModelFormulaSubstitution&lt; Rational, Poly &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="5,199,231,240"/>
+<area shape="rect" id="node2" href="$d2/d50/a03473.html" title="Represent a expression for a ModelValue with variables as placeholders, where the final expression&#39;s ..." alt="" coords="11,95,183,136"/>
+<area shape="rect" id="node3" href="$d6/daa/a03413.html" title=" " alt="" coords="207,102,373,129"/>
+<area shape="rect" id="node4" href="$d6/daa/a03413.html" title="Represent an SMT formula, which can be an atom for some background theory or a boolean combination of..." alt="" coords="211,5,369,32"/>
+</map>

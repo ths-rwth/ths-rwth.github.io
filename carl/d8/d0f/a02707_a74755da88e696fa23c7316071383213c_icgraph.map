@@ -1,0 +1,5 @@
+<map id="carl::PrimeFactory::size" name="carl::PrimeFactory::size">
+<area shape="rect" id="node1" title="Returns the number of already computed primes." alt="" coords="381,5,520,47"/>
+<area shape="rect" id="node2" href="$d8/ddf/a01238.html#aaa3dbcb820314fb751a0c0f452fa0972" title=" " alt="" coords="205,5,333,47"/>
+<area shape="rect" id="node3" href="$d8/d0f/a02707.html#abf711d40e2db0a1076da5658fc27a63c" title="Computed the next prime and returns it." alt="" coords="5,5,157,47"/>
+</map>

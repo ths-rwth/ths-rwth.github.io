@@ -1,0 +1,9 @@
+<map id="smtrat::mcsat::constraint_type::categorize" name="smtrat::mcsat::constraint_type::categorize">
+<area shape="rect" id="node1" title=" " alt="" coords="985,87,1172,129"/>
+<area shape="rect" id="node2" href="$d5/d63/classsmtrat_1_1mcsat_1_1arithmetic_1_1AssignmentFinder__detail.html#a6ac2af47626810b21341f662b25e0097" title=" " alt="" coords="512,5,703,61"/>
+<area shape="rect" id="node4" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#a7a4564444e081921d76816b18637e72c" title="Checks whether the constraint contains only a single unassigned variable, and this is the next one." alt="" coords="751,87,937,129"/>
+<area shape="rect" id="node7" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#a80acba5553ba9c2485e6fcf6f95e83c5" title="Checks whether the constraint contains an unassigned variable that is not the next one." alt="" coords="751,153,937,194"/>
+<area shape="rect" id="node3" href="$da/dc5/structsmtrat_1_1mcsat_1_1arithmetic_1_1AssignmentFinder.html#a5da1a4219c88b79aa35eced67af88af4" title=" " alt="" coords="5,54,225,95"/>
+<area shape="rect" id="node5" href="$d5/d63/classsmtrat_1_1mcsat_1_1arithmetic_1_1AssignmentFinder__detail.html#a4f41d016b0d3f00a26f850e658f3c987" title="Checks whether a formula is univariate, meaning it contains mVar and only variables from mModel other..." alt="" coords="512,85,703,141"/>
+<area shape="rect" id="node6" href="$d5/d63/classsmtrat_1_1mcsat_1_1arithmetic_1_1AssignmentFinder__detail.html#a07ee2e29a2a5900a5ffbb6ea11f8c86d" title=" " alt="" coords="273,79,464,135"/>
+</map>

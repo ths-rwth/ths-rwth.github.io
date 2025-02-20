@@ -1,0 +1,18 @@
+<map id="carl::IntRepRealAlgebraicNumber::refine_using" name="carl::IntRepRealAlgebraicNumber::refine_using">
+<area shape="rect" id="node1" title=" " alt="" coords="5,34,192,75"/>
+<area shape="rect" id="node2" href="$d0/d51/a02797.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="709,58,896,99"/>
+<area shape="rect" id="node3" href="$d0/d51/a02797.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="475,34,661,75"/>
+<area shape="rect" id="node4" href="$d0/d51/a02797.html#ac5d32ad0354f24f7a030f313035e98eb" title="Returns the sign of &quot;interval_int() &#45; pivot&quot;: Returns ZERO if pivot is equal to RAN." alt="" coords="240,173,427,214"/>
+<area shape="rect" id="node5" href="$d7/dc5/a01242.html#a6aa5825a5dcfebf46047bb9ccd307025" title=" " alt="" coords="747,148,858,175"/>
+<area shape="rect" id="node8" href="$d0/d51/a02797.html#aea3bb2935854f1458a1eeb038a636fc8" title=" " alt="" coords="475,202,661,243"/>
+<area shape="rect" id="node9" href="$d0/d51/a02797.html#a9392daa40b9085e09ed2cfe20c44fd2a" title=" " alt="" coords="709,261,896,302"/>
+<area shape="rect" id="node10" href="$d7/dc5/a01242.html#a950ad7b037cc356cc3dc210953f36804" title="Obtain the sign of the given number." alt="" coords="764,327,841,353"/>
+<area shape="rect" id="node6" href="$da/d71/a02101.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="956,88,1139,115"/>
+<area shape="rect" id="node7" href="$da/d71/a02101.html#ae763563c9b0ec6df9b736f0095c8392f" title=" " alt="" coords="969,139,1125,181"/>
+<area shape="rect" id="node11" href="$d7/dc5/a01242.html#a01a4afbb06a0ef14e10486b9fb2a7271" title=" " alt="" coords="727,209,878,236"/>
+<area shape="rect" id="node12" href="$d3/dff/a02565.html#a2f6524b8552fc389eafd79a6302ecd4a" title="Check if the polynomial is constant." alt="" coords="944,205,1151,246"/>
+<area shape="rect" id="node16" href="$d3/dff/a02565.html#aa70bde3c36c67d4ab7f3f5f34dde3b85" title="Check if the polynomial is linear." alt="" coords="944,270,1151,311"/>
+<area shape="rect" id="node13" href="$da/d7d/a02785.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="1218,153,1386,180"/>
+<area shape="rect" id="node14" href="$d3/dff/a02565.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="1199,205,1405,246"/>
+<area shape="rect" id="node15" href="$d3/dff/a02565.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="1453,234,1660,275"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="smtrat::cadcells::representation::util::decompose" name="smtrat::cadcells::representation::util::decompose">
+<area shape="rect" id="node1" title=" " alt="" coords="5,340,235,381"/>
+<area shape="rect" id="node2" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a23cc1dc476e10932aaa4457182e960b2" title=" " alt="" coords="283,5,513,47"/>
+<area shape="rect" id="node3" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a515f48c731431302598b9805fc45182a" title=" " alt="" coords="283,71,513,112"/>
+<area shape="rect" id="node4" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a85b1296b4fe979ea36a25a6fc0d5016b" title=" " alt="" coords="284,136,512,177"/>
+<area shape="rect" id="node5" href="$df/def/structsmtrat_1_1cadcells_1_1representation_1_1util_1_1PolyDelineations.html#a4c7657c0c285870544f2f4ad7666977e" title=" " alt="" coords="283,201,513,243"/>
+<area shape="rect" id="node6" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#af859a2d005b6d4dca8355892dfd43e79" title=" " alt="" coords="284,267,512,308"/>
+<area shape="rect" id="node7" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a23396f759eafdf95e9d41ac9a777e14f" title=" " alt="" coords="284,333,512,389"/>
+<area shape="rect" id="node8" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a37424763dbaf213a9a15cd3e0d15b47e" title="The set of polynomials without roots." alt="" coords="284,413,512,455"/>
+<area shape="rect" id="node9" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9fd0790e836a10dd37c51954e97e3359" title="The set of nullified polynomials." alt="" coords="284,479,512,520"/>
+<area shape="rect" id="node10" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="284,544,512,585"/>
+<area shape="rect" id="node11" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#ab623319f2aecdc705d59308a767ee595" title=" " alt="" coords="284,609,512,651"/>
+<area shape="rect" id="node12" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a89d10bab7fef184f8b68ea662424814b" title=" " alt="" coords="284,675,512,731"/>
+</map>

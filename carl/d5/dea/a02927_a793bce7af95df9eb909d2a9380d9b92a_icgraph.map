@@ -1,0 +1,4 @@
+<map id="carl::Bitset::find_next" name="carl::Bitset::find_next">
+<area shape="rect" id="node1" title="Retrieves the index of the first bit set to true after the given position." alt="" coords="201,13,361,39"/>
+<area shape="rect" id="node2" href="$df/d74/a02931.html#ac308fc289f5ce007681be05bfa31c666" title="Step to the next bit that is set to true." alt="" coords="5,5,153,47"/>
+</map>

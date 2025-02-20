@@ -1,0 +1,4 @@
+<map id="carl::Monomial::lcm" name="carl::Monomial::lcm">
+<area shape="rect" id="node1" title="Calculates the least common multiple of two monomial pointers." alt="" coords="259,13,409,39"/>
+<area shape="rect" id="node2" href="$dc/d1d/a02713.html#aa4a6887c717c746b3f6613d9c0f70d04" title="Returns lcm(lhs, rhs) / rhs." alt="" coords="5,5,211,47"/>
+</map>

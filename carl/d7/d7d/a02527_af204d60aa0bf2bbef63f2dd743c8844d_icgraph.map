@@ -1,0 +1,4 @@
+<map id="carl::UnivariatePolynomial::is_univariate" name="carl::UnivariatePolynomial::is_univariate">
+<area shape="rect" id="node1" title="Checks if the polynomial is univariate, that means if only one variable occurs." alt="" coords="172,5,367,47"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a8a90d05d2a46798d342ba43553776da7" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,13,124,39"/>
+</map>

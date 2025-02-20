@@ -1,0 +1,92 @@
+<map id="smtrat::qe::qe" name="smtrat::qe::qe">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1629,119,1655"/>
+<area shape="rect" id="node2" href="$df/d3e/namespacesmtrat_1_1qe_1_1fm.html#af8861e642676eac1cba66ed32ae68d17" title=" " alt="" coords="188,1219,327,1246"/>
+<area shape="rect" id="node18" href="$d7/d08/namespacesmtrat_1_1qe_1_1fmplex.html#a44b1f6d5a7e3f3642a8ff6213b9676e9" title=" " alt="" coords="174,1597,341,1623"/>
+<area shape="rect" id="node66" href="$dc/dff/namespacesmtrat_1_1qe_1_1coverings.html#aaa78c47ee5ec3bb74e87a103b8b6708b" title=" " alt="" coords="629,2361,813,2387"/>
+<area shape="rect" id="node90" href="$de/dc5/namespacesmtrat.html#a2fff83d636d8d185c0e3610e7aaa65fa" title=" " alt="" coords="167,1705,348,1731"/>
+<area shape="rect" id="node3" href="$d7/d4f/classsmtrat_1_1qe_1_1fm_1_1FourierMotzkinQE.html#a4b473d0a771be2053fa94e3dc27b44f9" title=" " alt="" coords="611,297,831,339"/>
+<area shape="rect" id="node4" href="$d2/d51/classsmtrat_1_1qe_1_1util_1_1EquationSubstitution.html#a2f4313ca55e3a2c4dc9c61fa34dd526f" title=" " alt="" coords="901,123,1083,164"/>
+<area shape="rect" id="node6" href="$d7/d4f/classsmtrat_1_1qe_1_1fm_1_1FourierMotzkinQE.html#a54f7f55f3281407261717426656529cc" title=" " alt="" coords="882,5,1102,47"/>
+<area shape="rect" id="node9" href="$d6/d34/structsmtrat_1_1qe_1_1util_1_1VariableIndex.html#aca2d8e4280c0a4ac2db7336b06ad7a0e" title=" " alt="" coords="903,188,1081,229"/>
+<area shape="rect" id="node11" href="$d6/d34/structsmtrat_1_1qe_1_1util_1_1VariableIndex.html#a55dd6dc5057fa69e3b3467b5e6b07cf0" title=" " alt="" coords="1174,301,1353,343"/>
+<area shape="rect" id="node12" href="$d2/d51/classsmtrat_1_1qe_1_1util_1_1EquationSubstitution.html#aac2e4cf3b3cebb40e52074edd80bb900" title=" " alt="" coords="901,486,1083,542"/>
+<area shape="rect" id="node13" href="$d2/d51/classsmtrat_1_1qe_1_1util_1_1EquationSubstitution.html#affb9b8bf90b2913f75179840841606f9" title=" " alt="" coords="901,406,1083,462"/>
+<area shape="rect" id="node14" href="$d6/d34/structsmtrat_1_1qe_1_1util_1_1VariableIndex.html#a05c2a262a8f4b99223e88e0dbe30061b" title=" " alt="" coords="2009,504,2187,545"/>
+<area shape="rect" id="node15" href="$d6/d36/namespacesmtrat_1_1qe.html#a47dc2c31189b4aa2e0fdba719bbc72d2" title=" " alt="" coords="1200,410,1327,437"/>
+<area shape="rect" id="node16" href="$d6/d34/structsmtrat_1_1qe_1_1util_1_1VariableIndex.html#aa338ed0101ab9fcef081e91f6bcae0ea" title=" " alt="" coords="903,697,1081,739"/>
+<area shape="rect" id="node17" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="1201,461,1326,487"/>
+<area shape="rect" id="node5" href="$d6/d0b/namespaceMinisat.html#a8dde6eed0840d1092688c12829715cd6" title=" " alt="" coords="1467,309,1570,335"/>
+<area shape="rect" id="node7" href="$d7/d4f/classsmtrat_1_1qe_1_1fm_1_1FourierMotzkinQE.html#a6a565f551b1f1e2d24721402a2a5ba07" title=" " alt="" coords="1153,5,1373,47"/>
+<area shape="rect" id="node8" href="$df/d3e/namespacesmtrat_1_1qe_1_1fm.html#aa2231e8b29264bbe210323354b7ac834" title=" " alt="" coords="1421,13,1616,39"/>
+<area shape="rect" id="node10" href="$d6/d34/structsmtrat_1_1qe_1_1util_1_1VariableIndex.html#a9b37aa8979d8965be838e95334f47119" title=" " alt="" coords="1174,215,1353,256"/>
+<area shape="rect" id="node19" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a6100f570cde3fba1a3fa5a64cdca3b7c" title=" " alt="" coords="396,1574,563,1630"/>
+<area shape="rect" id="node20" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a0da76a8761f9374d113939ce1935d400" title="Eliminates the chosen column in parent using the next eliminator in parent." alt="" coords="912,1618,1072,1674"/>
+<area shape="rect" id="node54" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#afb7f42135595657b5e044ba3f95e9df7" title="Constructs the starting nodes from m_query and m_formula as follows:" alt="" coords="631,599,811,655"/>
+<area shape="rect" id="node60" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#ae3871c8e6d6a98df2c5d2d0b92212391" title=" " alt="" coords="636,1025,805,1081"/>
+<area shape="rect" id="node61" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a96d131349bf9d83b3f608eacedaf7ca7" title="Eliminates the chosen column in parent using Fourier&#45;Motzkin, but discards rows with 0 coeff." alt="" coords="891,1515,1093,1556"/>
+<area shape="rect" id="node62" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#aa2c59b0d6436a24b1fdf2f0bbb7d4550" title="Splits the given node into multiple nodes that are independent in the following sense:" alt="" coords="639,2054,803,2110"/>
+<area shape="rect" id="node65" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#aae0aa714e05c103c9f7377efba877258" title="Eliminates the chosen column in parent by dropping all rows with non&#45;zero entry in that column." alt="" coords="904,1879,1080,1935"/>
+<area shape="rect" id="node21" href="$d9/d9c/namespacesmtrat_1_1lra.html#a6f07c38ecba22454ac6d5c59cee8f1e1" title="Calculates the absolute value of the given Numeric." alt="" coords="2037,1730,2159,1757"/>
+<area shape="rect" id="node23" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a6f40da7e67044644d92ff324f90212d1" title="Appends the row contained in the range between begin and end to the matrix." alt="" coords="1179,1691,1347,1732"/>
+<area shape="rect" id="node24" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#aec259e17f682bfc23af75ce56fb49431" title=" " alt="" coords="1179,1560,1347,1601"/>
+<area shape="rect" id="node28" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#ad1a36900efa08c13f95f3871c9c2640f" title=" " alt="" coords="1179,2135,1347,2176"/>
+<area shape="rect" id="node29" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a211dd757d30404bb960b0db37351d798" title=" " alt="" coords="1179,1873,1347,1915"/>
+<area shape="rect" id="node30" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a99ce240bdd9a149964b86e71d5f3f6aa" title="truncates the given row to not contain any &quot;origin&quot; information and inserts the result into the set o..." alt="" coords="1190,1297,1337,1353"/>
+<area shape="rect" id="node33" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a27a593206180566f1359238a2486f0ea" title="Computes scale_1*A_(i,&#45;) + scale_2*A_(j,&#45;) where i=row_idx_1, j=row_idx_2." alt="" coords="1179,1625,1347,1667"/>
+<area shape="rect" id="node35" href="$d5/db9/structsmtrat_1_1qe_1_1fmplex_1_1Node.html#a01eb66ae5a58279d095f2925282149a4" title=" " alt="" coords="1192,948,1335,989"/>
+<area shape="rect" id="node37" href="$dd/dd5/namespacesmtrat_1_1qe_1_1util.html#a6a0088b5bd06dc131e5f0c8d281a58d2" title=" " alt="" coords="1189,1495,1338,1536"/>
+<area shape="rect" id="node44" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#afd1c39cea545b39db20aefb4254c43c9" title=" " alt="" coords="1179,1377,1348,1419"/>
+<area shape="rect" id="node45" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a8923747d67c4f6b9cd76554356ea40ee" title=" " alt="" coords="1439,1285,1599,1327"/>
+<area shape="rect" id="node46" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a908f3b792bd9926a79aa61b9f9318463" title=" " alt="" coords="1176,1166,1351,1222"/>
+<area shape="rect" id="node47" href="$d5/db9/structsmtrat_1_1qe_1_1fmplex_1_1Node.html#a71673e3ebbcd3ae1d16307cc070dc557" title=" " alt="" coords="1192,883,1335,924"/>
+<area shape="rect" id="node48" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a791a9b346654b328f3db8a1a1666212e" title=" " alt="" coords="1179,2200,1347,2241"/>
+<area shape="rect" id="node49" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a61929e943e74b17a3fcc40bd4380ffd8" title=" " alt="" coords="1179,2265,1347,2307"/>
+<area shape="rect" id="node50" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a8181e1534496b4db55f2327bfcdf15f1" title=" " alt="" coords="1179,1939,1347,1980"/>
+<area shape="rect" id="node51" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a03571b3d06ad94464de99c619be0b2e8" title=" " alt="" coords="1179,1808,1347,1849"/>
+<area shape="rect" id="node52" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#adff08b0296a4fac4a004548c37cf169c" title=" " alt="" coords="1179,2004,1347,2045"/>
+<area shape="rect" id="node53" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a98d1007875074ed3be72c5f977032754" title=" " alt="" coords="1179,2069,1347,2111"/>
+<area shape="rect" id="node22" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#a123d57c87eba110786852a222651a1f1" title=" " alt="" coords="2260,1428,2413,1469"/>
+<area shape="rect" id="node25" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="1443,1479,1595,1520"/>
+<area shape="rect" id="node26" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#a32dc294d7a22c4cdfc74c3d9c8390165" title=" " alt="" coords="1716,1781,1884,1823"/>
+<area shape="rect" id="node27" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#aa136f257b606fac4914f7a3f5ade433d" title=" " alt="" coords="1716,1617,1884,1659"/>
+<area shape="rect" id="node31" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#ab19d6a8a238a80d5c32bb35ea0e4574b" title=" " alt="" coords="1423,1065,1615,1107"/>
+<area shape="rect" id="node32" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a847f06adc2f9e8b667f3df8449839b88" title=" " alt="" coords="1720,999,1880,1055"/>
+<area shape="rect" id="node34" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#abe894b61c39091f0082359fab641b5ab" title=" " alt="" coords="1435,1647,1603,1688"/>
+<area shape="rect" id="node36" href="$d5/db9/structsmtrat_1_1qe_1_1fmplex_1_1Node.html#a80a5d879343943c6ffb0cadb98d13a72" title=" " alt="" coords="1447,915,1590,956"/>
+<area shape="rect" id="node38" href="$d9/d9c/namespacesmtrat_1_1lra.html#ade6193ddbad1d1c6a43da2591a1c2e3e" title="Calculates the greatest common divisor of the two arguments." alt="" coords="1458,1377,1579,1403"/>
+<area shape="rect" id="node43" href="$d9/d9c/namespacesmtrat_1_1lra.html#a30af130c3f65b216de8cbb873b07e630" title="Calculates the least common multiple of the two arguments." alt="" coords="1457,1427,1580,1454"/>
+<area shape="rect" id="node39" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#a24ff59a3d54f6bd17861316df7a5e7cd" title=" " alt="" coords="1723,1311,1877,1352"/>
+<area shape="rect" id="node42" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#a2c0aa2764599e6783496ed83819f5272" title=" " alt="" coords="1723,1428,1877,1469"/>
+<area shape="rect" id="node40" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#afaa878116e8e691ea1645cf439f992af" title=" " alt="" coords="2021,1311,2175,1352"/>
+<area shape="rect" id="node41" href="$d1/d81/classsmtrat_1_1lra_1_1Numeric.html#ad323e220c1985d3c2af642de39957d3b" title="Default constructor." alt="" coords="2260,1311,2413,1352"/>
+<area shape="rect" id="node55" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#acc309c5aebc55b5f85a65a7ca96818f7" title="Constructs a matrix from the given constraints." alt="" coords="902,829,1082,885"/>
+<area shape="rect" id="node59" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#afd9c4b7931ea4b2bbd68dfa5790a0dc0" title=" " alt="" coords="879,566,1105,622"/>
+<area shape="rect" id="node56" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#adb1dc0ffc3de8ad285ef18aa656270b9" title=" " alt="" coords="1165,664,1361,705"/>
+<area shape="rect" id="node57" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title=" " alt="" coords="1212,613,1315,639"/>
+<area shape="rect" id="node58" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title=" " alt="" coords="1437,613,1600,639"/>
+<area shape="rect" id="node63" href="$d5/db9/structsmtrat_1_1qe_1_1fmplex_1_1Node.html#a319998011ca713859ad08e6fd608de19" title=" " alt="" coords="893,2179,1091,2220"/>
+<area shape="rect" id="node64" href="$d7/dc4/classsmtrat_1_1qe_1_1util_1_1Matrix.html#ad96e2f546c3c9e71136267d5271c0f19" title=" " alt="" coords="908,2061,1076,2103"/>
+<area shape="rect" id="node67" href="$d7/da7/structsmtrat_1_1qe_1_1coverings_1_1DefaultSettings_1_1formula__evaluation.html#aed23e55d9c4046cd57dc2e2a05ca3269" title=" " alt="" coords="897,2346,1087,2402"/>
+<area shape="rect" id="node74" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#a1e15bcbb014bf165b08954e5cef3afd1" title=" " alt="" coords="897,763,1087,804"/>
+<area shape="rect" id="node75" href="$d9/d5c/classsmtrat_1_1covering__ng_1_1VariableQuantification.html#a8e3d934ade66f66f0968facfbd7b95d0" title=" " alt="" coords="905,1115,1079,1171"/>
+<area shape="rect" id="node77" href="$db/d47/namespacesmtrat_1_1covering__ng.html#a664c169438f234ebe7d51ce1aa25592f" title=" " alt="" coords="1443,2607,1595,2648"/>
+<area shape="rect" id="node80" href="$da/d97/namespacesmtrat_1_1qe_1_1coverings_1_1util.html#a5d5d18afbdfaac7a17acfe6eb3b1d0ff" title=" " alt="" coords="894,2492,1090,2533"/>
+<area shape="rect" id="node89" href="$da/d97/namespacesmtrat_1_1qe_1_1coverings_1_1util.html#a7cf968d525eb15ed7388b803967e3296" title=" " alt="" coords="893,2427,1091,2468"/>
+<area shape="rect" id="node68" href="$da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#a852457b61dbd073083fd0af577a30ed7" title=" " alt="" coords="1182,2397,1345,2453"/>
+<area shape="rect" id="node71" href="$da/d3d/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity.html#ac11605e0fff1c80d0554eb4443e41c21" title="Dolzmann et al 2004." alt="" coords="1165,2331,1362,2372"/>
+<area shape="rect" id="node69" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a8487d0390a3cfe52422d8cd5df09fd40" title=" " alt="" coords="1686,2300,1914,2341"/>
+<area shape="rect" id="node70" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#aa7697a91691431c30105730427f0ccdc" title=" " alt="" coords="1984,2268,2212,2309"/>
+<area shape="rect" id="node72" href="$dc/d61/namespacesmtrat_1_1covering__ng_1_1formula_1_1complexity_1_1features.html#a0bb391f24c4f4e0ed85aefa26604ef47" title=" " alt="" coords="1423,2281,1615,2352"/>
+<area shape="rect" id="node73" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a5bc1458e5cb7b032142789963fad2e3f" title=" " alt="" coords="1664,2235,1936,2276"/>
+<area shape="rect" id="node76" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="1214,1115,1313,1142"/>
+<area shape="rect" id="node78" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#a16953f0d16a7370feb245194eb2d04f2" title=" " alt="" coords="1686,2643,1914,2684"/>
+<area shape="rect" id="node79" href="$d9/d03/classsmtrat_1_1cadcells_1_1datastructures_1_1Bound.html#ac24493a8b2b4ebcca3f6ddf735a7cab4" title=" " alt="" coords="1984,2643,2212,2684"/>
+<area shape="rect" id="node81" href="$da/d97/namespacesmtrat_1_1qe_1_1coverings_1_1util.html#ac72d0c7c27cd9641fd3dfc90e970b01f" title=" " alt="" coords="1183,2492,1343,2533"/>
+<area shape="rect" id="node82" href="$d1/d3d/namespacesmtrat_1_1cadcells_1_1helper.html#a5898ed99c3ca918e7be4429c8efa2417" title="Converts a datastructures::SymbolicInterval to a DNF." alt="" coords="1431,2496,1606,2537"/>
+<area shape="rect" id="node83" href="$d1/d3d/namespacesmtrat_1_1cadcells_1_1helper.html#ade7827942bd5edbc61e1f1a43b07b052" title="Converts an datastructures::IndexedRoot to a MultivariateRoot." alt="" coords="1713,2365,1887,2407"/>
+<area shape="rect" id="node84" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#a0f96c28a669a1e7c5bf70ad75ad393ad" title="Return the lower bound." alt="" coords="1686,2431,1914,2472"/>
+<area shape="rect" id="node85" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#ae6e909db5afd9b60cecba2766865da21" title="In case of a section, the defining indexed root is returned." alt="" coords="1686,2497,1914,2553"/>
+<area shape="rect" id="node88" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#ae28baaa6cc414492a7a39ec5aa5ba077" title="Returns the upper bound." alt="" coords="1686,2577,1914,2619"/>
+<area shape="rect" id="node86" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a844fad4a0e83de0d80c9f7d546d61aa0" title=" " alt="" coords="1984,2472,2212,2513"/>
+<area shape="rect" id="node87" href="$d9/d03/classsmtrat_1_1cadcells_1_1datastructures_1_1Bound.html#aa79de91fb3006d9a4a5d92a501279328" title=" " alt="" coords="1984,2537,2212,2579"/>
+</map>

@@ -1,0 +1,4 @@
+var structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL__FILTER__ONLY__INDEPENDENT_01_4 =
+[
+    [ "compute", "df/dbb/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1BIGGEST__CELL__FILTER__ONLY__INDEPENDENT_01_4.html#ad3fdbce8f72997340c2fc9a6d006d84c", null ]
+];

@@ -1,0 +1,8 @@
+<map id="benchmax::Jobs::files" name="benchmax::Jobs::files">
+<area shape="rect" id="node1" title="Returns the set of files." alt="" coords="633,71,793,98"/>
+<area shape="rect" id="node2" href="$d5/dde/classbenchmax_1_1CSVWriter.html#a9752f7b1955382f2fe31429e80866875" title=" " alt="" coords="421,5,585,47"/>
+<area shape="rect" id="node3" href="$d5/dde/classbenchmax_1_1CSVWriter.html#aa509fb51de968393481ded607965d7ec" title="Write results to file." alt="" coords="208,32,372,73"/>
+<area shape="rect" id="node5" href="$dd/dcc/classbenchmax_1_1XMLWriter.html#a6d8d3484898989f3544325e5b5f84535" title="Write results to file." alt="" coords="420,123,585,164"/>
+<area shape="rect" id="node4" href="$dd/d8d/classbenchmax_1_1Results.html#ac1c01c8de1d2dd81af8bee2f03af7084" title="Store all results to a csl file." alt="" coords="5,32,160,73"/>
+<area shape="rect" id="node6" href="$dd/d8d/classbenchmax_1_1Results.html#ad087cc529aa7ad704dbd2995f5430c81" title="Store all results to a xml file." alt="" coords="213,123,367,164"/>
+</map>

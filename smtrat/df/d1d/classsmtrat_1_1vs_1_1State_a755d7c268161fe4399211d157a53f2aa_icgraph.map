@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::getCurrentSubresultCombination" name="smtrat::vs::State::getCurrentSubresultCombination">
+<area shape="rect" id="node1" title="Gets the current substitution result combination as condition vector." alt="" coords="192,5,427,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="5,5,144,47"/>
+</map>

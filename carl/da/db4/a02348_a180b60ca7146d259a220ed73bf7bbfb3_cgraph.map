@@ -1,0 +1,10 @@
+<map id="carl::FLOAT_T::ceil_assign" name="carl::FLOAT_T::ceil_assign">
+<area shape="rect" id="node1" title="Assigns the number the ceiling of this number." alt="" coords="5,86,145,127"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#aafd71e0f4b4efcdb52ac5e8eb2f99fde" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="193,93,271,120"/>
+<area shape="rect" id="node3" href="$da/db4/a02348.html#a59b8fbf6ca6605e45ac554488ce48194" title="Function which calculates the ceiling of this number and puts it into a passed result parameter." alt="" coords="319,93,459,120"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="507,93,584,120"/>
+<area shape="rect" id="node5" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="633,5,781,32"/>
+<area shape="rect" id="node6" href="$de/dc3/a02256.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="633,57,781,98"/>
+<area shape="rect" id="node7" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="632,123,781,149"/>
+<area shape="rect" id="node8" href="$de/dc3/a02256.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="632,174,781,215"/>
+</map>

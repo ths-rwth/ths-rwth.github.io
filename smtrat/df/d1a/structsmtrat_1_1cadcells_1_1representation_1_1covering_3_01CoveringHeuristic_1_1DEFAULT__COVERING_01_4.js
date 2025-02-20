@@ -1,0 +1,4 @@
+var structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1DEFAULT__COVERING_01_4 =
+[
+    [ "compute", "df/d1a/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1DEFAULT__COVERING_01_4.html#a7c684b11f6b96867ccb07cf6a3f07601", null ]
+];
