@@ -1,0 +1,12 @@
+<map id="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::partialDerivativesLayerWithSomeNonEarlyVanishingPoly" name="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::partialDerivativesLayerWithSomeNonEarlyVanishingPoly">
+<area shape="rect" id="node1" title="Find the smallest index m such that in the set S of all m&#45;th partial derivatives of the given poly,..." alt="" coords="1395,335,1645,406"/>
+<area shape="rect" id="node2" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a13d63fe412341476cad62c51a04373a0" title=" " alt="" coords="1097,343,1347,399"/>
+<area shape="rect" id="node3" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a00b32f6a017505b7297faa796133c516" title="Merge the given open OpenCADCell &#39;cell&#39; that contains the given &#39;point&#39; (called &quot;alpha&quot; in [brown15])..." alt="" coords="859,220,1049,276"/>
+<area shape="rect" id="node4" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a315cef555dca57b25365801f0f8539ea" title="Construct a single CADCell that contains the given &#39;point&#39; and is sign&#45;invariant for the given polyno..." alt="" coords="595,5,786,61"/>
+<area shape="rect" id="node6" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a95492545bf0fd446da5e6966a2d22c77" title=" " alt="" coords="571,213,811,283"/>
+<area shape="rect" id="node5" href="$db/d67/structsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1Explanation.html#a327efe47bf089a969e7bf94e11c9ce04" title=" " alt="" coords="332,5,523,61"/>
+<area shape="rect" id="node7" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a0b23f1e7aff31bc938a1bc56d589695a" title=" " alt="" coords="332,187,523,243"/>
+<area shape="rect" id="node8" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#abb81540ba8ec2a09e98fd70d9f38cbf0" title=" " alt="" coords="37,252,252,308"/>
+<area shape="rect" id="node9" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a7a266cb9f9a3dd980f60b1856a4d02cf" title=" " alt="" coords="5,121,284,177"/>
+<area shape="rect" id="node10" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#ae83d2372df42b8d154e87654d53277f1" title=" " alt="" coords="332,317,523,373"/>
+</map>

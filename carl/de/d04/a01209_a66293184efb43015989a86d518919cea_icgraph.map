@@ -1,0 +1,6 @@
+<map id="carl::init" name="carl::init">
+<area shape="rect" id="node1" title="The routine for initializing the carl library." alt="" coords="468,31,543,57"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a31de55e80e49ff57064d770dcd9ddc87" title="Method to ensure that upon inclusion, init() is called exactly once." alt="" coords="279,5,390,32"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a3baaa7af42ddc95e35cc1521ae99bdfa" title="Implements a functional fold (similar to std::accumulate) for std::tuple." alt="" coords="249,56,420,83"/>
+<area shape="rect" id="node4" href="$d8/db0/a01243.html#ada92f730e1a12d3e4d5dbb4b092931d9" title=" " alt="" coords="5,56,201,83"/>
+</map>

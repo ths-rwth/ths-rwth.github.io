@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::deleteOriginsFromSubstitutionResults" name="smtrat::vs::State::deleteOriginsFromSubstitutionResults">
+<area shape="rect" id="node1" title="Deletes everything originated by the given conditions in the substitution results of this state." alt="" coords="192,5,412,61"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad9d891684d67c8aeb241a53098bcef2b" title="Removes everything in this state originated by the given vector of conditions." alt="" coords="5,13,144,54"/>
+</map>

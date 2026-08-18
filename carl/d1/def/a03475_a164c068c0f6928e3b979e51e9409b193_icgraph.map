@@ -1,0 +1,4 @@
+<map id="carl::SortManager::replace" name="carl::SortManager::replace">
+<area shape="rect" id="node1" title="Recursively replaces sorts within the given sort according to the mapping of sort names to sorts as d..." alt="" coords="199,5,344,47"/>
+<area shape="rect" id="node2" href="$d1/def/a03475.html#a28038a8fff52c63d49d6fe62c3ccb395" title="Gets the sort with arity greater than zero corresponding the given name and having the arguments of t..." alt="" coords="5,5,151,47"/>
+</map>

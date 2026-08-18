@@ -1,0 +1,13 @@
+<map id="smtrat::cadcells::representation::delineation&lt; DelineationHeuristic::CHAIN &gt;::compute" name="smtrat::cadcells::representation::delineation&lt; DelineationHeuristic::CHAIN &gt;::compute">
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,256,171"/>
+<area shape="rect" id="node2" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a5460e3a188d4252d3c38a75f20a8cd2a" title=" " alt="" coords="304,115,533,171"/>
+<area shape="rect" id="node3" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a360d036ac77537da2473fb0cc6014464" title=" " alt="" coords="582,5,810,47"/>
+<area shape="rect" id="node4" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a8d5abcdf656969107961714b652100ab" title=" " alt="" coords="859,35,1087,76"/>
+<area shape="rect" id="node5" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9fd0790e836a10dd37c51954e97e3359" title="The set of nullified polynomials." alt="" coords="582,123,810,164"/>
+<area shape="rect" id="node6" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="582,188,810,229"/>
+<area shape="rect" id="node7" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a4e7d091abb57fc75253756cc4d12e477" title=" " alt="" coords="581,253,811,295"/>
+<area shape="rect" id="node8" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a59623bb0dc6c4cb618afd85c5bb8f408" title=" " alt="" coords="859,253,1088,295"/>
+<area shape="rect" id="node9" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a987f96b3ec79cf4f4f5182d4db71dc9f" title=" " alt="" coords="1136,253,1364,295"/>
+<area shape="rect" id="node10" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a8b48601e215177d1e766f1b432e16836" title=" " alt="" coords="1412,253,1640,295"/>
+<area shape="rect" id="node11" href="$d3/dbe/classsmtrat_1_1cadcells_1_1datastructures_1_1PolyPool.html#a5a96760488ddf83f100ff2e4c8f3910b" title=" " alt="" coords="1688,253,1916,295"/>
+</map>

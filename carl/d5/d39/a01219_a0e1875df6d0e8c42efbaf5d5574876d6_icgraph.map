@@ -1,0 +1,16 @@
+<map id="carl::detail::var_info_term" name="carl::detail::var_info_term">
+<area shape="rect" id="node1" title=" " alt="" coords="839,183,1029,209"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#aa19fe29df8e7d5a732333423ce74acf6" title=" " alt="" coords="684,183,791,209"/>
+<area shape="rect" id="node3" href="$d3/d0b/a01253.html#a6b2be379a4d726d275ceaf1318bcd350" title="Gathers zeros with side conditions from the given constraint in the given variable." alt="" coords="464,56,625,83"/>
+<area shape="rect" id="node6" href="$dc/db6/a01212.html#ac6a156ef415c5f9bb1839fda809b18b0" title="If this constraint represents a substitution (equation, where at least one variable occurs only linea..." alt="" coords="229,193,388,220"/>
+<area shape="rect" id="node8" href="$dc/db6/a01212.html#a1ea81c002749c68ce22a72909b4923a5" title=" " alt="" coords="455,107,634,133"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#ac713609d998880d45874fc1335c16427" title="Substitutes a variable in an expression by a square root expression, which results in a square root e..." alt="" coords="485,208,604,235"/>
+<area shape="rect" id="node11" href="$d2/dd0/a03283.html#a03f23ac4362aa1b3b4ab885ab78730aa" title=" " alt="" coords="453,259,636,285"/>
+<area shape="rect" id="node12" href="$dc/db6/a01212.html#af5e1df79ac9c986e518c5d772df3b392" title=" " alt="" coords="487,309,602,336"/>
+<area shape="rect" id="node4" href="$d3/d0b/a01253.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="228,5,389,32"/>
+<area shape="rect" id="node5" href="$d3/d0b/a01253.html#ad5b4aa3676afed7d74cc6829a9fa4d7f" title="Applies a substitution to a variable comparison." alt="" coords="237,56,380,83"/>
+<area shape="rect" id="node7" href="$dc/db6/a01212.html#aee1219b5be0b01fbd0d27ec1abf2ee38" title=" " alt="" coords="5,193,164,220"/>
+<area shape="rect" id="node9" href="$dc/db6/a01212.html#a69bb2518166d66ce4a90d6972277058b" title=" " alt="" coords="242,107,375,133"/>
+<area shape="rect" id="node13" href="$dc/db6/a01212.html#a0f08750b28226855b7a0283241d885e2" title=" " alt="" coords="270,280,347,307"/>
+<area shape="rect" id="node14" href="$dd/dc3/a03247.html#ac3bf9debb9caf85fd7d593f014c2e505" title=" " alt="" coords="212,331,405,373"/>
+</map>

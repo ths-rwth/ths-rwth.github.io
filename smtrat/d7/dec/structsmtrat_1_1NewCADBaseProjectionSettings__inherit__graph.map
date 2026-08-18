@@ -1,0 +1,14 @@
+<map id="smtrat::NewCADBaseProjectionSettings" name="smtrat::NewCADBaseProjectionSettings">
+<area shape="rect" id="node1" title=" " alt="" coords="499,125,725,166"/>
+<area shape="rect" id="node7" href="$d0/de4/structsmtrat_1_1NewCADSettingsBrown.html" title=" " alt="" coords="775,5,999,32"/>
+<area shape="rect" id="node8" href="$db/d92/structsmtrat_1_1NewCADSettingsCollins.html" title=" " alt="" coords="773,56,1000,83"/>
+<area shape="rect" id="node9" href="$da/d03/structsmtrat_1_1NewCADSettingsHong.html" title=" " alt="" coords="778,107,995,133"/>
+<area shape="rect" id="node10" href="$d5/da0/structsmtrat_1_1NewCADSettingsLazard.html" title=" " alt="" coords="773,157,1000,184"/>
+<area shape="rect" id="node11" href="$d1/db4/structsmtrat_1_1NewCADSettingsMcCallum.html" title=" " alt="" coords="785,209,988,250"/>
+<area shape="rect" id="node12" href="$d7/d72/structsmtrat_1_1NewCADSettingsMcCallumPartial.html" title=" " alt="" coords="785,274,988,315"/>
+<area shape="rect" id="node2" href="$da/df0/structsmtrat_1_1NewCADBaseSettings.html" title=" " alt="" coords="236,56,451,83"/>
+<area shape="rect" id="node3" href="$d7/d8b/structsmtrat_1_1cad_1_1MISHeuristicMixin.html" title="Mixin that provides settings for MIS generation." alt="" coords="5,56,188,83"/>
+<area shape="rect" id="node4" href="$d5/d4a/structsmtrat_1_1cad_1_1IncrementalityMixin.html" title="Mixin that provides settings for incrementality and backtracking." alt="" coords="260,107,427,133"/>
+<area shape="rect" id="node5" href="$df/d19/structsmtrat_1_1cad_1_1SampleCompareMixin.html" title="Mixin that provides settings for the sample comparison." alt="" coords="256,157,431,184"/>
+<area shape="rect" id="node6" href="$da/d8a/structsmtrat_1_1cad_1_1ProjectionOrderMixin.html" title="Mixin that provides settings for the projection order." alt="" coords="242,208,445,235"/>
+</map>

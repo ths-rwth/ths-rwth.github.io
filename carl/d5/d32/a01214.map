@@ -1,0 +1,4 @@
+<map id="is_finite_type" name="is_finite_type">
+<area shape="rect" id="node1" title="All types that can represent only numbers from a finite domain are marked with is_finite_type." alt="" coords="144,5,253,31"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html" title="We define custom type traits for number types we use." alt="" coords="5,5,96,31"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="smtrat::qe::cad::Projection::addPolynomial" name="smtrat::qe::cad::Projection::addPolynomial">
+<area shape="rect" id="node1" title=" " alt="" coords="5,249,199,291"/>
+<area shape="rect" id="node2" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html#a1e43ea81fd6c41ed6aafe45d9572335e" title=" " alt="" coords="247,188,440,229"/>
+<area shape="rect" id="node8" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html#ac566725d390c00359521e6ea29b74320" title="Returns the variable that corresponds to the given level, that is the variable eliminated in this lev..." alt="" coords="488,319,711,346"/>
+<area shape="rect" id="node3" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a3eff39f8995d50d8597f6b32ee66ff55" title="Checks whether a polynomial can safely be ignored." alt="" coords="515,5,684,47"/>
+<area shape="rect" id="node4" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="759,195,985,222"/>
+<area shape="rect" id="node5" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html#a83c791813adc668d10ccde8e4eed7469" title="Returns a fresh polynomial id for the given level." alt="" coords="503,123,696,164"/>
+<area shape="rect" id="node6" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html#a456618c73584e7b7582f8d6a69ac2b06" title=" " alt="" coords="503,188,696,229"/>
+<area shape="rect" id="node7" href="$de/d5c/classsmtrat_1_1qe_1_1cad_1_1Projection.html#ad515b8e72a5641507ad0f74a50407a31" title=" " alt="" coords="503,253,696,295"/>
+</map>

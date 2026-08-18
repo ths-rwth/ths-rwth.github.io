@@ -1,0 +1,4 @@
+var structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__EW_01_4 =
+[
+    [ "compute", "db/d93/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__EW_01_4.html#a807c6eda2a60367556478d9961952b7f", null ]
+];

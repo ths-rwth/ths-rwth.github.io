@@ -1,0 +1,4 @@
+var structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__EW_01_4 =
+[
+    [ "compute", "dd/d8e/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__EW_01_4.html#ac68d776519726d68b22a8cabc112818a", null ]
+];

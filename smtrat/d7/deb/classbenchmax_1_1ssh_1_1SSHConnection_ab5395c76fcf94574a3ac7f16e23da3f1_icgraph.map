@@ -1,0 +1,4 @@
+<map id="benchmax::ssh::SSHConnection::parse_duration" name="benchmax::ssh::SSHConnection::parse_duration">
+<area shape="rect" id="node1" title="Parse a duration from stdout." alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node2" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a0157e40d065de0a049f006c091eb11a7" title="Execute a command on the remote." alt="" coords="5,5,232,47"/>
+</map>

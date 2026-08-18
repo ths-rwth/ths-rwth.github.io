@@ -1,0 +1,5 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::SIMPLE, BT, Settings &gt;" name="smtrat::cad::Projection&lt; Incrementality::SIMPLE, BT, Settings &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="509,13,700,69"/>
+<area shape="rect" id="node2" href="$df/d6f/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1NONE_00_01Backtracking_1_1UNORDERED_00_01Settings_01_4.html" title="This class implements a projection that supports no incrementality and allows backtracking to be out ..." alt="" coords="255,5,461,76"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html" title=" " alt="" coords="5,20,207,61"/>
+</map>

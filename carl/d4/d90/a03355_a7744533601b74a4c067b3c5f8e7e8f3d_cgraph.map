@@ -1,0 +1,10 @@
+<map id="carl::DIMACSImporter::next" name="carl::DIMACSImporter::next">
+<area shape="rect" id="node1" title="Parses and returns the next formula (until the next reset line)." alt="" coords="5,67,168,108"/>
+<area shape="rect" id="node2" href="$d4/d90/a03355.html#a7c2f690ad8aebf2984f81d559beb13df" title=" " alt="" coords="216,67,379,108"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a3a76f764943674fd2a54fc65488635ef" title=" " alt="" coords="427,45,620,71"/>
+<area shape="rect" id="node7" href="$d4/d90/a03355.html#a9a551f92116fe38c7cc20840b96f14f8" title=" " alt="" coords="442,96,605,137"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#aa2b7fb76e43c3bb556590d029a3d0b29" title=" " alt="" coords="668,45,808,71"/>
+<area shape="rect" id="node5" href="$de/d25/a01999.html#a609d1de5e480fa4d03114bc814f68021" title="Get a variable which was not used before." alt="" coords="878,5,1017,47"/>
+<area shape="rect" id="node6" href="$d9/d65/a03215.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="856,71,1039,112"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a2621c3f57bc93187374da1f40c0afd67" title="Method which returns the absolute value of the passed number." alt="" coords="699,103,777,130"/>
+</map>

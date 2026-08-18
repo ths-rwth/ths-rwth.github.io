@@ -1,0 +1,4 @@
+<map id="smtrat::mcsat::resolveExplanation" name="smtrat::mcsat::resolveExplanation">
+<area shape="rect" id="node1" title=" " alt="" coords="208,13,455,39"/>
+<area shape="rect" id="node2" href="$df/d4d/classsmtrat_1_1SATModule.html#a549cec09ce5fd8e3e3ff917c6bb2a6c1" title="analyze : (confl : Clause*) (out_learnt : vec&lt;Lit&gt;&amp;) (out_btlevel : int&amp;) &#45;&gt; [void]" alt="" coords="5,5,160,47"/>
+</map>

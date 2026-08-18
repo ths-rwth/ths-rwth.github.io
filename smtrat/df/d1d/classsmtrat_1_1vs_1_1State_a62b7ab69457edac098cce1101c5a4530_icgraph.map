@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::simplify" name="smtrat::vs::State::simplify">
+<area shape="rect" id="node1" title="Cleans up all conditions in this state according to comparison between the corresponding constraints." alt="" coords="192,5,331,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="5,5,144,47"/>
+</map>

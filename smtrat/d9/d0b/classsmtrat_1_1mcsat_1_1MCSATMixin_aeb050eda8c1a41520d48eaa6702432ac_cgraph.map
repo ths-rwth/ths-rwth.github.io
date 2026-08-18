@@ -1,0 +1,5 @@
+<map id="smtrat::mcsat::MCSATMixin::explainInconsistency" name="smtrat::mcsat::MCSATMixin::explainInconsistency">
+<area shape="rect" id="node1" title="Checks if the trail is consistent after the assignment on the current level." alt="" coords="5,35,208,76"/>
+<area shape="rect" id="node2" href="$d9/d0b/classsmtrat_1_1mcsat_1_1MCSATMixin.html#a2e82632678cb00483e6cffa102b82a0e" title="Checks if any inconsistency was detected." alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="295,71,420,98"/>
+</map>

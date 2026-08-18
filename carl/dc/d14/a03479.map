@@ -1,0 +1,5 @@
+<map id="carl::SortManager" name="carl::SortManager">
+<area shape="rect" id="node1" title="Implements a manager for sorts, containing the actual contents of these sort and allocating their ids..." alt="" coords="51,171,188,197"/>
+<area shape="rect" id="node2" href="$d7/db8/a03060.html" title=" " alt="" coords="5,95,233,121"/>
+<area shape="rect" id="node3" href="$d7/db8/a03060.html" title="Base class that implements a singleton." alt="" coords="43,5,196,32"/>
+</map>

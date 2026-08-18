@@ -1,0 +1,10 @@
+<map id="carl::MultivariatePolynomial::begin" name="carl::MultivariatePolynomial::begin">
+<area shape="rect" id="node1" title=" " alt="" coords="260,181,467,222"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#ac086c2af1af7abf96028dc46c8a01e85" title=" " alt="" coords="45,5,172,32"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#ad00d9a10aa9137d96b5eece148ec03cc" title=" " alt="" coords="5,57,212,98"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#a69b75d683f2561c1c9a5ac81b8f31f97" title=" " alt="" coords="5,122,212,163"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a5018888cd5f9fe46fd440d793a704a9e" title="Check if the polynomial is linear." alt="" coords="54,188,163,215"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#a430cc83b5e3ca3e8097aa54b770a042c" title="Checks whether the polynomial is a trivial sum of squares." alt="" coords="5,239,212,281"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#a19781edb1c8e3f1da442b667f911fd79" title="Ensure that the terms are ordered." alt="" coords="5,305,212,346"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#a825f76fb43ca1f5b27acfd917bcdc2a8" title="Calculates the hash of a MultivariatePolynomial." alt="" coords="5,371,212,427"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="carl::logging::Logger::configure" name="carl::logging::Logger::configure">
+<area shape="rect" id="node1" title="Installs the given sink." alt="" coords="1024,39,1179,80"/>
+<area shape="rect" id="node2" href="$d4/d2d/a03729.html#a7365e1c24294efbf4564097bcd4f83aa" title="Installs a FileSink." alt="" coords="815,5,970,47"/>
+<area shape="rect" id="node3" href="$d9/de7/a01279.html#a1f6ea271980ab353f97c71fd5aec72da" title=" " alt="" coords="809,71,976,112"/>
+<area shape="rect" id="node4" href="$d9/de7/a01279.html#a8fea23f542143af72cc428d1c3b52b9e" title=" " alt="" coords="591,71,761,112"/>
+<area shape="rect" id="node5" href="$d7/dc5/a01242.html#a66293184efb43015989a86d518919cea" title="The routine for initializing the carl library." alt="" coords="468,78,543,105"/>
+<area shape="rect" id="node6" href="$d7/dc5/a01242.html#a31de55e80e49ff57064d770dcd9ddc87" title="Method to ensure that upon inclusion, init() is called exactly once." alt="" coords="279,53,390,79"/>
+<area shape="rect" id="node7" href="$d7/dc5/a01242.html#a3baaa7af42ddc95e35cc1521ae99bdfa" title="Implements a functional fold (similar to std::accumulate) for std::tuple." alt="" coords="249,103,420,130"/>
+<area shape="rect" id="node8" href="$d2/d1d/a01277.html#ada92f730e1a12d3e4d5dbb4b092931d9" title=" " alt="" coords="5,103,201,130"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="benchmax::DBAL::execute" name="benchmax::DBAL::execute">
+<area shape="rect" id="node1" title="Execute a statement without arguments." alt="" coords="233,31,425,57"/>
+<area shape="rect" id="node2" href="$dd/d13/classbenchmax_1_1DBAL.html#a9fe0e371cbcc36400b12dcd83660a2aa" title="Insert some data and return the new index." alt="" coords="6,5,185,32"/>
+<area shape="rect" id="node3" href="$dd/d13/classbenchmax_1_1DBAL.html#affda5c5ba3325daac467fec487569a05" title="Select some data." alt="" coords="5,56,185,83"/>
+</map>

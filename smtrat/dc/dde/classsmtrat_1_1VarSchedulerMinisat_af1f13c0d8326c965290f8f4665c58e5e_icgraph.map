@@ -1,0 +1,8 @@
+<map id="smtrat::VarSchedulerMinisat::decreaseActivity" name="smtrat::VarSchedulerMinisat::decreaseActivity">
+<area shape="rect" id="node1" title=" " alt="" coords="284,144,491,185"/>
+<area shape="rect" id="node2" href="$d9/db8/classsmtrat_1_1VarSchedulerMcsatBooleanFirst.html#a58e77824e25161cf9a7138dc1a87c243" title=" " alt="" coords="11,5,231,47"/>
+<area shape="rect" id="node3" href="$d9/d1a/classsmtrat_1_1VarSchedulerMcsatTheoryFirst.html#acd0eb7c44523d72ebee24512c3bc0ba4" title=" " alt="" coords="15,71,227,112"/>
+<area shape="rect" id="node4" href="$d4/db3/classsmtrat_1_1VarSchedulerMcsatUnivariateConstraintsOnly.html#a946fc8bf97282f95816bad5c429ab9dc" title=" " alt="" coords="22,137,219,193"/>
+<area shape="rect" id="node5" href="$d9/da1/classsmtrat_1_1VarSchedulerMcsatActivityPreferTheory.html#accd9b2865be18316266857aaeeafd9fe" title=" " alt="" coords="9,217,232,273"/>
+<area shape="rect" id="node6" href="$d2/d4a/classsmtrat_1_1VarSchedulerSMTTheoryGuided.html#ab8de1dfd0678be06607ecf7def49e167" title=" " alt="" coords="5,297,236,339"/>
+</map>

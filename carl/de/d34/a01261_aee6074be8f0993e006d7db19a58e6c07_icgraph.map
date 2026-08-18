@@ -1,0 +1,4 @@
+<map id="carl::covering::heuristic::select_essential" name="carl::covering::heuristic::select_essential">
+<area shape="rect" id="node1" title="Preprocessing heuristic: Selects essential sets which are the only once covering some element." alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node2" href="$de/d34/a01261.html#a5236c274a6413fb18713a3df16c57339" title="Exact &quot;heuristic&quot;: Computes a minimum set cover." alt="" coords="5,5,180,47"/>
+</map>

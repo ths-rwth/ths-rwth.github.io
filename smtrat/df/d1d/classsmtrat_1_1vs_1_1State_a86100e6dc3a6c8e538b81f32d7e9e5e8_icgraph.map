@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::extendSubResultCombination" name="smtrat::vs::State::extendSubResultCombination">
+<area shape="rect" id="node1" title="Extends the currently considered combination of conjunctions in the substitution results." alt="" coords="252,5,467,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a67752f226f01351b7771d53044394acf" title="If the state contains a substitution result, which is a conjunction of disjunctions of conjunctions o..." alt="" coords="5,5,204,47"/>
+</map>

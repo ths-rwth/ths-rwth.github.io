@@ -1,0 +1,6 @@
+<map id="benchmax::settings::finalize_benchmark_settings" name="benchmax::settings::finalize_benchmark_settings">
+<area shape="rect" id="node1" title="Postprocess benchmark settings." alt="" coords="533,5,691,61"/>
+<area shape="rect" id="node2" href="$d2/db3/namespacebenchmax_1_1settings.html#a4d839bd6a36063c94cb5fcc24214f621" title="Registers benchmark settings with the settings parser." alt="" coords="279,13,485,54"/>
+<area shape="rect" id="node3" href="$de/dcc/benchmax_8cpp.html#a3ea057c6f49e14c089d66ed675437e1c" title="Initialized the application." alt="" coords="108,20,231,47"/>
+<area shape="rect" id="node4" href="$de/dcc/benchmax_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main program." alt="" coords="5,20,60,47"/>
+</map>

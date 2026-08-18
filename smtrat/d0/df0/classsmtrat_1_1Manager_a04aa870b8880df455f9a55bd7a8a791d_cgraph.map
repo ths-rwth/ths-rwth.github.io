@@ -1,0 +1,7 @@
+<map id="smtrat::Manager::inform" name="smtrat::Manager::inform">
+<area shape="rect" id="node1" title="Informs the solver about a constraint." alt="" coords="5,71,187,98"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#a544c232a5f296f1bec2aaa8c72313c8d" title="Informs the module about the given constraint." alt="" coords="235,71,407,98"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#a8db60cef02847a07fb5fa6d93d27f259" title="Adds a constraint to the collection of constraints of this module, which are informed to a freshly ge..." alt="" coords="455,5,675,47"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html#a9108eb06f26b2707e556bd59e35a090a" title="Informs the module about the given constraint." alt="" coords="463,71,666,98"/>
+<area shape="rect" id="node5" href="$d8/da6/classsmtrat_1_1Module.html#a26afe62550fa50747b40fa8110f45ee7" title=" " alt="" coords="456,122,673,149"/>
+</map>

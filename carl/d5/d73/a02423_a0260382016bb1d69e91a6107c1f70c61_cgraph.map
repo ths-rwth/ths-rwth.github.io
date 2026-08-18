@@ -1,0 +1,13 @@
+<map id="carl::Interval::Interval" name="carl::Interval::Interval">
+<area shape="rect" id="node1" title="Constructor which constructs the interval according to the passed boost interval with the passed boun..." alt="" coords="5,161,168,187"/>
+<area shape="rect" id="node2" href="$d5/d73/a02423.html#a5adc346c03ff559c5a5606e0a4d784af" title="Returns a copy of the included boost interval." alt="" coords="245,30,407,57"/>
+<area shape="rect" id="node3" href="$d7/d73/a01266.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="255,81,397,107"/>
+<area shape="rect" id="node6" href="$d5/d73/a02423.html#abccdf63161e8de9c1a496680b1c503ed" title="A quick check for the bound values." alt="" coords="230,135,422,162"/>
+<area shape="rect" id="node9" href="$d5/d73/a02423.html#a5ff744c1668b51981f0b169fd9cd41a2" title="The getter for the lower bound type of the interval." alt="" coords="217,186,435,213"/>
+<area shape="rect" id="node10" href="$d1/de1/a02435.html#aac501d64c8051ab8d9362752834ba4f2" title=" " alt="" coords="239,237,413,293"/>
+<area shape="rect" id="node11" href="$d5/d73/a02423.html#a65a2d0faa7ec9c7bb8b43b35a41b434e" title="The getter for the upper bound type of the interval." alt="" coords="216,317,436,343"/>
+<area shape="rect" id="node4" href="$dd/da8/a03523.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="489,5,670,47"/>
+<area shape="rect" id="node5" href="$d9/d65/a03215.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="484,71,675,112"/>
+<area shape="rect" id="node7" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="505,137,653,163"/>
+<area shape="rect" id="node8" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="505,187,654,214"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="carl::total_degree" name="carl::total_degree">
+<area shape="rect" id="node1" title="Returns the total degree of the polynomial, that is the maximum degree of any monomial." alt="" coords="5,107,141,134"/>
+<area shape="rect" id="node2" href="$d9/dc8/a02531.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="189,5,384,47"/>
+<area shape="rect" id="node3" href="$d9/dc8/a02531.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="189,71,384,112"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="237,137,337,163"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="219,199,355,226"/>
+<area shape="rect" id="node5" href="$d1/d0c/a02251.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="812,83,935,124"/>
+<area shape="rect" id="node6" href="$d1/d0c/a02251.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="983,145,1131,171"/>
+<area shape="rect" id="node8" href="$d1/d0c/a02251.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="449,57,571,99"/>
+<area shape="rect" id="node7" href="$d1/d0c/a02251.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="983,90,1132,117"/>
+<area shape="rect" id="node9" href="$d1/d0c/a02251.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="636,57,764,99"/>
+<area shape="rect" id="node11" href="$d3/d25/a02683.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="432,225,588,251"/>
+</map>

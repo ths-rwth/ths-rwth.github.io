@@ -1,0 +1,9 @@
+<map id="smtrat::Manager::allModels" name="smtrat::Manager::allModels">
+<area shape="rect" id="node1" title=" " alt="" coords="5,35,207,61"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#adb32bde4226c454406b5e8aa6e4756db" title=" " alt="" coords="255,5,447,32"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#a66dada9417e6dcd7d96a708e600db783" title="Updates all satisfying models, if the solver has detected the consistency of the received formula,..." alt="" coords="255,57,446,98"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html#a0415e67e497d28ffbafa9852128ff54e" title="Clears the assignment, if any was found." alt="" coords="500,5,701,32"/>
+<area shape="rect" id="node5" href="$d8/da6/classsmtrat_1_1Module.html#aedaa3a5b0c6c610e9aa4a781d138aba1" title="Stores all models of a backend in the list of all models of this module." alt="" coords="495,57,707,98"/>
+<area shape="rect" id="node7" href="$d8/da6/classsmtrat_1_1Module.html#a843caab86c8e586b3d87778f66bb267d" title=" " alt="" coords="499,123,702,149"/>
+<area shape="rect" id="node6" href="$d8/da6/classsmtrat_1_1Module.html#a72c3d923df188e38fd6650009c176c18" title=" " alt="" coords="755,64,925,91"/>
+</map>

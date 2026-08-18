@@ -1,0 +1,4 @@
+<map id="carl::logging::FileSink" name="carl::logging::FileSink">
+<area shape="rect" id="node1" title="Logging sink for file output." alt="" coords="5,80,167,107"/>
+<area shape="rect" id="node2" href="$d8/d4f/a03703.html" title="Base class for a logging sink." alt="" coords="17,5,155,32"/>
+</map>

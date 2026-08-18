@@ -1,0 +1,36 @@
+<map id="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::shrinkCellWithIrreducibleFactorsOfPoly" name="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::shrinkCellWithIrreducibleFactorsOfPoly">
+<area shape="rect" id="node1" title=" " alt="" coords="5,370,245,441"/>
+<area shape="rect" id="node2" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#ac2bd2598115570e16c26e8a2361f175d" title="Find the index of the highest variable (wrt." alt="" coords="1232,112,1423,153"/>
+<area shape="rect" id="node3" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a00b32f6a017505b7297faa796133c516" title="Merge the given open OpenCADCell &#39;cell&#39; that contains the given &#39;point&#39; (called &quot;alpha&quot; in [brown15])..." alt="" coords="293,711,484,767"/>
+<area shape="rect" id="node4" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#a6f4c3d8072edcd042cea9c411c04f468" title=" " alt="" coords="904,1210,1095,1252"/>
+<area shape="rect" id="node5" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a88351e8efab7f7042c8b6c8e49298c40" title=" " alt="" coords="576,1327,767,1383"/>
+<area shape="rect" id="node8" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#a7765e6ec1ec06fd8deef530a5df51546" title=" " alt="" coords="543,634,800,676"/>
+<area shape="rect" id="node9" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#a5944057349b1691d87d7edc5eaeb2129" title=" " alt="" coords="1210,610,1445,652"/>
+<area shape="rect" id="node18" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a13d63fe412341476cad62c51a04373a0" title=" " alt="" coords="547,900,796,956"/>
+<area shape="rect" id="node21" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#a5d0c1290b9e26920b16f64a5cab92663" title="Check if an n&#45;variate &#39;poly&#39; p(x1,..,xn) with n&gt;=1 already becomes the zero poly after plugging in p(..." alt="" coords="1223,1005,1431,1046"/>
+<area shape="rect" id="node25" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#abf6b5c1197bacd05d0bd00366db425d5" title="Shrink the component of the &#39;cell&#39; at the &#39;boundCandidate&#39;s level around the given point if the &#39;boun..." alt="" coords="904,932,1095,988"/>
+<area shape="rect" id="node28" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#abb81540ba8ec2a09e98fd70d9f38cbf0" title=" " alt="" coords="564,475,779,531"/>
+<area shape="rect" id="node34" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a7a266cb9f9a3dd980f60b1856a4d02cf" title=" " alt="" coords="532,344,811,400"/>
+<area shape="rect" id="node6" href="$de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#a632ff9e1b654e40a4de9f5ad8f9756d8" title=" " alt="" coords="904,1334,1095,1376"/>
+<area shape="rect" id="node7" href="$de/d58/namespacesmtrat_1_1covering__ng_1_1formula_1_1formula__ds.html#ac69c545764093b15ebbd29b0fc0b6de1" title=" " alt="" coords="1246,1327,1409,1383"/>
+<area shape="rect" id="node10" href="$d3/ddc/namespacesmtrat_1_1lve.html#a0728f680545aacf86d0ed2d7c9906a4b" title=" " alt="" coords="1561,618,1719,644"/>
+<area shape="rect" id="node17" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#ac7402bf951f56bd98143f7cde7c43fc9" title="Create a mapping from the first variables (with index 0 to &#39;componentCount&#39;) in the &#39;variableOrder&#39; t..." alt="" coords="1515,874,1765,916"/>
+<area shape="rect" id="node11" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="1813,572,2000,613"/>
+<area shape="rect" id="node13" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="1835,650,1979,692"/>
+<area shape="rect" id="node12" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="2061,566,2187,592"/>
+<area shape="rect" id="node14" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="2048,734,2200,776"/>
+<area shape="rect" id="node15" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="2052,617,2196,658"/>
+<area shape="rect" id="node16" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="2075,683,2173,710"/>
+<area shape="rect" id="node19" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#a22cbeeb771ada404e069bcda3f2bb536" title=" " alt="" coords="1232,744,1423,785"/>
+<area shape="rect" id="node20" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a7a525c41eeef83e39ad05510ba0861de" title="Find the smallest index m such that in the set S of all m&#45;th partial derivatives of the given poly,..." alt="" coords="874,1064,1125,1134"/>
+<area shape="rect" id="node22" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#ae83d2372df42b8d154e87654d53277f1" title=" " alt="" coords="904,570,1095,626"/>
+<area shape="rect" id="node23" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#add93ca6d13d8306114b868c0a67df3cb" title="Projection related utilities for onecellcad." alt="" coords="1232,344,1423,385"/>
+<area shape="rect" id="node24" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#a551beeebf3b555496a2ac203e02bc804" title=" " alt="" coords="1232,436,1423,477"/>
+<area shape="rect" id="node26" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#a73cb94869a92f022153383afbc842e6c" title=" " alt="" coords="1232,940,1423,981"/>
+<area shape="rect" id="node27" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#a61f3f6df722e6c1c35112a10bf7e400e" title="src/lib/datastructures/mcsat/onecellcad/OneCellCAD.h Given a poly p(x1,..,xn), return all roots of th..." alt="" coords="1188,874,1467,916"/>
+<area shape="rect" id="node29" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a8e9e474b70614104aa06aac49fc135a1" title="Check if there is a root of the given polynomial—that becomes univariate after pluggin in all but the..." alt="" coords="859,852,1140,908"/>
+<area shape="rect" id="node31" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a0b23f1e7aff31bc938a1bc56d589695a" title=" " alt="" coords="904,220,1095,276"/>
+<area shape="rect" id="node33" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#ae78f1ba02e35a73db902d0714ea7f1c6" title=" " alt="" coords="904,352,1095,393"/>
+<area shape="rect" id="node30" href="$de/db3/namespacesmtrat_1_1cad.html#a8fce27ec38df07c56f817ef2e6ebb364" title=" " alt="" coords="1243,823,1411,850"/>
+<area shape="rect" id="node32" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#a2c0fea41f5d1bc30a3f2fac4fd6867e0" title=" " alt="" coords="1232,228,1423,269"/>
+</map>

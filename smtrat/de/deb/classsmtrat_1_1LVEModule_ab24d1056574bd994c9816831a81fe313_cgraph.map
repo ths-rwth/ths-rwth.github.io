@@ -1,0 +1,12 @@
+<map id="smtrat::LVEModule::eliminate_from_separated_weak_inequality" name="smtrat::LVEModule::eliminate_from_separated_weak_inequality">
+<area shape="rect" id="node1" title=" " alt="" coords="5,41,200,97"/>
+<area shape="rect" id="node2" href="$d3/ddc/namespacesmtrat_1_1lve.html#a9e2d5e4b9a2b5857d5a63fa84f9cc76b" title=" " alt="" coords="248,5,403,32"/>
+<area shape="rect" id="node3" href="$d3/ddc/namespacesmtrat_1_1lve.html#a82558e938ab4b05980c52a1e96865967" title=" " alt="" coords="451,64,575,91"/>
+<area shape="rect" id="node10" href="$d3/ddc/namespacesmtrat_1_1lve.html#a7c66c0920ae177e51f7c6185a14ce62d" title=" " alt="" coords="253,107,397,149"/>
+<area shape="rect" id="node4" href="$d3/ddc/namespacesmtrat_1_1lve.html#a0728f680545aacf86d0ed2d7c9906a4b" title=" " alt="" coords="623,89,781,116"/>
+<area shape="rect" id="node5" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#a0e2aa99ab22f091ae1801b9a850717ed" title="Checks whether the constraint is constant, i.e." alt="" coords="829,49,1016,90"/>
+<area shape="rect" id="node6" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="851,114,995,155"/>
+<area shape="rect" id="node7" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="1064,49,1216,90"/>
+<area shape="rect" id="node8" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="1068,114,1212,155"/>
+<area shape="rect" id="node9" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="1091,180,1189,207"/>
+</map>

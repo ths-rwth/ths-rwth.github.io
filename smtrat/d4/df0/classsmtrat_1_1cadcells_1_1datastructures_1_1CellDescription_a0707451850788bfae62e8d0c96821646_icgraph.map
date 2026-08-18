@@ -1,0 +1,14 @@
+<map id="smtrat::cadcells::datastructures::CellDescription::upper" name="smtrat::cadcells::datastructures::CellDescription::upper">
+<area shape="rect" id="node1" title="Returns the upper bound as IndexedRoot if finite or std::nullopt if the upper bound is oo." alt="" coords="815,152,1043,193"/>
+<area shape="rect" id="node2" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#a72afa763a1be7a5a431694dbec901c6d" title=" " alt="" coords="285,123,481,164"/>
+<area shape="rect" id="node4" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#addb4bd6ea5c857760c13a43c707e2825" title=" " alt="" coords="285,5,481,47"/>
+<area shape="rect" id="node5" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#aa891821c29053a02f3dc0157fd93495f" title=" " alt="" coords="552,64,748,105"/>
+<area shape="rect" id="node6" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#a47a0c6140c7a7a84a8b28e8b24ee26d9" title=" " alt="" coords="536,181,764,223"/>
+<area shape="rect" id="node7" href="$d8/dcd/namespacesmtrat_1_1cadcells_1_1algorithms_1_1helper.html#ab07384a26763ca2cec7c8b79d15f4343" title="Converts a datastructures::CellDescription to a FormulaT." alt="" coords="548,312,752,353"/>
+<area shape="rect" id="node10" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a9824bdeb840f7026d5518eaa2aa77cfd" title=" " alt="" coords="533,247,767,288"/>
+<area shape="rect" id="node3" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#aeaac284d49024f6ae7d25f9a1e229621" title=" " alt="" coords="13,113,226,169"/>
+<area shape="rect" id="node8" href="$da/dbb/namespacesmtrat_1_1cadcells_1_1algorithms.html#a6250e00d099f015ebc19426c92dad937" title="An MCAST&#45;style single cell explanation function." alt="" coords="281,312,485,353"/>
+<area shape="rect" id="node9" href="$d1/db1/structsmtrat_1_1mcsat_1_1onecell_1_1Explanation.html#a75cd27bf61468f6455d279a9000a180d" title=" " alt="" coords="29,312,209,353"/>
+<area shape="rect" id="node11" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#ae589e9cafc360a24beb77294a98749c5" title=" " alt="" coords="285,211,481,267"/>
+<area shape="rect" id="node12" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#a79b774bbf04555843a4e1642db0d1e90" title=" " alt="" coords="5,211,233,267"/>
+</map>

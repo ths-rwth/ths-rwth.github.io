@@ -1,0 +1,27 @@
+<map id="carl::EEA::calculate_recursive" name="carl::EEA::calculate_recursive">
+<area shape="rect" id="node1" title=" " alt="" coords="5,215,152,257"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a26949d97442e59bac3353498d2c17d93" title=" " alt="" coords="213,81,308,108"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a96cd07c72b28bef5bbac66f30da58177" title="Calculates the quotient of a polynomial division." alt="" coords="630,223,738,249"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#abfeb486514341498d6b363229506eae8" title=" " alt="" coords="200,309,321,336"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="621,5,747,32"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a64f6d2e32b05ab6591f3577583a8c3be" title="Checks whether a term is zero." alt="" coords="404,56,504,83"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="374,107,534,133"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="885,33,980,60"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="1084,274,1291,315"/>
+<area shape="rect" id="node9" href="$d1/d34/a01211.html#aa13c5f6ad05544c3d2560ecbc7e8f53d" title=" " alt="" coords="829,383,1036,425"/>
+<area shape="rect" id="node10" href="$d1/d34/a01211.html#af716ddd074dd7a443647e6da6ed728ed" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="829,449,1036,490"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="887,332,978,359"/>
+<area shape="rect" id="node12" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="1084,423,1291,465"/>
+<area shape="rect" id="node13" href="$d1/d34/a01211.html#a688b16a4d60518728edece4a089cc8c0" title=" " alt="" coords="829,85,1036,126"/>
+<area shape="rect" id="node14" href="$d1/d34/a01211.html#aa3c95cc57ba22c850a88fc80cc21c8f2" title="Drops the leading term." alt="" coords="829,150,1036,191"/>
+<area shape="rect" id="node15" href="$d1/d34/a01211.html#a5e572c9d7e1844778a965a766c116a1f" title="Subtract a term times a polynomial from this polynomial." alt="" coords="829,215,1036,257"/>
+<area shape="rect" id="node17" href="$d6/da1/a01233.html#a349e672eaeb08c5fbfc6d508d1f86df1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="369,347,539,373"/>
+<area shape="rect" id="node18" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="587,470,781,511"/>
+<area shape="rect" id="node19" href="$dc/db6/a01212.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="587,535,781,577"/>
+<area shape="rect" id="node20" href="$d6/da1/a01233.html#a9cc2f7f3c081d4856a654898f6871206" title="Checks whether the monomial is a constant." alt="" coords="620,601,748,628"/>
+<area shape="rect" id="node23" href="$dc/db6/a01212.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="587,274,781,315"/>
+<area shape="rect" id="node24" href="$dc/db6/a01212.html#a9d54ed3853631a633e6a994f49b1d655" title="Retrieves the main variable of this polynomial." alt="" coords="587,339,781,381"/>
+<area shape="rect" id="node25" href="$dc/db6/a01212.html#a13d3ac385e1da1103fef9d7d14c32174" title=" " alt="" coords="587,405,781,446"/>
+<area shape="rect" id="node21" href="$d6/da1/a01233.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="865,601,1001,628"/>
+<area shape="rect" id="node22" href="$d1/d34/a01211.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="1109,601,1265,628"/>
+</map>

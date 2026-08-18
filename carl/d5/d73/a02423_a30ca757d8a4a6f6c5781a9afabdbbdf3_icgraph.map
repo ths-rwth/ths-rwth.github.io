@@ -1,0 +1,52 @@
+<map id="carl::Interval::upper" name="carl::Interval::upper">
+<area shape="rect" id="node1" title="The getter for the upper boundary of the interval." alt="" coords="924,1307,1073,1334"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a1abf1d98da2f7331312905d888edadf2" title="Returns the center point of the interval." alt="" coords="473,573,567,599"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a18dd7941a668a603002cfd4e1378f8ac" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="241,471,344,498"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a0eee042488989bd97a84e81bfdd5cc22" title="Searches for some point in this interval, preferably near the left endpoint and with a small represen..." alt="" coords="227,623,358,650"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#ab51ff37d2bc027e91db346045a73f4c9" title="Searches for some point in this interval, preferably near the right endpoint and with a small represe..." alt="" coords="223,421,362,447"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#a2a76c518ed903b081e9202cc714cc869" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="221,675,364,716"/>
+<area shape="rect" id="node10" href="$d0/d82/a02831.html#aa237ea95df177259deeaeb1ed057d5d8" title=" " alt="" coords="671,1358,876,1414"/>
+<area shape="rect" id="node11" href="$db/da5/a02919.html#a11f37d8732c8836f2c799e8c321f5aa6" title=" " alt="" coords="698,1439,849,1480"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#ab02b808fa4154105d3079d3d4501cc23" title=" " alt="" coords="722,71,825,98"/>
+<area shape="rect" id="node14" href="$d6/da1/a01233.html#acf69f7df84adce86589ec9686663d4cf" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="465,71,575,98"/>
+<area shape="rect" id="node15" href="$d6/da1/a01233.html#a2b67996a921127013a3a27bd69116994" title="Calculate the number of real roots of a polynomial within a given interval based on a sturm sequence ..." alt="" coords="692,223,855,250"/>
+<area shape="rect" id="node19" href="$d5/d73/a02423.html#ad26df69d4c28436015ea77cb2fd56449" title="Constructor which constructs the weak&#45;bounded interval between lower and upper." alt="" coords="692,1505,855,1531"/>
+<area shape="rect" id="node20" href="$d5/d73/a02423.html#abccdf63161e8de9c1a496680b1c503ed" title="A quick check for the bound values." alt="" coords="677,1155,869,1182"/>
+<area shape="rect" id="node40" href="$d6/da1/a01233.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="479,1789,561,1815"/>
+<area shape="rect" id="node41" href="$d6/da1/a01233.html#ad6e739eceb2dc4203064211a3193078a" title="Calculates the complement in a set&#45;theoretic manner (can result in two distinct intervals)." alt="" coords="439,1839,601,1866"/>
+<area shape="rect" id="node42" href="$d6/da1/a01233.html#a6ce64aec99b53fea39b96c47924c33fd" title=" " alt="" coords="481,1890,559,1917"/>
+<area shape="rect" id="node43" href="$df/db6/a02455.html#a0c7e5a6453a33551a557c551d3283c70" title="Calculates the hash of an interval." alt="" coords="677,1556,869,1597"/>
+<area shape="rect" id="node44" href="$d6/da1/a01233.html#ab17c3adc71d45b0aaed15c119acd5a0b" title="Operator for the comparison of two intervals." alt="" coords="713,1622,833,1649"/>
+<area shape="rect" id="node45" href="$d6/da1/a01233.html#a446de435542491a3f1aafb0959201260" title="Operator for the comparison of two intervals." alt="" coords="708,1673,839,1699"/>
+<area shape="rect" id="node46" href="$d6/da1/a01233.html#a29e86393d25d3aec07e2e6164a717425" title="Operator for the comparison of two intervals." alt="" coords="708,1723,839,1750"/>
+<area shape="rect" id="node47" href="$d6/da1/a01233.html#ad3f1d8c71d2a3433a43b832ed7138d85" title=" " alt="" coords="697,1774,850,1801"/>
+<area shape="rect" id="node48" href="$da/d13/a02439.html#a1e0af5dd317d0575a3b3dfadba86a557" title=" " alt="" coords="437,1941,603,1983"/>
+<area shape="rect" id="node49" href="$d5/d73/a02423.html#a23e310f032d686fca91f817f6cf64317" title="Advanced setter to modify both boundaries at once by passing a boost interval." alt="" coords="707,1942,839,1969"/>
+<area shape="rect" id="node50" href="$d5/d73/a02423.html#a716464b23e84af44482c5d6d5ed7d53a" title="The setter for the lower bound type of the interval." alt="" coords="688,1876,859,1917"/>
+<area shape="rect" id="node3" href="$d5/d73/a02423.html#a4da931d166db8cee7450de93ed3e33c3" title="Returns the center point of the interval." alt="" coords="216,522,369,549"/>
+<area shape="rect" id="node4" href="$d8/df6/a02411.html#ae10384534dea0d2fea062cf173af9b46" title=" " alt="" coords="12,508,161,549"/>
+<area shape="rect" id="node6" href="$d0/de4/a02851.html#ab65d46eaa4c842e22cfd6b24f0c13b84" title="Perform bisection." alt="" coords="5,414,168,470"/>
+<area shape="rect" id="node13" href="$d1/d24/a02847.html#aa093a925323aedc62c631c7a43fd9db7" title=" " alt="" coords="435,5,605,47"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#ae73a1af390927f2918e2430de9d6d6a9" title="Count the number of real roots of p within the given interval using Sturm sequences." alt="" coords="439,189,601,215"/>
+<area shape="rect" id="node17" href="$d0/d82/a02831.html#a60ad2b8a2b499aa89058f907b6b38ad6" title=" " alt="" coords="417,290,623,346"/>
+<area shape="rect" id="node18" href="$d1/d24/a02847.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="438,123,602,164"/>
+<area shape="rect" id="node21" href="$d6/da1/a01233.html#a14b31222e2c4f2cc9b75c4669df804d9" title=" " alt="" coords="478,1434,562,1461"/>
+<area shape="rect" id="node22" href="$d6/da1/a01233.html#af04a4f1241667977d25ba32d36906a30" title=" " alt="" coords="226,1409,359,1435"/>
+<area shape="rect" id="node23" href="$d6/da1/a01233.html#ad65f589086cbda3b9566e0218ea966d3" title=" " alt="" coords="474,1535,566,1562"/>
+<area shape="rect" id="node24" href="$d6/da1/a01233.html#a30bd522a54fa851c63b9de42373ff557" title=" " alt="" coords="222,1510,363,1537"/>
+<area shape="rect" id="node25" href="$d6/da1/a01233.html#aa9c4668e54fd2c8131ad97c96fb6c641" title=" " alt="" coords="479,1586,561,1613"/>
+<area shape="rect" id="node26" href="$d6/da1/a01233.html#a2df9fdf9268ef0f013f7fb72d87236e5" title=" " alt="" coords="227,1611,358,1638"/>
+<area shape="rect" id="node27" href="$d6/da1/a01233.html#adceef01588cc80230e833d1e958a1860" title=" " alt="" coords="475,1687,565,1714"/>
+<area shape="rect" id="node28" href="$d6/da1/a01233.html#ab7c9d85dfa56d0541e6f4f1e80f962c5" title=" " alt="" coords="223,1713,362,1739"/>
+<area shape="rect" id="node29" href="$d6/da1/a01233.html#a6c15f05c1a0c2bb7697bb2e055bfc308" title=" " alt="" coords="479,826,561,853"/>
+<area shape="rect" id="node30" href="$d6/da1/a01233.html#ad8cefc6450d43330e26d3e237c3a0901" title=" " alt="" coords="227,851,359,878"/>
+<area shape="rect" id="node31" href="$d6/da1/a01233.html#a601af57698966a598c5f979e605293d3" title=" " alt="" coords="475,927,565,954"/>
+<area shape="rect" id="node32" href="$d6/da1/a01233.html#a0e86686d4ef9e0c2127fdd0d5c392325" title=" " alt="" coords="223,953,363,979"/>
+<area shape="rect" id="node33" href="$d6/da1/a01233.html#a6c3c719fb3242dcf66d909f068d25056" title=" " alt="" coords="482,1029,558,1055"/>
+<area shape="rect" id="node34" href="$d6/da1/a01233.html#a80fa6b2134ae7993cb2eb77952c6d254" title=" " alt="" coords="230,1079,355,1106"/>
+<area shape="rect" id="node35" href="$d6/da1/a01233.html#ae1af5ff65f946c761f10f764aab0e46c" title=" " alt="" coords="478,1181,562,1207"/>
+<area shape="rect" id="node36" href="$d6/da1/a01233.html#ade0c1f73a1f66025636653bc6abe2a8f" title=" " alt="" coords="226,1218,359,1245"/>
+<area shape="rect" id="node37" href="$d6/da1/a01233.html#a5c205dc504d657271c884a200a13b2d9" title=" " alt="" coords="481,1282,559,1309"/>
+<area shape="rect" id="node38" href="$d6/da1/a01233.html#aad2ca8bee3ad02e98c56b9824115f2db" title=" " alt="" coords="229,1294,356,1321"/>
+<area shape="rect" id="node39" href="$d5/d73/a02423.html#a0260382016bb1d69e91a6107c1f70c61" title="Constructor which constructs the interval according to the passed boost interval with the passed boun..." alt="" coords="439,1079,601,1106"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="carl::UEquality" name="carl::UEquality">
+<area shape="rect" id="node1" title="Implements an uninterpreted equality, that is an equality of either two uninterpreted function instan..." alt="" coords="5,109,123,136"/>
+<area shape="rect" id="node2" href="$d3/da4/a03571.html" title="Implements an uninterpreted term, that is either an uninterpreted variable or an uninterpreted functi..." alt="" coords="16,5,112,32"/>
+</map>

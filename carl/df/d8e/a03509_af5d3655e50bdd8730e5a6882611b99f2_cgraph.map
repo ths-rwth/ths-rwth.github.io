@@ -1,0 +1,25 @@
+<map id="carl::SortManager::getSort" name="carl::SortManager::getSort">
+<area shape="rect" id="node1" title=" " alt="" coords="5,152,151,193"/>
+<area shape="rect" id="node2" href="$df/d8e/a03509.html#a90c38de1c71d7113fcf2de857ff4a7cb" title=" " alt="" coords="392,116,537,157"/>
+<area shape="rect" id="node18" href="$df/d8e/a03509.html#a3b249d6a471432466b55779eb3e008e6" title=" " alt="" coords="199,181,344,223"/>
+<area shape="rect" id="node3" href="$df/d8e/a03509.html#adf5ff00adea4c00eb9f12a5f2f1720cc" title=" " alt="" coords="585,123,731,164"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#a01ac9cb767d10987a195fe8a8701be36" title="The content of a polynomial is the gcd of the coefficients of the normal part of a polynomial." alt="" coords="779,130,881,157"/>
+<area shape="rect" id="node5" href="$d1/d67/a02561.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="929,5,1124,47"/>
+<area shape="rect" id="node6" href="$d7/dc5/a01242.html#a518fcd588efdefd1c48c6d3aaaacee2c" title="Calculate the greatest common divisor of two integers." alt="" coords="988,71,1065,98"/>
+<area shape="rect" id="node10" href="$d1/d67/a02561.html#a286814f7ffd4c4c10d4b00becc2fd892" title="Checks whether the polynomial is unit normal." alt="" coords="929,123,1124,164"/>
+<area shape="rect" id="node11" href="$d7/dc5/a01242.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="979,189,1075,215"/>
+<area shape="rect" id="node17" href="$d7/dc5/a01242.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="977,294,1077,321"/>
+<area shape="rect" id="node7" href="$d7/dc5/a01242.html#ac837952cbddb45a8e57ab93789d56ba6" title=" " alt="" coords="1195,71,1272,98"/>
+<area shape="rect" id="node8" href="$d7/dc5/a01242.html#abfa557902ca711efa9f03e7ae1679407" title="Extract the denominator from a fraction." alt="" coords="1343,25,1470,51"/>
+<area shape="rect" id="node9" href="$d7/dc5/a01242.html#a6b99ff3d1ab9ac9b56cbd908cf818546" title="Extract the numerator from a fraction." alt="" coords="1351,75,1462,102"/>
+<area shape="rect" id="node12" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1519,253,1641,295"/>
+<area shape="rect" id="node13" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1690,235,1838,262"/>
+<area shape="rect" id="node15" href="$d0/d80/a02281.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="1172,257,1295,299"/>
+<area shape="rect" id="node14" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1689,286,1839,313"/>
+<area shape="rect" id="node16" href="$d0/d80/a02281.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1343,283,1471,324"/>
+<area shape="rect" id="node19" href="$df/d8e/a03509.html#aa19a68d3e46bd34c85c599e66e7f8bfa" title=" " alt="" coords="585,305,731,347"/>
+<area shape="rect" id="node20" href="$df/d8e/a03509.html#a748a82640afd9c7a727d1dc4c181a526" title=" " alt="" coords="392,181,537,223"/>
+<area shape="rect" id="node22" href="$d6/dcb/a03505.html#aa430b04620026eb995019a2cb6398877" title="Return a copy of this SortContent without any indices." alt="" coords="395,247,534,288"/>
+<area shape="rect" id="node21" href="$dc/d8f/a03497.html#ae1bb8b60c85e25109f3d3f421328759b" title=" " alt="" coords="608,189,708,215"/>
+<area shape="rect" id="node23" href="$d6/dcb/a03505.html#a2b258a029504edd9c673194fe0b00eb4" title=" " alt="" coords="589,240,727,281"/>
+</map>

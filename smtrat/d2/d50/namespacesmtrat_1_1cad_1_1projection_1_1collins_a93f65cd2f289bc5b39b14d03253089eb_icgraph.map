@@ -1,0 +1,5 @@
+<map id="smtrat::cad::projection::collins::single" name="smtrat::cad::projection::collins::single">
+<area shape="rect" id="node1" title="Implements the part of Collins projection operator from &#160;that deals with a single polynomial p: ." alt="" coords="497,5,667,47"/>
+<area shape="rect" id="node2" href="$d2/d33/structsmtrat_1_1cad_1_1ProjectionOperator.html#a90691d115f1d514957120644ffa770b7" title=" " alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$da/df8/namespacesmtrat_1_1cad_1_1projection_1_1hong.html#a28b165dc636daba90e0bc1c4629cc0fc" title="Implements the part of Hongs projection operator from &#160;that deals with a single polynomial p which is..." alt="" coords="280,35,449,76"/>
+</map>

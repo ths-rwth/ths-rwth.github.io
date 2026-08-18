@@ -1,0 +1,18 @@
+<map id="carl::count_real_roots" name="carl::count_real_roots">
+<area shape="rect" id="node1" title="Count the number of real roots of p within the given interval using Sturm sequences." alt="" coords="5,183,168,209"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a2b67996a921127013a3a27bd69116994" title="Calculate the number of real roots of a polynomial within a given interval based on a sturm sequence ..." alt="" coords="216,31,379,57"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#a73e8fe8276c8a276589e2e85537eecc4" title=" " alt="" coords="238,107,357,133"/>
+<area shape="rect" id="node9" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="453,233,553,260"/>
+<area shape="rect" id="node11" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1206,208,1354,235"/>
+<area shape="rect" id="node12" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1205,372,1355,399"/>
+<area shape="rect" id="node15" href="$d8/d15/a01218.html#a0a7b1c21762f6b6b2dea7127d1812f16" title="Computes the sturm sequence of two polynomials." alt="" coords="217,259,378,285"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#a52242f9017e6b88f6007975126c7ad40" title="Counts the number of sign variations in the given object range." alt="" coords="427,5,580,32"/>
+<area shape="rect" id="node5" href="$d8/d15/a01218.html#a6aa5825a5dcfebf46047bb9ccd307025" title=" " alt="" coords="448,107,559,133"/>
+<area shape="rect" id="node8" href="$d8/d15/a01218.html#a950ad7b037cc356cc3dc210953f36804" title="Obtain the sign of the given number." alt="" coords="465,56,542,83"/>
+<area shape="rect" id="node6" href="$db/d87/a02076.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="628,107,811,133"/>
+<area shape="rect" id="node7" href="$db/d87/a02076.html#ae763563c9b0ec6df9b736f0095c8392f" title=" " alt="" coords="641,41,797,82"/>
+<area shape="rect" id="node10" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1035,310,1157,351"/>
+<area shape="rect" id="node13" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="658,259,781,301"/>
+<area shape="rect" id="node14" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="859,310,987,351"/>
+<area shape="rect" id="node16" href="$d8/d15/a01218.html#ae3d7d6656ab362001ff43fcb07743d94" title="Calculate the remainder of the integer division." alt="" coords="443,284,564,311"/>
+</map>

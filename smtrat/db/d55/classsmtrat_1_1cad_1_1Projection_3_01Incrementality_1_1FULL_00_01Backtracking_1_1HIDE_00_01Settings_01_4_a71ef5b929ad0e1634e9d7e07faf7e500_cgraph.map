@@ -1,0 +1,9 @@
+<map id="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::deactivatePolynomials" name="smtrat::cad::Projection&lt; Incrementality::FULL, Backtracking::HIDE, Settings &gt;::deactivatePolynomials">
+<area shape="rect" id="node1" title="Deactivate inactive polynomials in mProjection." alt="" coords="5,49,217,120"/>
+<area shape="rect" id="node2" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#aef9b6c2f5f5023b230370b46d417c498" title=" " alt="" coords="282,5,483,47"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="265,71,500,98"/>
+<area shape="rect" id="node7" href="$d6/d0b/namespaceMinisat.html#aedd4c68519c1c007ff336c020ab6b94f" title=" " alt="" coords="319,122,447,149"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="548,64,749,105"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af1c4a845a809170ee3744feaa7ee07ef" title="Returns the variables used for projection." alt="" coords="548,129,749,171"/>
+<area shape="rect" id="node6" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#ae7d22ef2db76ccf1574655744d00cfe7" title=" " alt="" coords="797,129,1004,171"/>
+</map>

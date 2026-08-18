@@ -1,0 +1,7 @@
+<map id="carl::is_one" name="carl::is_one">
+<area shape="rect" id="node1" title="Checks if the polynomial is equal to one." alt="" coords="5,42,101,69"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="149,5,344,47"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="201,71,292,98"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="392,31,599,72"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="392,96,599,137"/>
+</map>

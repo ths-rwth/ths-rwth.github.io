@@ -1,0 +1,5 @@
+<map id="carl::logging::visible" name="carl::logging::visible">
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,159,73"/>
+<area shape="rect" id="node2" href="$d7/db8/a03060.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="207,5,381,47"/>
+<area shape="rect" id="node3" href="$d4/d43/a03700.html#a3bc8d656ce3fcb070e40c21727231d46" title="Checks whether a log message would be visible for some sink." alt="" coords="217,71,371,112"/>
+</map>

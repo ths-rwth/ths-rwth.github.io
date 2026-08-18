@@ -1,0 +1,9 @@
+<map id="smtrat::qe::fmplex::Node::conflict" name="smtrat::qe::fmplex::Node::conflict">
+<area shape="rect" id="node1" title=" " alt="" coords="1025,53,1168,94"/>
+<area shape="rect" id="node2" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a0da76a8761f9374d113939ce1935d400" title="Eliminates the chosen column in parent using the next eliminator in parent." alt="" coords="807,5,967,61"/>
+<area shape="rect" id="node7" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#afb7f42135595657b5e044ba3f95e9df7" title="Constructs the starting nodes from m_query and m_formula as follows:" alt="" coords="797,85,977,141"/>
+<area shape="rect" id="node3" href="$d9/d79/classsmtrat_1_1qe_1_1fmplex_1_1FMplexQE.html#a6100f570cde3fba1a3fa5a64cdca3b7c" title=" " alt="" coords="583,45,749,101"/>
+<area shape="rect" id="node4" href="$d7/d08/namespacesmtrat_1_1qe_1_1fmplex.html#a44b1f6d5a7e3f3642a8ff6213b9676e9" title=" " alt="" coords="368,60,535,87"/>
+<area shape="rect" id="node5" href="$d6/d36/namespacesmtrat_1_1qe.html#a84014b7bc895b3c0eb882ff928625fa8" title=" " alt="" coords="207,60,320,87"/>
+<area shape="rect" id="node6" href="$da/ded/classsmtrat_1_1Executor.html#a4a54a30b78ef394c8462991bfb14540f" title=" " alt="" coords="5,60,159,87"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="smtrat::vs::State::resetCurrentRangeSize" name="smtrat::vs::State::resetCurrentRangeSize">
+<area shape="rect" id="node1" title=" " alt="" coords="853,71,1024,112"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa20d1743bb03e384885794f3a36b76de" title=" " alt="" coords="623,71,805,112"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad80e0146d06b13bf45c4975b4a385b08" title="Deletes everything originated by the given conditions in the children of this state." alt="" coords="379,71,575,112"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9b9d71dbb3cadb10bdcccdbebb955809" title="Delete everything originated by the given conditions from the entire subtree with this state as root." alt="" coords="192,37,331,79"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad9d891684d67c8aeb241a53098bcef2b" title="Removes everything in this state originated by the given vector of conditions." alt="" coords="192,103,331,144"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="5,5,144,47"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="5,71,144,112"/>
+</map>

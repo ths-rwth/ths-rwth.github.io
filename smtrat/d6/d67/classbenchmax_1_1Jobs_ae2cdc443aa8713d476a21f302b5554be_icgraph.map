@@ -1,0 +1,6 @@
+<map id="benchmax::Jobs::randomized" name="benchmax::Jobs::randomized">
+<area shape="rect" id="node1" title="Returns all jobs in a pseudo&#45;randomized order." alt="" coords="532,31,743,57"/>
+<area shape="rect" id="node2" href="$d4/d9f/classbenchmax_1_1Backend.html#a441a53148e7d91151e81f7f84de8e42b" title="Run the list of tools against the list of benchmarks." alt="" coords="283,5,465,32"/>
+<area shape="rect" id="node4" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a8e934ea372ec8227610385f308b9f420" title="Run all tools on all benchmarks using Slurm." alt="" coords="264,56,484,83"/>
+<area shape="rect" id="node3" href="$d0/d1d/namespacebenchmax.html#a01892f3312583e706a377eec5c5c32b2" title=" " alt="" coords="5,5,216,32"/>
+</map>

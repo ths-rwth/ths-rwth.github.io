@@ -1,0 +1,11 @@
+<map id="smtrat::FormulaWithOrigins::formula" name="smtrat::FormulaWithOrigins::formula">
+<area shape="rect" id="node1" title=" " alt="" coords="1005,46,1208,87"/>
+<area shape="rect" id="node2" href="$da/d5e/classsmtrat_1_1ModuleInput.html#ac7b820dc5815073254046602a9f746d7" title=" " alt="" coords="803,13,957,54"/>
+<area shape="rect" id="node3" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a59037e7946240497dc74e548a7e00e9b" title="Updates all properties of the formula underlying this module input." alt="" coords="803,78,957,119"/>
+<area shape="rect" id="node4" href="$d0/df0/classsmtrat_1_1Manager.html#ad4ceacd4b82f11b14ada8f3ddd969b4f" title="Checks the so far added formulas for satisfiability." alt="" coords="556,28,732,55"/>
+<area shape="rect" id="node7" href="$d0/df0/classsmtrat_1_1Manager.html#a591271930bdbd9bd9e00de72251e8b52" title="Get the backends to call for the given problem instance required by the given module." alt="" coords="533,85,755,112"/>
+<area shape="rect" id="node9" href="$d8/da6/classsmtrat_1_1Module.html#a38d5316bcb51e44908740daea5eddac1" title="Runs the backend solvers on the passed formula." alt="" coords="273,136,485,163"/>
+<area shape="rect" id="node5" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="288,5,471,61"/>
+<area shape="rect" id="node6" href="$dc/dd2/structsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder.html#a40e9a1213bb9a2574b61c716b8f95dbc" title=" " alt="" coords="5,13,225,54"/>
+<area shape="rect" id="node8" href="$d8/da6/classsmtrat_1_1Module.html#a0894661497e0f400e1c73290b5fd2e08" title="Informs all backends about the so far encountered constraints, which have not yet been communicated." alt="" coords="304,85,455,112"/>
+</map>

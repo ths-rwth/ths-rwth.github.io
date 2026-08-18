@@ -1,0 +1,9 @@
+<map id="benchmax::Backend::run" name="benchmax::Backend::run">
+<area shape="rect" id="node1" title="Run the list of tools against the list of benchmarks." alt="" coords="5,162,188,189"/>
+<area shape="rect" id="node2" href="$d4/d9f/classbenchmax_1_1Backend.html#a986eb2b7d48855b2cadf66489cb101b7" title="Execute a single pair of tool and benchmark." alt="" coords="261,5,422,47"/>
+<area shape="rect" id="node3" href="$d4/d9f/classbenchmax_1_1Backend.html#a443fcb081f69e0c00e89acccd03dfee7" title="Hook to allow for asynchronous backends to wait for jobs to terminate." alt="" coords="261,71,422,112"/>
+<area shape="rect" id="node4" href="$d6/d67/classbenchmax_1_1Jobs.html#ae2cdc443aa8713d476a21f302b5554be" title="Returns all jobs in a pseudo&#45;randomized order." alt="" coords="236,137,447,163"/>
+<area shape="rect" id="node5" href="$d6/d67/classbenchmax_1_1Jobs.html#a9fab28ce87dbbab6b3489932391a1256" title="Returns the overall number of jobs." alt="" coords="262,187,421,214"/>
+<area shape="rect" id="node6" href="$d4/d9f/classbenchmax_1_1Backend.html#afd96a018482600b96380a35e01a7033d" title="Hook for every tool at the beginning." alt="" coords="261,239,422,280"/>
+<area shape="rect" id="node7" href="$d6/d67/classbenchmax_1_1Jobs.html#acd614f4a1cd246397c5cbce80deaa904" title="Returns the set of tools." alt="" coords="259,305,424,331"/>
+</map>

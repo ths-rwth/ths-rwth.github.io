@@ -1,0 +1,11 @@
+<map id="carl::VariablePool::get_name" name="carl::VariablePool::get_name">
+<area shape="rect" id="node1" title="Get a human&#45;readable name for the given variable." alt="" coords="471,107,605,149"/>
+<area shape="rect" id="node2" href="$d3/d11/a03582.html#a425fafd34f98550bcf8e0f1c69d50375" title=" " alt="" coords="228,49,423,90"/>
+<area shape="rect" id="node3" href="$d5/d23/a02110.html#ace553270faf6182cfd4088a99c9a3f7f" title="Retrieves the name of the variable." alt="" coords="249,115,401,141"/>
+<area shape="rect" id="node9" href="$dd/dc8/a03342.html#a64c5b4a32c242a60cb74d0161b079fb6" title=" " alt="" coords="233,165,417,192"/>
+<area shape="rect" id="node4" href="$d1/d35/a01184.html#ae66f6b31b5ad750f1fe042a706a4e3d4" title=" " alt="" coords="65,5,120,32"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#a2e9f238156da627dcd0c27b47ae0e2f1" title="Streaming operator for Variable." alt="" coords="27,56,158,83"/>
+<area shape="rect" id="node6" href="$d0/d31/a03558.html#a7d16590a8a8918571be2873c2eb35309" title=" " alt="" coords="12,107,173,149"/>
+<area shape="rect" id="node7" href="$d6/d81/a03630.html#a4ec224241c701741c84f85c43f9ffb1f" title=" " alt="" coords="5,173,180,214"/>
+<area shape="rect" id="node8" href="$dc/d12/a03634.html#a8ac533c78eab9489f1151882234d5b1d" title=" " alt="" coords="8,238,177,279"/>
+</map>

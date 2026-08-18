@@ -1,0 +1,5 @@
+<map id="carl::computePolynomial" name="carl::computePolynomial">
+<area shape="rect" id="node1" title="Obtains the polynomial (representation) of this factorized polynomial." alt="" coords="172,31,356,57"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a3a7bc83b7a9655c934b45f7c1552cb8e" title="Like substitute, but expects substitutions for all variables." alt="" coords="9,5,120,32"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a6a9f95707d2678f34209539e01c3249a" title="Replace all variables by a value given in their map." alt="" coords="5,56,124,83"/>
+</map>

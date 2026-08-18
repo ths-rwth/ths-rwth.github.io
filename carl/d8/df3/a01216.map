@@ -1,0 +1,7 @@
+<map id="is_integer_type" name="is_integer_type">
+<area shape="rect" id="node1" title="All integral types that can (in theory) represent all integers are marked with is_integer_type." alt="" coords="145,55,268,80"/>
+<area shape="rect" id="node3" href="$da/d19/a01217.html" title="All integral types are marked with is_subset_of_integers_type." alt="" coords="449,5,648,31"/>
+<area shape="rect" id="node4" href="$d2/da6/a01210.html" title=" " alt="" coords="492,55,605,80"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html" title=" " alt="" coords="502,115,595,140"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html" title="We define custom type traits for number types we use." alt="" coords="5,55,96,80"/>
+</map>

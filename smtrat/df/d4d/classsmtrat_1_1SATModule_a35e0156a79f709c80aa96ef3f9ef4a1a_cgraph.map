@@ -1,0 +1,6 @@
+<map id="smtrat::SATModule::reduceDB" name="smtrat::SATModule::reduceDB">
+<area shape="rect" id="node1" title="reduceDB : () &#45;&gt; [void]" alt="" coords="5,23,160,65"/>
+<area shape="rect" id="node2" href="$db/d09/classMinisat_1_1Clause.html#a537d6d507a8958593ad25ed47cb62074" title=" " alt="" coords="208,5,387,32"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespaceMinisat.html#a1810c0444f62172970ee3ca403ec5882" title=" " alt="" coords="246,56,349,83"/>
+<area shape="rect" id="node4" href="$d6/d0b/namespaceMinisat.html#a8affdb5c7e6b4a809db48cac05d2f3ed" title=" " alt="" coords="435,56,597,83"/>
+</map>

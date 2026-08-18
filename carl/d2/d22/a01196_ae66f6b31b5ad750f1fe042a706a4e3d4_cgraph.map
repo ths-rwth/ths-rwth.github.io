@@ -1,0 +1,11 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,97,60,123"/>
+<area shape="rect" id="node2" href="$d8/d8e/a01224.html#aa752f218b9b8193c790987e7f1e3fe98" title=" " alt="" coords="127,5,267,47"/>
+<area shape="rect" id="node4" href="$d8/d8e/a01224.html#aa5af68ac71eed5ef255b50448199770e" title=" " alt="" coords="108,71,287,98"/>
+<area shape="rect" id="node5" href="$d5/d63/a02123.html#ace553270faf6182cfd4088a99c9a3f7f" title="Retrieves the name of the variable." alt="" coords="121,122,273,149"/>
+<area shape="rect" id="node8" href="$d5/d63/a02123.html#ae954c1f1e59102d1c58af6c9d326717a" title="Retrieves the type of the variable." alt="" coords="565,158,709,185"/>
+<area shape="rect" id="node3" href="$d8/d8e/a01224.html#a6b54dc01d3c5522392ba2447328087b9" title=" " alt="" coords="353,13,499,39"/>
+<area shape="rect" id="node6" href="$d3/da9/a02131.html#a42ad87c3c524a030765d9822aa57098d" title="Get a human&#45;readable name for the given variable." alt="" coords="359,64,493,105"/>
+<area shape="rect" id="node9" href="$da/de2/a03067.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="335,129,517,171"/>
+<area shape="rect" id="node7" href="$d5/d63/a02123.html#ae00fad76caa1ec7042dff9e50aa46f36" title="Retrieves the id of the variable." alt="" coords="574,71,701,98"/>
+</map>

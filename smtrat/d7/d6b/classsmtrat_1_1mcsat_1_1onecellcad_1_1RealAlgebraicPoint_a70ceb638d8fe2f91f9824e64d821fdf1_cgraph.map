@@ -1,0 +1,4 @@
+<map id="smtrat::mcsat::onecellcad::RealAlgebraicPoint::conjoin" name="smtrat::mcsat::onecellcad::RealAlgebraicPoint::conjoin">
+<area shape="rect" id="node1" title="Create a new point with another given component added at the end of this point, thereby increasing it..." alt="" coords="5,5,213,47"/>
+<area shape="rect" id="node2" href="$d7/d6b/classsmtrat_1_1mcsat_1_1onecellcad_1_1RealAlgebraicPoint.html#afe4f55a34386acb43838ab77ac9f9239" title="Create an empty point of dimension 0." alt="" coords="261,5,545,47"/>
+</map>

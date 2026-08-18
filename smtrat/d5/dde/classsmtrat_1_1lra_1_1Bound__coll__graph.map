@@ -1,0 +1,9 @@
+<map id="smtrat::lra::Bound&lt; T1, T2 &gt;" name="smtrat::lra::Bound&lt; T1, T2 &gt;">
+<area shape="rect" id="node1" title="Stores a bound, which could be an upper &quot;&lt;= b&quot; or a lower bound &quot;&gt;= b&quot; for a bound value b." alt="" coords="827,71,965,112"/>
+<area shape="rect" id="node2" title=" " alt="" coords="529,5,707,47"/>
+<area shape="rect" id="node3" title=" " alt="" coords="122,13,279,39"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,13,44,39"/>
+<area shape="rect" id="node5" href="$d0/d11/classsmtrat_1_1lra_1_1Value.html" title=" " alt="" coords="551,71,685,112"/>
+<area shape="rect" id="node6" href="$d0/d11/classsmtrat_1_1lra_1_1Value.html" title=" " alt="" coords="115,78,287,105"/>
+<area shape="rect" id="node7" href="$d7/dea/structsmtrat_1_1lra_1_1Bound_1_1Info.html" title="Stores some additional information for a bound." alt="" coords="549,136,687,177"/>
+</map>

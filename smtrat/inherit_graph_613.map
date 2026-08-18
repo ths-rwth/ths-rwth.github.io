@@ -1,0 +1,14 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d5/d1d/classsmtrat_1_1VarSchedulerBase.html" title="Base class for variable schedulers." alt="" coords="5,373,196,399"/>
+<area shape="rect" id="node2" href="$d6/d59/classsmtrat_1_1VarSchedulerMcsatBase.html" title="Base class for all MCSAT variable scheduler." alt="" coords="245,209,474,235"/>
+<area shape="rect" id="node9" href="$dc/dde/classsmtrat_1_1VarSchedulerMinisat.html" title="Minisat&#39;s activity&#45;based variable scheduling." alt="" coords="256,347,463,374"/>
+<area shape="rect" id="node11" href="$da/dd1/classsmtrat_1_1VarSchedulerRandom.html" title="Random scheduler." alt="" coords="253,398,465,425"/>
+<area shape="rect" id="node12" href="$d2/d4a/classsmtrat_1_1VarSchedulerSMTTheoryGuided.html" title="Scheduler for SMT, implementing theory guided heuristics." alt="" coords="244,449,475,505"/>
+<area shape="rect" id="node3" href="$da/dac/classsmtrat_1_1TheoryVarSchedulerStatic.html" title="Schedules theory variables statically." alt="" coords="555,5,757,47"/>
+<area shape="rect" id="node4" href="$d9/da1/classsmtrat_1_1VarSchedulerMcsatActivityPreferTheory.html" title="Activity&#45;based scheduler preferring initially theory variables." alt="" coords="553,71,759,112"/>
+<area shape="rect" id="node5" href="$d9/db8/classsmtrat_1_1VarSchedulerMcsatBooleanFirst.html" title="Variable scheduling that all decides Boolean variables first before deciding any theory variable." alt="" coords="557,136,755,177"/>
+<area shape="rect" id="node6" href="$d9/d1a/classsmtrat_1_1VarSchedulerMcsatTheoryFirst.html" title="Variable scheduling that all decides theory variables first before deciding any Boolean variable." alt="" coords="539,201,773,243"/>
+<area shape="rect" id="node7" href="$da/d9c/classsmtrat_1_1VarSchedulerMcsatUnivariateClausesOnly.html" title="Decides only Constraints occuring in clauses that are univariate in the current theory variable while..." alt="" coords="523,267,789,323"/>
+<area shape="rect" id="node8" href="$d4/db3/classsmtrat_1_1VarSchedulerMcsatUnivariateConstraintsOnly.html" title="Decides only Constraints univariate in the current theory variable while the theory ordering is stati..." alt="" coords="557,347,755,403"/>
+<area shape="rect" id="node10" href="$d2/d02/classsmtrat_1_1VarSchedulerFixedRandom.html" title=" " alt="" coords="560,428,752,469"/>
+</map>

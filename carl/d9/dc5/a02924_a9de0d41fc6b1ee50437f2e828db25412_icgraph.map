@@ -1,0 +1,17 @@
+<map id="carl::Bitset::set" name="carl::Bitset::set">
+<area shape="rect" id="node1" title="Sets the given bit to a value, true by default." alt="" coords="701,195,821,222"/>
+<area shape="rect" id="node2" href="$d9/dc5/a02924.html#a21db4d4e215a91f580aa69bb245dd9c8" title="Create a bitset from a list of bits indices that shall be set to true." alt="" coords="497,21,635,47"/>
+<area shape="rect" id="node3" href="$d8/db0/a01243.html#a57d4a1446a668ea55a101a9882a5ac20" title=" " alt="" coords="479,123,653,164"/>
+<area shape="rect" id="node6" href="$d5/d99/a03012.html#aad45082b56debee194062ec06fc1b914" title=" " alt="" coords="501,71,631,98"/>
+<area shape="rect" id="node11" href="$d8/db0/a01243.html#a1ece576470279cbf50ddf89fc6b2b7fb" title="Simple greedy heuristic: Selects the largest remaining set until all elements are covered." alt="" coords="479,188,653,229"/>
+<area shape="rect" id="node12" href="$d8/db0/a01243.html#aba80b7d172221b391822fae3a725ca1a" title="Bounded greedy heuristic: Selects the largest remaining set until at most bound constraints remain." alt="" coords="479,253,653,295"/>
+<area shape="rect" id="node13" href="$d8/db0/a01243.html#a8d4f5be8079bd0192c3906839256f787" title="Weighted greedy heuristic: Selects the largest remaining set according to the given weight function u..." alt="" coords="479,384,653,425"/>
+<area shape="rect" id="node15" href="$d8/db0/a01243.html#aee6074be8f0993e006d7db19a58e6c07" title="Preprocessing heuristic: Selects essential sets which are the only once covering some element." alt="" coords="479,319,653,360"/>
+<area shape="rect" id="node4" href="$d8/db0/a01243.html#a5236c274a6413fb18713a3df16c57339" title="Exact &quot;heuristic&quot;: Computes a minimum set cover." alt="" coords="256,253,431,295"/>
+<area shape="rect" id="node5" href="$d8/d15/a01218.html#a3bc012d12145a5509f1ad58ecb56227f" title="Evaluates the square root expression." alt="" coords="51,261,162,287"/>
+<area shape="rect" id="node7" href="$d0/d9d/a03016.html#aa4036e773bfaa335b3eaa35bc538ea8d" title=" " alt="" coords="267,123,419,164"/>
+<area shape="rect" id="node8" href="$d5/d95/a02720.html#aa360c866e534838c1e4e98b6c444f51d" title=" " alt="" coords="270,5,417,47"/>
+<area shape="rect" id="node10" href="$d5/d7f/a03036.html#aedeed9a6559138dd7ef1e9117c69e592" title=" " alt="" coords="267,71,419,98"/>
+<area shape="rect" id="node9" href="$d4/dfe/a02688.html#a516e5ef13acc8fcb8db09ff2cc90d69f" title=" " alt="" coords="5,13,208,39"/>
+<area shape="rect" id="node14" href="$d8/db0/a01243.html#ac02192f0db3b2927064ab23b4716f9ae" title="Weighted greedy heuristic: Selects the largest remaining set according to the given weight function u..." alt="" coords="256,384,431,425"/>
+</map>

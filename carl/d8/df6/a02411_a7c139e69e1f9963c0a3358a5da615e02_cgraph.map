@@ -1,0 +1,8 @@
+<map id="carl::EEA::calculate" name="carl::EEA::calculate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,152,57"/>
+<area shape="rect" id="node2" href="$d8/df6/a02411.html#aaf3d414079e70f1d149ed22c98f0c6dc" title=" " alt="" coords="200,23,347,65"/>
+<area shape="rect" id="node3" href="$d8/d8e/a01224.html#a7be9095a9d1076d03dd66d42cfae06e8" title=" " alt="" coords="395,31,489,57"/>
+<area shape="rect" id="node4" href="$d8/d8e/a01224.html#a28cb73b0a3511d64accc6c6e639a7221" title="Implements the division with remainder." alt="" coords="544,5,652,32"/>
+<area shape="rect" id="node6" href="$d8/d8e/a01224.html#ae3d7d6656ab362001ff43fcb07743d94" title="Calculate the remainder of the integer division." alt="" coords="537,68,659,95"/>
+<area shape="rect" id="node5" href="$d4/d4a/a02263.html#afe0c8594fd65cd3deea44a9389c1a8dc" title="Divides two intervals according to natural interval arithmetic." alt="" coords="707,5,839,32"/>
+</map>

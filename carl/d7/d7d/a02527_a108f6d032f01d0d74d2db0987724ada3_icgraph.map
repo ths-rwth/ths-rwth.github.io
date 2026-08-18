@@ -1,0 +1,5 @@
+<map id="carl::UnivariatePolynomial::is_number" name="carl::UnivariatePolynomial::is_number">
+<area shape="rect" id="node1" title="Checks whether the polynomial is only a number." alt="" coords="188,23,383,65"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#ae62fcd71edb110f794615012b62b06eb" title=" " alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a8a90d05d2a46798d342ba43553776da7" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="13,56,132,83"/>
+</map>

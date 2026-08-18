@@ -1,0 +1,11 @@
+<map id="carl::covering::heuristic::greedy" name="carl::covering::heuristic::greedy">
+<area shape="rect" id="node1" title="Simple greedy heuristic: Selects the largest remaining set until all elements are covered." alt="" coords="5,155,180,197"/>
+<area shape="rect" id="node2" href="$d9/dc5/a02924.html#acd9f0e2147d7cad43c2143ddfebd862d" title="Checks if any bits are set to true. Asserts that mDefault is false." alt="" coords="255,5,379,32"/>
+<area shape="rect" id="node3" href="$d1/dfa/a03244.html#a09803c5268b61f4ae4031161e462531c" title="Returns the given set." alt="" coords="228,57,405,98"/>
+<area shape="rect" id="node5" href="$d1/dfa/a03244.html#a9458855752177817a34dc22cd47a5f93" title="Returns the uncovered elements." alt="" coords="228,122,405,163"/>
+<area shape="rect" id="node6" href="$d1/dfa/a03244.html#af9f2f05702d7fa08f9ec128d52142417" title="Returns the id of the largest set." alt="" coords="228,187,405,229"/>
+<area shape="rect" id="node7" href="$d1/dfa/a03244.html#a24536d5abdd1155dc974db0d0749ee05" title="Selects the given set and purges the covered elements from all other sets." alt="" coords="228,253,405,294"/>
+<area shape="rect" id="node8" href="$d9/dc5/a02924.html#a9de0d41fc6b1ee50437f2e828db25412" title="Sets the given bit to a value, true by default." alt="" coords="257,319,377,345"/>
+<area shape="rect" id="node4" href="$d1/dfa/a03244.html#abe7608326af978310b630c42298bcd88" title="States that s covers the given element." alt="" coords="453,64,659,91"/>
+<area shape="rect" id="node9" href="$d9/dc5/a02924.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="471,319,641,345"/>
+</map>

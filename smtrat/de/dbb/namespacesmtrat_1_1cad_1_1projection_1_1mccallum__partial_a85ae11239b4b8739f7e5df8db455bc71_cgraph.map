@@ -1,0 +1,8 @@
+<map id="smtrat::cad::projection::mccallum_partial::single" name="smtrat::cad::projection::mccallum_partial::single">
+<area shape="rect" id="node1" title=" " alt="" coords="5,100,196,141"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#abab87da1c31b80bcf989e69643441690" title="Computes the discriminant of a polynomial." alt="" coords="244,12,413,53"/>
+<area shape="rect" id="node4" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="472,71,641,112"/>
+<area shape="rect" id="node5" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#af553a6cc14d6b1ab333fdd0bf9f87182" title="Tries to determine whether the given Poly vanishes for some assignment." alt="" coords="244,129,413,171"/>
+<area shape="rect" id="node6" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#aaadb11de9ea92393506042cc35c8f8fe" title=" " alt="" coords="244,195,413,236"/>
+<area shape="rect" id="node3" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#add93ca6d13d8306114b868c0a67df3cb" title="Projection related utilities for onecellcad." alt="" coords="461,5,652,47"/>
+</map>

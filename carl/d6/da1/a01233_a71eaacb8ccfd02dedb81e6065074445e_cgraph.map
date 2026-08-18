@@ -1,0 +1,14 @@
+<map id="carl::div" name="carl::div">
+<area shape="rect" id="node1" title="Divide two integers." alt="" coords="5,213,80,239"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a4da6c6fda945878e9af822ca43b36607" title="Calculate the remainder of the integer division." alt="" coords="141,187,223,214"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a96cd07c72b28bef5bbac66f30da58177" title="Calculates the quotient of a polynomial division." alt="" coords="128,238,236,265"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#aa13c5f6ad05544c3d2560ecbc7e8f53d" title=" " alt="" coords="284,5,491,47"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#af716ddd074dd7a443647e6da6ed728ed" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="284,71,491,112"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="342,187,433,214"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="539,148,745,189"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="539,231,745,272"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="340,289,435,315"/>
+<area shape="rect" id="node10" href="$d1/d34/a01211.html#a688b16a4d60518728edece4a089cc8c0" title=" " alt="" coords="284,340,491,381"/>
+<area shape="rect" id="node11" href="$d1/d34/a01211.html#aa3c95cc57ba22c850a88fc80cc21c8f2" title="Drops the leading term." alt="" coords="284,405,491,447"/>
+<area shape="rect" id="node12" href="$d1/d34/a01211.html#a5e572c9d7e1844778a965a766c116a1f" title="Subtract a term times a polynomial from this polynomial." alt="" coords="284,471,491,512"/>
+</map>

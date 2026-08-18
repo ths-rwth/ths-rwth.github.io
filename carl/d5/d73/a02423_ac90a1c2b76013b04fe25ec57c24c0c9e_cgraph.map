@@ -1,0 +1,6 @@
+<map id="carl::Interval::Interval" name="carl::Interval::Interval">
+<area shape="rect" id="node1" title="Constructor which constructs an interval from the passed general float bounds (e.g." alt="" coords="5,71,168,97"/>
+<area shape="rect" id="node2" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="229,5,377,32"/>
+<area shape="rect" id="node3" href="$d1/de1/a02435.html#aac501d64c8051ab8d9362752834ba4f2" title=" " alt="" coords="216,56,391,112"/>
+<area shape="rect" id="node4" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="229,136,378,163"/>
+</map>

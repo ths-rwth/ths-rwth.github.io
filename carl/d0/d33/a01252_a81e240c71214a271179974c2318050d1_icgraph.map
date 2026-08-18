@@ -1,0 +1,6 @@
+<map id="carl::ran::interval::algebraic_substitution" name="carl::ran::interval::algebraic_substitution">
+<area shape="rect" id="node1" title="Computes the algebraic substitution of the given defining polynomials into a multivariate polynomial ..." alt="" coords="397,31,572,73"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#acf69f7df84adce86589ec9686663d4cf" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="213,5,323,32"/>
+<area shape="rect" id="node3" href="$d0/d33/a01252.html#aceac25901302849c6e933d465f45ec80" title=" " alt="" coords="187,56,349,112"/>
+<area shape="rect" id="node4" href="$d0/d33/a01252.html#a0ee19ea70c76b3365235c61a66814fb5" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="5,63,139,105"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="smtrat::cadcells::datastructures::upper_lt_lower" name="smtrat::cadcells::datastructures::upper_lt_lower">
+<area shape="rect" id="node1" title="Compares an upper bound with a lower bound of DelineationIntervals." alt="" coords="911,181,1139,223"/>
+<area shape="rect" id="node2" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a7b9b84ebf75630df15bc1754e6625a16" title=" " alt="" coords="611,25,840,67"/>
+<area shape="rect" id="node4" href="$dc/d4f/structsmtrat_1_1cadcells_1_1datastructures_1_1CoveringRepresentation.html#ada240641b8d0a8d3ddb9c63d7e4f239c" title="Checks whether this represents a proper non&#45;redundant covering." alt="" coords="603,101,848,143"/>
+<area shape="rect" id="node9" href="$d4/de6/structsmtrat_1_1sampling_3_01SamplingAlgorithm_1_1LOWER__UPPER__BETWEEN__SAMPLING_01_4.html#a98ce2c5c38c640b87203f77b92dbce2f" title=" " alt="" coords="605,167,845,237"/>
+<area shape="rect" id="node10" href="$d1/d3c/structsmtrat_1_1covering__ng_1_1sampling_3_01SamplingAlgorithm_1_1LOWER__UPPER__BETWEEN__SAMPLING_01_4.html#abbd5d36f7ac5e63450043c8b09a7c110" title=" " alt="" coords="588,261,863,332"/>
+<area shape="rect" id="node11" href="$de/d48/structsmtrat_1_1covering__ng_1_1sampling_3_01SamplingAlgorithm_1_1LOWER__UPPER__BETWEEN__SAMPLING__AVOID__RAN_01_4.html#a420fa7945768ca596ba54f75d4651202" title=" " alt="" coords="588,356,863,427"/>
+<area shape="rect" id="node3" href="$d6/d80/structsmtrat_1_1cadcells_1_1representation_1_1covering_3_01CoveringHeuristic_1_1BIGGEST__CELL__COVERING__MIN__TDEG_01_4.html#a88a92b53eedc6b4e205eb8376262db8d" title=" " alt="" coords="263,5,540,76"/>
+<area shape="rect" id="node5" href="$dc/d4f/structsmtrat_1_1cadcells_1_1datastructures_1_1CoveringRepresentation.html#a67d0a7e4070270503bb41447fb5bef52" title="Returns a descriptions of the covering." alt="" coords="287,101,515,157"/>
+<area shape="rect" id="node6" href="$db/d6e/structsmtrat_1_1cadcells_1_1operators_1_1Mccallum.html#a0eee924ad7e4a4dcecd7ff32c281ca34" title="Project covering properties." alt="" coords="5,21,215,77"/>
+<area shape="rect" id="node7" href="$d3/dcf/structsmtrat_1_1cadcells_1_1operators_1_1MccallumFiltered.html#adbc1c218b41474f1b8b7947de3bbc047" title=" " alt="" coords="12,101,208,157"/>
+<area shape="rect" id="node8" href="$d5/d56/structsmtrat_1_1cadcells_1_1operators_1_1MccallumPdel.html#a21d87b197be15b655ee080013aa83775" title=" " alt="" coords="12,181,208,237"/>
+</map>

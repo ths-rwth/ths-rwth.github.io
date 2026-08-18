@@ -1,0 +1,7 @@
+<map id="delta::Consumer::wait" name="delta::Consumer::wait">
+<area shape="rect" id="node1" title="Wait for at least one job to finish." alt="" coords="487,31,652,57"/>
+<area shape="rect" id="node2" href="$da/d13/classdelta_1_1Producer.html#a178bca4117f96734ba66b439c0fa9559" title="Apply simplifications to the given node." alt="" coords="16,5,209,32"/>
+<area shape="rect" id="node3" href="$d4/dff/classdelta_1_1Consumer.html#a1691795d32c86bbb7af807f0b8dcf2bd" title="Reset this executor." alt="" coords="268,56,439,83"/>
+<area shape="rect" id="node4" href="$d4/dff/classdelta_1_1Consumer.html#ae35ac58213a0e9570700c93819514414" title="Constructor." alt="" coords="11,56,214,83"/>
+<area shape="rect" id="node5" href="$d4/dff/classdelta_1_1Consumer.html#a83a4007fb0a8f0b66113180a423953a7" title="Destructor." alt="" coords="5,107,220,133"/>
+</map>

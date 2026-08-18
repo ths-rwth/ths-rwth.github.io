@@ -1,0 +1,11 @@
+<map id="benchmax::Results::get" name="benchmax::Results::get">
+<area shape="rect" id="node1" title=" " alt="" coords="689,101,864,127"/>
+<area shape="rect" id="node2" href="$d5/dde/classbenchmax_1_1CSVWriter.html#a9752f7b1955382f2fe31429e80866875" title=" " alt="" coords="477,5,641,47"/>
+<area shape="rect" id="node3" href="$d5/dde/classbenchmax_1_1CSVWriter.html#aa509fb51de968393481ded607965d7ec" title="Write results to file." alt="" coords="264,32,428,73"/>
+<area shape="rect" id="node5" href="$d4/d9f/classbenchmax_1_1Backend.html#a6269cfb7f12f7d59c275e4938a265bd2" title=" " alt="" coords="478,123,639,164"/>
+<area shape="rect" id="node8" href="$dd/dcc/classbenchmax_1_1XMLWriter.html#a6d8d3484898989f3544325e5b5f84535" title="Write results to file." alt="" coords="476,188,641,229"/>
+<area shape="rect" id="node4" href="$dd/d8d/classbenchmax_1_1Results.html#ac1c01c8de1d2dd81af8bee2f03af7084" title="Store all results to a csl file." alt="" coords="33,32,188,73"/>
+<area shape="rect" id="node6" href="$d4/d9f/classbenchmax_1_1Backend.html#a6f0e7d22aa1133fcf8d9feb3dd655c3e" title=" " alt="" coords="265,123,427,164"/>
+<area shape="rect" id="node7" href="$d0/d1d/namespacebenchmax.html#a01892f3312583e706a377eec5c5c32b2" title=" " alt="" coords="5,130,216,157"/>
+<area shape="rect" id="node9" href="$dd/d8d/classbenchmax_1_1Results.html#ad087cc529aa7ad704dbd2995f5430c81" title="Store all results to a xml file." alt="" coords="269,188,423,229"/>
+</map>

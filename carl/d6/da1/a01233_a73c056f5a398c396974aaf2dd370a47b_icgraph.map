@@ -1,0 +1,13 @@
+<map id="carl::substitute_inplace" name="carl::substitute_inplace">
+<area shape="rect" id="node1" title=" " alt="" coords="461,239,635,266"/>
+<area shape="rect" id="node2" href="$d1/d24/a02847.html#aa093a925323aedc62c631c7a43fd9db7" title=" " alt="" coords="238,5,409,47"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#acf69f7df84adce86589ec9686663d4cf" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="268,71,379,98"/>
+<area shape="rect" id="node4" href="$d0/d33/a01252.html#a0ee19ea70c76b3365235c61a66814fb5" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="257,123,390,164"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a0f666d714f3d0de033bea1a1080ff990" title=" " alt="" coords="264,189,383,215"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a82eb1705bccb1d0c70e27d03620c99a4" title=" " alt="" coords="237,239,410,266"/>
+<area shape="rect" id="node7" href="$d3/d51/a01264.html#ad03226e2186abdbbd359510929765e48" title="Substitutes a variable with a rational within a polynomial." alt="" coords="233,290,413,317"/>
+<area shape="rect" id="node8" href="$de/d1b/a02187.html#a67a6637be838be3339b6833c6bb06b30" title="Create a copy of the underlying polynomial with the given variable replaced by the given polynomial." alt="" coords="242,341,405,383"/>
+<area shape="rect" id="node10" href="$d1/d24/a02847.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="241,407,405,448"/>
+<area shape="rect" id="node11" href="$d0/d33/a01252.html#a991987d0a89591d89ccb250f1e21301c" title=" " alt="" coords="257,472,390,513"/>
+<area shape="rect" id="node9" href="$d3/d51/a01264.html#acec48430ff7fa5926948a1f7215ddf3d" title="Substitutes a variable with a rational within a MultivariateRoot." alt="" coords="5,349,185,375"/>
+</map>

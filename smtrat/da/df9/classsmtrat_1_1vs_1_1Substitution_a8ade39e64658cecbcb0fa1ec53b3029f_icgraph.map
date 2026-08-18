@@ -1,0 +1,13 @@
+<map id="smtrat::vs::Substitution::originalConditions" name="smtrat::vs::Substitution::originalConditions">
+<area shape="rect" id="node1" title=" " alt="" coords="996,68,1171,109"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa4e25abeb10a5b63464fec9bb054a420" title="Adds a state as child to this state with the given substitution." alt="" coords="508,5,647,47"/>
+<area shape="rect" id="node3" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a6400f9cfaa8f7c9f260be24a640e8381" title="Prints this substitution on the given stream, with some additional information." alt="" coords="752,100,927,141"/>
+<area shape="rect" id="node7" href="$de/dfa/namespacesmtrat_1_1vs.html#a4c0c28dad9c60e3264a4544af563799b" title=" " alt="" coords="747,165,931,207"/>
+<area shape="rect" id="node11" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac7a64f4c15d97d5f811737fcea8e086e" title="Updates the original conditions of substitutions having the same test candidate as the given." alt="" coords="731,35,948,76"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ebd8fb230b32c832382b61418b77af3" title="Prints the conditions, the substitution and the substitution results of this state." alt="" coords="508,100,647,141"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="274,35,413,76"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab992013899d44c280f1e6d3e370f8359" title="Prints the conditions, the substitution and the substitution results of this state and all its childr..." alt="" coords="274,100,413,141"/>
+<area shape="rect" id="node8" href="$de/dfa/namespacesmtrat_1_1vs.html#a9f7a787fa6f9bbf81d26eb077615ed6c" title=" " alt="" coords="472,166,683,193"/>
+<area shape="rect" id="node9" href="$de/dfa/namespacesmtrat_1_1vs.html#ab5d22b2a12ac6d38989044aa031eda02" title=" " alt="" coords="263,166,424,193"/>
+<area shape="rect" id="node10" href="$de/dfa/namespacesmtrat_1_1vs.html#a35b39be98c4a2280062e525a80df24ba" title=" " alt="" coords="5,166,215,193"/>
+</map>

@@ -1,0 +1,20 @@
+<map id="smtrat::vs::Substitution::term" name="smtrat::vs::Substitution::term">
+<area shape="rect" id="node1" title=" " alt="" coords="996,242,1171,283"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa4e25abeb10a5b63464fec9bb054a420" title="Adds a state as child to this state with the given substitution." alt="" coords="508,97,647,138"/>
+<area shape="rect" id="node3" href="$d7/d1f/structstd_1_1hash_3_01smtrat_1_1vs_1_1Substitution_01_4.html#aecb33f2b7f1f53f6858aca3b6f1889ae" title=" " alt="" coords="766,45,913,101"/>
+<area shape="rect" id="node4" href="$de/dfa/namespacesmtrat_1_1vs.html#adee73ac966518e5b653dcac5935c34e1" title="Prints the given substitution on the given output stream." alt="" coords="753,125,926,152"/>
+<area shape="rect" id="node5" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a6d858091daa1f3695196cfb17c66bc6b" title=" " alt="" coords="752,177,927,218"/>
+<area shape="rect" id="node6" href="$de/dfa/namespacesmtrat_1_1vs.html#a4c0c28dad9c60e3264a4544af563799b" title=" " alt="" coords="747,307,931,349"/>
+<area shape="rect" id="node9" href="$de/dfa/namespacesmtrat_1_1vs.html#a35b39be98c4a2280062e525a80df24ba" title=" " alt="" coords="5,303,215,329"/>
+<area shape="rect" id="node10" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aa20d1743bb03e384885794f3a36b76de" title=" " alt="" coords="748,425,931,466"/>
+<area shape="rect" id="node16" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac7a64f4c15d97d5f811737fcea8e086e" title="Updates the original conditions of substitutions having the same test candidate as the given." alt="" coords="731,242,948,283"/>
+<area shape="rect" id="node17" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#ae7792a42aa4355c5d460634adc1aeac5" title=" " alt="" coords="752,490,927,531"/>
+<area shape="rect" id="node7" href="$de/dfa/namespacesmtrat_1_1vs.html#a9f7a787fa6f9bbf81d26eb077615ed6c" title=" " alt="" coords="472,272,683,299"/>
+<area shape="rect" id="node8" href="$de/dfa/namespacesmtrat_1_1vs.html#ab5d22b2a12ac6d38989044aa031eda02" title=" " alt="" coords="263,272,424,299"/>
+<area shape="rect" id="node11" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad80e0146d06b13bf45c4975b4a385b08" title="Deletes everything originated by the given conditions in the children of this state." alt="" coords="479,425,675,466"/>
+<area shape="rect" id="node12" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9b9d71dbb3cadb10bdcccdbebb955809" title="Delete everything originated by the given conditions from the entire subtree with this state as root." alt="" coords="274,425,413,466"/>
+<area shape="rect" id="node15" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ad9d891684d67c8aeb241a53098bcef2b" title="Removes everything in this state originated by the given vector of conditions." alt="" coords="274,490,413,531"/>
+<area shape="rect" id="node13" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="41,379,179,421"/>
+<area shape="rect" id="node14" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a4a14033d77e9bbc4de1f35fc586baba8" title="Simplifies the given conditions according to comparison between the corresponding constraints." alt="" coords="41,445,179,486"/>
+<area shape="rect" id="node18" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#aac0ab6c978037bbefa15b09dccfb3cb6" title="Updates the valuation of this state." alt="" coords="508,490,647,531"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="carl::Interval::isHalfBounded" name="carl::Interval::isHalfBounded">
+<area shape="rect" id="node1" title="Function which determines, if the interval is half&#45;bounded." alt="" coords="5,31,212,57"/>
+<area shape="rect" id="node2" href="$d5/d73/a02423.html#abccdf63161e8de9c1a496680b1c503ed" title="A quick check for the bound values." alt="" coords="260,31,452,57"/>
+<area shape="rect" id="node3" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="501,5,649,32"/>
+<area shape="rect" id="node4" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="500,56,649,83"/>
+</map>

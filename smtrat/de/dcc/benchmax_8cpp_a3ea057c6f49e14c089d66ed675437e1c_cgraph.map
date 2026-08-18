@@ -1,0 +1,29 @@
+<map id="init_application" name="init_application">
+<area shape="rect" id="node1" title="Initialized the application." alt="" coords="5,707,128,734"/>
+<area shape="rect" id="node2" href="$db/d47/namespacesmtrat_1_1covering__ng.html#aff06021932730f58d19dcdb65f4381d9" title=" " alt="" coords="213,315,365,356"/>
+<area shape="rect" id="node13" href="$d0/d1d/namespacebenchmax.html#ad1d0b0843386b6bf1571456adbea7ab5" title="Configure default logging for benchmax." alt="" coords="183,449,396,475"/>
+<area shape="rect" id="node14" href="$d0/d1d/namespacebenchmax.html#aaa2866372fbbb87a02c2d291a05ab3a7" title="Configure quiet logging for benchmax." alt="" coords="196,499,383,526"/>
+<area shape="rect" id="node15" href="$d0/d1d/namespacebenchmax.html#a0fadece0c659c698356ce788cd090420" title="Configure verbose logging for benchmax." alt="" coords="187,550,392,577"/>
+<area shape="rect" id="node16" href="$d2/db3/namespacebenchmax_1_1settings.html#a4d839bd6a36063c94cb5fcc24214f621" title="Registers benchmark settings with the settings parser." alt="" coords="186,601,393,643"/>
+<area shape="rect" id="node19" href="$d2/db3/namespacebenchmax_1_1settings.html#ab45eff7c28fb87d3882791f4ad6490b4" title="Registers preset settings with the settings parser." alt="" coords="202,667,377,708"/>
+<area shape="rect" id="node21" href="$d2/db3/namespacebenchmax_1_1settings.html#a3eed510a63b892586848f221265ee9dd" title="Registers Slurm settings with the settings parser." alt="" coords="176,732,403,773"/>
+<area shape="rect" id="node22" href="$d2/db3/namespacebenchmax_1_1settings.html#a5ef8835ac519be557a335e705e11a712" title="Registers SSH settings with settings parser." alt="" coords="182,797,397,839"/>
+<area shape="rect" id="node23" href="$d2/db3/namespacebenchmax_1_1settings.html#a8eb10a55dda16297ed2260acd7a3da31" title="Registers tool settings with the settings parser." alt="" coords="210,863,369,904"/>
+<area shape="rect" id="node25" href="$d0/d1d/namespacebenchmax.html#a7023b801521b73ccffe81cbfbaaf3a43" title="Return the benchmark settings." alt="" coords="214,928,365,969"/>
+<area shape="rect" id="node26" href="$d0/d1d/namespacebenchmax.html#a58b2d1a63040ce6fd0e7ad5351c518a9" title="Retrieved core settings." alt="" coords="197,994,382,1021"/>
+<area shape="rect" id="node27" href="$d0/d1d/namespacebenchmax.html#aa1bd8f3d469a26833cbe778e65035c67" title="Retrieved operation settings." alt="" coords="214,1045,365,1087"/>
+<area shape="rect" id="node3" href="$db/d47/namespacesmtrat_1_1covering__ng.html#a0cb030bc9da78db3a1f8f5b79118340d" title=" " alt="" coords="483,5,647,47"/>
+<area shape="rect" id="node5" href="$d4/da1/structsmtrat_1_1covering__ng_1_1CoveringResult.html#aa37068b23c6edf2d0991671da7745d98" title=" " alt="" coords="467,71,662,112"/>
+<area shape="rect" id="node6" href="$d4/da1/structsmtrat_1_1covering__ng_1_1CoveringResult.html#ac47034c24ae36a95c3917b5dcb3ca455" title=" " alt="" coords="489,137,641,193"/>
+<area shape="rect" id="node7" href="$db/d47/namespacesmtrat_1_1covering__ng.html#a432c20a82b9d54567961525b7304b25d" title=" " alt="" coords="489,217,641,259"/>
+<area shape="rect" id="node8" href="$d4/da1/structsmtrat_1_1covering__ng_1_1CoveringResult.html#a1d64c127874d8d45e65dc7bfd723a618" title=" " alt="" coords="477,283,652,324"/>
+<area shape="rect" id="node9" href="$d4/da1/structsmtrat_1_1covering__ng_1_1CoveringResult.html#a61fa333df780c7b3b8dfebe27c8b4945" title=" " alt="" coords="469,348,660,389"/>
+<area shape="rect" id="node10" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#a0b5d4f3c32f7b89258e85480d15f5954" title=" " alt="" coords="451,413,679,455"/>
+<area shape="rect" id="node11" href="$d4/da1/structsmtrat_1_1covering__ng_1_1CoveringResult.html#a04f4931872e3af4e088d657ef991056c" title=" " alt="" coords="472,479,657,520"/>
+<area shape="rect" id="node12" href="$d9/d5c/classsmtrat_1_1covering__ng_1_1VariableQuantification.html#adaa1499aa7515d5f834be7f7d7d20abf" title="Returns the type of the given variable." alt="" coords="477,545,652,601"/>
+<area shape="rect" id="node4" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="777,225,875,251"/>
+<area shape="rect" id="node17" href="$d2/db3/namespacebenchmax_1_1settings.html#a246f5b67ec2f696722fc673a5b064204" title="Postprocess benchmark settings." alt="" coords="486,625,643,681"/>
+<area shape="rect" id="node18" href="$d0/d1d/namespacebenchmax.html#aa88aac5a7dd31f3ef8eb946158937bb6" title="Computes the common prefix of two paths." alt="" coords="727,709,925,735"/>
+<area shape="rect" id="node20" href="$d2/db3/namespacebenchmax_1_1settings.html#aeab5afa242ba2ff1eb8d8c2dfb23fe13" title="Postprocess preset settings." alt="" coords="473,705,657,747"/>
+<area shape="rect" id="node24" href="$d2/db3/namespacebenchmax_1_1settings.html#a5e7606d9b1e76bc417dd56f8a7b88617" title="Postprocess settings to compute common prefix." alt="" coords="481,801,649,843"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="carl::divide" name="carl::divide">
+<area shape="rect" id="node1" title=" " alt="" coords="756,147,851,174"/>
+<area shape="rect" id="node2" href="$dc/d09/a02429.html#aaf3d414079e70f1d149ed22c98f0c6dc" title=" " alt="" coords="535,5,681,47"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#aa0247eac185361067e39053c86cd2966" title="Divides the polynomial by the given coefficient." alt="" coords="561,71,655,98"/>
+<area shape="rect" id="node5" href="$d7/dc5/a01242.html#a02a8f01df86d27fd2e24313e3dab716f" title="Calculates the extended greatest common divisor g of two polynomials." alt="" coords="535,122,681,149"/>
+<area shape="rect" id="node8" href="$d7/dc5/a01242.html#a598db2a85288fd3d66fb84d9e129ee4d" title=" " alt="" coords="251,173,460,199"/>
+<area shape="rect" id="node10" href="$d7/dc5/a01242.html#a0b29da0503a9246e89a086460fc8bea7" title="Returns this/divisor where divisor is the numeric content of this polynomial." alt="" coords="508,223,708,250"/>
+<area shape="rect" id="node11" href="$d7/dc5/a01242.html#aa1590779f56d008c2d4ae59ac5b1c51e" title=" " alt="" coords="533,274,683,301"/>
+<area shape="rect" id="node3" href="$dc/d09/a02429.html#a7c139e69e1f9963c0a3358a5da615e02" title=" " alt="" coords="282,13,429,39"/>
+<area shape="rect" id="node6" href="$da/dd2/a02701.html#a412e65e91b24e0f84c5f1ce8c787340b" title="EEAlift computes s,t such that s*a + tb == 1 (mod p^k) with deg(s) &lt; deg(b) and deg(t) &lt; deg(a)." alt="" coords="257,107,454,148"/>
+<area shape="rect" id="node7" href="$da/dd2/a02701.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="5,107,203,148"/>
+<area shape="rect" id="node9" href="$d7/dc5/a01242.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="36,173,172,199"/>
+</map>

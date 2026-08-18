@@ -1,0 +1,15 @@
+<map id="smtrat::cadcells::representation::util::simplest_biggest_cell_ordering" name="smtrat::cadcells::representation::util::simplest_biggest_cell_ordering">
+<area shape="rect" id="node1" title=" " alt="" coords="5,297,235,353"/>
+<area shape="rect" id="node2" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a05fb6db177b5f469bde945c904cde764" title=" " alt="" coords="285,5,513,47"/>
+<area shape="rect" id="node3" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#a1879a4adacf1983857ec8c504e5da612" title=" " alt="" coords="285,71,513,112"/>
+<area shape="rect" id="node6" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#aa388ee9bc6611c4dd030520230f223dd" title=" " alt="" coords="283,136,515,177"/>
+<area shape="rect" id="node7" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#af859a2d005b6d4dca8355892dfd43e79" title=" " alt="" coords="285,201,513,243"/>
+<area shape="rect" id="node8" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#a0f96c28a669a1e7c5bf70ad75ad393ad" title="Return the lower bound." alt="" coords="285,267,513,308"/>
+<area shape="rect" id="node9" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a23396f759eafdf95e9d41ac9a777e14f" title=" " alt="" coords="285,333,513,389"/>
+<area shape="rect" id="node10" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="285,413,513,455"/>
+<area shape="rect" id="node11" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#ab623319f2aecdc705d59308a767ee595" title=" " alt="" coords="285,479,513,520"/>
+<area shape="rect" id="node12" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#ae28baaa6cc414492a7a39ec5aa5ba077" title="Returns the upper bound." alt="" coords="285,544,513,585"/>
+<area shape="rect" id="node13" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a89d10bab7fef184f8b68ea662424814b" title=" " alt="" coords="285,610,513,666"/>
+<area shape="rect" id="node4" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a6e40b9c086c5a9517cf724b57fc2521e" title=" " alt="" coords="563,71,791,112"/>
+<area shape="rect" id="node5" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a844fad4a0e83de0d80c9f7d546d61aa0" title=" " alt="" coords="563,136,791,177"/>
+</map>

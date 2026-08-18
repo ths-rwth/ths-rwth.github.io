@@ -1,0 +1,21 @@
+<map id="carl::remainder_helper" name="carl::remainder_helper">
+<area shape="rect" id="node1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="5,217,175,243"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="223,5,417,47"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="223,71,417,112"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a9cc2f7f3c081d4856a654898f6871206" title="Checks whether the monomial is a constant." alt="" coords="256,137,384,163"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="521,187,616,214"/>
+<area shape="rect" id="node9" href="$dc/db6/a01212.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="223,239,417,280"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#a9d54ed3853631a633e6a994f49b1d655" title="Retrieves the main variable of this polynomial." alt="" coords="223,304,417,345"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a96cd07c72b28bef5bbac66f30da58177" title="Calculates the quotient of a polynomial division." alt="" coords="266,370,374,397"/>
+<area shape="rect" id="node19" href="$dc/db6/a01212.html#a13d3ac385e1da1103fef9d7d14c32174" title=" " alt="" coords="223,421,417,463"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="501,137,637,163"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="745,137,901,163"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="720,231,927,272"/>
+<area shape="rect" id="node12" href="$d1/d34/a01211.html#aa13c5f6ad05544c3d2560ecbc7e8f53d" title=" " alt="" coords="465,289,672,331"/>
+<area shape="rect" id="node13" href="$d1/d34/a01211.html#af716ddd074dd7a443647e6da6ed728ed" title="Asserts that this polynomial complies with the requirements and assumptions for MultivariatePolynomia..." alt="" coords="465,355,672,396"/>
+<area shape="rect" id="node14" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="523,421,614,447"/>
+<area shape="rect" id="node15" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="720,439,927,480"/>
+<area shape="rect" id="node16" href="$d1/d34/a01211.html#a688b16a4d60518728edece4a089cc8c0" title=" " alt="" coords="465,523,672,564"/>
+<area shape="rect" id="node17" href="$d1/d34/a01211.html#aa3c95cc57ba22c850a88fc80cc21c8f2" title="Drops the leading term." alt="" coords="465,588,672,629"/>
+<area shape="rect" id="node18" href="$d1/d34/a01211.html#a5e572c9d7e1844778a965a766c116a1f" title="Subtract a term times a polynomial from this polynomial." alt="" coords="465,653,672,695"/>
+</map>

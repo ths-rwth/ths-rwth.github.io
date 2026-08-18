@@ -1,0 +1,4 @@
+var structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1SIMPLE_00_01BT_00_01Settings_01_4_1_1PolynomialComparator =
+[
+    [ "operator()", "d4/d9b/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1SIMPLE_00_01BT_00_01Settings_01_4_1_1PolynomialComparator.html#a9de8ec733cc26cc6ad1ac3dc3e63231f", null ]
+];

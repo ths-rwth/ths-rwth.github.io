@@ -1,0 +1,10 @@
+<map id="smtrat::vs::State::subResultsSimplified" name="smtrat::vs::State::subResultsSimplified">
+<area shape="rect" id="node1" title=" " alt="" coords="515,88,673,129"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a86100e6dc3a6c8e538b81f32d7e9e5e8" title="Extends the currently considered combination of conjunctions in the substitution results." alt="" coords="252,15,467,56"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ebd8fb230b32c832382b61418b77af3" title="Prints the conditions, the substitution and the substitution results of this state." alt="" coords="290,88,429,129"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a62b7ab69457edac098cce1101c5a4530" title="Cleans up all conditions in this state according to comparison between the corresponding constraints." alt="" coords="290,169,429,211"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a67752f226f01351b7771d53044394acf" title="If the state contains a substitution result, which is a conjunction of disjunctions of conjunctions o..." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a50eaf7c03a081f4d8909405efbb8633f" title="Checks whether the currently considered conditions, which have been considered for test candidate con..." alt="" coords="35,71,174,112"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ab992013899d44c280f1e6d3e370f8359" title="Prints the conditions, the substitution and the substitution results of this state and all its childr..." alt="" coords="35,136,174,177"/>
+<area shape="rect" id="node8" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09ef902373f07b8fdb9b23a4c38c6768" title="Determines the condition vector corresponding to the current combination of the conjunctions of condi..." alt="" coords="35,201,174,243"/>
+</map>

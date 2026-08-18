@@ -1,0 +1,6 @@
+<map id="carl::div" name="carl::div">
+<area shape="rect" id="node1" title="Divide two integers." alt="" coords="5,31,80,57"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a4da6c6fda945878e9af822ca43b36607" title="Calculate the remainder of the integer division." alt="" coords="141,5,223,32"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a28cb73b0a3511d64accc6c6e639a7221" title="Implements the division with remainder." alt="" coords="128,56,236,83"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#afe0c8594fd65cd3deea44a9389c1a8dc" title="Divides two intervals according to natural interval arithmetic." alt="" coords="284,56,416,83"/>
+</map>

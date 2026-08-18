@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['r_2eh_9082',['R.h',['../da/d55/R_8h.html',1,'']]],
+  ['ran_5fapproximation_2eh_9083',['ran_approximation.h',['../d3/d89/ran__approximation_8h.html',1,'']]],
+  ['ratintblast_2eh_9084',['RatIntBlast.h',['../d8/d80/RatIntBlast_8h.html',1,'']]],
+  ['rationalcapsule_2ecpp_9085',['RationalCapsule.cpp',['../d4/d22/RationalCapsule_8cpp.html',1,'']]],
+  ['rationalcapsule_2eh_9086',['RationalCapsule.h',['../d0/dc6/RationalCapsule_8h.html',1,'']]],
+  ['rd_2eh_9087',['RD.h',['../d1/d99/RD_8h.html',1,'']]],
+  ['readme_2emd_9088',['README.md',['../da/ddd/README_8md.html',1,'']]],
+  ['realalgebraicpoint_2eh_9089',['RealAlgebraicPoint.h',['../d0/d88/RealAlgebraicPoint_8h.html',1,'']]],
+  ['representation_2eh_9090',['representation.h',['../d0/d2b/representation_8h.html',1,'']]],
+  ['resourcelimitation_2eh_9091',['ResourceLimitation.h',['../de/d8b/ResourceLimitation_8h.html',1,'']]],
+  ['results_2eh_9092',['Results.h',['../d5/d39/Results_8h.html',1,'']]],
+  ['rewriterules_2eh_9093',['RewriteRules.h',['../df/d17/RewriteRules_8h.html',1,'']]],
+  ['ri_2eh_9094',['RI.h',['../d3/d28/RI_8h.html',1,'']]],
+  ['rid_2eh_9095',['RID.h',['../d7/d5b/RID_8h.html',1,'']]],
+  ['rnsencoder_2ecpp_9096',['RNSEncoder.cpp',['../d2/d66/RNSEncoder_8cpp.html',1,'']]],
+  ['rnsencoder_2eh_9097',['RNSEncoder.h',['../d3/d14/RNSEncoder_8h.html',1,'']]],
+  ['rootexpr_2eh_9098',['RootExpr.h',['../dd/daa/RootExpr_8h.html',1,'']]],
+  ['rootindexer_2eh_9099',['RootIndexer.h',['../db/d57/RootIndexer_8h.html',1,'']]],
+  ['roots_2eh_9100',['roots.h',['../d1/d8a/roots_8h.html',1,'']]],
+  ['rules_2eh_9101',['rules.h',['../d9/d3e/rules_8h.html',1,'']]],
+  ['rules_5fcovering_2eh_9102',['rules_covering.h',['../d4/d0e/rules__covering_8h.html',1,'']]],
+  ['rules_5ffilter_2eh_9103',['rules_filter.h',['../de/d90/rules__filter_8h.html',1,'']]],
+  ['rules_5ffilter_5futil_2eh_9104',['rules_filter_util.h',['../da/d96/rules__filter__util_8h.html',1,'']]],
+  ['rules_5fnull_2eh_9105',['rules_null.h',['../d6/d6c/rules__null_8h.html',1,'']]],
+  ['rules_5fpdel_2eh_9106',['rules_pdel.h',['../dd/d97/rules__pdel_8h.html',1,'']]]
+];

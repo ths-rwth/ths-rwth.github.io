@@ -1,0 +1,9 @@
+<map id="carl::ran::interval::RealRootIsolation::eliminate_zero_roots" name="carl::ran::interval::RealRootIsolation::eliminate_zero_roots">
+<area shape="rect" id="node1" title="The sturm sequence for mPolynomial." alt="" coords="5,93,172,149"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#af23c49e8aaf71ef5a8af7799ee239617" title="Reduces the given polynomial such that zero is not a root anymore." alt="" coords="225,78,409,105"/>
+<area shape="rect" id="node7" href="$dc/db6/a01212.html#aff69a8147320cd6676fe0d4402318c61" title="Checks if zero is a real root of this polynomial." alt="" coords="220,129,415,171"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="463,5,657,47"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a0afd13ffb079bbb402362a18138b5e17" title="Asserts that this polynomial over numeric coefficients complies with the requirements and assumptions..." alt="" coords="463,71,657,112"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="513,137,607,163"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="705,129,912,171"/>
+</map>

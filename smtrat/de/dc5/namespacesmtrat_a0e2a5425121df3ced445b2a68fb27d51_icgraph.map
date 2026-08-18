@@ -1,0 +1,4 @@
+<map id="smtrat::extendLinearizedModel" name="smtrat::extendLinearizedModel">
+<area shape="rect" id="node1" title="create a model combining mModel, estimatedModel and rest of the variables are guessed." alt="" coords="213,5,399,47"/>
+<area shape="rect" id="node2" href="$d3/de4/classsmtrat_1_1NRAILModule.html#a87574c628c48daa804f15eeb236baccd" title="Checks the received formula for consistency." alt="" coords="5,5,165,47"/>
+</map>

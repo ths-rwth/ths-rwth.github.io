@@ -1,0 +1,6 @@
+<map id="benchmax::ssh::SSHConnection::removeDir" name="benchmax::ssh::SSHConnection::removeDir">
+<area shape="rect" id="node1" title="Remove a (temporary) directory on the remote." alt="" coords="5,39,232,80"/>
+<area shape="rect" id="node2" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#ad37a6e3c5cfb2df3a500dad4c20f506b" title="Terminate a SSH channel." alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node3" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a2e03d0baa340fb70c399ceef4c91ed4f" title="Get a new SFTP session for file transfer." alt="" coords="280,71,507,112"/>
+<area shape="rect" id="node4" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a8d7449b8d3a23f482fb66040c0003a24" title="Check if all channels are busy." alt="" coords="555,71,781,112"/>
+</map>

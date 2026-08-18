@@ -1,0 +1,6 @@
+<map id="carl::Singleton::getInstance" name="carl::Singleton::getInstance">
+<area shape="rect" id="node1" title="Returns the single instance of this class by reference." alt="" coords="405,31,604,57"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#acb690bb45b65298e77d648cb2e402fd9" title="Returns the default value for the given sort." alt="" coords="195,5,357,32"/>
+<area shape="rect" id="node4" href="$d6/da1/a01233.html#a4ed5288a3f66024739a9af39ed34253b" title="Creates a new value for the given sort." alt="" coords="205,56,347,83"/>
+<area shape="rect" id="node3" href="$dc/d5c/a03483.html#a0bb1b853716b2177d9791e097c24d12c" title=" " alt="" coords="5,5,147,32"/>
+</map>

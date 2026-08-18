@@ -1,0 +1,11 @@
+<map id="carl::MonomialPool" name="carl::MonomialPool">
+<area shape="rect" id="node1" title=" " alt="" coords="843,111,989,138"/>
+<area shape="rect" id="node2" href="$d9/d65/a03215.html" title=" " alt="" coords="491,5,685,47"/>
+<area shape="rect" id="node3" href="$d9/d65/a03215.html" title="Base class that implements a singleton." alt="" coords="117,13,270,39"/>
+<area shape="rect" id="node4" title=" " alt="" coords="487,71,689,112"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="115,78,272,105"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,78,44,105"/>
+<area shape="rect" id="node7" href="$d1/d89/a03035.html" title=" " alt="" coords="540,137,636,163"/>
+<area shape="rect" id="node8" href="$d5/dea/a02927.html" title="This class is a simple wrapper around boost::dynamic_bitset." alt="" coords="147,137,239,163"/>
+<area shape="rect" id="node9" href="$d7/d45/a03175.html" title="Mimics stdlibs default rehash policy for hashtables." alt="" coords="499,187,677,214"/>
+</map>

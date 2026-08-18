@@ -1,0 +1,11 @@
+<map id="smtrat::vs::State::~State" name="smtrat::vs::State::~State">
+<area shape="rect" id="node1" title="Destructor." alt="" coords="5,224,144,265"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a031599ca203c18f83e2b29ec1e45f062" title=" " alt="" coords="222,5,361,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae972a4958673a15faab2093eb12dbf82" title=" " alt="" coords="222,71,361,112"/>
+<area shape="rect" id="node4" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#a3bc94800613870bf9929916a4056da5f" title=" " alt="" coords="212,136,371,177"/>
+<area shape="rect" id="node5" href="$d5/dd7/classsmtrat_1_1vs_1_1Condition.html#accb184c0177f9925a4d1d35601d67333" title=" " alt="" coords="202,202,381,229"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a3797e8db14bf83122bbee1fced8b0908" title=" " alt="" coords="222,253,361,295"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09e850d5fd674de1644036c9b1cbf256" title=" " alt="" coords="222,319,361,360"/>
+<area shape="rect" id="node8" href="$da/dc4/classsmtrat_1_1vb_1_1VariableBounds.html#a92f1cb44839773c12dace9cc899631e3" title="Removes all effects the given constraint has on the variable bounds." alt="" coords="192,384,391,425"/>
+<area shape="rect" id="node9" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#afdceb3218d044c7e6eb0c5e82f82c74b" title=" " alt="" coords="204,449,379,491"/>
+</map>

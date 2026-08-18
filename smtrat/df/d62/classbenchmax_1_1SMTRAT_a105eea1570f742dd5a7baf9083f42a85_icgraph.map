@@ -1,0 +1,4 @@
+<map id="benchmax::SMTRAT::getStatusFromOutput" name="benchmax::SMTRAT::getStatusFromOutput">
+<area shape="rect" id="node1" title="Try to parse memouts from stderr." alt="" coords="276,5,496,47"/>
+<area shape="rect" id="node2" href="$df/d62/classbenchmax_1_1SMTRAT.html#af37ed5ea56529c8b06ffe0cd50b6ab85" title="Computes the answer string from the exit code and parses statistics output." alt="" coords="5,5,228,47"/>
+</map>

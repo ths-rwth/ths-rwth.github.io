@@ -1,0 +1,14 @@
+<map id="smtrat::mcsat::nlsat::ExplanationGenerator::getExplanation" name="smtrat::mcsat::nlsat::ExplanationGenerator::getExplanation">
+<area shape="rect" id="node1" title="Compute explanation in clausal form." alt="" coords="5,166,177,222"/>
+<area shape="rect" id="node2" href="$d2/dbe/classsmtrat_1_1mcsat_1_1nlsat_1_1ExplanationGenerator.html#a2da08842d396319dd6f4c3d3a9c687c9" title="Construct explanation in non&#45;clausal form (without the impliedAtom/implication)." alt="" coords="225,166,397,222"/>
+<area shape="rect" id="node3" href="$d2/dbe/classsmtrat_1_1mcsat_1_1nlsat_1_1ExplanationGenerator.html#aacff44679b62558675520bf36979b5cf" title="Construct expressions for the bounds of the CADCell component (a single sector/section) at the given ..." alt="" coords="463,129,635,185"/>
+<area shape="rect" id="node12" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#ae7d22ef2db76ccf1574655744d00cfe7" title=" " alt="" coords="445,209,652,251"/>
+<area shape="rect" id="node4" href="$db/d11/namespacesmtrat_1_1mcsat_1_1nlsat_1_1helper.html#ad1135f54f6e76e2779c3f0316f99b4b3" title="Construct an atomic formula representing a variable being greater than the given multivariate root." alt="" coords="705,5,859,47"/>
+<area shape="rect" id="node6" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="970,143,1069,170"/>
+<area shape="rect" id="node7" href="$db/d11/namespacesmtrat_1_1mcsat_1_1nlsat_1_1helper.html#ac6680d2830e30cbbf912bdc82f975ccb" title="Construct an atomic formula representing a variable being less than the given multivariate root." alt="" coords="705,71,859,112"/>
+<area shape="rect" id="node8" href="$db/d11/namespacesmtrat_1_1mcsat_1_1nlsat_1_1helper.html#a1a5988a8e278f951eabf3c05995b3228" title="Construct an atomic formula representing a variable being equal to the given multivariate root." alt="" coords="700,136,864,177"/>
+<area shape="rect" id="node9" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="710,253,854,295"/>
+<area shape="rect" id="node5" href="$db/d11/namespacesmtrat_1_1mcsat_1_1nlsat_1_1helper.html#ab8bdde0dc4778679ebc1cd0b4e4594fc" title="Construct a formula representing a variable comparison." alt="" coords="912,71,1127,112"/>
+<area shape="rect" id="node10" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="943,224,1095,265"/>
+<area shape="rect" id="node11" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="947,289,1091,331"/>
+</map>

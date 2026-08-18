@@ -1,0 +1,9 @@
+<map id="carl::Reductor::reduce" name="carl::Reductor::reduce">
+<area shape="rect" id="node1" title="The basic reduce routine on a priority queue." alt="" coords="5,122,169,149"/>
+<area shape="rect" id="node2" href="$de/d87/a02939.html#a3f90dfe263ad840f3269921c83f12cba" title=" " alt="" coords="244,5,424,47"/>
+<area shape="rect" id="node3" href="$d8/df3/a01216.html#abdceb8b916f3fe7e9a598d0af2282e53" title=" " alt="" coords="253,71,415,98"/>
+<area shape="rect" id="node4" href="$d8/df3/a01216.html#afa27dbe57cdb1348491fbc2b104cf4b3" title=" " alt="" coords="255,122,413,149"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="499,173,593,199"/>
+<area shape="rect" id="node7" href="$d8/df3/a01216.html#af185526c0e93a834b4d5c22bdb189672" title="A small routine which updates the underlying data structure for the polynomial which is reduced." alt="" coords="217,223,451,250"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="641,165,848,207"/>
+</map>

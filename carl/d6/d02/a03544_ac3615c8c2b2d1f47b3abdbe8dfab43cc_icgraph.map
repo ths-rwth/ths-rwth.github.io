@@ -1,0 +1,5 @@
+<map id="carl::UFManager::newUF" name="carl::UFManager::newUF">
+<area shape="rect" id="node1" title="Tries to add the given uninterpreted function&#39;s content to the so far stored uninterpreted function&#39;s..." alt="" coords="583,13,765,39"/>
+<area shape="rect" id="node2" href="$d6/d02/a03544.html#a4ee8c6e9b8badcc24effc69bb32f22b0" title="Gets the uninterpreted function with the given name, domain, arguments and codomain." alt="" coords="280,5,535,47"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#a8ccc51f3a846eef02f00c2f2f246f5d4" title="Gets the uninterpreted function with the given name, domain, arguments and codomain." alt="" coords="5,13,232,39"/>
+</map>

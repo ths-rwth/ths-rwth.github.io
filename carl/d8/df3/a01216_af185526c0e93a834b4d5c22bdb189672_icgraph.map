@@ -1,0 +1,8 @@
+<map id="carl::Reductor::updateDatastruct" name="carl::Reductor::updateDatastruct">
+<area shape="rect" id="node1" title="A small routine which updates the underlying data structure for the polynomial which is reduced." alt="" coords="844,46,1077,73"/>
+<area shape="rect" id="node2" href="$d8/df3/a01216.html#af8fc2542f3a78c6ac32ce0e0e664d515" title="The basic reduce routine on a priority queue." alt="" coords="632,46,796,73"/>
+<area shape="rect" id="node3" href="$d8/df3/a01216.html#a3d516020e3dc295520570680fecef702" title="Uses the ideal to reduce a polynomial as far as possible." alt="" coords="395,46,584,73"/>
+<area shape="rect" id="node4" href="$dc/d44/a02899.html#aec576da6a80c898c02191ef197346fcb" title=" " alt="" coords="200,5,347,47"/>
+<area shape="rect" id="node5" href="$d8/df3/a01216.html#a09e17fc1d6132080e01f0ded5b77519c" title="Reduce the input polynomials using the other input polynomials and the current Groebner basis." alt="" coords="200,71,347,112"/>
+<area shape="rect" id="node6" href="$dc/d44/a02899.html#a21c4b6e49554633012d57c90b2cb6f51" title=" " alt="" coords="5,71,152,112"/>
+</map>

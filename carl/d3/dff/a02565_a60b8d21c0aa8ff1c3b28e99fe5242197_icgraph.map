@@ -1,0 +1,4 @@
+<map id="carl::MultivariatePolynomial::is_number" name="carl::MultivariatePolynomial::is_number">
+<area shape="rect" id="node1" title="Check if the polynomial is a number, i.e., a constant." alt="" coords="164,5,371,47"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#af84e5cb03c9b9390ebd461f67b92d741" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="5,13,116,39"/>
+</map>

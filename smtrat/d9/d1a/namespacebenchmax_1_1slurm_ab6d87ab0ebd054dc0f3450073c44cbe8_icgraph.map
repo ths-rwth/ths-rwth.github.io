@@ -1,0 +1,4 @@
+<map id="benchmax::slurm::collect_result_files" name="benchmax::slurm::collect_result_files">
+<area shape="rect" id="node1" title="Collects all result files in the given base directory for this job id." alt="" coords="244,5,431,47"/>
+<area shape="rect" id="node2" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a33cf24e7711867083fbc3e719f40d32e" title=" " alt="" coords="5,5,196,47"/>
+</map>

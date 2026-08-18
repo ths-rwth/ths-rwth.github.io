@@ -1,0 +1,26 @@
+<map id="carl::remainder_helper" name="carl::remainder_helper">
+<area shape="rect" id="node1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="939,263,1108,290"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#abfeb486514341498d6b363229506eae8" title=" " alt="" coords="769,263,891,290"/>
+<area shape="rect" id="node3" href="$d9/d27/a02363.html#ac6dca3b99b365ec5bbee64801541426a" title=" " alt="" coords="504,5,721,47"/>
+<area shape="rect" id="node4" href="$dd/db2/a02563.html#aaf3d414079e70f1d149ed22c98f0c6dc" title=" " alt="" coords="539,71,686,112"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a7be9095a9d1076d03dd66d42cfae06e8" title=" " alt="" coords="565,137,660,163"/>
+<area shape="rect" id="node7" href="$dc/d21/a02079.html#a20893ff264e1a9903dddbc306c67a544" title=" " alt="" coords="504,187,721,214"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a5f31d7eb9305ddf4f3520e13d5c06e0c" title=" " alt="" coords="541,238,685,265"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#adf9d6c209abb44b9087d203e24604d36" title=" " alt="" coords="552,289,673,315"/>
+<area shape="rect" id="node13" href="$d6/da1/a01233.html#a90d508f57729bfcce3a49c1a1b09c8bd" title="Compute the signed pseudo&#45;remainder." alt="" coords="537,340,688,381"/>
+<area shape="rect" id="node14" href="$d6/da1/a01233.html#a0a7b1c21762f6b6b2dea7127d1812f16" title="Computes the sturm sequence of two polynomials." alt="" coords="532,406,693,433"/>
+<area shape="rect" id="node23" href="$d3/df5/a02827.html#a5a0f1acc8f17efa9ec3cd03f5ba0f5fa" title=" " alt="" coords="537,457,688,513"/>
+<area shape="rect" id="node24" href="$d7/d30/a01891.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="514,537,711,579"/>
+<area shape="rect" id="node5" href="$dd/db2/a02563.html#a7c139e69e1f9963c0a3358a5da615e02" title=" " alt="" coords="280,78,427,105"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a92a1ed8f4144f35978f564fc7d70c966" title=" " alt="" coords="292,137,415,163"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#a0c6f7cdb438acf1f4e5ed498cf6e3b34" title=" " alt="" coords="297,187,410,214"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a90e8d41f33ed25b55e4a0c082f472fd6" title="Calculates the greatest common divisor of two polynomials." alt="" coords="315,238,392,265"/>
+<area shape="rect" id="node15" href="$d6/da1/a01233.html#ae73a1af390927f2918e2430de9d6d6a9" title="Count the number of real roots of p within the given interval using Sturm sequences." alt="" coords="272,289,435,315"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#acf69f7df84adce86589ec9686663d4cf" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="298,339,409,366"/>
+<area shape="rect" id="node17" href="$d0/d82/a02831.html#a60ad2b8a2b499aa89058f907b6b38ad6" title=" " alt="" coords="251,390,456,446"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#a5f2501f6b7439c8baa0391a22786023b" title="Computes the sturm sequence of a polynomial as defined at , page 333, example 22." alt="" coords="273,470,434,497"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#ac21bb1811b2cf42b013c9dd32b86f8af" title=" " alt="" coords="255,521,452,547"/>
+<area shape="rect" id="node22" href="$d1/d24/a02847.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="271,572,435,613"/>
+<area shape="rect" id="node20" href="$d6/deb/a02915.html#a0d668f381c18fa52c494107c58065da3" title=" " alt="" coords="10,484,198,525"/>
+<area shape="rect" id="node21" href="$d6/da1/a01233.html#aefa8e0f210795a9a3106a4d1bce829ec" title=" " alt="" coords="5,550,203,577"/>
+</map>

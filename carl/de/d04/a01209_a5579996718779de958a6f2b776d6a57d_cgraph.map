@@ -1,0 +1,11 @@
+<map id="carl::definiteness" name="carl::definiteness">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,139,83"/>
+<area shape="rect" id="node2" href="$df/d23/a02751.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="203,5,330,32"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="217,56,317,83"/>
+<area shape="rect" id="node9" href="$df/d23/a02751.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="187,107,347,133"/>
+<area shape="rect" id="node4" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="741,82,864,123"/>
+<area shape="rect" id="node5" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="913,35,1061,61"/>
+<area shape="rect" id="node7" href="$df/d71/a02247.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="395,107,517,149"/>
+<area shape="rect" id="node6" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="912,89,1061,116"/>
+<area shape="rect" id="node8" href="$df/d71/a02247.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="565,107,693,149"/>
+</map>

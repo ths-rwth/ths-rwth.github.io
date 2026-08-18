@@ -1,0 +1,4 @@
+<map id="carl::Formula::substitute" name="carl::Formula::substitute">
+<area shape="rect" id="node1" title="Substitutes all occurrences of the given variable in this formula by the given polynomial." alt="" coords="139,29,319,56"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#ae0e877f343f7585b3de7c53543111f83" title="Transforms this formula to its quantifier free equivalent." alt="" coords="5,29,91,56"/>
+</map>

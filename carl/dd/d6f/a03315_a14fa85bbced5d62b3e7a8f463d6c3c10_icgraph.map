@@ -1,0 +1,9 @@
+<map id="carl::FactorizedPolynomial::factorizedTrivially" name="carl::FactorizedPolynomial::factorizedTrivially">
+<area shape="rect" id="node1" title=" " alt="" coords="247,156,440,197"/>
+<area shape="rect" id="node2" href="$dd/d6f/a03315.html#a104964e5f9fd885e27b8aed70fe3c1b4" title=" " alt="" coords="5,5,199,47"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a3a7bc83b7a9655c934b45f7c1552cb8e" title="Like substitute, but expects substitutions for all variables." alt="" coords="47,71,157,98"/>
+<area shape="rect" id="node4" href="$dd/d6f/a03315.html#ae12f9dd9d6d18c5750d66c630cef27b6" title="For terms with exactly one variable, get this variable." alt="" coords="5,123,199,164"/>
+<area shape="rect" id="node5" href="$dd/d6f/a03315.html#a2266e1f115e629a60881b00c115f430b" title="Checks if the polynomial is linear." alt="" coords="5,188,199,229"/>
+<area shape="rect" id="node6" href="$dd/d6f/a03315.html#aa724deec557d57800474a364d4e826aa" title=" " alt="" coords="5,253,199,295"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a6a9f95707d2678f34209539e01c3249a" title="Replace all variables by a value given in their map." alt="" coords="43,319,161,346"/>
+</map>

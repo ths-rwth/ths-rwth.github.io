@@ -1,0 +1,9 @@
+<map id="smtrat::cadcells::representation::handle_section_all_equational" name="smtrat::cadcells::representation::handle_section_all_equational">
+<area shape="rect" id="node1" title=" " alt="" coords="5,104,235,145"/>
+<area shape="rect" id="node2" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a37424763dbaf213a9a15cd3e0d15b47e" title="The set of polynomials without roots." alt="" coords="283,5,511,47"/>
+<area shape="rect" id="node3" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9fd0790e836a10dd37c51954e97e3359" title="The set of nullified polynomials." alt="" coords="283,71,511,112"/>
+<area shape="rect" id="node4" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="283,136,511,177"/>
+<area shape="rect" id="node5" href="$d5/dfd/classsmtrat_1_1cadcells_1_1datastructures_1_1SymbolicInterval.html#ae6e909db5afd9b60cecba2766865da21" title="In case of a section, the defining indexed root is returned." alt="" coords="283,202,511,258"/>
+<area shape="rect" id="node6" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a844fad4a0e83de0d80c9f7d546d61aa0" title=" " alt="" coords="559,176,787,217"/>
+<area shape="rect" id="node7" href="$d9/d03/classsmtrat_1_1cadcells_1_1datastructures_1_1Bound.html#aa79de91fb3006d9a4a5d92a501279328" title=" " alt="" coords="559,241,787,283"/>
+</map>

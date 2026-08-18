@@ -1,0 +1,10 @@
+<map id="smtrat::VarSchedulerMcsatTheoryFirst&lt; TheoryScheduler &gt;" name="smtrat::VarSchedulerMcsatTheoryFirst&lt; TheoryScheduler &gt;">
+<area shape="rect" id="node1" title="Variable scheduling that all decides theory variables first before deciding any Boolean variable." alt="" coords="123,511,357,552"/>
+<area shape="rect" id="node2" href="$d6/d59/classsmtrat_1_1VarSchedulerMcsatBase.html" title="Base class for all MCSAT variable scheduler." alt="" coords="5,421,235,448"/>
+<area shape="rect" id="node3" href="$d5/d1d/classsmtrat_1_1VarSchedulerBase.html" title="Base class for variable schedulers." alt="" coords="53,317,243,344"/>
+<area shape="rect" id="node4" href="$dc/dde/classsmtrat_1_1VarSchedulerMinisat.html" title="Minisat&#39;s activity&#45;based variable scheduling." alt="" coords="259,421,466,448"/>
+<area shape="rect" id="node5" href="$df/d6c/classMinisat_1_1Heap.html" title=" " alt="" coords="277,303,448,359"/>
+<area shape="rect" id="node6" href="$df/d6c/classMinisat_1_1Heap.html" title=" " alt="" coords="273,199,453,225"/>
+<area shape="rect" id="node7" href="$de/dcd/classMinisat_1_1vec.html" title=" " alt="" coords="289,95,437,121"/>
+<area shape="rect" id="node8" href="$de/dcd/classMinisat_1_1vec.html" title=" " alt="" coords="293,5,432,32"/>
+</map>

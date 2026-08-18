@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::nextSubResultCombination" name="smtrat::vs::State::nextSubResultCombination">
+<area shape="rect" id="node1" title="If the state contains a substitution result, which is a conjunction of disjunctions of conjunctions o..." alt="" coords="268,5,467,47"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,13,220,39"/>
+</map>

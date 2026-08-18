@@ -1,0 +1,7 @@
+<map id="carl::tuple_convert::operator()" name="carl::tuple_convert::operator()">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,148,80"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a0caabb54825c5a3ced5bcf9c42226c96" title=" " alt="" coords="196,17,311,43"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#a21dc00a634453dfde904676faf771d6c" title="Returns a new tuple containing everything but the first element." alt="" coords="196,71,311,98"/>
+<area shape="rect" id="node3" href="$d8/d53/a01225.html#addcb65e241fa0d79687db14491cf3b68" title="Helper method for carl::tuple_apply that actually performs the call." alt="" coords="359,5,491,47"/>
+<area shape="rect" id="node5" href="$d8/d53/a01225.html#aaaddae40126630a0a0c1d83dbb2eec25" title="Helper method for carl::tuple_tail that actually performs the call." alt="" coords="359,71,491,112"/>
+</map>

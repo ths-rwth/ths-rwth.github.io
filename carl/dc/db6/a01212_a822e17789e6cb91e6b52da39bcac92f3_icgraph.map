@@ -1,0 +1,6 @@
+<map id="carl::lagrangePositiveUpperBound" name="carl::lagrangePositiveUpperBound">
+<area shape="rect" id="node1" title=" " alt="" coords="672,5,875,47"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#aad130db0888a2aeee7b94b05e80a5913" title="Computes a lower bound on the value of the positive real roots of the given univariate polynomial." alt="" coords="421,5,624,47"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a0df4dc804925707f8c1eec46cfde5a2c" title=" " alt="" coords="5,13,116,39"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#adddea28eb496daf0732228c24b6746ce" title="Computes an upper bound on the value of the negative real roots of the given univariate polynomial." alt="" coords="164,35,373,76"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="carl::to_univariate_polynomial" name="carl::to_univariate_polynomial">
+<area shape="rect" id="node1" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="5,100,145,141"/>
+<area shape="rect" id="node2" href="$da/d96/a02547.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="193,35,400,76"/>
+<area shape="rect" id="node6" href="$da/d96/a02547.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="193,100,400,141"/>
+<area shape="rect" id="node7" href="$d8/d8e/a01224.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="239,166,354,193"/>
+<area shape="rect" id="node3" href="$da/d96/a02547.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="448,5,655,47"/>
+<area shape="rect" id="node5" href="$dc/d40/a02767.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="471,71,631,98"/>
+<area shape="rect" id="node4" href="$da/d96/a02547.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="703,5,909,47"/>
+<area shape="rect" id="node8" href="$d3/d79/a02083.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="460,166,643,193"/>
+</map>

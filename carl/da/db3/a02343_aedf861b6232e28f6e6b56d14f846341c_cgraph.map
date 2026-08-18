@@ -1,0 +1,5 @@
+<map id="carl::FLOAT_T::abs_assign" name="carl::FLOAT_T::abs_assign">
+<area shape="rect" id="node1" title="Assigns the number the absolute value of this number." alt="" coords="5,5,145,47"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a2621c3f57bc93187374da1f40c0afd67" title="Method which returns the absolute value of the passed number." alt="" coords="193,13,271,39"/>
+<area shape="rect" id="node3" href="$d1/d0c/a02251.html#ace798498657175679c31f1213f37e340" title="Calculates the absolute value of the interval." alt="" coords="319,13,453,39"/>
+</map>

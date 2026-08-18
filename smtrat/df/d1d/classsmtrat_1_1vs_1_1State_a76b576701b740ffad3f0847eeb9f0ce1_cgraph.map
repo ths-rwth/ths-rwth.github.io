@@ -1,0 +1,5 @@
+<map id="smtrat::vs::State::substitutionApplicable" name="smtrat::vs::State::substitutionApplicable">
+<area shape="rect" id="node1" title="Checks if the substitution of this state can be applied to the given constraint." alt="" coords="5,39,172,80"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a2797588fed2d0d49b8c332f5ea1959a0" title=" " alt="" coords="220,5,359,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9b77bfa8526848b1982faf2467e6210a" title=" " alt="" coords="220,71,359,112"/>
+</map>

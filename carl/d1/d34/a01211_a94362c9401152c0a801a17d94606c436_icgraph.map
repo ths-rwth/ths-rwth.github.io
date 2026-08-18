@@ -1,0 +1,9 @@
+<map id="carl::Term::isConstant" name="carl::Term::isConstant">
+<area shape="rect" id="node1" title="Checks whether the monomial is a constant." alt="" coords="280,167,443,193"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#afc412a650c00f818ef322bf277b7b07e" title=" " alt="" coords="80,5,157,32"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#a021a7e2efc115a08c6bb2c818b693091" title="Check if the polynomial has a constant term that is not zero." alt="" coords="5,57,232,98"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#ae8c9cf4c56ae84b2661a9035bd8841b7" title="Check if the polynomial is constant." alt="" coords="15,122,222,163"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#af360f619ce66a7c919ce6c6f0b38d0cd" title="Checks whether the term equals one." alt="" coords="33,188,204,244"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a0265aa0f4d99752d44784ec16443fd82" title="Checks whether a term is one." alt="" coords="73,268,164,295"/>
+<area shape="rect" id="node7" href="$de/d46/a01967.html#abbe0f02579a95f6fb9e1ece7b3cc1c4e" title="Calculates the hash of a Term." alt="" coords="13,319,224,361"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="smtrat::vs::State::rHasRecentlyAddedConditions" name="smtrat::vs::State::rHasRecentlyAddedConditions">
+<area shape="rect" id="node1" title=" " alt="" coords="208,5,427,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac8965c14433fd58f572aa3f74554ec73" title="Passes the original conditions of the covering set of the conflicts of this state to its father." alt="" coords="5,5,160,47"/>
+</map>

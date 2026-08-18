@@ -1,0 +1,12 @@
+<map id="carl::SortManager::addSortContent" name="carl::SortManager::addSortContent">
+<area shape="rect" id="node1" title=" " alt="" coords="585,71,731,112"/>
+<area shape="rect" id="node2" href="$df/d8e/a03509.html#a8c6c67379bcfdc171380a9d84d0403a0" title=" " alt="" coords="392,5,537,47"/>
+<area shape="rect" id="node4" href="$df/d8e/a03509.html#a026e40fc999521e4df130d7f2a1eecd9" title="Adds a sort declaration." alt="" coords="392,71,537,112"/>
+<area shape="rect" id="node5" href="$df/d8e/a03509.html#a90c38de1c71d7113fcf2de857ff4a7cb" title=" " alt="" coords="392,136,537,177"/>
+<area shape="rect" id="node3" href="$df/d8e/a03509.html#ac5c8f450a1a2b923a16d3bc9b740bd02" title=" " alt="" coords="199,5,344,47"/>
+<area shape="rect" id="node6" href="$d7/dc5/a01242.html#a327d66c395c2f9db6c50b3018652ba27" title="Gets the sort specified by the arguments." alt="" coords="221,82,322,109"/>
+<area shape="rect" id="node7" href="$df/d8e/a03509.html#a28038a8fff52c63d49d6fe62c3ccb395" title="Gets the sort with arity greater than zero corresponding the given name and having the arguments of t..." alt="" coords="5,155,151,196"/>
+<area shape="rect" id="node8" href="$df/d8e/a03509.html#a3b249d6a471432466b55779eb3e008e6" title=" " alt="" coords="199,249,344,291"/>
+<area shape="rect" id="node10" href="$df/d8e/a03509.html#a164c068c0f6928e3b979e51e9409b193" title="Recursively replaces sorts within the given sort according to the mapping of sort names to sorts as d..." alt="" coords="199,184,344,225"/>
+<area shape="rect" id="node9" href="$df/d8e/a03509.html#af5d3655e50bdd8730e5a6882611b99f2" title=" " alt="" coords="5,249,151,291"/>
+</map>

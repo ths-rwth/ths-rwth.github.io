@@ -1,0 +1,11 @@
+<map id="smtrat::subtropical::encode_as_formula_alt" name="smtrat::subtropical::encode_as_formula_alt">
+<area shape="rect" id="node1" title="Requires a quantifier&#45;free real arithmetic formula with no negations." alt="" coords="5,136,187,177"/>
+<area shape="rect" id="node2" href="$df/d6f/namespacesmtrat_1_1subtropical.html#a2ad5f41b1d233c12783cc2f2977c2fdc" title=" " alt="" coords="499,5,645,47"/>
+<area shape="rect" id="node3" href="$d6/d40/classsmtrat_1_1subtropical_1_1Encoding.html#a5f15d097bfe5394cea794950786f8150" title="Creates the formula for the hyperplane that linearly separates at least one variant positive frame ve..." alt="" coords="235,71,448,112"/>
+<area shape="rect" id="node5" href="$df/d6f/namespacesmtrat_1_1subtropical.html#a0565a78de6e8f9ec2d0d338fac01101e" title=" " alt="" coords="269,136,414,177"/>
+<area shape="rect" id="node6" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="269,201,413,243"/>
+<area shape="rect" id="node9" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="523,267,621,294"/>
+<area shape="rect" id="node4" href="$d8/dd4/structsmtrat_1_1subtropical_1_1Vertex.html#a02d561d4dfde4c354c8513bc4847836c" title=" " alt="" coords="499,71,645,112"/>
+<area shape="rect" id="node7" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="496,136,648,177"/>
+<area shape="rect" id="node8" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="500,201,644,243"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="carl::covering::SetCover::element_count" name="carl::covering::SetCover::element_count">
+<area shape="rect" id="node1" title="Returns the number of elements." alt="" coords="471,27,648,69"/>
+<area shape="rect" id="node2" href="$d7/da3/a01260.html#a6def487788f694a2003f319d51f2079d" title="Print the set cover to os." alt="" coords="228,5,423,32"/>
+<area shape="rect" id="node3" href="$de/d34/a01261.html#aee6074be8f0993e006d7db19a58e6c07" title="Preprocessing heuristic: Selects essential sets which are the only once covering some element." alt="" coords="238,57,413,98"/>
+<area shape="rect" id="node4" href="$de/d34/a01261.html#a5236c274a6413fb18713a3df16c57339" title="Exact &quot;heuristic&quot;: Computes a minimum set cover." alt="" coords="5,57,180,98"/>
+</map>

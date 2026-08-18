@@ -1,0 +1,15 @@
+<map id="smtrat::cad::ProjectionOperator::operator()" name="smtrat::cad::ProjectionOperator::operator()">
+<area shape="rect" id="node1" title=" " alt="" coords="5,344,232,385"/>
+<area shape="rect" id="node2" href="$d7/d11/namespacesmtrat_1_1cad_1_1projection_1_1brown.html#a5ea5a8e14996e104b5db5b9cfffb3f77" title="Implements the part of Browns projection operator from &#160;that deals with a single polynomial p: ." alt="" coords="291,303,460,344"/>
+<area shape="rect" id="node7" href="$d2/d50/namespacesmtrat_1_1cad_1_1projection_1_1collins.html#a93f65cd2f289bc5b39b14d03253089eb" title="Implements the part of Collins projection operator from &#160;that deals with a single polynomial p: ." alt="" coords="519,544,688,585"/>
+<area shape="rect" id="node9" href="$da/df8/namespacesmtrat_1_1cad_1_1projection_1_1hong.html#a28b165dc636daba90e0bc1c4629cc0fc" title="Implements the part of Hongs projection operator from &#160;that deals with a single polynomial p which is..." alt="" coords="291,541,460,583"/>
+<area shape="rect" id="node10" href="$d3/d26/namespacesmtrat_1_1cad_1_1projection_1_1lazard.html#a44f995d368a3c5dc5d17ddf501941c2b" title="Implements the part of Lazards projection operator from &#160;that deals with a single polynomial p: ." alt="" coords="291,233,460,275"/>
+<area shape="rect" id="node11" href="$d3/d93/namespacesmtrat_1_1cad_1_1projection_1_1mccallum.html#aa96f1072dd34569589e79e5e2acd1370" title="Implements the part of McCallums projection operator from &#160;that deals with a single polynomial p: ." alt="" coords="291,376,460,417"/>
+<area shape="rect" id="node12" href="$de/dbb/namespacesmtrat_1_1cad_1_1projection_1_1mccallum__partial.html#a85ae11239b4b8739f7e5df8db455bc71" title=" " alt="" coords="280,165,471,207"/>
+<area shape="rect" id="node3" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#abab87da1c31b80bcf989e69643441690" title="Computes the discriminant of a polynomial." alt="" coords="519,224,688,265"/>
+<area shape="rect" id="node5" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="753,283,922,324"/>
+<area shape="rect" id="node6" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#aaadb11de9ea92393506042cc35c8f8fe" title=" " alt="" coords="753,384,922,425"/>
+<area shape="rect" id="node4" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#add93ca6d13d8306114b868c0a67df3cb" title="Projection related utilities for onecellcad." alt="" coords="742,217,933,259"/>
+<area shape="rect" id="node8" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac472631e043d741a3cd933e3b2109956" title="Computes the Principal Subresultant Coefficients of two polynomials." alt="" coords="736,551,939,578"/>
+<area shape="rect" id="node13" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#af553a6cc14d6b1ab333fdd0bf9f87182" title="Tries to determine whether the given Poly vanishes for some assignment." alt="" coords="519,5,688,47"/>
+</map>

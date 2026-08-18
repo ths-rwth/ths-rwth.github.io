@@ -1,0 +1,10 @@
+var structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Sett251fdc40e704a78964ce5f32af591ceb =
+[
+    [ "PolyGetter", "d8/d34/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Sett251fdc40e704a78964ce5f32af591ceb.html#a19d60e15e492d71fadc5912bfc3ff062", null ],
+    [ "ProjectionCandidateComparator", "d8/d34/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Sett251fdc40e704a78964ce5f32af591ceb.html#a8e30a0deff20c880d5623f30f3d34085", null ],
+    [ "ProjectionCandidateComparator", "d8/d34/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Sett251fdc40e704a78964ce5f32af591ceb.html#a4c798c095f0f5dc1606217a12a7b7e9e", null ],
+    [ "ProjectionCandidateComparator", "d8/d34/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Sett251fdc40e704a78964ce5f32af591ceb.html#afd64ba69b68596c40bfc8e635f42621c", null ],
+    [ "operator()", "d8/d34/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Sett251fdc40e704a78964ce5f32af591ceb.html#a85229602c984a0987b891f697ff0bd72", null ],
+    [ "mComparator", "d8/d34/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Sett251fdc40e704a78964ce5f32af591ceb.html#ad3813e85638f924139d0b480a8e42649", null ],
+    [ "mPG", "d8/d34/structsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Sett251fdc40e704a78964ce5f32af591ceb.html#a9e8f3f2e63dfddad52f9bcd17ea02979", null ]
+];

@@ -1,0 +1,9 @@
+<map id="smtrat::Module::checkCore" name="smtrat::Module::checkCore">
+<area shape="rect" id="node1" title="Checks the received formula for consistency." alt="" coords="5,137,203,163"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#a06ad858dab391f2e26087311dd3a799d" title="Copies the given sub&#45;formula of the received formula to the passed formula." alt="" coords="251,5,465,47"/>
+<area shape="rect" id="node4" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a1000cc9ead9e4de0e876a9ebd83871ac" title=" " alt="" coords="281,71,435,112"/>
+<area shape="rect" id="node5" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a33c1578b6f89d0a72affdd18f73ed3f3" title=" " alt="" coords="265,137,451,163"/>
+<area shape="rect" id="node6" href="$d8/da6/classsmtrat_1_1Module.html#af0d682ffa4e1e9d6167b1c87695ef50e" title="Copies the infeasible subsets of the passed formula." alt="" coords="251,188,465,229"/>
+<area shape="rect" id="node7" href="$d8/da6/classsmtrat_1_1Module.html#a48420cdd01020f552082927a98904f00" title=" " alt="" coords="252,254,464,281"/>
+<area shape="rect" id="node3" href="$d8/da6/classsmtrat_1_1Module.html#a4966e7cbfd19dc31379a053dae95d35b" title="Adds the given formula to the passed formula with no origin." alt="" coords="513,5,741,47"/>
+</map>

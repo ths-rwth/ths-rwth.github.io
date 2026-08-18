@@ -1,0 +1,5 @@
+<map id="smtrat::Module::init" name="smtrat::Module::init">
+<area shape="rect" id="node1" title="Informs all backends about the so far encountered constraints, which have not yet been communicated." alt="" coords="212,57,363,84"/>
+<area shape="rect" id="node2" href="$db/d90/classsmtrat_1_1ICPModule.html#ab0e41a2cd8cd0acd4a43c9f86c248a75" title=" " alt="" coords="5,5,164,61"/>
+<area shape="rect" id="node3" href="$df/d4d/classsmtrat_1_1SATModule.html#abfb6c33f5feb1ac0a930de3870772b53" title="Checks the received formula for consistency." alt="" coords="7,86,162,127"/>
+</map>

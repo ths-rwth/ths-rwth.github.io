@@ -1,0 +1,7 @@
+<map id="carl::Interval::is_semi_positive" name="carl::Interval::is_semi_positive">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,128,69"/>
+<area shape="rect" id="node2" href="$d1/d9a/a02454.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="176,5,351,32"/>
+<area shape="rect" id="node3" href="$dc/d5a/a02254.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="202,57,325,98"/>
+<area shape="rect" id="node4" href="$dc/d5a/a02254.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="399,39,547,65"/>
+<area shape="rect" id="node5" href="$dc/d5a/a02254.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="399,89,548,116"/>
+</map>

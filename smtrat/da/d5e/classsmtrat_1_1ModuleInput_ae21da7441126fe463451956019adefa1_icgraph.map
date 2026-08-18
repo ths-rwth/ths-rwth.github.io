@@ -1,0 +1,15 @@
+<map id="smtrat::ModuleInput::empty" name="smtrat::ModuleInput::empty">
+<area shape="rect" id="node1" title=" " alt="" coords="983,217,1137,258"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#aa62260ca322fb39c8132b0acdecd33c3" title="Checks the received formula for consistency." alt="" coords="748,81,915,108"/>
+<area shape="rect" id="node8" href="$d8/da6/classsmtrat_1_1Module.html#a7049596a5572b50e879fbd785974cf2a" title=" " alt="" coords="728,158,935,199"/>
+<area shape="rect" id="node9" href="$d0/df0/classsmtrat_1_1Manager.html#aa2145656fcaf07ef286ff35482803e4c" title="Pops a backtrack point from the stack of backtrack points." alt="" coords="750,224,913,251"/>
+<area shape="rect" id="node12" href="$d0/df0/classsmtrat_1_1Manager.html#ae1eaf16b27ac6e8553e2a5af4ac56ac4" title=" " alt="" coords="507,275,677,301"/>
+<area shape="rect" id="node13" href="$d0/df0/classsmtrat_1_1Manager.html#a04285124f6d013acd64773f74de3ac42" title="Pushes a backtrack point to the stack of backtrack points." alt="" coords="747,325,916,352"/>
+<area shape="rect" id="node3" href="$dc/d3b/classsmtrat_1_1PModule.html#aefe9a92e4927c92b276b2dd5a780c9c6" title="Checks the received formula for consistency." alt="" coords="505,5,679,32"/>
+<area shape="rect" id="node4" href="$d0/df0/classsmtrat_1_1Manager.html#ad4ceacd4b82f11b14ada8f3ddd969b4f" title="Checks the so far added formulas for satisfiability." alt="" coords="504,56,680,83"/>
+<area shape="rect" id="node7" href="$d1/da0/classsmtrat_1_1ThreadPool.html#a4a0cf59bebd1016f6e7e2e1fc69f40e1" title=" " alt="" coords="519,107,665,149"/>
+<area shape="rect" id="node5" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="273,176,456,232"/>
+<area shape="rect" id="node6" href="$dc/dd2/structsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder.html#a40e9a1213bb9a2574b61c716b8f95dbc" title=" " alt="" coords="5,183,225,225"/>
+<area shape="rect" id="node10" href="$d0/df0/classsmtrat_1_1Manager.html#aebb7b27e1a44487d7c661dd077d617a1" title=" " alt="" coords="507,173,677,200"/>
+<area shape="rect" id="node11" href="$d0/df0/classsmtrat_1_1Manager.html#ac81d65678833958d3c18360eebc4b682" title=" " alt="" coords="511,224,673,251"/>
+</map>

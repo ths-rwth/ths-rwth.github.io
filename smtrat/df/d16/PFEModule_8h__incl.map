@@ -1,0 +1,55 @@
+<map id="smtrat&#45;modules/PFEModule/PFEModule.h" name="smtrat&#45;modules/PFEModule/PFEModule.h">
+<area shape="rect" id="node1" title="Removes factors of polynomials from the formula." alt="" coords="1389,5,1592,47"/>
+<area shape="rect" id="node2" href="$d3/dff/PModule_8h.html" title="All preprocessing modules shall derive from this module, that is modules, which simplify their receiv..." alt="" coords="1186,102,1369,129"/>
+<area shape="rect" id="node50" href="$d4/df6/VariableBounds_8h.html" title=" " alt="" coords="1406,95,1575,136"/>
+<area shape="rect" id="node53" href="$d9/d84/PFESettings_8h.html" title=" " alt="" coords="1599,102,1710,129"/>
+<area shape="rect" id="node3" href="$d4/dc7/Module_8h.html" title=" " alt="" coords="1211,184,1293,211"/>
+<area shape="rect" id="node4" title=" " alt="" coords="1325,661,1387,688"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1285,348,1328,375"/>
+<area shape="rect" id="node6" title=" " alt="" coords="5,743,64,770"/>
+<area shape="rect" id="node7" title=" " alt="" coords="1896,833,1963,859"/>
+<area shape="rect" id="node8" title=" " alt="" coords="1403,266,1467,293"/>
+<area shape="rect" id="node9" href="$d6/d8a/smtrat-common_8h.html" title=" " alt="" coords="846,423,1021,464"/>
+<area shape="rect" id="node41" href="$d2/dee/smtrat-common_2statistics_2Statistics_8h.html" title=" " alt="" coords="414,259,605,300"/>
+<area shape="rect" id="node43" href="$db/d1b/ModuleInput_8h.html" title=" " alt="" coords="1144,266,1259,293"/>
+<area shape="rect" id="node10" href="$d9/dc6/smtrat-common_2config_8h.html" title=" " alt="" coords="662,587,735,613"/>
+<area shape="rect" id="node11" href="$d7/dfd/smtrat-common_2types_8h.html" title=" " alt="" coords="1158,743,1229,770"/>
+<area shape="rect" id="node19" href="$db/d1e/smtrat-common_2logging_8h.html" title="Use your own judgement for the following log levels: TRACE Finer&#45;grained informational events than th..." alt="" coords="819,512,901,539"/>
+<area shape="rect" id="node20" href="$d0/d76/smtrat-common_2settings_2Settings_8h.html" title=" " alt="" coords="374,661,517,688"/>
+<area shape="rect" id="node28" href="$d5/d33/Validation_8h.html" title=" " alt="" coords="925,512,1093,539"/>
+<area shape="rect" id="node39" href="$d8/da8/Checkpoints_8h.html" title=" " alt="" coords="547,512,743,539"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1681,825,1871,867"/>
+<area shape="rect" id="node13" title=" " alt="" coords="486,833,669,859"/>
+<area shape="rect" id="node14" title=" " alt="" coords="693,833,867,859"/>
+<area shape="rect" id="node15" title=" " alt="" coords="892,825,1049,867"/>
+<area shape="rect" id="node16" title=" " alt="" coords="1073,825,1231,867"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1255,825,1457,867"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1482,825,1657,867"/>
+<area shape="rect" id="node21" title=" " alt="" coords="793,736,959,777"/>
+<area shape="rect" id="node22" title=" " alt="" coords="293,743,465,770"/>
+<area shape="rect" id="node23" title=" " alt="" coords="489,743,535,770"/>
+<area shape="rect" id="node24" title=" " alt="" coords="88,743,157,770"/>
+<area shape="rect" id="node25" title=" " alt="" coords="182,743,269,770"/>
+<area shape="rect" id="node26" title=" " alt="" coords="984,743,1035,770"/>
+<area shape="rect" id="node27" title=" " alt="" coords="1059,743,1133,770"/>
+<area shape="rect" id="node29" href="$d1/d93/ValidationCollector_8h.html" title=" " alt="" coords="937,587,1093,613"/>
+<area shape="rect" id="node36" href="$d2/dcb/ValidationSettings_8h.html" title=" " alt="" coords="760,587,912,613"/>
+<area shape="rect" id="node30" href="$d6/daf/ValidationPoint_8h.html" title=" " alt="" coords="1169,661,1301,688"/>
+<area shape="rect" id="node35" title=" " alt="" coords="992,661,1069,688"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1629,743,1715,770"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1531,743,1605,770"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1253,743,1307,770"/>
+<area shape="rect" id="node34" title=" " alt="" coords="1331,743,1506,770"/>
+<area shape="rect" id="node37" href="$d9/d77/smtrat-common_2settings_2SettingsParser_8h.html" title=" " alt="" coords="723,661,917,688"/>
+<area shape="rect" id="node38" title=" " alt="" coords="559,743,769,770"/>
+<area shape="rect" id="node40" title=" " alt="" coords="413,587,638,613"/>
+<area shape="rect" id="node42" title=" " alt="" coords="285,348,472,375"/>
+<area shape="rect" id="node44" title=" " alt="" coords="1021,348,1064,375"/>
+<area shape="rect" id="node45" title=" " alt="" coords="1089,348,1159,375"/>
+<area shape="rect" id="node46" href="$dc/d51/model_8h.html" title=" " alt="" coords="1408,348,1592,375"/>
+<area shape="rect" id="node47" title=" " alt="" coords="1745,423,1892,464"/>
+<area shape="rect" id="node48" title=" " alt="" coords="1403,430,1562,457"/>
+<area shape="rect" id="node49" title=" " alt="" coords="1586,423,1721,464"/>
+<area shape="rect" id="node51" title=" " alt="" coords="1541,184,1616,211"/>
+<area shape="rect" id="node52" href="$de/da1/VariableBounds_8tpp.html" title=" " alt="" coords="1318,184,1466,211"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="carl::resolve_negation" name="carl::resolve_negation">
+<area shape="rect" id="node1" title="Resolves the outermost negation of this formula." alt="" coords="5,553,172,580"/>
+<area shape="rect" id="node2" href="$d6/d8d/a03388.html#a8cde8842ab1c4e3294646f46c3e8c84b" title=" " alt="" coords="220,5,423,32"/>
+<area shape="rect" id="node3" href="$d6/d8d/a03388.html#a1d54fe5bc44781c0d1a78c7c760153c8" title=" " alt="" coords="229,56,413,83"/>
+<area shape="rect" id="node4" href="$d6/d8d/a03388.html#a53bd8ddccffcf3b3d3fefd25038e404a" title=" " alt="" coords="231,107,411,133"/>
+<area shape="rect" id="node5" href="$d0/de4/a03308.html#abe12d7e2bbfb9e8c9010478226610e3d" title=" " alt="" coords="252,158,391,199"/>
+<area shape="rect" id="node9" href="$d6/d8d/a03388.html#a6bace452e2223914fc9f07ae0de96dab" title=" " alt="" coords="233,224,410,251"/>
+<area shape="rect" id="node10" href="$d8/d15/a01218.html#ab3d32415866c01c32423ce682ccb0f95" title="Inverts the given relation symbol." alt="" coords="270,275,373,301"/>
+<area shape="rect" id="node11" href="$db/de4/a03288.html#af0f508ad01d4ecf555b73e081ec2fde4" title=" " alt="" coords="247,325,395,352"/>
+<area shape="rect" id="node12" href="$d0/de4/a03308.html#a523f74cfa684ecaf94a7f4992704839e" title=" " alt="" coords="238,376,405,403"/>
+<area shape="rect" id="node13" href="$db/d09/a03508.html#a9f67bae07223823cd1beec7d7ec5d93b" title=" " alt="" coords="250,427,393,453"/>
+<area shape="rect" id="node14" href="$db/d09/a03508.html#a8452c937ab0b63620bd90ad030e993b9" title=" " alt="" coords="233,477,410,504"/>
+<area shape="rect" id="node15" href="$d6/d8d/a03388.html#a19e2a704b518137aa3a950b2448bedfe" title=" " alt="" coords="237,528,405,555"/>
+<area shape="rect" id="node16" href="$db/de4/a03288.html#ae1d7f939c36f2a4ade2bd3645f7aa23b" title=" " alt="" coords="232,579,411,605"/>
+<area shape="rect" id="node17" href="$d0/de4/a03308.html#aa026430a6a238a46c06e8f2e1687fa26" title=" " alt="" coords="252,630,391,671"/>
+<area shape="rect" id="node18" href="$d0/de4/a03308.html#a14bc56c6b0bb18840ee21ca0d0412ef6" title=" " alt="" coords="238,696,405,723"/>
+<area shape="rect" id="node19" href="$db/d09/a03508.html#a6adb5fcc2875f19b5eb0edc65c57c580" title=" " alt="" coords="249,747,393,773"/>
+<area shape="rect" id="node20" href="$d6/d8d/a03388.html#a893e7797f072f20d7be3dd571dfccf6a" title=" " alt="" coords="222,797,421,824"/>
+<area shape="rect" id="node21" href="$d6/d8d/a03388.html#a8228727d41b9bb5f3d86f138778680d5" title=" " alt="" coords="251,848,392,875"/>
+<area shape="rect" id="node22" href="$d6/d8d/a03388.html#a042a19725b088992986aa971643eca50" title=" " alt="" coords="227,899,416,925"/>
+<area shape="rect" id="node23" href="$d6/d8d/a03388.html#a6052f4236f00b93b4c6c949eba4c7194" title=" " alt="" coords="223,949,419,976"/>
+<area shape="rect" id="node25" href="$d6/d8d/a03388.html#aa2dd63967bd8947d5bd74af386ea427c" title=" " alt="" coords="249,1000,393,1027"/>
+<area shape="rect" id="node26" href="$d6/d8d/a03388.html#a965e717780ee6603afdb2cef3c328ec0" title=" " alt="" coords="230,1051,413,1077"/>
+<area shape="rect" id="node27" href="$d6/d8d/a03388.html#a17c937aa2597eaa0d96640a8176e5059" title=" " alt="" coords="237,1102,405,1143"/>
+<area shape="rect" id="node6" href="$df/daa/a03316.html#aa12362996febe60619a587555770c820" title=" " alt="" coords="495,126,661,167"/>
+<area shape="rect" id="node8" href="$d7/db8/a03060.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="471,191,685,233"/>
+<area shape="rect" id="node7" href="$d0/d57/a03380.html#af37fb10dcc2bc1dd24afa8091054a147" title="Adds the given element to the pool, if it does not yet occur in there." alt="" coords="733,126,916,167"/>
+<area shape="rect" id="node24" href="$d6/d8d/a03388.html#a209cee783ef616c53e2bc712cf3cbb44" title=" " alt="" coords="497,949,659,976"/>
+</map>

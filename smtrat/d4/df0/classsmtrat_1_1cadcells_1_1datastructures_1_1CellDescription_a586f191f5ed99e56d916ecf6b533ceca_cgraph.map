@@ -1,0 +1,4 @@
+<map id="smtrat::cadcells::datastructures::CellDescription::lower" name="smtrat::cadcells::datastructures::CellDescription::lower">
+<area shape="rect" id="node1" title="Returns the lower bound as IndexedRoot if finite or std::nullopt if the lower bound is &#45;oo." alt="" coords="5,5,233,47"/>
+<area shape="rect" id="node2" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a52fb640f3688f5a6d2f3f2cc2400c6df" title=" " alt="" coords="281,5,509,47"/>
+</map>

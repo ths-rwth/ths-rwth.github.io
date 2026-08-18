@@ -1,0 +1,15 @@
+<map id="smtrat::cadcells::datastructures::CellDescription::section_defining" name="smtrat::cadcells::datastructures::CellDescription::section_defining">
+<area shape="rect" id="node1" title="In case of a section, the defining indexed root is returned." alt="" coords="815,169,1043,225"/>
+<area shape="rect" id="node2" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#addb4bd6ea5c857760c13a43c707e2825" title=" " alt="" coords="285,152,481,193"/>
+<area shape="rect" id="node4" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#aa891821c29053a02f3dc0157fd93495f" title=" " alt="" coords="285,5,481,47"/>
+<area shape="rect" id="node5" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a6de2a4d771bbe6f3b916cfe1b0e994f9" title=" " alt="" coords="534,241,766,283"/>
+<area shape="rect" id="node8" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#a47a0c6140c7a7a84a8b28e8b24ee26d9" title=" " alt="" coords="536,176,764,217"/>
+<area shape="rect" id="node9" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#a2d9e0f76b7211d28e7ea84ddf5ddf986" title=" " alt="" coords="285,71,481,127"/>
+<area shape="rect" id="node10" href="$d8/dcd/namespacesmtrat_1_1cadcells_1_1algorithms_1_1helper.html#ab07384a26763ca2cec7c8b79d15f4343" title="Converts a datastructures::CellDescription to a FormulaT." alt="" coords="548,372,752,413"/>
+<area shape="rect" id="node13" href="$d4/df0/classsmtrat_1_1cadcells_1_1datastructures_1_1CellDescription.html#a9824bdeb840f7026d5518eaa2aa77cfd" title=" " alt="" coords="533,307,767,348"/>
+<area shape="rect" id="node3" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#aeaac284d49024f6ae7d25f9a1e229621" title=" " alt="" coords="13,118,226,174"/>
+<area shape="rect" id="node6" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#ae589e9cafc360a24beb77294a98749c5" title=" " alt="" coords="285,234,481,290"/>
+<area shape="rect" id="node7" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#a79b774bbf04555843a4e1642db0d1e90" title=" " alt="" coords="5,234,233,290"/>
+<area shape="rect" id="node11" href="$da/dbb/namespacesmtrat_1_1cadcells_1_1algorithms.html#a6250e00d099f015ebc19426c92dad937" title="An MCAST&#45;style single cell explanation function." alt="" coords="281,372,485,413"/>
+<area shape="rect" id="node12" href="$d1/db1/structsmtrat_1_1mcsat_1_1onecell_1_1Explanation.html#a75cd27bf61468f6455d279a9000a180d" title=" " alt="" coords="29,372,209,413"/>
+</map>

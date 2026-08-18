@@ -1,0 +1,4 @@
+<map id="carl::Monomial::calc_total_degree" name="carl::Monomial::calc_total_degree">
+<area shape="rect" id="node1" title="Calculates the total degree and stores it to mTotalDegree." alt="" coords="245,5,399,47"/>
+<area shape="rect" id="node2" href="$d3/d25/a02683.html#a48df9796c1529639357cb9d4f4e06a8d" title="Generate a monomial from a vector of variable&#45;exponent pairs and a total degree." alt="" coords="5,13,197,39"/>
+</map>

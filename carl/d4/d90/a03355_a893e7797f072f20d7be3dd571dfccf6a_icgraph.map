@@ -1,0 +1,13 @@
+<map id="carl::Formula::second_case" name="carl::Formula::second_case">
+<area shape="rect" id="node1" title=" " alt="" coords="881,181,1080,207"/>
+<area shape="rect" id="node2" href="$d4/d63/a03459.html#a86d4c0d11d0f421ef1f619f9812cc36b" title=" " alt="" coords="633,35,833,76"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#a5f1a64253acd26abf86746b7a42d27d0" title="Resolves the outermost negation of this formula." alt="" coords="650,130,817,157"/>
+<area shape="rect" id="node8" href="$de/d04/a01209.html#a123081a99e9a8112b9a5c1a2ace74f4c" title=" " alt="" coords="434,189,529,215"/>
+<area shape="rect" id="node9" href="$de/d04/a01209.html#a0ea49fdbb441dcaed3f504e69023eb2f" title="Substitutes all variables from a model within a formula." alt="" coords="647,231,820,258"/>
+<area shape="rect" id="node10" href="$de/d04/a01209.html#ae96351310a8ead78a16bf37793796e55" title="Recursively calls func on every subformula and return a new formula." alt="" coords="670,282,797,309"/>
+<area shape="rect" id="node3" href="$d4/d63/a03459.html#ae430738372ce97aa3b6a4e6b41d8e2e7" title=" " alt="" coords="377,5,585,47"/>
+<area shape="rect" id="node5" href="$de/d04/a01209.html#ae5348ec0d0b3073c97a0d0ce99b96026" title="Converts the given formula to CNF." alt="" coords="235,101,329,127"/>
+<area shape="rect" id="node7" href="$d8/ddf/a01238.html#ada7ee1423bb4e90d63c19f339822c1c0" title="Converts an OR to cnf." alt="" coords="405,123,557,164"/>
+<area shape="rect" id="node6" href="$dd/d6d/a03547.html#adacbe6f985dfafd6acb3be1cb94686fb" title=" " alt="" coords="5,93,187,135"/>
+<area shape="rect" id="node11" href="$de/d04/a01209.html#a5009bd3bff3aa43c8f7733bcf44ca418" title=" " alt="" coords="422,282,541,309"/>
+</map>

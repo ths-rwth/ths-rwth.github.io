@@ -1,0 +1,40 @@
+<map id="carl::SortManager::index" name="carl::SortManager::index">
+<area shape="rect" id="node1" title=" " alt="" coords="5,561,151,602"/>
+<area shape="rect" id="node2" href="$dd/d6f/a02207.html#aa19a68d3e46bd34c85c599e66e7f8bfa" title=" " alt="" coords="392,595,537,637"/>
+<area shape="rect" id="node33" href="$dd/d6f/a02207.html#a748a82640afd9c7a727d1dc4c181a526" title=" " alt="" coords="199,443,344,485"/>
+<area shape="rect" id="node35" href="$dd/d6f/a02207.html#a90c38de1c71d7113fcf2de857ff4a7cb" title=" " alt="" coords="199,530,344,571"/>
+<area shape="rect" id="node37" href="$d3/d0f/a02203.html#aa430b04620026eb995019a2cb6398877" title="Return a copy of this SortContent without any indices." alt="" coords="202,654,341,695"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a01ac9cb767d10987a195fe8a8701be36" title="The content of a polynomial is the gcd of the coefficients of the normal part of a polynomial." alt="" coords="585,537,688,564"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="736,187,931,229"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#af5dd729b6f9a5bb6abbf84261214ef0b" title=" " alt="" coords="795,436,872,463"/>
+<area shape="rect" id="node13" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="1781,521,1875,548"/>
+<area shape="rect" id="node17" href="$dc/db6/a01212.html#a2999abb724e57d411690d76e2598c2b3" title="Checks whether the polynomial is unit normal." alt="" coords="1731,573,1925,614"/>
+<area shape="rect" id="node31" href="$d6/da1/a01233.html#a4e5a441d560c1602c81c3c1d5d6a0232" title=" " alt="" coords="1037,588,1127,615"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#ac661f4e8a790efa60aa3cb94f64cec82" title="Retrieve the constant term of this polynomial or zero, if there is no constant term." alt="" coords="979,305,1185,346"/>
+<area shape="rect" id="node7" href="$d7/dbf/a01239.html#a4fea6065a4a0696ca75fac75e7d6ccd2" title=" " alt="" coords="1006,187,1158,229"/>
+<area shape="rect" id="node30" href="$d1/d34/a01211.html#ae8c9cf4c56ae84b2661a9035bd8841b7" title="Check if the polynomial is constant." alt="" coords="979,370,1185,411"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a40921232139a1383703e451ea900cf4b" title=" " alt="" coords="1275,224,1399,251"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#ac2b216eaf8da91b9a816264e3e0a95aa" title="Computes the GCD of two univariate polynomial with coefficients from a unique factorization domain us..." alt="" coords="1245,407,1428,433"/>
+<area shape="rect" id="node18" href="$d7/dbf/a01239.html#acd5c2994c0f0852ca3b288e27734963e" title=" " alt="" coords="1253,158,1421,199"/>
+<area shape="rect" id="node9" href="$d7/d73/a01266.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="1514,224,1657,251"/>
+<area shape="rect" id="node10" href="$dd/da8/a03523.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="1737,217,1919,258"/>
+<area shape="rect" id="node11" href="$d9/d65/a03215.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="1733,282,1923,323"/>
+<area shape="rect" id="node15" href="$dc/db6/a01212.html#af408f5a70ab4d41596882ac19e757425" title="The normal part of a polynomial is the polynomial divided by the unit part." alt="" coords="1488,370,1683,411"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#ace1a47f6aa4103ee2d421fa561e13877" title="The primitive part of p is the normal part of p divided by the content of p." alt="" coords="1512,588,1659,615"/>
+<area shape="rect" id="node14" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="1979,573,2186,614"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#a9e12491561bd080f9cf41abe12546611" title="Intersects two intervals in a set&#45;theoretic manner." alt="" coords="1506,81,1665,108"/>
+<area shape="rect" id="node26" href="$d6/da1/a01233.html#a8215a604fc693189ab2161942a85a6d2" title="Add the variables of the given monomial to the variables." alt="" coords="1528,165,1643,192"/>
+<area shape="rect" id="node20" href="$d5/d73/a02423.html#abccdf63161e8de9c1a496680b1c503ed" title="A quick check for the bound values." alt="" coords="1732,107,1924,133"/>
+<area shape="rect" id="node23" href="$d5/d73/a02423.html#af91ba23a0d6a89c96cdd0759ded90298" title=" " alt="" coords="1733,56,1923,83"/>
+<area shape="rect" id="node24" href="$d5/d73/a02423.html#a34b42e2a84d680190d30d9beff11a8cc" title=" " alt="" coords="1733,5,1923,32"/>
+<area shape="rect" id="node21" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="2009,56,2157,83"/>
+<area shape="rect" id="node22" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="2008,107,2157,133"/>
+<area shape="rect" id="node25" href="$d5/d73/a02423.html#a5ff744c1668b51981f0b169fd9cd41a2" title="The getter for the lower bound type of the interval." alt="" coords="1973,5,2192,32"/>
+<area shape="rect" id="node27" href="$d6/d19/a02007.html#a9df560421a3fdbadf68035f008e8b9c7" title=" " alt="" coords="1743,165,1913,192"/>
+<area shape="rect" id="node28" href="$d7/d98/a02003.html#abfedf1dcbc7eb5d6df23dcf5ea0477e4" title=" " alt="" coords="2011,223,2154,265"/>
+<area shape="rect" id="node29" href="$d6/d19/a02007.html#ab22291bd03f45a207ab29ec8bb0aa2f7" title=" " alt="" coords="2013,158,2152,199"/>
+<area shape="rect" id="node32" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="1233,639,1440,681"/>
+<area shape="rect" id="node34" href="$df/d0e/a02195.html#ae1bb8b60c85e25109f3d3f421328759b" title=" " alt="" coords="415,428,515,455"/>
+<area shape="rect" id="node36" href="$dd/d6f/a02207.html#adf5ff00adea4c00eb9f12a5f2f1720cc" title=" " alt="" coords="392,530,537,571"/>
+<area shape="rect" id="node38" href="$d3/d0f/a02203.html#a2b258a029504edd9c673194fe0b00eb4" title=" " alt="" coords="395,661,534,702"/>
+</map>

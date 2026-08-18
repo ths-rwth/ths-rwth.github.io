@@ -1,0 +1,10 @@
+<map id="carl::operator*=" name="carl::operator*=">
+<area shape="rect" id="node1" title="Operator for the multiplication of an interval and a number with assignment." alt="" coords="5,88,132,115"/>
+<area shape="rect" id="node2" href="$d5/d73/a02423.html#a6515d1290413fe3cfdbec821bc3eca0d" title="Function which determines, if the interval is empty." alt="" coords="181,33,347,60"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="217,88,311,115"/>
+<area shape="rect" id="node8" href="$d5/d73/a02423.html#af8f2d203b725806cc6703ad0734de373" title="Returns a reference to the included boost interval." alt="" coords="180,139,348,165"/>
+<area shape="rect" id="node3" href="$d5/d73/a02423.html#abccdf63161e8de9c1a496680b1c503ed" title="A quick check for the bound values." alt="" coords="403,31,595,57"/>
+<area shape="rect" id="node4" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="651,5,799,32"/>
+<area shape="rect" id="node5" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="651,56,800,83"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="396,82,603,123"/>
+</map>

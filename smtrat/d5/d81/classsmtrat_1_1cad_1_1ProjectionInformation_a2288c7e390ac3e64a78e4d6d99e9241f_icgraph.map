@@ -1,0 +1,9 @@
+<map id="smtrat::cad::ProjectionInformation::usingEC" name="smtrat::cad::ProjectionInformation::usingEC">
+<area shape="rect" id="node1" title=" " alt="" coords="559,257,804,299"/>
+<area shape="rect" id="node2" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a203b09113ae254b66ca4983e43b3cc9e" title="Activate polynomials in the projection (in lvl &gt; level) that become again relevant if an equational c..." alt="" coords="282,5,494,76"/>
+<area shape="rect" id="node3" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a0cb511969df413fa71e3ebeefd7de694" title="Add projection candidates for a new polynomial." alt="" coords="281,100,495,171"/>
+<area shape="rect" id="node4" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#a2f3d712cbc07a40e3cf139974460db07" title=" " alt="" coords="282,195,494,265"/>
+<area shape="rect" id="node5" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#ae66cd32926828e4e77439f1dcb4d9c2d" title=" " alt="" coords="282,289,494,360"/>
+<area shape="rect" id="node6" href="$db/d55/classsmtrat_1_1cad_1_1Projection_3_01Incrementality_1_1FULL_00_01Backtracking_1_1HIDE_00_01Settings_01_4.html#afdc89ae55d45c1bbc8e99477dd269693" title="Deactivate polynomials in the projection (in lvl &gt; level) that become irrelevant due to a new equatio..." alt="" coords="5,392,217,463"/>
+<area shape="rect" id="node7" href="$d5/d81/classsmtrat_1_1cad_1_1ProjectionInformation.html#a3bc933962721d396740ce2ccc8ac857a" title=" " alt="" coords="265,436,511,477"/>
+</map>

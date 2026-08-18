@@ -1,0 +1,12 @@
+<map id="smtrat::qe::cad::CAD::lift" name="smtrat::qe::cad::CAD::lift">
+<area shape="rect" id="node1" title=" " alt="" coords="5,115,161,156"/>
+<area shape="rect" id="node2" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html#a418be0b2d40090d22259e3c341adeb84" title=" " alt="" coords="481,187,671,214"/>
+<area shape="rect" id="node3" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#aca0854fa29777899d599205887c50039" title="Get a polynomial from this level suited for lifting." alt="" coords="209,5,411,47"/>
+<area shape="rect" id="node8" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a9b46a1ab575a98d6049c7cd103369d98" title="Retrieves a polynomial from its id." alt="" coords="475,64,677,105"/>
+<area shape="rect" id="node9" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a3de7d51e6ea7bfea5a298ef9ab9563e2" title=" " alt="" coords="209,173,411,215"/>
+<area shape="rect" id="node10" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html#a49dd451ccf69535d9106817d97a196e1" title=" " alt="" coords="232,239,388,280"/>
+<area shape="rect" id="node4" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a519db782aa98ebed5354404cffd360bc" title="Returns the dimension of the projection." alt="" coords="459,13,693,39"/>
+<area shape="rect" id="node5" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#a595f3cee33120a7b588af6509caacabe" title=" " alt="" coords="741,5,943,47"/>
+<area shape="rect" id="node6" href="$d6/df5/classsmtrat_1_1cad_1_1BaseProjection.html#af1c4a845a809170ee3744feaa7ee07ef" title="Returns the variables used for projection." alt="" coords="741,71,943,112"/>
+<area shape="rect" id="node7" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#ae7d22ef2db76ccf1574655744d00cfe7" title=" " alt="" coords="991,71,1197,112"/>
+</map>

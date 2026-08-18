@@ -1,0 +1,11 @@
+<map id="smtrat::OrPathShortener" name="smtrat::OrPathShortener">
+<area shape="rect" id="node1" title="A rewriter that checks every (X)OR that only contains ANDs and UEQs as children for equalities that h..." alt="" coords="1784,47,1963,73"/>
+<area shape="rect" id="node2" title=" " alt="" coords="691,15,873,41"/>
+<area shape="rect" id="node3" title=" " alt="" coords="157,73,287,100"/>
+<area shape="rect" id="node7" title=" " alt="" coords="488,66,667,107"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,100,44,127"/>
+<area shape="rect" id="node9" title=" " alt="" coords="168,125,276,152"/>
+<area shape="rect" id="node5" href="$dc/d40/classsmtrat_1_1ModuleWrapper.html" title=" " alt="" coords="1443,65,1685,121"/>
+<area shape="rect" id="node6" href="$dc/d40/classsmtrat_1_1ModuleWrapper.html" title=" " alt="" coords="897,80,1116,107"/>
+<area shape="rect" id="node8" href="$da/d5e/classsmtrat_1_1ModuleInput.html" title="The input formula a module has to consider for it&#39;s satisfiability check." alt="" coords="500,132,655,159"/>
+</map>

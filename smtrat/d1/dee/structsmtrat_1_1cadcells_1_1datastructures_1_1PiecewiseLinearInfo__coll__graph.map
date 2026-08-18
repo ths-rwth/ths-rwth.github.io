@@ -1,0 +1,8 @@
+<map id="smtrat::cadcells::datastructures::PiecewiseLinearInfo" name="smtrat::cadcells::datastructures::PiecewiseLinearInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="987,66,1215,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="644,21,887,77"/>
+<area shape="rect" id="node3" title=" " alt="" coords="207,36,336,63"/>
+<area shape="rect" id="node4" title=" " alt="" coords="5,36,44,63"/>
+<area shape="rect" id="node5" href="$d7/dda/structsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRoot.html" title="Represents the i&#45;th root of a multivariate polynomial at its main variable (given an appropriate samp..." alt="" coords="651,102,879,143"/>
+<area shape="rect" id="node6" href="$d1/d23/structsmtrat_1_1cadcells_1_1datastructures_1_1PolyRef.html" title="Refers to a polynomial." alt="" coords="157,102,385,143"/>
+</map>

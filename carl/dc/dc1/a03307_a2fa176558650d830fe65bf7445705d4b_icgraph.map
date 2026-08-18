@@ -1,0 +1,6 @@
+<map id="carl::covering::SetCover::prune_sets" name="carl::covering::SetCover::prune_sets">
+<area shape="rect" id="node1" title="Removes empty sets." alt="" coords="451,39,628,80"/>
+<area shape="rect" id="node2" href="$de/d34/a01261.html#aba80b7d172221b391822fae3a725ca1a" title="Bounded greedy heuristic: Selects the largest remaining set until at most bound constraints remain." alt="" coords="228,5,403,47"/>
+<area shape="rect" id="node3" href="$de/d34/a01261.html#a8d4f5be8079bd0192c3906839256f787" title="Weighted greedy heuristic: Selects the largest remaining set according to the given weight function u..." alt="" coords="228,71,403,112"/>
+<area shape="rect" id="node4" href="$de/d34/a01261.html#ac02192f0db3b2927064ab23b4716f9ae" title="Weighted greedy heuristic: Selects the largest remaining set according to the given weight function u..." alt="" coords="5,71,180,112"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="smtrat::parser::TheoryError::next" name="smtrat::parser::TheoryError::next">
+<area shape="rect" id="node1" title=" " alt="" coords="807,1351,1005,1392"/>
+<area shape="rect" id="node2" href="$dc/d8f/structsmtrat_1_1parser_1_1NotCoreInstantiator.html#a9a5eaef9736b34d30326dd4fe3163fe7" title=" " alt="" coords="508,5,759,47"/>
+<area shape="rect" id="node3" href="$dc/dbc/structsmtrat_1_1parser_1_1ImpliesCoreInstantiator.html#aaf9875a60c17f6aea6f5539785d08226" title=" " alt="" coords="533,71,733,112"/>
+<area shape="rect" id="node4" href="$d3/d74/structsmtrat_1_1parser_1_1AtMostInstantiator.html#a5fcbf5e87dc0c20cca73f210d9ecda54" title=" " alt="" coords="512,136,755,177"/>
+<area shape="rect" id="node5" href="$d9/d54/structsmtrat_1_1parser_1_1SingleIndexBitvectorInstantiator.html#aaf759d42dd78c513b40beaf50c101ccc" title=" " alt="" coords="533,201,733,243"/>
+<area shape="rect" id="node6" href="$d4/dbd/structsmtrat_1_1parser_1_1ExtractBitvectorInstantiator.html#a8847c4a4d0a0c1bb2e6b013f4ff39138" title=" " alt="" coords="520,267,747,308"/>
+<area shape="rect" id="node7" href="$d9/dec/structsmtrat_1_1parser_1_1UnaryBitvectorInstantiator.html#aed5bdd84789e524e033352f7831d61b3" title=" " alt="" coords="523,332,743,373"/>
+<area shape="rect" id="node8" href="$d5/d3b/structsmtrat_1_1parser_1_1BinaryBitvectorInstantiator.html#aae73ccf4bb2b493875b021bb9de20849" title=" " alt="" coords="522,397,745,439"/>
+<area shape="rect" id="node9" href="$d6/d55/structsmtrat_1_1parser_1_1BitvectorRelationInstantiator.html#afc8d85d9d7b2e71aa2f98b23904f812b" title=" " alt="" coords="536,463,731,504"/>
+<area shape="rect" id="node10" href="$d0/da9/structsmtrat_1_1parser_1_1ArithmeticTheory.html#aabe7388a3953b33ec80a56f57542490e" title=" " alt="" coords="536,593,731,635"/>
+<area shape="rect" id="node11" href="$d0/da9/structsmtrat_1_1parser_1_1ArithmeticTheory.html#a49db32a23d5997005f831eeb3db44af5" title="Resolve another unknown function call." alt="" coords="259,593,449,635"/>
+<area shape="rect" id="node12" href="$d6/d8e/namespacesmtrat_1_1parser_1_1core.html#ad9f8dae3bef990a315d7c27df4eec78c" title=" " alt="" coords="558,711,709,752"/>
+<area shape="rect" id="node15" href="$d4/da5/namespacesmtrat_1_1parser_1_1uninterpreted.html#af70673b53eef03fc5663998a20eba76c" title=" " alt="" coords="528,2004,739,2045"/>
+<area shape="rect" id="node16" href="$dc/dc5/structsmtrat_1_1parser_1_1UninterpretedTheory.html#a2eb23bd05d2aeec1dfe8eec32fc71cc0" title="Resolve another unknown function call." alt="" coords="248,1364,460,1405"/>
+<area shape="rect" id="node18" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html#ac55c5c2b5aa23478572d2e169c286a8e" title="Resolve a quantified term." alt="" coords="523,828,744,869"/>
+<area shape="rect" id="node19" href="$d0/da9/structsmtrat_1_1parser_1_1ArithmeticTheory.html#ac196756a7024ef19f0a101b5993fb93b" title="Resolve a quantified term." alt="" coords="523,893,744,935"/>
+<area shape="rect" id="node20" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html#a1dd0228755d580905a4d47a89eb54f0f" title="Declare a new variable with the given name and the given sort." alt="" coords="545,959,721,1000"/>
+<area shape="rect" id="node21" href="$d0/da9/structsmtrat_1_1parser_1_1ArithmeticTheory.html#a890ab6725687d1818540ea1f5ea3a72c" title="Declare a new variable with the given name and the given sort." alt="" coords="538,1024,729,1065"/>
+<area shape="rect" id="node22" href="$da/d21/structsmtrat_1_1parser_1_1BitvectorTheory.html#a3deb4fd954a29de602f7f3d0432e15ff" title="Declare a new variable with the given name and the given sort." alt="" coords="543,1089,724,1131"/>
+<area shape="rect" id="node23" href="$da/daf/structsmtrat_1_1parser_1_1CoreTheory.html#a98a67069d455387ff25d7e97f2bbc560" title="Declare a new variable with the given name and the given sort." alt="" coords="535,1155,732,1196"/>
+<area shape="rect" id="node24" href="$dc/dc5/structsmtrat_1_1parser_1_1UninterpretedTheory.html#a11a9022f48da6038034a9aac11ee4d4c" title="Declare a new variable with the given name and the given sort." alt="" coords="527,1220,739,1261"/>
+<area shape="rect" id="node25" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html#a2c617bec3d2023b5680c4732fe78e879" title="Resolve another unknown function call." alt="" coords="545,1285,721,1327"/>
+<area shape="rect" id="node26" href="$da/d21/structsmtrat_1_1parser_1_1BitvectorTheory.html#afefafb8a862bf1714d6c969280fb2280" title="Resolve another unknown function call." alt="" coords="543,1351,724,1392"/>
+<area shape="rect" id="node27" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html#a092d147db23bc0fe07196eb73dd35763" title="Resolve a distinct operator." alt="" coords="545,1416,721,1457"/>
+<area shape="rect" id="node28" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html#a7deaa4cdc5db1c5f0ce8a229adae3c77" title="Resolve an if&#45;then&#45;else operator." alt="" coords="545,1481,721,1523"/>
+<area shape="rect" id="node29" href="$d0/da9/structsmtrat_1_1parser_1_1ArithmeticTheory.html#ac6f71cd884dcd75ab385be59d3b0c72f" title="Resolve an if&#45;then&#45;else operator." alt="" coords="538,1547,729,1588"/>
+<area shape="rect" id="node30" href="$da/d21/structsmtrat_1_1parser_1_1BitvectorTheory.html#a08978f0d7c016dcf21e64538b00bff13" title="Resolve an if&#45;then&#45;else operator." alt="" coords="543,1612,724,1653"/>
+<area shape="rect" id="node31" href="$da/daf/structsmtrat_1_1parser_1_1CoreTheory.html#a67639691ad611d8c3a2097b8da7e25ca" title="Resolve an if&#45;then&#45;else operator." alt="" coords="535,1677,732,1719"/>
+<area shape="rect" id="node32" href="$dc/dc5/structsmtrat_1_1parser_1_1UninterpretedTheory.html#a7e9d65a46e09208120b62a29cb3b8888" title="Resolve an if&#45;then&#45;else operator." alt="" coords="527,1743,739,1784"/>
+<area shape="rect" id="node33" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html#ad68530f9156d8db496a5c40cc5bb4f3e" title="Instantiate a variable within a term." alt="" coords="545,1808,721,1849"/>
+<area shape="rect" id="node34" href="$d0/da9/structsmtrat_1_1parser_1_1ArithmeticTheory.html#a0d8aa75ce788ef42943176e1055f8458" title="Instantiate a variable within a term." alt="" coords="538,1873,729,1915"/>
+<area shape="rect" id="node35" href="$da/d21/structsmtrat_1_1parser_1_1BitvectorTheory.html#a53483cdecbcef815e91f8442b4a41bd2" title="Instantiate a variable within a term." alt="" coords="543,1939,724,1980"/>
+<area shape="rect" id="node36" href="$dc/df8/structsmtrat_1_1parser_1_1Theories.html#ac6525caeda800b253a3e2026d69708aa" title=" " alt="" coords="541,2069,726,2111"/>
+<area shape="rect" id="node39" href="$de/df5/namespacesmtrat_1_1parser_1_1arithmetic.html#a01dc634999ae45d7ad99d1cf534fca0c" title=" " alt="" coords="539,528,728,569"/>
+<area shape="rect" id="node40" href="$dd/d55/structsmtrat_1_1parser_1_1conversion_1_1VectorVariantConverter.html#a0c9a5610f2c83414f876437253ac1d3c" title=" " alt="" coords="537,2135,730,2191"/>
+<area shape="rect" id="node41" href="$d3/d92/structsmtrat_1_1parser_1_1IndexedFunctionInstantiator.html#ad7d759333ae958ccf86452b222cb13bb" title=" " alt="" coords="519,2216,747,2257"/>
+<area shape="rect" id="node42" href="$da/df5/structsmtrat_1_1parser_1_1IndexedBitvectorInstantiator.html#aefbf8c8c3fb5ee3d4e56056cd6d7d5ca" title=" " alt="" coords="517,2281,749,2323"/>
+<area shape="rect" id="node43" href="$d8/dd0/structsmtrat_1_1parser_1_1FunctionInstantiator.html#ad3e22b7f4edd5a10b2d40f28ce60b24c" title=" " alt="" coords="545,2347,722,2388"/>
+<area shape="rect" id="node44" href="$d2/d4e/structsmtrat_1_1parser_1_1ToRealInstantiator.html#aa5d819f07c78d3eb687e199c27d1da5e" title=" " alt="" coords="513,2412,753,2453"/>
+<area shape="rect" id="node45" href="$df/dfc/structsmtrat_1_1parser_1_1BitvectorInstantiator.html#ad4551df27617e223373f05081afeb0df" title=" " alt="" coords="543,2477,724,2519"/>
+<area shape="rect" id="node46" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html#a75290ffbf4080162f6b0cdea991c4486" title=" " alt="" coords="545,2543,721,2584"/>
+<area shape="rect" id="node47" href="$da/d21/structsmtrat_1_1parser_1_1BitvectorTheory.html#a3cd46f1a184c0202469527ad389114c7" title=" " alt="" coords="543,2608,724,2649"/>
+<area shape="rect" id="node48" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html#a1f9716f01adbe7493dcdec2c8130c96c" title="Resolve a symbol that was not declared within the ParserState." alt="" coords="545,2673,721,2715"/>
+<area shape="rect" id="node49" href="$da/d21/structsmtrat_1_1parser_1_1BitvectorTheory.html#a181c69c138ac04418e30a1ddba7b09fa" title="Resolve a symbol that was not declared within the ParserState." alt="" coords="543,2739,724,2780"/>
+<area shape="rect" id="node13" href="$da/daf/structsmtrat_1_1parser_1_1CoreTheory.html#ad6ce2392a2a4bc1cf3ed04b240559e05" title="Resolve another unknown function call." alt="" coords="255,685,453,727"/>
+<area shape="rect" id="node14" href="$da/daf/structsmtrat_1_1parser_1_1CoreTheory.html#ad0d9252855743691e74b30dfed4af58e" title="Resolve a distinct operator." alt="" coords="255,751,453,792"/>
+<area shape="rect" id="node17" href="$dc/dc5/structsmtrat_1_1parser_1_1UninterpretedTheory.html#a146d21e3afdccf8236d2b9f037b46353" title="Resolve a distinct operator." alt="" coords="248,2004,460,2045"/>
+<area shape="rect" id="node37" href="$dc/df8/structsmtrat_1_1parser_1_1Theories.html#a57827ca97788ec1545b462d4bf8c0e45" title=" " alt="" coords="265,2069,443,2111"/>
+<area shape="rect" id="node38" href="$d0/d16/structsmtrat_1_1parser_1_1TermParser.html#ad53a7b81a5eec03d7400ac2a3ba8182b" title=" " alt="" coords="5,2069,200,2111"/>
+</map>

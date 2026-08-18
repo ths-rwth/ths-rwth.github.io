@@ -1,0 +1,17 @@
+<map id="delta::Consumer" name="delta::Consumer">
+<area shape="rect" id="node1" title="This class takes care of asynchronous execution of calls to the solver." alt="" coords="1252,203,1381,229"/>
+<area shape="rect" id="node2" href="$d6/df0/classdelta_1_1Checker.html" title="This class takes care of calling the actual solver." alt="" coords="981,179,1095,205"/>
+<area shape="rect" id="node3" title=" " alt="" coords="504,107,695,133"/>
+<area shape="rect" id="node4" title=" " alt="" coords="160,107,293,133"/>
+<area shape="rect" id="node8" title=" " alt="" coords="734,9,887,36"/>
+<area shape="rect" id="node12" title=" " alt="" coords="528,157,671,184"/>
+<area shape="rect" id="node15" title=" " alt="" coords="719,56,903,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="5,189,44,216"/>
+<area shape="rect" id="node10" title=" " alt="" coords="163,272,291,299"/>
+<area shape="rect" id="node6" title=" " alt="" coords="556,211,643,237"/>
+<area shape="rect" id="node11" href="$d2/d5d/classdelta_1_1TempFilenameGenerator.html" title="This class generates and reuses temporary filenames with a common prefix." alt="" coords="927,229,1149,256"/>
+<area shape="rect" id="node7" title=" " alt="" coords="157,203,296,245"/>
+<area shape="rect" id="node9" title=" " alt="" coords="725,406,897,447"/>
+<area shape="rect" id="node13" title=" " alt="" coords="507,272,692,299"/>
+<area shape="rect" id="node14" title=" " alt="" coords="553,329,645,356"/>
+</map>

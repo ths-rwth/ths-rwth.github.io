@@ -1,0 +1,4 @@
+var structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__PDEL_01_4 =
+[
+    [ "compute", "d2/d9e/structsmtrat_1_1cadcells_1_1representation_1_1cell_3_01CellHeuristic_1_1LOWEST__DEGREE__BARRIERS__PDEL_01_4.html#a1280bcee1c354953eac46503872157d5", null ]
+];

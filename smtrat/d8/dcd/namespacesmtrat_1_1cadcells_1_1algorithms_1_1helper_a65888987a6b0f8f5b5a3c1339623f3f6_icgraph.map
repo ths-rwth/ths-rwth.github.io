@@ -1,0 +1,6 @@
+<map id="smtrat::cadcells::algorithms::helper::as_multivariate_root" name="smtrat::cadcells::algorithms::helper::as_multivariate_root">
+<area shape="rect" id="node1" title="Converts an datastructures::IndexedRoot to a MultivariateRootT." alt="" coords="737,5,952,47"/>
+<area shape="rect" id="node2" href="$d8/dcd/namespacesmtrat_1_1cadcells_1_1algorithms_1_1helper.html#ab07384a26763ca2cec7c8b79d15f4343" title="Converts a datastructures::CellDescription to a FormulaT." alt="" coords="485,5,689,47"/>
+<area shape="rect" id="node3" href="$da/dbb/namespacesmtrat_1_1cadcells_1_1algorithms.html#a6250e00d099f015ebc19426c92dad937" title="An MCAST&#45;style single cell explanation function." alt="" coords="233,5,437,47"/>
+<area shape="rect" id="node4" href="$d1/db1/structsmtrat_1_1mcsat_1_1onecell_1_1Explanation.html#a75cd27bf61468f6455d279a9000a180d" title=" " alt="" coords="5,5,185,47"/>
+</map>

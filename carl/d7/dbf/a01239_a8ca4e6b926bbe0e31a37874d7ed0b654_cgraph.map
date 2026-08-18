@@ -1,0 +1,6 @@
+<map id="carl::resultant_debug::eliminate" name="carl::resultant_debug::eliminate">
+<area shape="rect" id="node1" title="Eliminates the leading factor of p with q." alt="" coords="5,71,164,112"/>
+<area shape="rect" id="node2" href="$d1/d57/a02543.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="212,5,407,47"/>
+<area shape="rect" id="node3" href="$d1/d57/a02543.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="212,71,407,112"/>
+<area shape="rect" id="node4" href="$d1/d57/a02543.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="212,136,407,177"/>
+</map>

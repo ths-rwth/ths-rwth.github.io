@@ -1,0 +1,52 @@
+<map id="carl::abs" name="carl::abs">
+<area shape="rect" id="node1" title="Method which returns the absolute value of the passed number." alt="" coords="753,816,831,843"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a595d19ea36df249c7691cae13d76213a" title=" " alt="" coords="565,115,643,141"/>
+<area shape="rect" id="node3" href="$d2/da6/a02339.html#ae2842089ffd65ce04868e96e9a23f898" title="Function which calculates the absolute value of this number and puts it into a passed result paramete..." alt="" coords="534,165,674,192"/>
+<area shape="rect" id="node6" href="$d2/da6/a02339.html#a72108509ec0f9364fc75f6f77859212c" title="Assigns the number the absolute value of this number." alt="" coords="534,325,674,366"/>
+<area shape="rect" id="node7" href="$de/d04/a01209.html#afdcf963c8932f388540ee5c531bbe56b" title=" " alt="" coords="533,391,675,417"/>
+<area shape="rect" id="node8" href="$de/d04/a01209.html#a520068bdcb9bc052331bb114fb9124c6" title="Compares _constraintA with _constraintB." alt="" coords="549,441,659,468"/>
+<area shape="rect" id="node19" href="$d8/df3/a01216.html#a34836e1d10fcc3797323372c470264d2" title=" " alt="" coords="529,633,679,674"/>
+<area shape="rect" id="node21" href="$de/d04/a01209.html#ac6a156ef415c5f9bb1839fda809b18b0" title="If this constraint represents a substitution (equation, where at least one variable occurs only linea..." alt="" coords="525,699,683,725"/>
+<area shape="rect" id="node23" href="$d1/d39/a02859.html#a6adb7ef87b716bd4e8c374f802decb24" title=" " alt="" coords="516,750,692,791"/>
+<area shape="rect" id="node26" href="$de/d04/a01209.html#a6f2f1e3841c1defdf4f8588508320b65" title=" " alt="" coords="521,816,687,843"/>
+<area shape="rect" id="node27" href="$de/d04/a01209.html#ad39ad79b773b9e5c6f397c629c751127" title=" " alt="" coords="528,867,680,893"/>
+<area shape="rect" id="node29" href="$de/d04/a01209.html#a822e17789e6cb91e6b52da39bcac92f3" title=" " alt="" coords="503,918,705,959"/>
+<area shape="rect" id="node31" href="$de/d04/a01209.html#a1957aead1a52774fa515fbb15a6a7ed1" title=" " alt="" coords="563,984,645,1011"/>
+<area shape="rect" id="node32" href="$d3/d1c/a03551.html#a59d61e9f28bf136387a363bb8687872f" title=" " alt="" coords="513,1035,695,1077"/>
+<area shape="rect" id="node34" href="$de/d04/a01209.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="563,1323,645,1349"/>
+<area shape="rect" id="node48" href="$de/d04/a01209.html#a6d419654f3cfc0f8bc7e78eba1d9c7bd" title=" " alt="" coords="550,1373,658,1400"/>
+<area shape="rect" id="node49" href="$d2/da6/a01210.html#aadd2d7db708f54d72dece5a9088e25cb" title=" " alt="" coords="515,1425,693,1466"/>
+<area shape="rect" id="node50" href="$de/d04/a01209.html#aa9466dcdb956399dd11a7b182296762e" title=" " alt="" coords="551,1491,657,1517"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#aaa95bad04d20ca377b13a586a0ad6a52" title="Method which returns the absolute value of the passed number." alt="" coords="295,5,372,32"/>
+<area shape="rect" id="node5" href="$d2/da6/a02339.html#ada6162fae4b8ba59244beeb6d66c5f5a" title="Function required for extension of Eigen3 with FLOAT_T as a custom type which calculates the absolute..." alt="" coords="254,56,413,83"/>
+<area shape="rect" id="node9" href="$de/d04/a01209.html#aa7b1a1ad34c27fe2e213b75a9f6a2573" title=" " alt="" coords="278,107,389,133"/>
+<area shape="rect" id="node10" href="$d6/d1e/a02171.html#a5df5aff941d61a2e4ca7e1f99c67af67" title=" " alt="" coords="228,158,439,199"/>
+<area shape="rect" id="node11" href="$d7/da1/a02231.html#a5bcfb0def1a64f2d6ed8fcd13e061db4" title=" " alt="" coords="234,223,433,265"/>
+<area shape="rect" id="node12" href="$d7/daf/a01169.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="306,289,361,316"/>
+<area shape="rect" id="node13" href="$de/d04/a01209.html#a7f2efd32f528f28513340e855be476c9" title=" " alt="" coords="271,340,396,367"/>
+<area shape="rect" id="node14" href="$de/d04/a01209.html#aa51fd804aa4eb81da92013d1c7420dce" title=" " alt="" coords="273,391,393,417"/>
+<area shape="rect" id="node15" href="$de/d04/a01209.html#ae6e7c32b4edfca29b6c99c2a19156684" title=" " alt="" coords="268,441,399,468"/>
+<area shape="rect" id="node16" href="$de/d04/a01209.html#a1ea3b551630d8580ce0204cc00911a2b" title=" " alt="" coords="268,492,399,519"/>
+<area shape="rect" id="node17" href="$de/d04/a01209.html#a86560fa254fe86ef952e6f2ff03201d6" title=" " alt="" coords="273,543,393,569"/>
+<area shape="rect" id="node18" href="$de/d04/a01209.html#ae839cae2cae10328932ab8a38c3fc4a1" title=" " alt="" coords="268,593,399,620"/>
+<area shape="rect" id="node20" href="$de/d04/a01209.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="265,644,401,671"/>
+<area shape="rect" id="node22" href="$de/d04/a01209.html#aee1219b5be0b01fbd0d27ec1abf2ee38" title=" " alt="" coords="254,695,413,721"/>
+<area shape="rect" id="node24" href="$d1/d39/a02859.html#a42d39dfc46bde7d71eb7b43d6795eead" title=" " alt="" coords="245,746,421,787"/>
+<area shape="rect" id="node25" href="$d1/d39/a02859.html#a76e0a84d72c42ac8d67d4d0ad856018c" title=" " alt="" coords="245,811,421,853"/>
+<area shape="rect" id="node28" href="$d6/d6c/a02819.html#adce23fb8a47cdca5a570b24116c28bf5" title="Use root bounds to shrink mInterval." alt="" coords="252,877,415,933"/>
+<area shape="rect" id="node30" href="$de/d04/a01209.html#aad130db0888a2aeee7b94b05e80a5913" title="Computes a lower bound on the value of the positive real roots of the given univariate polynomial." alt="" coords="232,958,435,999"/>
+<area shape="rect" id="node33" href="$d3/d1c/a03551.html#a6ddf614ff4d2216bc1f82c5b61de8d76" title=" " alt="" coords="242,1023,425,1065"/>
+<area shape="rect" id="node35" href="$de/d04/a01209.html#a1aca023d3caed5fa32fad4086edc7b1b" title=" " alt="" coords="278,1089,389,1116"/>
+<area shape="rect" id="node36" href="$d3/d7b/a01249.html#a6b2be379a4d726d275ceaf1318bcd350" title="Gathers zeros with side conditions from the given constraint in the given variable." alt="" coords="253,1140,414,1167"/>
+<area shape="rect" id="node37" href="$d1/d50/a02487.html#a02af3c0f1130238c5e3715ef4749253b" title=" " alt="" coords="248,1191,419,1233"/>
+<area shape="rect" id="node38" href="$d4/dd9/a03599.html#ae231ec1cd70d5e4a1d4e97b1f3a38fe4" title=" " alt="" coords="212,1257,455,1298"/>
+<area shape="rect" id="node39" href="$d0/d0c/a02095.html#ab4d6a382d9ad57fdfbea1e4b96d32a32" title=" " alt="" coords="242,1323,425,1349"/>
+<area shape="rect" id="node40" href="$de/d04/a01209.html#a01c22030c748400a8f5eac16a6287d95" title=" " alt="" coords="293,1373,374,1400"/>
+<area shape="rect" id="node41" href="$d2/da6/a02339.html#a058c063cd635bd62a67d4aef37d4ef33" title="Function which calculates the power of this number and puts it into a passed result parameter." alt="" coords="261,1424,405,1451"/>
+<area shape="rect" id="node42" href="$de/d04/a01209.html#a2cfd3ac5e5c5fdab6e0a1c0db1087f04" title=" " alt="" coords="268,1475,399,1501"/>
+<area shape="rect" id="node43" href="$de/d04/a01209.html#aee23dc17b4acd2244d03406cfe1fca85" title="Calculates the pseudo&#45;remainder." alt="" coords="246,1525,421,1552"/>
+<area shape="rect" id="node44" href="$d7/ddd/a01223.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="5,1543,164,1585"/>
+<area shape="rect" id="node45" href="$d7/ddd/a01223.html#acbb5856111407c2f5f44d35dcf372e3e" title="An implementation of the naive resultant algorithm based on the silvester matrix." alt="" coords="254,1627,413,1669"/>
+<area shape="rect" id="node46" href="$dd/d3f/a01221.html#a1eb9193857ce1d44fdecdde0abd91536" title=" " alt="" coords="233,1693,433,1720"/>
+<area shape="rect" id="node47" href="$de/d04/a01209.html#a90d508f57729bfcce3a49c1a1b09c8bd" title="Compute the signed pseudo&#45;remainder." alt="" coords="258,1745,409,1786"/>
+</map>

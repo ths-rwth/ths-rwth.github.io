@@ -1,0 +1,6 @@
+<map id="smtrat::SATModule::insertVarOrder" name="smtrat::SATModule::insertVarOrder">
+<area shape="rect" id="node1" title="Insert a variable in the decision order priority queue." alt="" coords="521,39,676,80"/>
+<area shape="rect" id="node2" href="$df/d4d/classsmtrat_1_1SATModule.html#a7824da3b8e54b8353ef71bbdd90a8298" title="Declare if a variable should be eligible for selection in the decision heuristic." alt="" coords="319,39,473,80"/>
+<area shape="rect" id="node3" href="$df/d4d/classsmtrat_1_1SATModule.html#a25723ec14450dc98565ec8fd6766bba2" title=" " alt="" coords="5,5,271,47"/>
+<area shape="rect" id="node4" href="$df/d4d/classsmtrat_1_1SATModule.html#aedf3713438ab288439d846579486f072" title=" " alt="" coords="7,71,269,112"/>
+</map>

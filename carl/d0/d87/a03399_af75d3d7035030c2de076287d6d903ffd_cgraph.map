@@ -1,0 +1,8 @@
+<map id="carl::FormulaPool::create" name="carl::FormulaPool::create">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,148,69"/>
+<area shape="rect" id="node2" href="$d0/d87/a03399.html#a23165adfe845a7548896de527470e85a" title="Adds the given formula to the pool, if it does not yet occur in there." alt="" coords="196,5,363,32"/>
+<area shape="rect" id="node3" href="$d0/d87/a03399.html#a9ff9451eafbea38aa7bbafecb028656d" title=" " alt="" coords="208,57,351,98"/>
+<area shape="rect" id="node4" href="$d7/d35/a03295.html#ad8f9bbbc6728ccc5a504f02225aeec5a" title=" " alt="" coords="411,64,597,91"/>
+<area shape="rect" id="node5" href="$d7/d35/a03295.html#a5d4c71acbb4304574a728dba41e5bf03" title="Returns the associated BasicConstraint." alt="" coords="659,39,828,65"/>
+<area shape="rect" id="node6" href="$d7/d35/a03295.html#afeb8e10304437b25f77dc03bfe58838a" title=" " alt="" coords="645,89,841,116"/>
+</map>

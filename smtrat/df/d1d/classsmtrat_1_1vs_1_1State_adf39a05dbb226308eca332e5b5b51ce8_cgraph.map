@@ -1,0 +1,12 @@
+<map id="smtrat::vs::State::initIndex" name="smtrat::vs::State::initIndex">
+<area shape="rect" id="node1" title="Sets, if it has not already happened, the index of the state to the name of the most adequate variabl..." alt="" coords="5,174,144,215"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ac96ba300146f3604019a8fd9c7ae50dc" title=" " alt="" coords="192,43,395,85"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="463,84,562,111"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9a768d1c99448dd16a703626113f7db3" title=" " alt="" coords="204,109,383,150"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae972a4958673a15faab2093eb12dbf82" title=" " alt="" coords="631,226,769,267"/>
+<area shape="rect" id="node6" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a69e810c5e927862cc361ccded073ed62" title=" " alt="" coords="631,357,769,398"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a42cfc8e3fefe80c768ba2da381621ab3" title="Sets the index of this state." alt="" coords="224,291,363,333"/>
+<area shape="rect" id="node10" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a6a871e974bc11680d927eedc201db033" title=" " alt="" coords="200,174,387,215"/>
+<area shape="rect" id="node8" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ff360e44da1e0ffa4ab4f8c68b87c4f" title="Sets all flags of the conditions to true, if it contains the variable given by the states index." alt="" coords="443,291,583,333"/>
+<area shape="rect" id="node9" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09e850d5fd674de1644036c9b1cbf256" title=" " alt="" coords="631,291,769,333"/>
+</map>

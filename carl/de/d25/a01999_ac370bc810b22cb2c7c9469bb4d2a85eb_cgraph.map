@@ -1,0 +1,7 @@
+<map id="carl::VariablePool::clear" name="carl::VariablePool::clear">
+<area shape="rect" id="node1" title="Clears everything already created in this pool." alt="" coords="5,93,140,135"/>
+<area shape="rect" id="node2" href="$de/d25/a01999.html#a609d1de5e480fa4d03114bc814f68021" title="Get a variable which was not used before." alt="" coords="191,5,329,47"/>
+<area shape="rect" id="node3" href="$d6/d8e/a01979.html#ae00fad76caa1ec7042dff9e50aa46f36" title="Retrieves the id of the variable." alt="" coords="197,71,323,98"/>
+<area shape="rect" id="node4" href="$de/d25/a01999.html#ab0f306fef67d765f146778b023dddc59" title=" " alt="" coords="193,123,327,164"/>
+<area shape="rect" id="node5" href="$d6/d8e/a01979.html#ae954c1f1e59102d1c58af6c9d326717a" title="Retrieves the type of the variable." alt="" coords="188,189,332,215"/>
+</map>

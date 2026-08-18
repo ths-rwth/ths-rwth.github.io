@@ -1,0 +1,17 @@
+<map id="carl::lagrangePositiveLowerBound" name="carl::lagrangePositiveLowerBound">
+<area shape="rect" id="node1" title="Computes a lower bound on the value of the positive real roots of the given univariate polynomial." alt="" coords="5,265,208,306"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a822e17789e6cb91e6b52da39bcac92f3" title=" " alt="" coords="256,231,459,273"/>
+<area shape="rect" id="node15" href="$dc/db6/a01212.html#a6e2ed68cabd475f11ad39f28388bcd18" title="Reverse coefficients safely." alt="" coords="260,297,455,338"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a2621c3f57bc93187374da1f40c0afd67" title="Method which returns the absolute value of the passed number." alt="" coords="565,5,643,32"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="507,57,701,98"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="507,122,701,163"/>
+<area shape="rect" id="node6" href="$d2/d11/a02647.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="765,209,940,236"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a9cc2f7f3c081d4856a654898f6871206" title="Checks whether the monomial is a constant." alt="" coords="540,289,668,316"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a6ce46550875791855595237d2db27106" title=" " alt="" coords="545,239,663,265"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="557,340,651,367"/>
+<area shape="rect" id="node13" href="$dc/db6/a01212.html#a3b69de1d6744b99d9dc59ccd6edcb086" title="Returns the leading coefficient." alt="" coords="507,391,701,433"/>
+<area shape="rect" id="node14" href="$d6/da1/a01233.html#a4fd1d78fcbf18091e1998be458e7157e" title=" " alt="" coords="547,457,661,484"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#afc981b483658718d20a99e26c28159a2" title="Gives the total degree, i.e." alt="" coords="785,285,921,312"/>
+<area shape="rect" id="node9" href="$d1/d34/a01211.html#a233741b29ca1c4fbdba0e1cc7776de39" title="Gives the total degree, i.e." alt="" coords="1004,285,1160,312"/>
+<area shape="rect" id="node12" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="749,337,956,378"/>
+</map>

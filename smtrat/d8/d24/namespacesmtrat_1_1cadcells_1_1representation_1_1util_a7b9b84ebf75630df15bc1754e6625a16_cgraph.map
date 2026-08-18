@@ -1,0 +1,11 @@
+<map id="smtrat::cadcells::representation::util::is_covering" name="smtrat::cadcells::representation::util::is_covering">
+<area shape="rect" id="node1" title=" " alt="" coords="5,243,235,284"/>
+<area shape="rect" id="node2" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#a4e780845d44bbab99ff28a3e29ace540" title="Compares an upper bound with a lower bound of DelineationIntervals." alt="" coords="283,180,511,221"/>
+<area shape="rect" id="node9" href="$d4/d78/namespacesmtrat_1_1cadcells_1_1datastructures.html#a2123b3e6f69746909b486d4f71b7601c" title="Compares the upper bounds of two DelineationIntervals." alt="" coords="283,275,511,316"/>
+<area shape="rect" id="node3" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#af859a2d005b6d4dca8355892dfd43e79" title=" " alt="" coords="565,5,793,47"/>
+<area shape="rect" id="node4" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a43853db147d7936536a2ee461ba88830" title=" " alt="" coords="559,71,798,112"/>
+<area shape="rect" id="node5" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a23396f759eafdf95e9d41ac9a777e14f" title=" " alt="" coords="847,93,1075,149"/>
+<area shape="rect" id="node6" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#ab623319f2aecdc705d59308a767ee595" title=" " alt="" coords="565,239,793,280"/>
+<area shape="rect" id="node7" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a0b53f2f387b4799df7f0e9fabfa3b657" title=" " alt="" coords="559,304,799,345"/>
+<area shape="rect" id="node8" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a89d10bab7fef184f8b68ea662424814b" title=" " alt="" coords="847,297,1075,353"/>
+</map>

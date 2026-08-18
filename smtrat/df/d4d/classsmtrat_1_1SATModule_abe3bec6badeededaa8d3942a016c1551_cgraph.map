@@ -1,0 +1,5 @@
+<map id="smtrat::SATModule::removeSatisfied" name="smtrat::SATModule::removeSatisfied">
+<area shape="rect" id="node1" title="Removes all satisfied clauses from the given vector of clauses, which should only be performed in dec..." alt="" coords="5,23,160,65"/>
+<area shape="rect" id="node2" href="$de/dcd/classMinisat_1_1vec.html#a13395d1616dfcaa8aa750c90ac625c86" title=" " alt="" coords="208,5,357,32"/>
+<area shape="rect" id="node3" href="$de/dcd/classMinisat_1_1vec.html#a97cf3ce028b39491e502479e78e8dd77" title=" " alt="" coords="215,56,350,83"/>
+</map>

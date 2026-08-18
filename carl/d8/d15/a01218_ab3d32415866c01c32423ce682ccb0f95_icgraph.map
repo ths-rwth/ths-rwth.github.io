@@ -1,0 +1,18 @@
+<map id="carl::inverse" name="carl::inverse">
+<area shape="rect" id="node1" title="Inverts the given relation symbol." alt="" coords="863,265,965,292"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a1bd60982c643cabb2176637bffcd9c8c" title="Adds the bound to the bounds of the polynomial specified by this constraint." alt="" coords="628,173,815,200"/>
+<area shape="rect" id="node6" href="$d8/d15/a01218.html#af5d4134e25097675f2d9643219baefe5" title="Convert this variable comparison &quot;v &lt; root(..)&quot; into a simpler polynomial (in)equality against zero &quot;..." alt="" coords="651,115,792,141"/>
+<area shape="rect" id="node8" href="$d8/d15/a01218.html#a8b4e9b847d470d7abc59242c5fce8b59" title=" " alt="" coords="377,5,580,32"/>
+<area shape="rect" id="node11" href="$df/d28/a02152.html#ad2c7cfdc9ffab54c02742027895d3d3e" title=" " alt="" coords="629,225,814,266"/>
+<area shape="rect" id="node12" href="$db/d87/a02076.html#aca6770667b37e9ab2f509dc466d7cb70" title=" " alt="" coords="643,290,799,331"/>
+<area shape="rect" id="node13" href="$d8/d15/a01218.html#a5f1a64253acd26abf86746b7a42d27d0" title="Resolves the outermost negation of this formula." alt="" coords="638,356,805,383"/>
+<area shape="rect" id="node15" href="$da/da1/a01258.html#ad5b4aa3676afed7d74cc6829a9fa4d7f" title="Applies a substitution to a variable comparison." alt="" coords="650,407,793,433"/>
+<area shape="rect" id="node16" href="$d4/dd5/a01244.html#a2ea03fb98dda71ef599f15404b0d2ff7" title="Converts Constraint&lt;RationalFunction&lt;Poly&gt;&gt; to Constraint&lt;Poly&gt;" alt="" coords="630,458,813,499"/>
+<area shape="rect" id="node3" href="$d8/d15/a01218.html#ae5348ec0d0b3073c97a0d0ce99b96026" title="Converts the given formula to CNF." alt="" coords="235,297,329,324"/>
+<area shape="rect" id="node5" href="$dd/d95/a01247.html#ada7ee1423bb4e90d63c19f339822c1c0" title="Converts an OR to cnf." alt="" coords="403,290,555,331"/>
+<area shape="rect" id="node4" href="$dc/dca/a03580.html#adacbe6f985dfafd6acb3be1cb94686fb" title=" " alt="" coords="5,290,187,331"/>
+<area shape="rect" id="node7" href="$d2/d21/a03392.html#a5cbfd8ff98373973f4291bbeca66393d" title=" " alt="" coords="407,173,550,214"/>
+<area shape="rect" id="node9" href="$da/da1/a01258.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="398,56,559,83"/>
+<area shape="rect" id="node10" href="$dc/d4c/a03664.html#a64184b334c10e900d6cfc86ab0d83b96" title=" " alt="" coords="394,107,563,149"/>
+<area shape="rect" id="node14" href="$d8/d15/a01218.html#a123081a99e9a8112b9a5c1a2ace74f4c" title=" " alt="" coords="431,407,526,433"/>
+</map>

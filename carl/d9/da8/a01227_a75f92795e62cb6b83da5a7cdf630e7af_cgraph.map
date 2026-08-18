@@ -1,0 +1,10 @@
+<map id="carl::detail_sign_variations::shift" name="carl::detail_sign_variations::shift">
+<area shape="rect" id="node1" title="Shift the variable by a, i.e." alt="" coords="5,71,203,112"/>
+<area shape="rect" id="node2" href="$d3/d41/a02530.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="251,5,445,47"/>
+<area shape="rect" id="node3" href="$d3/d41/a02530.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="251,71,445,112"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a98df826da90dc24a6e5254f13df7b057" title=" " alt="" coords="308,137,388,163"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#ae0d525094e8ca4f57347d606e8ce40fa" title="Get the bit size of the representation of a integer." alt="" coords="538,57,635,83"/>
+<area shape="rect" id="node6" href="$dd/deb/a02766.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="728,129,915,171"/>
+<area shape="rect" id="node7" href="$dd/deb/a02766.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="493,159,680,200"/>
+<area shape="rect" id="node8" href="$dd/deb/a02766.html#a9392daa40b9085e09ed2cfe20c44fd2a" title=" " alt="" coords="493,224,680,265"/>
+</map>

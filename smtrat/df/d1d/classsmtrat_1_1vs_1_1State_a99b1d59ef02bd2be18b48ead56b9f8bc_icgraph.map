@@ -1,0 +1,6 @@
+<map id="smtrat::vs::State::rCannotBeSolved" name="smtrat::vs::State::rCannotBeSolved">
+<area shape="rect" id="node1" title=" " alt="" coords="281,57,420,98"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="12,5,227,32"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a591d6612ab2d545dad2877d18bcde95d" title=" " alt="" coords="20,57,219,98"/>
+<area shape="rect" id="node4" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="5,123,233,149"/>
+</map>

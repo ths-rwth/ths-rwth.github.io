@@ -1,0 +1,12 @@
+<map id="smtrat::VSModule::updateModel" name="smtrat::VSModule::updateModel">
+<area shape="rect" id="node1" title="Updates the model, if the solver has detected the consistency of the received formula,..." alt="" coords="5,253,196,295"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html#ac2d762b60d122194af81aab8ce323d11" title=" " alt="" coords="244,5,456,47"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a2797588fed2d0d49b8c332f5ea1959a0" title=" " alt="" coords="281,71,419,112"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a41839f75a8ce678bfedb0bc04c9d0e87" title=" " alt="" coords="504,224,643,265"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a9b77bfa8526848b1982faf2467e6210a" title=" " alt="" coords="281,188,419,229"/>
+<area shape="rect" id="node6" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a6f4c7c81f16377c76f771a08ea4de671" title=" " alt="" coords="263,253,437,295"/>
+<area shape="rect" id="node7" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a2f2da9262c05dd1bd023927904a80c9b" title=" " alt="" coords="281,319,419,360"/>
+<area shape="rect" id="node8" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#afdceb3218d044c7e6eb0c5e82f82c74b" title=" " alt="" coords="263,384,437,425"/>
+<area shape="rect" id="node9" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="301,450,399,477"/>
+<area shape="rect" id="node10" href="$da/df9/classsmtrat_1_1vs_1_1Substitution.html#a74c4006dbd14742413c5675ef1c05b58" title=" " alt="" coords="263,501,437,543"/>
+</map>

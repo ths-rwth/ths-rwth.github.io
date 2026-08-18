@@ -1,0 +1,7 @@
+<map id="smtrat::vs::State::setIndex" name="smtrat::vs::State::setIndex">
+<area shape="rect" id="node1" title="Sets the index of this state." alt="" coords="5,71,144,112"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a7ff360e44da1e0ffa4ab4f8c68b87c4f" title="Sets all flags of the conditions to true, if it contains the variable given by the states index." alt="" coords="192,71,332,112"/>
+<area shape="rect" id="node3" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae972a4958673a15faab2093eb12dbf82" title=" " alt="" coords="380,5,519,47"/>
+<area shape="rect" id="node4" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a69e810c5e927862cc361ccded073ed62" title=" " alt="" coords="380,71,519,112"/>
+<area shape="rect" id="node5" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#a09e850d5fd674de1644036c9b1cbf256" title=" " alt="" coords="380,136,519,177"/>
+</map>

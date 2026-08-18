@@ -1,0 +1,8 @@
+<map id="carl::MonomialPool::free" name="carl::MonomialPool::free">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,152,90"/>
+<area shape="rect" id="node2" href="$d1/d89/a03035.html#aad45082b56debee194062ec06fc1b914" title=" " alt="" coords="204,31,335,57"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#a7de26ed1a7aa3fd5d5fc87015de972d1" title="Return the id of this monomial." alt="" coords="200,81,339,108"/>
+<area shape="rect" id="node3" href="$d5/dea/a02927.html#a9de0d41fc6b1ee50437f2e828db25412" title="Sets the given bit to a value, true by default." alt="" coords="390,5,510,32"/>
+<area shape="rect" id="node5" href="$d5/dea/a02927.html#acf742d4731e26aa5230889d1a391e015" title="Retrieves the size of mData." alt="" coords="387,56,513,83"/>
+<area shape="rect" id="node4" href="$d5/dea/a02927.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="561,5,732,32"/>
+</map>

@@ -1,0 +1,31 @@
+<map id="carl::ThomEncoding::extendSignCondition" name="carl::ThomEncoding::extendSignCondition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,136,171,177"/>
+<area shape="rect" id="node2" href="$d6/d51/a02535.html#a390ef87395dac609c335304753c220b1" title="Calculates the degree of this polynomial with respect to the given variable." alt="" coords="417,5,624,47"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a7d966bc50ac65ad95230ac2c4873006f" title=" " alt="" coords="257,63,331,90"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a0c0448ac4cee24dd4f080db6241a21de" title="Computes the n&#39;th derivative of a number, which is either the number itself (for n = 0) or zero." alt="" coords="461,71,581,98"/>
+<area shape="rect" id="node6" href="$dd/d04/a02887.html#a90d677ff1c3bb73da50da56a9e194f88" title=" " alt="" coords="219,165,369,207"/>
+<area shape="rect" id="node7" href="$dd/d04/a02887.html#aa8988fabd67e85378e9aeb6d8d65b598" title=" " alt="" coords="219,231,369,272"/>
+<area shape="rect" id="node8" href="$dd/d04/a02887.html#a3f72714f3c01126c90b6958ed87ac3c4" title=" " alt="" coords="219,395,369,436"/>
+<area shape="rect" id="node5" href="$df/db6/a02455.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="688,71,863,98"/>
+<area shape="rect" id="node9" href="$dd/d04/a02887.html#a5a6855577483bb53cc301c4af0ea3d08" title=" " alt="" coords="421,188,620,229"/>
+<area shape="rect" id="node13" href="$dd/d04/a02887.html#a1f78676b2c0cf99d1df79e538a7d97a6" title=" " alt="" coords="445,123,596,164"/>
+<area shape="rect" id="node14" href="$d6/d51/a02535.html#a2f6524b8552fc389eafd79a6302ecd4a" title="Check if the polynomial is constant." alt="" coords="417,319,624,360"/>
+<area shape="rect" id="node18" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="471,467,571,494"/>
+<area shape="rect" id="node24" href="$d1/d39/a02859.html#a0791ddaf1ccad6de71ebef2904e95463" title=" " alt="" coords="449,519,593,560"/>
+<area shape="rect" id="node25" href="$d6/d51/a02535.html#a710a3efef2f7f20bdaf15c311edb9650" title="Returns the coefficient of the leading term." alt="" coords="417,395,624,436"/>
+<area shape="rect" id="node27" href="$dc/db6/a01212.html#a950ad7b037cc356cc3dc210953f36804" title="Obtain the sign of the given number." alt="" coords="482,585,559,611"/>
+<area shape="rect" id="node28" href="$dc/db6/a01212.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="463,635,578,662"/>
+<area shape="rect" id="node10" href="$dd/d04/a02887.html#acff61181b981fa16649b4964919614be" title=" " alt="" coords="700,123,851,164"/>
+<area shape="rect" id="node11" href="$dd/d04/a02887.html#a825f16b5e6426c70ed5635fc0fe59105" title=" " alt="" coords="688,188,863,229"/>
+<area shape="rect" id="node12" href="$d1/d39/a02859.html#a5af4f3004b9d2de16ed0590da7430a77" title=" " alt="" coords="958,188,1102,229"/>
+<area shape="rect" id="node15" href="$df/d02/a02755.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="691,254,859,281"/>
+<area shape="rect" id="node16" href="$d6/d51/a02535.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="672,356,879,397"/>
+<area shape="rect" id="node17" href="$d6/d51/a02535.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="927,327,1133,368"/>
+<area shape="rect" id="node19" href="$d1/d0c/a02251.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1181,545,1304,587"/>
+<area shape="rect" id="node20" href="$d1/d0c/a02251.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1353,498,1501,525"/>
+<area shape="rect" id="node22" href="$d1/d0c/a02251.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="714,575,837,616"/>
+<area shape="rect" id="node21" href="$d1/d0c/a02251.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1352,553,1501,579"/>
+<area shape="rect" id="node23" href="$d1/d0c/a02251.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="966,625,1094,667"/>
+<area shape="rect" id="node26" href="$df/d02/a02755.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="712,422,839,449"/>
+<area shape="rect" id="node29" href="$d5/d14/a02071.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="684,641,867,667"/>
+</map>

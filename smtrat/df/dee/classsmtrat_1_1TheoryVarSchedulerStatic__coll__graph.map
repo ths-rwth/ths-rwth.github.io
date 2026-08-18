@@ -1,0 +1,8 @@
+<map id="smtrat::TheoryVarSchedulerStatic&lt; vot &gt;" name="smtrat::TheoryVarSchedulerStatic&lt; vot &gt;">
+<area shape="rect" id="node1" title="Schedules theory variables statically." alt="" coords="125,303,328,344"/>
+<area shape="rect" id="node2" href="$d6/d59/classsmtrat_1_1VarSchedulerMcsatBase.html" title="Base class for all MCSAT variable scheduler." alt="" coords="5,191,235,218"/>
+<area shape="rect" id="node3" href="$d5/d1d/classsmtrat_1_1VarSchedulerBase.html" title="Base class for variable schedulers." alt="" coords="25,95,215,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="259,184,413,225"/>
+<area shape="rect" id="node5" title=" " alt="" coords="271,95,401,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="317,5,355,32"/>
+</map>

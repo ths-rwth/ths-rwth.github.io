@@ -1,0 +1,4 @@
+<map id="is_subset_of_integers_type" name="is_subset_of_integers_type">
+<area shape="rect" id="node1" href="$d8/df3/a01216.html" title="All integral types that can (in theory) represent all integers are marked with is_integer_type." alt="" coords="5,5,128,31"/>
+<area shape="rect" id="node2" title="All integral types are marked with is_subset_of_integers_type." alt="" coords="176,5,375,31"/>
+</map>

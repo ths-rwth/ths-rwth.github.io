@@ -1,0 +1,15 @@
+<map id="smtrat::cadcells::helper::level_of" name="smtrat::cadcells::helper::level_of">
+<area shape="rect" id="node1" title="Find the index of the highest variable (wrt." alt="" coords="827,221,1001,262"/>
+<area shape="rect" id="node2" href="$d3/d10/classsmtrat_1_1Backend.html#ae0c3d0f3e8a4ee4facf5dab557e16648" title=" " alt="" coords="539,5,765,32"/>
+<area shape="rect" id="node3" href="$dd/d42/classsmtrat_1_1NewCoveringModule.html#aa329080612a793b4a37fcf79b181bb9e" title="Adds the given constraint to the backend." alt="" coords="548,57,756,98"/>
+<area shape="rect" id="node4" href="$da/dbb/namespacesmtrat_1_1cadcells_1_1algorithms.html#a1e2cb547b872964d12e40ab828e69cc6" title="Computes a delineation w.r.t." alt="" coords="550,122,754,163"/>
+<area shape="rect" id="node5" href="$da/dbb/namespacesmtrat_1_1cadcells_1_1algorithms.html#aed244eb18174e4c489925daaaef7a8b7" title=" " alt="" coords="550,187,754,229"/>
+<area shape="rect" id="node6" href="$d3/dbe/classsmtrat_1_1cadcells_1_1datastructures_1_1PolyPool.html#aa7559eb5bb380a16269160cb922e4dc6" title=" " alt="" coords="538,253,766,294"/>
+<area shape="rect" id="node8" href="$d3/dbe/classsmtrat_1_1cadcells_1_1datastructures_1_1PolyPool.html#a3c34e293e47a895d024906d00c13c627" title=" " alt="" coords="538,318,766,359"/>
+<area shape="rect" id="node10" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#ae416b614a851f0f727c14b34f0a4553b" title=" " alt="" coords="554,383,750,425"/>
+<area shape="rect" id="node13" href="$d3/d10/classsmtrat_1_1Backend.html#a585ee24b9f9178a6aa3581914444392d" title=" " alt="" coords="525,449,779,476"/>
+<area shape="rect" id="node7" href="$d3/dbe/classsmtrat_1_1cadcells_1_1datastructures_1_1PolyPool.html#a4a41a873ce8c2d848957a7c7f3e0b034" title=" " alt="" coords="249,253,477,294"/>
+<area shape="rect" id="node9" href="$d9/d5a/classsmtrat_1_1cadcells_1_1datastructures_1_1Projections.html#ae7d55b5d1b8e5e63e3664535dffbdefb" title=" " alt="" coords="249,318,477,359"/>
+<area shape="rect" id="node11" href="$d6/d3f/namespacesmtrat_1_1cadcells_1_1operators_1_1rules.html#acb244d4c2e60ab67067f8b7f5b35f6a7" title=" " alt="" coords="265,383,461,425"/>
+<area shape="rect" id="node12" href="$d9/da5/namespacesmtrat_1_1cadcells_1_1operators.html#ab7a5584a5724b439b4dd41f7982625c1" title=" " alt="" coords="5,376,201,432"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="carl::SortValue" name="carl::SortValue">
+<area shape="rect" id="node1" title="Implements a sort value, being a value of the uninterpreted domain specified by this sort." alt="" coords="5,95,121,121"/>
+<area shape="rect" id="node2" href="$d0/db9/a03435.html" title="Implements a sort (for defining types of variables and functions)." alt="" coords="23,5,103,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="smtrat::vb::VariableBounds::getDoubleInterval" name="smtrat::vb::VariableBounds::getDoubleInterval">
+<area shape="rect" id="node1" title="Creates a double interval corresponding to the variable bounds of the given variable." alt="" coords="248,5,447,47"/>
+<area shape="rect" id="node2" href="$df/d1d/classsmtrat_1_1vs_1_1State.html#ae3e52230c1a3dbc92d034cad806c08fb" title="Checks whether there are no zeros for the left&#45;hand side of the constraint of the given condition." alt="" coords="5,5,200,47"/>
+</map>

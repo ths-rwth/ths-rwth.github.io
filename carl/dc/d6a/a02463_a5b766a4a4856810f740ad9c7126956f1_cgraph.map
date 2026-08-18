@@ -1,0 +1,10 @@
+<map id="carl::rounding::cos_up" name="carl::rounding::cos_up">
+<area shape="rect" id="node1" title=" " alt="" coords="5,107,169,133"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a6c3c719fb3242dcf66d909f068d25056" title=" " alt="" coords="217,107,293,133"/>
+<area shape="rect" id="node3" href="$d5/d73/a02423.html#abccdf63161e8de9c1a496680b1c503ed" title="A quick check for the bound values." alt="" coords="355,31,547,57"/>
+<area shape="rect" id="node6" href="$d5/d73/a02423.html#a5ff744c1668b51981f0b169fd9cd41a2" title="The getter for the lower bound type of the interval." alt="" coords="342,81,561,108"/>
+<area shape="rect" id="node7" href="$d5/d73/a02423.html#af8f2d203b725806cc6703ad0734de373" title="Returns a reference to the included boost interval." alt="" coords="367,132,535,159"/>
+<area shape="rect" id="node8" href="$d5/d73/a02423.html#a65a2d0faa7ec9c7bb8b43b35a41b434e" title="The getter for the upper bound type of the interval." alt="" coords="341,183,561,209"/>
+<area shape="rect" id="node4" href="$d5/d73/a02423.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="610,5,758,32"/>
+<area shape="rect" id="node5" href="$d5/d73/a02423.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="609,56,759,83"/>
+</map>

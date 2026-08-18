@@ -1,0 +1,10 @@
+<map id="benchmax::settings_operation" name="benchmax::settings_operation">
+<area shape="rect" id="node1" title="Retrieved operation settings." alt="" coords="369,166,520,207"/>
+<area shape="rect" id="node2" href="$d0/d1d/namespacebenchmax.html#a01892f3312583e706a377eec5c5c32b2" title=" " alt="" coords="109,5,320,32"/>
+<area shape="rect" id="node3" href="$df/d66/structbenchmax_1_1BenchmarkResult.html#a4ae5c37f6aa46f906de00313647afd89" title=" " alt="" coords="108,57,321,98"/>
+<area shape="rect" id="node4" href="$de/dcc/benchmax_8cpp.html#a3ea057c6f49e14c089d66ed675437e1c" title="Initialized the application." alt="" coords="153,123,276,149"/>
+<area shape="rect" id="node5" href="$de/dcc/benchmax_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main program." alt="" coords="5,173,60,200"/>
+<area shape="rect" id="node6" href="$df/d66/structbenchmax_1_1BenchmarkResult.html#a66e854cf74a55705872809ca60c48aed" title=" " alt="" coords="108,225,321,266"/>
+<area shape="rect" id="node7" href="$d0/d1d/namespacebenchmax.html#a9062766f004ee238205003b2332d00ab" title="Runs a given backend on a list of tools and benchmarks." alt="" coords="125,291,305,317"/>
+<area shape="rect" id="node8" href="$df/d66/structbenchmax_1_1BenchmarkResult.html#a63a77dfa80f2c81980704b746adcc60c" title=" " alt="" coords="108,342,321,383"/>
+</map>

@@ -1,0 +1,28 @@
+var classMinisat_1_1ClauseAllocator =
+[
+    [ "Ref", "d4/dd0/classMinisat_1_1ClauseAllocator.html#ac70f47b89c4477f701656b819b6b49a4", null ],
+    [ "ClauseAllocator", "d4/dd0/classMinisat_1_1ClauseAllocator.html#aa83d942750cb3937318d1a7686f196c1", null ],
+    [ "ClauseAllocator", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a06fd2d73b6f610a2d45e15568e4cdd1f", null ],
+    [ "ael", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a10ab468a7027bd1a0901a0021280536b", null ],
+    [ "ael", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a87cdceb6ba7b2097c77930b3fdd37516", null ],
+    [ "alloc", "d4/dd0/classMinisat_1_1ClauseAllocator.html#aaa7fefe0cd4d42146db05431c2bcf602", null ],
+    [ "alloc", "d4/dd0/classMinisat_1_1ClauseAllocator.html#aa019b41526011f3d18b23f7c00ae2ffa", null ],
+    [ "capacity", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a168e654d3099319f8e102b894e0aa0fa", null ],
+    [ "clauseWord32Size", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a8d4c23ce29c5edfb0a85a16413a8d7bd", null ],
+    [ "free", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a914e91a15b2402d04c70857f77556322", null ],
+    [ "free", "d4/dd0/classMinisat_1_1ClauseAllocator.html#aec12fd9151357bbf29b9a6c81ab5a165", null ],
+    [ "lea", "d4/dd0/classMinisat_1_1ClauseAllocator.html#ae3198aca5190b61f2371f352b4193fa5", null ],
+    [ "lea", "d4/dd0/classMinisat_1_1ClauseAllocator.html#abfacfccab43294a929e67fc2f4b17bbb", null ],
+    [ "moveTo", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a6bc55e865dbf05ed805de46a8844df31", null ],
+    [ "moveTo", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a1103c36c9df5f88d480d1215da81025f", null ],
+    [ "operator[]", "d4/dd0/classMinisat_1_1ClauseAllocator.html#ad8598f521d866e76b84d591dfe407582", null ],
+    [ "operator[]", "d4/dd0/classMinisat_1_1ClauseAllocator.html#aa5c686a2443923cbd00ebb6c7898f4fc", null ],
+    [ "reloc", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a7141b324b6a876199c19a944c085a849", null ],
+    [ "size", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a41ec29687bcbcd7607d05a542b2fbcea", null ],
+    [ "wasted", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a8818abf90a7703bbbf881a42c20c2b7f", null ],
+    [ "cap", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a4bf735ff9ca485557d2474f165d50eac", null ],
+    [ "extra_clause_field", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a5662c59455793333e332e334806e6c8b", null ],
+    [ "memory", "d4/dd0/classMinisat_1_1ClauseAllocator.html#ae6757d0a43e0db6ca8d07676389d5ae3", null ],
+    [ "sz", "d4/dd0/classMinisat_1_1ClauseAllocator.html#aca7a2518f43fefea3f4a12327d294053", null ],
+    [ "wasted_", "d4/dd0/classMinisat_1_1ClauseAllocator.html#a43ddd475d860428b21af35648458da44", null ]
+];

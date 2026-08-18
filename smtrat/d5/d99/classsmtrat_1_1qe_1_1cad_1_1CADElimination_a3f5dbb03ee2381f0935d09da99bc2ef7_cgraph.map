@@ -1,0 +1,14 @@
+<map id="smtrat::qe::cad::CADElimination::constructSolutionFormula" name="smtrat::qe::cad::CADElimination::constructSolutionFormula">
+<area shape="rect" id="node1" title=" " alt="" coords="5,85,236,127"/>
+<area shape="rect" id="node2" href="$d5/d99/classsmtrat_1_1qe_1_1cad_1_1CADElimination.html#acd26f23a8fb21eb2aa0a94ea0daf182a" title=" " alt="" coords="563,5,793,47"/>
+<area shape="rect" id="node4" href="$d5/d99/classsmtrat_1_1qe_1_1cad_1_1CADElimination.html#aa27dd55d6562a695655b58e6b97c15d4" title=" " alt="" coords="284,56,515,97"/>
+<area shape="rect" id="node5" href="$d3/ddc/namespacesmtrat_1_1lve.html#a0728f680545aacf86d0ed2d7c9906a4b" title=" " alt="" coords="599,93,757,119"/>
+<area shape="rect" id="node12" href="$d5/d99/classsmtrat_1_1qe_1_1cad_1_1CADElimination.html#a7203279ecf1b3913ced89bae6da30c52" title=" " alt="" coords="284,173,515,215"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespaceMinisat.html#a8dde6eed0840d1092688c12829715cd6" title=" " alt="" coords="883,13,986,39"/>
+<area shape="rect" id="node6" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="841,71,1028,112"/>
+<area shape="rect" id="node8" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a49e881b1c2af6e7dcabca63b9ab4d9fe" title=" " alt="" coords="863,151,1007,192"/>
+<area shape="rect" id="node7" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="1089,63,1215,90"/>
+<area shape="rect" id="node9" href="$d1/db3/namespacesmtrat_1_1cad_1_1sample__compare.html#aaaba1dc092628cdbdd3241d251731d4c" title=" " alt="" coords="1076,115,1228,156"/>
+<area shape="rect" id="node10" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a74422de8c6db249a64f08255bcaabc94" title="Converts a DisjunctionOfConstraintConjunctions to a regular Formula." alt="" coords="1080,180,1224,221"/>
+<area shape="rect" id="node11" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="1103,246,1201,273"/>
+</map>

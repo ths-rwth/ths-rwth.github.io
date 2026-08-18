@@ -1,0 +1,9 @@
+<map id="carl::TarskiQueryManager::cache" name="carl::TarskiQueryManager::cache">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,193,134"/>
+<area shape="rect" id="node2" href="$d9/dc8/a02531.html#a710a3efef2f7f20bdaf15c311edb9650" title="Returns the coefficient of the leading term." alt="" coords="241,27,448,69"/>
+<area shape="rect" id="node6" href="$d9/dc8/a02531.html#a788cea982ff0f00e914b91eee71644f6" title="For a polynomial p, returns p/lc(p)" alt="" coords="241,93,448,134"/>
+<area shape="rect" id="node7" href="$de/d04/a01209.html#a950ad7b037cc356cc3dc210953f36804" title="Obtain the sign of the given number." alt="" coords="306,159,383,185"/>
+<area shape="rect" id="node3" href="$df/d23/a02751.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="536,5,663,32"/>
+<area shape="rect" id="node4" href="$d9/dc8/a02531.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="496,57,703,98"/>
+<area shape="rect" id="node5" href="$d9/dc8/a02531.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="751,57,957,98"/>
+</map>

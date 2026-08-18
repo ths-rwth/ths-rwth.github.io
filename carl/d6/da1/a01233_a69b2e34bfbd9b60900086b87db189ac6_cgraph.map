@@ -1,0 +1,5 @@
+<map id="carl::operator==" name="carl::operator==">
+<area shape="rect" id="node1" title="Checks if the two arguments are equal." alt="" coords="5,46,136,73"/>
+<area shape="rect" id="node2" href="$d1/d34/a01211.html#ac661f4e8a790efa60aa3cb94f64cec82" title="Retrieve the constant term of this polynomial or zero, if there is no constant term." alt="" coords="184,5,391,47"/>
+<area shape="rect" id="node3" href="$d1/d34/a01211.html#ae8c9cf4c56ae84b2661a9035bd8841b7" title="Check if the polynomial is constant." alt="" coords="184,71,391,112"/>
+</map>

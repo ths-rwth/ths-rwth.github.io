@@ -1,0 +1,5 @@
+<map id="benchmax::ssh::SSHConnection::getSCP" name="benchmax::ssh::SSHConnection::getSCP">
+<area shape="rect" id="node1" title="Get a new SCP session for file transfer." alt="" coords="280,39,507,80"/>
+<area shape="rect" id="node2" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a7c7fe9099a150e7a5baa0696b6d9c1f3" title="Create a temporary directory on the remote." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#ae4f160c3cefc1681ba04c8f732261d8d" title="Upload a file to the remote." alt="" coords="5,71,232,112"/>
+</map>

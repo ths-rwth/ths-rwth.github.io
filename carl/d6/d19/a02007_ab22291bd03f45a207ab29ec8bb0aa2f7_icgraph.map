@@ -1,0 +1,52 @@
+<map id="carl::carlVariables::compact" name="carl::carlVariables::compact">
+<area shape="rect" id="node1" title=" " alt="" coords="993,1761,1132,1802"/>
+<area shape="rect" id="node2" href="$d6/d19/a02007.html#a9df560421a3fdbadf68035f008e8b9c7" title=" " alt="" coords="775,824,945,851"/>
+<area shape="rect" id="node41" href="$d6/d19/a02007.html#a5fa085c3196531c533befacd581ed1e1" title=" " alt="" coords="791,1727,929,1769"/>
+<area shape="rect" id="node42" href="$d6/d19/a02007.html#a407d2859bfc7f8295885a4282e2ca18f" title=" " alt="" coords="791,1662,929,1703"/>
+<area shape="rect" id="node43" href="$d6/d19/a02007.html#afd86727b52e3f0c401b5b1a156d6ab15" title=" " alt="" coords="791,1793,929,1834"/>
+<area shape="rect" id="node49" href="$d6/da1/a01233.html#adce05b89015c9f31df810259275cc482" title=" " alt="" coords="795,1859,925,1885"/>
+<area shape="rect" id="node50" href="$d6/d19/a02007.html#a8d905e76ded2375f8e6681acff83b05e" title=" " alt="" coords="791,1910,929,1951"/>
+<area shape="rect" id="node3" href="$d6/d19/a02007.html#a72446293c58161207d2e94a939f9bd77" title=" " alt="" coords="538,967,709,993"/>
+<area shape="rect" id="node4" href="$d6/d19/a02007.html#aceb8fda5c0d6ce3c950782cce6d57227" title=" " alt="" coords="554,617,693,658"/>
+<area shape="rect" id="node5" href="$df/d39/a02271.html#ad84d0eb891e4aeb4a3fe9b568c0c69ee" title=" " alt="" coords="520,748,727,775"/>
+<area shape="rect" id="node7" href="$d6/d5d/a02023.html#a077817698575b0c8a2d0bba7ed15e544" title=" " alt="" coords="554,682,693,723"/>
+<area shape="rect" id="node8" href="$dd/da4/a02295.html#acb4a2071f69b9c6e854efad220828b9e" title=" " alt="" coords="262,57,447,98"/>
+<area shape="rect" id="node11" href="$d2/dbe/a02103.html#a0713e553f7dc8be3c3aea90142b0ee32" title=" " alt="" coords="538,901,709,942"/>
+<area shape="rect" id="node12" href="$d6/da1/a01233.html#a8215a604fc693189ab2161942a85a6d2" title="Add the variables of the given monomial to the variables." alt="" coords="566,849,681,876"/>
+<area shape="rect" id="node6" href="$dd/d51/a02223.html#a4f6357f1cda5f5231a95d99a318b9da2" title=" " alt="" coords="241,5,468,32"/>
+<area shape="rect" id="node9" href="$df/d04/a02287.html#af1a6d615a9a17823549f8f0e304ed20b" title=" " alt="" coords="5,27,189,69"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#a1782211771648685310d26dc27672280" title=" " alt="" coords="40,93,155,120"/>
+<area shape="rect" id="node13" href="$d0/d33/a01252.html#ac4e88b571ab9287d70f01cec7ca42175" title="Computes the algebraic substitution of the given defining polynomials into a multivariate polynomial ..." alt="" coords="267,758,442,799"/>
+<area shape="rect" id="node14" href="$d0/d33/a01252.html#a2e5a506d3ce86f7a7f77de3f77a1fc13" title="Implements algebraic substitution by Gröbner basis computation." alt="" coords="10,816,185,872"/>
+<area shape="rect" id="node15" href="$d0/d33/a01252.html#ad81c8b19229c789a99c52e77f06cf9e2" title="Implements algebraic substitution by resultant computation." alt="" coords="10,900,185,956"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#a19b40900abfdc18251a7db3c7362cc91" title=" " alt="" coords="261,1160,449,1187"/>
+<area shape="rect" id="node17" href="$d1/d24/a02847.html#aa093a925323aedc62c631c7a43fd9db7" title=" " alt="" coords="269,1211,440,1253"/>
+<area shape="rect" id="node18" href="$d6/da1/a01233.html#a61d61cf6f6e7031064ac65713f13d99e" title=" " alt="" coords="265,1277,444,1304"/>
+<area shape="rect" id="node19" href="$d6/da1/a01233.html#a89579c88bc07a937204388b50bd1a171" title=" " alt="" coords="268,1328,441,1355"/>
+<area shape="rect" id="node20" href="$d3/d51/a01264.html#aeb481a4f9c57fa56b7563155951c1621" title="Evaluates a constraint to a ModelValue over a Model." alt="" coords="275,1379,435,1405"/>
+<area shape="rect" id="node21" href="$de/d6a/a02415.html#ad0093f73da5ff302824cb70bd0387507" title=" " alt="" coords="237,1662,472,1703"/>
+<area shape="rect" id="node22" href="$d9/de7/a01257.html#a6b2be379a4d726d275ceaf1318bcd350" title="Gathers zeros with side conditions from the given constraint in the given variable." alt="" coords="274,1429,435,1456"/>
+<area shape="rect" id="node23" href="$da/d3f/a01215.html#adf98783d90ef5379a1689dd75b7c7e81" title="Given the two polynomials, find a suitable main variable for gcd." alt="" coords="263,1480,446,1507"/>
+<area shape="rect" id="node24" href="$d1/d24/a02847.html#a193b36e60190bec7f7a0cfc144dee515" title=" " alt="" coords="257,1531,452,1573"/>
+<area shape="rect" id="node25" href="$df/daa/a02135.html#a8319872e6f1bb3bc97c62015b5d7baa4" title=" " alt="" coords="280,1597,429,1638"/>
+<area shape="rect" id="node26" href="$d6/da1/a01233.html#adb1c817760a28b1e55f3d24eaf45a2fa" title=" " alt="" coords="271,123,438,149"/>
+<area shape="rect" id="node27" href="$de/db5/a01181.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="327,173,382,200"/>
+<area shape="rect" id="node28" href="$db/da5/a02919.html#aa75c4a80d2ac6d031e118553883be6bd" title=" " alt="" coords="9,985,185,1026"/>
+<area shape="rect" id="node29" href="$d0/d33/a01252.html#a0ee19ea70c76b3365235c61a66814fb5" title="Replace all variables except one of the multivariate polynomial &#39;p&#39; by numbers as given in the mappin..." alt="" coords="288,225,421,266"/>
+<area shape="rect" id="node30" href="$d3/d51/a01264.html#ad54c7395b07070e0cc2b34f2cb520a76" title=" " alt="" coords="13,1080,181,1107"/>
+<area shape="rect" id="node31" href="$d6/da1/a01233.html#a2571a3aa47a9f42d70c210ce8d5ba49a" title=" " alt="" coords="281,291,428,317"/>
+<area shape="rect" id="node32" href="$d7/dbf/a01239.html#acd5c2994c0f0852ca3b288e27734963e" title=" " alt="" coords="271,342,439,383"/>
+<area shape="rect" id="node33" href="$db/da5/a02919.html#a3f72714f3c01126c90b6958ed87ac3c4" title=" " alt="" coords="279,1043,430,1085"/>
+<area shape="rect" id="node34" href="$d3/d51/a01264.html#afee19109fad9266b84b19695443e2b57" title="Substitutes all variables from a model within a MultivariateRoot." alt="" coords="265,408,445,435"/>
+<area shape="rect" id="node35" href="$d6/da1/a01233.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="285,926,425,967"/>
+<area shape="rect" id="node36" href="$d6/da1/a01233.html#ae0e877f343f7585b3de7c53543111f83" title="Transforms this formula to its quantifier free equivalent." alt="" coords="312,459,397,485"/>
+<area shape="rect" id="node37" href="$d6/da1/a01233.html#a2780e8b36ee9ceeddb31fbfde00937e3" title=" " alt="" coords="283,510,426,551"/>
+<area shape="rect" id="node38" href="$d1/d24/a02847.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="273,575,437,617"/>
+<area shape="rect" id="node39" href="$d0/d33/a01252.html#a991987d0a89591d89ccb250f1e21301c" title=" " alt="" coords="288,641,421,682"/>
+<area shape="rect" id="node40" href="$d6/da1/a01233.html#a6273ffcafb722a5f25d76d0f0eb33626" title="Add the variables of the given polynomial to the variables." alt="" coords="297,707,412,733"/>
+<area shape="rect" id="node44" href="$d6/d19/a02007.html#aa23b073da3f1bafb1d24797d637061b7" title=" " alt="" coords="554,1793,693,1834"/>
+<area shape="rect" id="node48" href="$d0/d13/a02139.html#af66fe79c1501f38f659c00247d50d913" title=" " alt="" coords="548,1858,699,1899"/>
+<area shape="rect" id="node45" href="$d6/d19/a02007.html#a95a9a282a3d670c86b3d1e8411d2e402" title=" " alt="" coords="285,1727,424,1769"/>
+<area shape="rect" id="node46" href="$d6/d19/a02007.html#a7ce6d61721bcc8ce4e1dfc03f51de0dd" title=" " alt="" coords="285,1793,424,1834"/>
+<area shape="rect" id="node47" href="$d6/d19/a02007.html#ae86bd852cb3d950d1a128965385379f4" title=" " alt="" coords="285,1858,424,1899"/>
+</map>

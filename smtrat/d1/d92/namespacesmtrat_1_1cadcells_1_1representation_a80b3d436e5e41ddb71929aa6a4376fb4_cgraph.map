@@ -1,0 +1,15 @@
+<map id="smtrat::cadcells::representation::handle_cell_reduction" name="smtrat::cadcells::representation::handle_cell_reduction">
+<area shape="rect" id="node1" title=" " alt="" coords="5,247,235,288"/>
+<area shape="rect" id="node2" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#a07a0d522c5ce313de9f2c82787af18c8" title=" " alt="" coords="283,125,512,167"/>
+<area shape="rect" id="node6" href="$d8/d24/namespacesmtrat_1_1cadcells_1_1representation_1_1util.html#afdf6737a5d8bd73711a1beb79f9c01a1" title=" " alt="" coords="283,279,512,320"/>
+<area shape="rect" id="node3" href="$de/d38/classsmtrat_1_1cadcells_1_1datastructures_1_1IndexedRootOrdering.html#aa388ee9bc6611c4dd030520230f223dd" title=" " alt="" coords="560,37,792,79"/>
+<area shape="rect" id="node4" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a6e40b9c086c5a9517cf724b57fc2521e" title=" " alt="" coords="840,5,1068,47"/>
+<area shape="rect" id="node5" href="$db/d58/classsmtrat_1_1cadcells_1_1datastructures_1_1RootFunction.html#a844fad4a0e83de0d80c9f7d546d61aa0" title=" " alt="" coords="840,71,1068,112"/>
+<area shape="rect" id="node7" href="$df/def/structsmtrat_1_1cadcells_1_1representation_1_1util_1_1PolyDelineations.html#a4c7657c0c285870544f2f4ad7666977e" title=" " alt="" coords="561,103,791,144"/>
+<area shape="rect" id="node8" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#af859a2d005b6d4dca8355892dfd43e79" title=" " alt="" coords="562,168,790,209"/>
+<area shape="rect" id="node9" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a23396f759eafdf95e9d41ac9a777e14f" title=" " alt="" coords="562,234,790,290"/>
+<area shape="rect" id="node10" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a57804f926e12bcd611287fca6448a779" title=" " alt="" coords="562,315,790,356"/>
+<area shape="rect" id="node11" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="562,380,790,421"/>
+<area shape="rect" id="node12" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#ab623319f2aecdc705d59308a767ee595" title=" " alt="" coords="562,445,790,487"/>
+<area shape="rect" id="node13" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a89d10bab7fef184f8b68ea662424814b" title=" " alt="" coords="562,511,790,567"/>
+</map>

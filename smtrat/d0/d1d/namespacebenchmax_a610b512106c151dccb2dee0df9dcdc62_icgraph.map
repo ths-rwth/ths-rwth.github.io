@@ -1,0 +1,10 @@
+<map id="benchmax::settings_slurm" name="benchmax::settings_slurm">
+<area shape="rect" id="node1" title="Return the Slurm settings." alt="" coords="751,188,901,229"/>
+<area shape="rect" id="node2" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a33cf24e7711867083fbc3e719f40d32e" title=" " alt="" coords="273,64,464,105"/>
+<area shape="rect" id="node3" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a8e047bdf267edb0fc05d32304782c973" title=" " alt="" coords="512,188,703,229"/>
+<area shape="rect" id="node4" href="$db/da2/classbenchmax_1_1SlurmBackend.html#ae2164830134b6a51e80567d1e3383809" title=" " alt="" coords="273,247,464,288"/>
+<area shape="rect" id="node5" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a8e934ea372ec8227610385f308b9f420" title="Run all tools on all benchmarks using Slurm." alt="" coords="5,254,225,281"/>
+<area shape="rect" id="node6" href="$db/da2/classbenchmax_1_1SlurmBackend.html#ab3a10753e1c8298ae34b81cca4810085" title=" " alt="" coords="512,123,703,164"/>
+<area shape="rect" id="node7" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a6d2318e2f1b05400f3aeff85d6730d06" title=" " alt="" coords="512,5,703,47"/>
+<area shape="rect" id="node8" href="$db/da2/classbenchmax_1_1SlurmBackend.html#a89f529c369dca1992315f23c3df1f057" title=" " alt="" coords="512,305,703,347"/>
+</map>

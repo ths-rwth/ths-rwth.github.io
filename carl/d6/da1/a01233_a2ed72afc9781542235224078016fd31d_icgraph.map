@@ -1,0 +1,5 @@
+<map id="carl::is_one" name="carl::is_one">
+<area shape="rect" id="node1" title="Checks whether a term is one." alt="" coords="253,31,349,57"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a0904b2d62006514e4b1a92da6bbe10f3" title=" " alt="" coords="57,5,153,32"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a0b29da0503a9246e89a086460fc8bea7" title="Returns this/divisor where divisor is the numeric content of this polynomial." alt="" coords="5,56,205,83"/>
+</map>

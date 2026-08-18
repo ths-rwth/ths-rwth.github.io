@@ -1,0 +1,4 @@
+<map id="smtrat::onecellcad::recursive::createFullspaceCoveringCell" name="smtrat::onecellcad::recursive::createFullspaceCoveringCell">
+<area shape="rect" id="node1" title=" " alt="" coords="280,5,480,61"/>
+<area shape="rect" id="node2" href="$dd/d08/namespacesmtrat_1_1onecellcad_1_1recursive.html#a71caafda412826206b34224247d91098" title="Construct a OpenCADCell for the given set of polynomials &#39;polySet&#39; that contains the given &#39;point&#39;." alt="" coords="5,13,232,54"/>
+</map>

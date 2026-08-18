@@ -1,0 +1,5 @@
+<map id="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::partialDerivativesLayerWithSomeNonEarlyVanishingPoly" name="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::partialDerivativesLayerWithSomeNonEarlyVanishingPoly">
+<area shape="rect" id="node1" title="Find the smallest index m such that in the set S of all m&#45;th partial derivatives of the given poly,..." alt="" coords="5,5,256,76"/>
+<area shape="rect" id="node2" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#a5d0c1290b9e26920b16f64a5cab92663" title="Check if an n&#45;variate &#39;poly&#39; p(x1,..,xn) with n&gt;=1 already becomes the zero poly after plugging in p(..." alt="" coords="304,20,512,61"/>
+<area shape="rect" id="node3" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#ac7402bf951f56bd98143f7cde7c43fc9" title="Create a mapping from the first variables (with index 0 to &#39;componentCount&#39;) in the &#39;variableOrder&#39; t..." alt="" coords="560,20,811,61"/>
+</map>

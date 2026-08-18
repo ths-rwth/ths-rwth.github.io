@@ -1,0 +1,42 @@
+<map id="smtrat::NewCADFU_SInf" name="smtrat::NewCADFU_SInf">
+<area shape="rect" id="node1" title=" " alt="" coords="2599,756,2779,783"/>
+<area shape="rect" id="node2" href="$d0/df0/classsmtrat_1_1Manager.html" title="Base class for solvers." alt="" coords="2209,808,2340,835"/>
+<area shape="rect" id="node4" href="$d8/da6/classsmtrat_1_1Module.html" title="A base class for all kind of theory solving methods." alt="" coords="2628,512,2749,539"/>
+<area shape="rect" id="node3" title=" " alt="" coords="3239,768,3457,824"/>
+<area shape="rect" id="node23" title=" " alt="" coords="2976,689,3125,730"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1263,157,1413,198"/>
+<area shape="rect" id="node6" href="$d6/d6f/structsmtrat_1_1Branching.html" title="Stores all necessary information of an branch, which can be used to detect probable infinite loop of ..." alt="" coords="714,140,853,167"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="719,536,848,563"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1508,221,1695,248"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1935,269,2118,296"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1226,531,1450,573"/>
+<area shape="rect" id="node15" title=" " alt="" coords="1263,87,1413,129"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1521,396,1682,423"/>
+<area shape="rect" id="node18" title=" " alt="" coords="1719,594,1897,635"/>
+<area shape="rect" id="node24" title=" " alt="" coords="1925,487,2128,513"/>
+<area shape="rect" id="node28" title=" " alt="" coords="1192,934,1484,975"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1238,869,1438,910"/>
+<area shape="rect" id="node35" title=" " alt="" coords="1245,803,1431,845"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,853,44,880"/>
+<area shape="rect" id="node22" title="STL class." alt="" coords="404,812,633,839"/>
+<area shape="rect" id="node25" title="STL class." alt="" coords="1271,1116,1405,1143"/>
+<area shape="rect" id="node31" title="STL class." alt="" coords="190,884,347,911"/>
+<area shape="rect" id="node12" href="$dd/ddb/structsmtrat_1_1Module_1_1TheoryPropagation.html" title=" " alt="" coords="657,648,909,675"/>
+<area shape="rect" id="node13" href="$d6/dcd/structsmtrat_1_1Module_1_1ModuleStatistics.html" title=" " alt="" coords="2156,328,2393,355"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1767,324,1849,351"/>
+<area shape="rect" id="node16" href="$d0/d7f/structsmtrat_1_1Module_1_1Lemma.html" title=" " alt="" coords="694,49,873,76"/>
+<area shape="rect" id="node19" title="STL class." alt="" coords="2231,429,2318,456"/>
+<area shape="rect" id="node20" title="STL class." alt="" coords="1739,426,1877,467"/>
+<area shape="rect" id="node21" href="$da/d5e/classsmtrat_1_1ModuleInput.html" title="The input formula a module has to consider for it&#39;s satisfiability check." alt="" coords="1731,752,1885,779"/>
+<area shape="rect" id="node26" title=" " alt="" coords="764,1068,803,1095"/>
+<area shape="rect" id="node34" title="STL class." alt="" coords="1283,1065,1393,1092"/>
+<area shape="rect" id="node27" href="$dc/d65/classsmtrat_1_1StrategyGraph.html" title=" " alt="" coords="1725,889,1891,916"/>
+<area shape="rect" id="node29" title=" " alt="" coords="686,939,881,981"/>
+<area shape="rect" id="node30" href="$d3/de0/structsmtrat_1_1AbstractModuleFactory.html" title=" " alt="" coords="157,947,380,973"/>
+<area shape="rect" id="node33" title=" " alt="" coords="1727,1016,1889,1043"/>
+<area shape="rect" id="node36" title="STL iterator class." alt="" coords="701,888,865,915"/>
+<area shape="rect" id="node37" title="STL class." alt="" coords="1756,948,1860,975"/>
+<area shape="rect" id="node38" title="STL class." alt="" coords="1265,999,1411,1041"/>
+<area shape="rect" id="node39" title="STL class." alt="" coords="698,1007,869,1033"/>
+<area shape="rect" id="node40" title="STL class." alt="" coords="215,1007,322,1033"/>
+</map>

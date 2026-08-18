@@ -1,0 +1,4 @@
+<map id="smtrat::cad::ConflictGraph::selectConstraint" name="smtrat::cad::ConflictGraph::selectConstraint">
+<area shape="rect" id="node1" title="Removes the given constraint and disable all sample points covered by this constraint." alt="" coords="256,5,448,47"/>
+<area shape="rect" id="node2" href="$d7/df6/classsmtrat_1_1cad_1_1ConflictGraph.html#a2ffc077d0150c90f37c8895582720041" title="Selects all essential constraints and returns their indices." alt="" coords="5,5,208,47"/>
+</map>

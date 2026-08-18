@@ -1,0 +1,10 @@
+<map id="benchmax::is_extension" name="benchmax::is_extension">
+<area shape="rect" id="node1" title="Checks whether the extension of the filename is as specified." alt="" coords="280,202,460,229"/>
+<area shape="rect" id="node2" href="$d1/da5/classbenchmax_1_1MathSAT.html#a80a5fbe58effd494fb423378bdc40c72" title="Only handle .smt2 files." alt="" coords="37,5,200,47"/>
+<area shape="rect" id="node3" href="$d9/d27/classbenchmax_1_1Minisat.html#a628af981d8e7e1233ae1228eca0ad51f" title="Only handles .opb files." alt="" coords="41,71,196,112"/>
+<area shape="rect" id="node4" href="$d4/dfd/classbenchmax_1_1Minisatp.html#ac449be40581b7f641c70201906bfc7a3" title="Only handles .opb files." alt="" coords="41,136,196,177"/>
+<area shape="rect" id="node5" href="$df/d62/classbenchmax_1_1SMTRAT.html#aa7f79aba815e83fc354ba065b9b32150" title="Only handle .smt2 files." alt="" coords="5,202,232,229"/>
+<area shape="rect" id="node6" href="$dd/d42/classbenchmax_1_1SMTRAT__Analyzer.html#a6258996a7314e6861d92039105190bf0" title="Only handle .smt2 files." alt="" coords="11,253,226,295"/>
+<area shape="rect" id="node7" href="$da/d8e/classbenchmax_1_1SMTRAT__OPB.html#a3bb379ddd46607905f6241c2c77a4a57" title="Only handles .opb files." alt="" coords="26,319,211,360"/>
+<area shape="rect" id="node8" href="$d0/d3a/classbenchmax_1_1Z3.html#a3386f3a84981634ddf4e29ce0c83bd3c" title="Only handle .smt2 files." alt="" coords="23,385,215,411"/>
+</map>

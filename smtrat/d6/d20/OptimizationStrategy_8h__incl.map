@@ -1,0 +1,102 @@
+<map id="smtrat&#45;strategies/strategies/OptimizationStrategy.h" name="smtrat&#45;strategies/strategies/OptimizationStrategy.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3789,5,3993,47"/>
+<area shape="rect" id="node2" href="$d1/da0/Manager_8h.html" title=" " alt="" coords="4536,348,4719,375"/>
+<area shape="rect" id="node34" href="$d7/d96/SATModule_8h.html" title=" " alt="" coords="622,423,825,464"/>
+<area shape="rect" id="node66" href="$d7/de5/LRAModule_8h.html" title=" " alt="" coords="3790,423,3993,464"/>
+<area shape="rect" id="node77" href="$da/dbc/PBPPModule_8h.html" title="Supports optimization." alt="" coords="2805,423,3015,464"/>
+<area shape="rect" id="node92" href="$dc/dd8/FPPModule_8h.html" title=" " alt="" coords="4270,95,4473,136"/>
+<area shape="rect" id="node3" title=" " alt="" coords="4319,698,4381,725"/>
+<area shape="rect" id="node4" href="$da/ddd/StrategyGraph_8h.html" title=" " alt="" coords="4563,430,4691,457"/>
+<area shape="rect" id="node8" href="$d6/d8a/smtrat-common_8h.html" title=" " alt="" coords="4049,780,4224,821"/>
+<area shape="rect" id="node26" href="$d4/dc7/Module_8h.html" title=" " alt="" coords="4356,519,4531,546"/>
+<area shape="rect" id="node29" href="$db/d1b/ModuleInput_8h.html" title=" " alt="" coords="4809,609,4923,635"/>
+<area shape="rect" id="node5" title=" " alt="" coords="4657,519,4734,546"/>
+<area shape="rect" id="node6" title=" " alt="" coords="4507,698,4550,725"/>
+<area shape="rect" id="node7" title=" " alt="" coords="4809,519,4864,546"/>
+<area shape="rect" id="node9" href="$d9/dc6/smtrat-common_2config_8h.html" title=" " alt="" coords="3992,951,4065,978"/>
+<area shape="rect" id="node10" href="$d7/dfd/smtrat-common_2types_8h.html" title=" " alt="" coords="4888,869,4959,896"/>
+<area shape="rect" id="node19" href="$db/d1e/smtrat-common_2logging_8h.html" title="Use your own judgement for the following log levels: TRACE Finer&#45;grained informational events than th..." alt="" coords="4134,869,4217,896"/>
+<area shape="rect" id="node20" href="$d0/d76/smtrat-common_2settings_2Settings_8h.html" title=" " alt="" coords="3541,869,3684,896"/>
+<area shape="rect" id="node24" href="$d5/d33/Validation_8h.html" title=" " alt="" coords="4695,869,4863,896"/>
+<area shape="rect" id="node25" href="$d8/da8/Checkpoints_8h.html" title=" " alt="" coords="3863,869,4059,896"/>
+<area shape="rect" id="node11" title=" " alt="" coords="4516,944,4707,985"/>
+<area shape="rect" id="node12" title=" " alt="" coords="4731,951,4913,978"/>
+<area shape="rect" id="node13" title=" " alt="" coords="4937,951,5112,978"/>
+<area shape="rect" id="node14" title=" " alt="" coords="5137,944,5294,985"/>
+<area shape="rect" id="node15" title=" " alt="" coords="5318,944,5475,985"/>
+<area shape="rect" id="node16" title=" " alt="" coords="4090,944,4293,985"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4317,944,4492,985"/>
+<area shape="rect" id="node18" title=" " alt="" coords="5499,951,5566,978"/>
+<area shape="rect" id="node21" title=" " alt="" coords="1285,951,1372,978"/>
+<area shape="rect" id="node22" title=" " alt="" coords="3478,951,3529,978"/>
+<area shape="rect" id="node23" title=" " alt="" coords="3769,951,3827,978"/>
+<area shape="rect" id="node27" title=" " alt="" coords="4457,609,4521,635"/>
+<area shape="rect" id="node28" href="$d2/dee/smtrat-common_2statistics_2Statistics_8h.html" title=" " alt="" coords="2808,691,2999,732"/>
+<area shape="rect" id="node30" title=" " alt="" coords="4929,698,5014,725"/>
+<area shape="rect" id="node31" title=" " alt="" coords="4603,787,4646,814"/>
+<area shape="rect" id="node32" title=" " alt="" coords="4833,698,4904,725"/>
+<area shape="rect" id="node33" href="$dc/d51/model_8h.html" title=" " alt="" coords="4625,698,4809,725"/>
+<area shape="rect" id="node35" href="$d6/d18/MCSATMixin_8h.html" title=" " alt="" coords="1687,519,1847,546"/>
+<area shape="rect" id="node36" href="$d8/dd8/SolverTypes_8h.html" title=" " alt="" coords="432,698,556,725"/>
+<area shape="rect" id="node39" href="$d7/dd7/Alg_8h.html" title=" " alt="" coords="261,787,316,814"/>
+<area shape="rect" id="node40" href="$de/dda/Vec_8h.html" title=" " alt="" coords="289,869,347,896"/>
+<area shape="rect" id="node55" href="$de/dd0/SATSettings_8h.html" title="Class to create a settings object for the SATModule." alt="" coords="577,519,689,546"/>
+<area shape="rect" id="node57" href="$d1/d1c/Heap_8h.html" title=" " alt="" coords="67,698,135,725"/>
+<area shape="rect" id="node58" href="$d5/d76/Options_8h.html" title=" " alt="" coords="940,519,1024,546"/>
+<area shape="rect" id="node60" title=" " alt="" coords="1081,609,1149,635"/>
+<area shape="rect" id="node62" href="$d0/d7a/smtrat-modules_2SATModule_2Sort_8h.html" title=" " alt="" coords="5,787,65,814"/>
+<area shape="rect" id="node63" href="$d4/dab/VarScheduler_8h.html" title=" " alt="" coords="261,609,380,635"/>
+<area shape="rect" id="node65" href="$d4/d0b/VarSchedulerMcsat_8h.html" title=" " alt="" coords="713,519,915,546"/>
+<area shape="rect" id="node47" href="$dc/d5b/BaseBackend_8h.html" title=" " alt="" coords="1957,609,2079,635"/>
+<area shape="rect" id="node50" href="$d5/da7/smtrat-mcsat_8h.html" title=" " alt="" coords="1994,698,2141,725"/>
+<area shape="rect" id="node51" href="$d0/d16/ClauseChecker_8h.html" title=" " alt="" coords="1417,609,1558,635"/>
+<area shape="rect" id="node52" href="$dc/db9/MCSATStatistics_8h.html" title=" " alt="" coords="2155,609,2295,635"/>
+<area shape="rect" id="node53" title=" " alt="" coords="1633,601,1779,643"/>
+<area shape="rect" id="node54" href="$dc/dc7/MCSATMixin_8tpp.html" title=" " alt="" coords="1804,609,1933,635"/>
+<area shape="rect" id="node37" title=" " alt="" coords="466,951,541,978"/>
+<area shape="rect" id="node38" href="$d1/ddc/IntTypes_8h.html" title=" " alt="" coords="581,951,669,978"/>
+<area shape="rect" id="node45" href="$df/d79/Map_8h.html" title=" " alt="" coords="533,787,596,814"/>
+<area shape="rect" id="node46" href="$d3/d0a/Alloc_8h.html" title=" " alt="" coords="391,787,458,814"/>
+<area shape="rect" id="node41" title=" " alt="" coords="189,951,269,978"/>
+<area shape="rect" id="node42" title=" " alt="" coords="293,951,343,978"/>
+<area shape="rect" id="node43" href="$d8/d13/XAlloc_8h.html" title=" " alt="" coords="367,951,442,978"/>
+<area shape="rect" id="node44" title=" " alt="" coords="679,1033,749,1060"/>
+<area shape="rect" id="node48" href="$d0/da1/MCSATSettings_8h.html" title=" " alt="" coords="810,698,943,725"/>
+<area shape="rect" id="node49" href="$da/d8c/smtrat-mcsat_2variableordering_2VariableOrdering_8h.html" title=" " alt="" coords="722,780,943,821"/>
+<area shape="rect" id="node56" href="$d9/ddc/VarSchedulerForwardDeclarations_8h.html" title=" " alt="" coords="455,609,709,635"/>
+<area shape="rect" id="node59" title=" " alt="" coords="1174,609,1241,635"/>
+<area shape="rect" id="node61" title=" " alt="" coords="987,609,1057,635"/>
+<area shape="rect" id="node64" title=" " alt="" coords="285,698,357,725"/>
+<area shape="rect" id="node67" href="$df/d00/Tableau_8h.html" title=" " alt="" coords="3775,609,3912,635"/>
+<area shape="rect" id="node74" href="$d3/d08/LRAModuleStatistics_8h.html" title=" " alt="" coords="3687,519,3853,546"/>
+<area shape="rect" id="node75" href="$d5/da5/LRASettings_8h.html" title="Class to create a settings object for the LRAModule." alt="" coords="4003,519,4115,546"/>
+<area shape="rect" id="node68" title=" " alt="" coords="3904,698,3961,725"/>
+<area shape="rect" id="node69" title=" " alt="" coords="3985,698,4048,725"/>
+<area shape="rect" id="node70" title=" " alt="" coords="4073,698,4131,725"/>
+<area shape="rect" id="node71" href="$d7/d90/Variable_8h.html" title=" " alt="" coords="4156,698,4243,725"/>
+<area shape="rect" id="node72" title=" " alt="" coords="3592,691,3759,732"/>
+<area shape="rect" id="node73" href="$d0/d76/Tableau_8tpp.html" title=" " alt="" coords="3783,698,3880,725"/>
+<area shape="rect" id="node76" href="$df/dc9/TableauSettings_8h.html" title="Class to create a settings object for the Tableau." alt="" coords="4039,609,4229,635"/>
+<area shape="rect" id="node78" title=" " alt="" coords="2327,512,2469,553"/>
+<area shape="rect" id="node79" title=" " alt="" coords="2494,519,2723,546"/>
+<area shape="rect" id="node80" href="$dc/dea/CardinalityEncoder_8h.html" title=" " alt="" coords="2822,609,3041,635"/>
+<area shape="rect" id="node83" href="$db/d1c/LongFormulaEncoder_8h.html" title=" " alt="" coords="2515,609,2747,635"/>
+<area shape="rect" id="node84" href="$d7/dfa/MixedSignEncoder_8h.html" title=" " alt="" coords="2036,519,2251,546"/>
+<area shape="rect" id="node85" href="$dc/dde/PseudoBoolNormalizer_8h.html" title=" " alt="" coords="3166,609,3347,635"/>
+<area shape="rect" id="node86" href="$dc/d5d/ShortFormulaEncoder_8h.html" title=" " alt="" coords="2319,609,2491,635"/>
+<area shape="rect" id="node87" href="$d3/d14/RNSEncoder_8h.html" title=" " alt="" coords="3524,609,3699,635"/>
+<area shape="rect" id="node88" href="$d1/d96/ExactlyOneCommanderEncoder_8h.html" title=" " alt="" coords="2892,512,3131,553"/>
+<area shape="rect" id="node89" href="$d0/d23/TotalizerEncoder_8h.html" title=" " alt="" coords="3155,519,3358,546"/>
+<area shape="rect" id="node90" href="$de/dd9/PBPPSettings_8h.html" title=" " alt="" coords="2747,519,2867,546"/>
+<area shape="rect" id="node91" href="$d9/d6b/PBPPStatistics_8h.html" title=" " alt="" coords="3484,519,3611,546"/>
+<area shape="rect" id="node81" href="$d4/d11/PseudoBoolEncoder_8h.html" title=" " alt="" coords="3023,698,3184,725"/>
+<area shape="rect" id="node82" title=" " alt="" coords="3391,787,3466,814"/>
+<area shape="rect" id="node93" href="$d3/dff/PModule_8h.html" title="All preprocessing modules shall derive from this module, that is modules, which simplify their receiv..." alt="" coords="4195,184,4377,211"/>
+<area shape="rect" id="node94" href="$d1/d4f/FPPStatistics_8h.html" title=" " alt="" coords="5172,348,5291,375"/>
+<area shape="rect" id="node95" href="$d7/d7e/FPPSettings_8h.html" title=" " alt="" coords="4465,184,4576,211"/>
+<area shape="rect" id="node96" href="$d3/d29/PreprocessingOne_8h.html" title=" " alt="" coords="4305,259,4509,300"/>
+<area shape="rect" id="node97" href="$dc/d8c/PreprocessingTwo_8h.html" title=" " alt="" coords="4533,259,4737,300"/>
+<area shape="rect" id="node98" href="$d2/d75/BVPreprocessing_8h.html" title=" " alt="" coords="4761,259,4965,300"/>
+<area shape="rect" id="node99" href="$df/df5/PBPreprocessing_8h.html" title=" " alt="" coords="4989,259,5193,300"/>
+<area shape="rect" id="node100" href="$d2/d9e/OptimizationPreprocessing_8h.html" title=" " alt="" coords="4067,259,4281,300"/>
+</map>

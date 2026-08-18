@@ -1,0 +1,6 @@
+<map id="carl::covering::heuristic::remove_duplicates" name="carl::covering::heuristic::remove_duplicates">
+<area shape="rect" id="node1" title="Preprocessing heuristic: Compresses the matrix by removing duplicate columns." alt="" coords="5,64,180,105"/>
+<area shape="rect" id="node2" href="$d5/ddf/a03211.html#a09803c5268b61f4ae4031161e462531c" title="Returns the given set." alt="" coords="228,5,405,47"/>
+<area shape="rect" id="node3" href="$d5/ddf/a03211.html#abe7608326af978310b630c42298bcd88" title="States that s covers the given element." alt="" coords="453,42,659,69"/>
+<area shape="rect" id="node4" href="$d5/ddf/a03211.html#abb06e846629c4b044adb91d93c7573cc" title="Returns the number of sets." alt="" coords="228,123,405,164"/>
+</map>

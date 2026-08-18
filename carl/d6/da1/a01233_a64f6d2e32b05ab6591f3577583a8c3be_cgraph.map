@@ -1,0 +1,6 @@
+<map id="carl::is_zero" name="carl::is_zero">
+<area shape="rect" id="node1" title="Checks whether a term is zero." alt="" coords="5,31,105,57"/>
+<area shape="rect" id="node2" href="$d1/d34/a01211.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="153,5,280,32"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="169,56,264,83"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="328,49,535,90"/>
+</map>

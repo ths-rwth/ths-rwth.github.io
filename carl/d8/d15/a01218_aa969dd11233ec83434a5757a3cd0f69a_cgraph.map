@@ -1,0 +1,39 @@
+<map id="carl::sample_between" name="carl::sample_between">
+<area shape="rect" id="node1" title=" " alt="" coords="5,205,171,231"/>
+<area shape="rect" id="node2" href="$d9/d4a/a02772.html#a049c6d861cc42e8de125bc64a9cc7147" title=" " alt="" coords="923,187,1109,228"/>
+<area shape="rect" id="node3" href="$d9/d4a/a02772.html#ac29ae7976cdf0ed3b9eb055e84c1eace" title=" " alt="" coords="453,131,640,172"/>
+<area shape="rect" id="node4" href="$d9/d4a/a02772.html#a644f871ee8f1891c7d04355a6578ceb3" title=" " alt="" coords="219,263,405,304"/>
+<area shape="rect" id="node18" href="$d8/d15/a01218.html#a18dd7941a668a603002cfd4e1378f8ac" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="495,813,598,839"/>
+<area shape="rect" id="node35" href="$d9/d4a/a02772.html#a102d146d9f7a995e3b25414960548aad" title=" " alt="" coords="219,197,405,239"/>
+<area shape="rect" id="node36" href="$d8/d15/a01218.html#afe7a43f365631238b9067913ff96cc73" title=" " alt="" coords="229,437,395,463"/>
+<area shape="rect" id="node37" href="$d9/d4a/a02772.html#a0aaa60feed2047ca7f0458737cd20cda" title=" " alt="" coords="219,80,405,121"/>
+<area shape="rect" id="node5" href="$d9/d4a/a02772.html#ac5d32ad0354f24f7a030f313035e98eb" title="Returns the sign of &quot;interval_int() &#45; pivot&quot;: Returns ZERO if pivot is equal to RAN." alt="" coords="453,339,640,380"/>
+<area shape="rect" id="node6" href="$d8/d15/a01218.html#a6aa5825a5dcfebf46047bb9ccd307025" title=" " alt="" coords="961,397,1071,423"/>
+<area shape="rect" id="node9" href="$d9/d4a/a02772.html#aea3bb2935854f1458a1eeb038a636fc8" title=" " alt="" coords="688,448,875,489"/>
+<area shape="rect" id="node10" href="$d9/d4a/a02772.html#a9392daa40b9085e09ed2cfe20c44fd2a" title=" " alt="" coords="923,503,1109,544"/>
+<area shape="rect" id="node11" href="$d8/d15/a01218.html#a950ad7b037cc356cc3dc210953f36804" title="Obtain the sign of the given number." alt="" coords="977,346,1055,373"/>
+<area shape="rect" id="node7" href="$db/d87/a02076.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="1169,386,1352,413"/>
+<area shape="rect" id="node8" href="$db/d87/a02076.html#ae763563c9b0ec6df9b736f0095c8392f" title=" " alt="" coords="1183,320,1339,361"/>
+<area shape="rect" id="node12" href="$d8/d15/a01218.html#a01a4afbb06a0ef14e10486b9fb2a7271" title=" " alt="" coords="941,451,1091,478"/>
+<area shape="rect" id="node13" href="$d4/db0/a02540.html#a2f6524b8552fc389eafd79a6302ecd4a" title="Check if the polynomial is constant." alt="" coords="1157,503,1364,544"/>
+<area shape="rect" id="node17" href="$d4/db0/a02540.html#aa70bde3c36c67d4ab7f3f5f34dde3b85" title="Check if the polynomial is linear." alt="" coords="1157,437,1364,479"/>
+<area shape="rect" id="node14" href="$d3/d55/a02760.html#ae89a7e9a3372a299d729cf46e8caf5f6" title="Checks whether the monomial is a constant." alt="" coords="1431,561,1599,587"/>
+<area shape="rect" id="node15" href="$d4/db0/a02540.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="1412,444,1619,485"/>
+<area shape="rect" id="node16" href="$d4/db0/a02540.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="1667,473,1873,515"/>
+<area shape="rect" id="node19" href="$d8/d15/a01218.html#a179dadc5850750531a633be7ef865e9f" title="Method which returns the next larger integer of the passed number or the number itself,..." alt="" coords="977,787,1055,814"/>
+<area shape="rect" id="node20" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1441,1142,1589,1169"/>
+<area shape="rect" id="node21" href="$de/dc3/a02256.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="1187,721,1335,763"/>
+<area shape="rect" id="node22" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1441,787,1590,814"/>
+<area shape="rect" id="node23" href="$de/dc3/a02256.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="1186,889,1335,931"/>
+<area shape="rect" id="node24" href="$d8/d15/a01218.html#a1abf1d98da2f7331312905d888edadf2" title="Returns the center point of the interval." alt="" coords="734,990,829,1017"/>
+<area shape="rect" id="node26" href="$d8/d15/a01218.html#a27d1ce2ad393e8bab62327891595dff4" title="Method which returns the next smaller integer of this number or the number itself,..." alt="" coords="975,686,1057,713"/>
+<area shape="rect" id="node29" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1199,1281,1322,1323"/>
+<area shape="rect" id="node30" href="$de/dc3/a02256.html#a1b82af870f81450ebe08f42210cdc02a" title="Function which determines, if the interval is empty." alt="" coords="955,1311,1077,1352"/>
+<area shape="rect" id="node32" href="$de/dc3/a02256.html#a4d1dedfa64629a6509d858c9edae03f2" title="Checks if the interval contains the given value." alt="" coords="698,1494,865,1521"/>
+<area shape="rect" id="node33" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="720,1428,843,1469"/>
+<area shape="rect" id="node25" href="$de/dc3/a02256.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="935,990,1097,1017"/>
+<area shape="rect" id="node27" href="$d9/d04/a02460.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="929,1041,1103,1067"/>
+<area shape="rect" id="node28" href="$d3/d19/a02464.html#aa36ed895ade4f5f204aeba0135d4f086" title=" " alt="" coords="931,1091,1101,1118"/>
+<area shape="rect" id="node31" href="$de/dc3/a02256.html#ad88c24babf3db53859977f3cfce82db7" title="Function which determines, if the interval is (&#45;oo,oo)." alt="" coords="955,1193,1077,1235"/>
+<area shape="rect" id="node34" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="952,1479,1080,1520"/>
+</map>

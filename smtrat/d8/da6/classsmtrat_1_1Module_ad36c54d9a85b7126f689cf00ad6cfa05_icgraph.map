@@ -1,0 +1,4 @@
+<map id="smtrat::Module::printModel" name="smtrat::Module::printModel">
+<area shape="rect" id="node1" title="Prints the assignment of this module satisfying its received formula if it satisfiable and this modul..." alt="" coords="299,5,497,32"/>
+<area shape="rect" id="node2" href="$d0/df0/classsmtrat_1_1Manager.html#a9842eee82df03a3b2aa658e53eb52cb7" title="Prints the currently found assignment of variables occurring in the so far added formulas to values o..." alt="" coords="5,5,251,32"/>
+</map>

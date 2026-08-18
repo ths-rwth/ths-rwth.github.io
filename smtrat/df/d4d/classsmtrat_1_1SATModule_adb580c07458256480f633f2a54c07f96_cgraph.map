@@ -1,0 +1,9 @@
+<map id="smtrat::SATModule::search" name="smtrat::SATModule::search">
+<area shape="rect" id="node1" title="search : (nof_conflicts : int) (params : const SearchParams&amp;) &#45;&gt; [lbool]" alt="" coords="5,125,160,167"/>
+<area shape="rect" id="node2" href="$d6/d0b/namespaceMinisat.html#ac9773caad1cf08d258dd7c18ab6eccf5" title=" " alt="" coords="395,107,509,134"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespaceMinisat.html#ad12020b5bf6befcbd2ed73d63cbc26ee" title=" " alt="" coords="557,6,663,33"/>
+<area shape="rect" id="node4" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="561,107,659,134"/>
+<area shape="rect" id="node5" href="$d6/d0b/namespaceMinisat.html#ab64c652a62124cc75e3c9daf77ca04be" title=" " alt="" coords="226,57,329,83"/>
+<area shape="rect" id="node6" href="$de/dfa/namespacesmtrat_1_1vs.html#af723f2c1035db094355b7473175b038e" title="Prints the given disjunction of conjunction of constraints." alt="" coords="214,209,341,235"/>
+<area shape="rect" id="node7" href="$dc/dee/namespacesmtrat_1_1sat_1_1detail.html#a149a679f5282bb4aee74f4e889d86207" title=" " alt="" coords="208,260,347,301"/>
+</map>

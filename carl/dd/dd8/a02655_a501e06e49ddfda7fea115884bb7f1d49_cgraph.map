@@ -1,0 +1,32 @@
+<map id="carl::EZGCD::calculate" name="carl::EZGCD::calculate">
+<area shape="rect" id="node1" title=" " alt="" coords="5,278,172,305"/>
+<area shape="rect" id="node2" href="$d7/d7d/a02527.html#abdd1a55a8168b065865d5a2f7dd0909b" title="Get the maximal exponent of the main variable." alt="" coords="226,5,421,47"/>
+<area shape="rect" id="node3" href="$d9/dc8/a02531.html#a263e2ab7d52e50bcbb456b17a25ba179" title=" " alt="" coords="220,71,427,112"/>
+<area shape="rect" id="node4" href="$d7/d7d/a02527.html#aa2e8efa4c30825155c851463cd575c27" title=" " alt="" coords="226,136,421,177"/>
+<area shape="rect" id="node5" href="$dd/dd8/a02655.html#a7527ca41c851fb7a1554091277cf51e5" title="Find a valid evaluation point b = (b_1, ..." alt="" coords="243,202,403,229"/>
+<area shape="rect" id="node6" href="$de/d04/a01209.html#a518fcd588efdefd1c48c6d3aaaacee2c" title="Calculate the greatest common divisor of two integers." alt="" coords="285,253,362,279"/>
+<area shape="rect" id="node10" href="$dd/dd8/a02655.html#adf98783d90ef5379a1689dd75b7c7e81" title="Given the two polynomials, find a suitable main variable for gcd." alt="" coords="661,194,844,221"/>
+<area shape="rect" id="node21" href="$dd/dd8/a02655.html#af501a4143f3e8ce73ff53bb33b784bdb" title=" " alt="" coords="240,405,407,431"/>
+<area shape="rect" id="node28" href="$de/d04/a01209.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="496,354,592,381"/>
+<area shape="rect" id="node29" href="$de/d04/a01209.html#a4da6c6fda945878e9af822ca43b36607" title="Calculate the remainder of the integer division." alt="" coords="282,455,365,482"/>
+<area shape="rect" id="node30" href="$d9/dc8/a02531.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="220,507,427,548"/>
+<area shape="rect" id="node7" href="$de/d04/a01209.html#ac837952cbddb45a8e57ab93789d56ba6" title=" " alt="" coords="505,143,583,170"/>
+<area shape="rect" id="node8" href="$de/d04/a01209.html#abfa557902ca711efa9f03e7ae1679407" title="Extract the denominator from a fraction." alt="" coords="689,143,816,170"/>
+<area shape="rect" id="node9" href="$de/d04/a01209.html#a6b99ff3d1ab9ac9b56cbd908cf818546" title="Extract the numerator from a fraction." alt="" coords="697,93,808,119"/>
+<area shape="rect" id="node11" href="$de/d04/a01209.html#a9e12491561bd080f9cf41abe12546611" title="Intersects two intervals in a set&#45;theoretic manner." alt="" coords="892,194,1051,221"/>
+<area shape="rect" id="node19" href="$de/d04/a01209.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="914,139,1029,166"/>
+<area shape="rect" id="node12" href="$df/d71/a02247.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1129,333,1251,375"/>
+<area shape="rect" id="node15" href="$df/d71/a02247.html#a419f459b6179b9d18124a2c2b802d3c3" title=" " alt="" coords="1116,268,1264,309"/>
+<area shape="rect" id="node17" href="$df/d71/a02247.html#ae1453cadc09e4729614396e815feef89" title=" " alt="" coords="1115,189,1265,231"/>
+<area shape="rect" id="node13" href="$df/d71/a02247.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1330,373,1478,399"/>
+<area shape="rect" id="node14" href="$df/d71/a02247.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1329,237,1479,263"/>
+<area shape="rect" id="node16" href="$df/d71/a02247.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="1330,288,1478,329"/>
+<area shape="rect" id="node18" href="$df/d71/a02247.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="1329,171,1479,212"/>
+<area shape="rect" id="node20" href="$d4/daa/a02067.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="1099,138,1281,165"/>
+<area shape="rect" id="node22" href="$de/d04/a01209.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="494,434,594,461"/>
+<area shape="rect" id="node25" href="$d0/d01/a02511.html#aa7fb5bf45b6c672f977c0303dabcf75c" title="Computed the next prime and returns it." alt="" coords="475,511,613,552"/>
+<area shape="rect" id="node23" href="$df/d71/a02247.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="691,347,814,388"/>
+<area shape="rect" id="node24" href="$df/d71/a02247.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="907,347,1035,388"/>
+<area shape="rect" id="node26" href="$d8/df3/a01216.html#aaa3dbcb820314fb751a0c0f452fa0972" title=" " alt="" coords="689,565,817,607"/>
+<area shape="rect" id="node27" href="$d0/d01/a02511.html#a74755da88e696fa23c7316071383213c" title="Returns the number of already computed primes." alt="" coords="902,565,1041,607"/>
+</map>

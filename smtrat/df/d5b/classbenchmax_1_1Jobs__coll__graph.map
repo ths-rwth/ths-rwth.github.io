@@ -1,0 +1,8 @@
+<map id="benchmax::Jobs" name="benchmax::Jobs">
+<area shape="rect" id="node1" title="Represents a set of jobs, constructed as the cartesian product of a set of tools and a set of benchma..." alt="" coords="65,404,190,431"/>
+<area shape="rect" id="node2" href="$d4/dbe/classbenchmax_1_1BenchmarkSet.html" title="A set of benchmarks from some common base directory." alt="" coords="31,315,224,341"/>
+<area shape="rect" id="node3" title=" " alt="" coords="29,199,232,240"/>
+<area shape="rect" id="node4" title=" " alt="" coords="56,95,186,121"/>
+<area shape="rect" id="node6" title=" " alt="" coords="205,264,346,291"/>
+<area shape="rect" id="node5" title=" " alt="" coords="102,5,140,32"/>
+</map>

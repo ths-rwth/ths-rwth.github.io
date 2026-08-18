@@ -1,0 +1,11 @@
+<map id="carl::operator&lt;" name="carl::operator&lt;">
+<area shape="rect" id="node1" title="Checks if the first arguments is less than the second." alt="" coords="5,195,125,222"/>
+<area shape="rect" id="node2" href="$d1/d34/a01211.html#ac661f4e8a790efa60aa3cb94f64cec82" title="Retrieve the constant term of this polynomial or zero, if there is no constant term." alt="" coords="173,5,380,47"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="229,71,324,98"/>
+<area shape="rect" id="node5" href="$d1/d34/a01211.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="173,123,380,164"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#a19781edb1c8e3f1da442b667f911fd79" title="Ensure that the terms are ordered." alt="" coords="173,188,380,229"/>
+<area shape="rect" id="node7" href="$d1/d34/a01211.html#a5a7bd22cd4e9774f66f208649ada5581" title=" " alt="" coords="173,253,380,295"/>
+<area shape="rect" id="node8" href="$d1/d34/a01211.html#a780bb9ff8aa2bb57c56fe5819166b3d0" title=" " alt="" coords="173,319,380,360"/>
+<area shape="rect" id="node9" href="$d1/d34/a01211.html#aca1a0a63b9bd18ec2fc62246e88e3d57" title="Calculates the max." alt="" coords="173,384,380,425"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="428,64,635,105"/>
+</map>

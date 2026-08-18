@@ -1,0 +1,5 @@
+<map id="smtrat::union_find::P_do_find" name="smtrat::union_find::P_do_find">
+<area shape="rect" id="node1" title="Perform the find operation (walk the path until an entry with class == index is found)." alt="" coords="5,39,145,80"/>
+<area shape="rect" id="node2" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html#a97bd7f6e889f6f72e76ee7125587dc0b" title=" " alt="" coords="203,5,370,47"/>
+<area shape="rect" id="node3" href="$d5/d53/classsmtrat_1_1uf__impl_1_1uf__data__wrapper.html#a790fd4af21c2d6af84b1268edaef1c25" title=" " alt="" coords="193,71,380,112"/>
+</map>

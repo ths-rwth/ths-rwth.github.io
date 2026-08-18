@@ -1,0 +1,7 @@
+<map id="smtrat::vs::State::resetInfinityChild" name="smtrat::vs::State::resetInfinityChild">
+<area shape="rect" id="node1" title=" " alt="" coords="281,78,420,119"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="12,5,227,32"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#aef417e2757b66a5eb4c3a569e7884882" title="Eliminates the given variable by finding test candidates of the constraint of the given condition." alt="" coords="15,56,223,83"/>
+<area shape="rect" id="node4" href="$d7/de3/classsmtrat_1_1VSModule.html#a2682113d2813b6ad64df64e23f406af9" title="Applies the substitution of the given state to all conditions, which were recently added to it." alt="" coords="13,107,225,149"/>
+<area shape="rect" id="node5" href="$d7/de3/classsmtrat_1_1VSModule.html#a95f3ff634d59b62bc99ed2d247b75c6c" title="Applies the substitution of _currentState to the given conditions." alt="" coords="5,173,233,200"/>
+</map>

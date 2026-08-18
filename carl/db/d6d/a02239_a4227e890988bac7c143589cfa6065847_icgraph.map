@@ -1,0 +1,5 @@
+<map id="carl::ReductorEntry::removeLeadingTerm" name="carl::ReductorEntry::removeLeadingTerm">
+<area shape="rect" id="node1" title="Calculate p &#45; lt(p)." alt="" coords="447,5,609,47"/>
+<area shape="rect" id="node2" href="$db/d6d/a02239.html#a352c49e8db018be32840b29a4056223f" title=" " alt="" coords="252,5,399,47"/>
+<area shape="rect" id="node3" href="$d7/da1/a02231.html#a5726fc6e3c832a8a136a8073a6a77a03" title="should only be called if the compare result was EQUAL eliminate duplicate leading monomials" alt="" coords="5,5,204,47"/>
+</map>

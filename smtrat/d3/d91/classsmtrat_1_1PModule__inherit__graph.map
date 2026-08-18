@@ -1,0 +1,18 @@
+<map id="smtrat::PModule" name="smtrat::PModule">
+<area shape="rect" id="node1" title=" " alt="" coords="175,380,304,407"/>
+<area shape="rect" id="node3" href="$da/d5f/classsmtrat_1_1BEModule.html" title=" " alt="" coords="353,5,575,32"/>
+<area shape="rect" id="node4" href="$d6/def/classsmtrat_1_1CNFerModule.html" title=" " alt="" coords="384,56,544,83"/>
+<area shape="rect" id="node5" href="$dd/d97/classsmtrat_1_1EMModule.html" title=" " alt="" coords="352,107,576,133"/>
+<area shape="rect" id="node6" href="$db/dc5/classsmtrat_1_1ESModule.html" title=" " alt="" coords="354,157,574,184"/>
+<area shape="rect" id="node7" href="$d1/d98/classsmtrat_1_1FPPModule.html" title=" " alt="" coords="386,209,542,250"/>
+<area shape="rect" id="node8" href="$d2/d5c/classsmtrat_1_1GBPPModule.html" title=" " alt="" coords="386,274,542,315"/>
+<area shape="rect" id="node9" href="$d9/d79/classsmtrat_1_1ICEModule.html" title=" " alt="" coords="387,339,541,381"/>
+<area shape="rect" id="node10" href="$de/deb/classsmtrat_1_1LVEModule.html" title=" " alt="" coords="387,405,541,446"/>
+<area shape="rect" id="node11" href="$db/d27/classsmtrat_1_1MCBModule.html" title=" " alt="" coords="383,470,545,511"/>
+<area shape="rect" id="node12" href="$d5/dcc/classsmtrat_1_1NewGBPPModule.html" title=" " alt="" coords="371,535,557,577"/>
+<area shape="rect" id="node13" href="$db/d50/classsmtrat_1_1PFEModule.html" title=" " alt="" coords="386,601,542,642"/>
+<area shape="rect" id="node14" href="$d8/db0/classsmtrat_1_1PNFerModule.html" title=" " alt="" coords="385,667,543,693"/>
+<area shape="rect" id="node15" href="$de/dcd/classsmtrat_1_1SplitSOSModule.html" title=" " alt="" coords="376,718,552,759"/>
+<area shape="rect" id="node16" href="$dc/d92/classsmtrat_1_1SymmetryModule.html" title=" " alt="" coords="369,783,559,825"/>
+<area shape="rect" id="node2" href="$d8/da6/classsmtrat_1_1Module.html" title="A base class for all kind of theory solving methods." alt="" coords="5,380,127,407"/>
+</map>

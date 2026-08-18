@@ -1,0 +1,4 @@
+<map id="carl::Bitset::reset" name="carl::Bitset::reset">
+<area shape="rect" id="node1" title="Resets a bit to false." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$dd/d4c/a02949.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="187,5,357,32"/>
+</map>

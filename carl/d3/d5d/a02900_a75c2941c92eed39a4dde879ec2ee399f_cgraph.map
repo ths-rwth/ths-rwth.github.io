@@ -1,0 +1,9 @@
+<map id="carl::SqrtEx::isRational" name="carl::SqrtEx::isRational">
+<area shape="rect" id="node1" title=" " alt="" coords="5,27,175,53"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="223,27,323,53"/>
+<area shape="rect" id="node3" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="717,53,840,94"/>
+<area shape="rect" id="node4" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="889,5,1037,32"/>
+<area shape="rect" id="node6" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="371,78,493,119"/>
+<area shape="rect" id="node5" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="888,60,1037,87"/>
+<area shape="rect" id="node7" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="541,78,669,119"/>
+</map>

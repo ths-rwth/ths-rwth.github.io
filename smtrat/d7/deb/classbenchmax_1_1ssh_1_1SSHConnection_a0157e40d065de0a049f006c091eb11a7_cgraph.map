@@ -1,0 +1,10 @@
+<map id="benchmax::ssh::SSHConnection::executeCommand" name="benchmax::ssh::SSHConnection::executeCommand">
+<area shape="rect" id="node1" title="Execute a command on the remote." alt="" coords="5,169,232,211"/>
+<area shape="rect" id="node2" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#ad37a6e3c5cfb2df3a500dad4c20f506b" title="Terminate a SSH channel." alt="" coords="280,5,507,47"/>
+<area shape="rect" id="node3" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#ad283eae52ecb9905d060b508f9bde7b9" title="Allocate a new channel from the current SSH session." alt="" coords="280,71,507,112"/>
+<area shape="rect" id="node5" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#ab5395c76fcf94574a3ac7f16e23da3f1" title="Parse a duration from stdout." alt="" coords="280,136,507,177"/>
+<area shape="rect" id="node6" href="$d0/d1d/namespacebenchmax.html#ac92d4b7e784de37490217791d4388317" title=" " alt="" coords="307,201,480,243"/>
+<area shape="rect" id="node7" href="$d0/d1d/namespacebenchmax.html#a7023b801521b73ccffe81cbfbaaf3a43" title="Return the benchmark settings." alt="" coords="318,267,469,308"/>
+<area shape="rect" id="node8" href="$d0/d1d/namespacebenchmax.html#a0b7df40e5a43c7ab4248c3b776b08677" title="Return the SSH settings." alt="" coords="304,333,483,359"/>
+<area shape="rect" id="node4" href="$d7/deb/classbenchmax_1_1ssh_1_1SSHConnection.html#a8d7449b8d3a23f482fb66040c0003a24" title="Check if all channels are busy." alt="" coords="555,71,781,112"/>
+</map>

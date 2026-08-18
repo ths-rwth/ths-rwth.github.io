@@ -1,0 +1,5 @@
+<map id="smtrat::mcsat::MCSATMixin::doBooleanAssignment" name="smtrat::mcsat::MCSATMixin::doBooleanAssignment">
+<area shape="rect" id="node1" title="Add a new constraint." alt="" coords="5,35,208,76"/>
+<area shape="rect" id="node2" href="$d9/d0b/classsmtrat_1_1mcsat_1_1MCSATMixin.html#a1d708141b18b27a1af7f4d7bd5dc8aaa" title="Evaluate a literal in the theory, set lastReason to last theory decision involved." alt="" coords="256,5,459,47"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespaceMinisat.html#a7e5fb380b0eb0893534bafe8890aeb07" title=" " alt="" coords="308,71,407,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="smtrat::mcsat::ClauseChain::appendPropagating" name="smtrat::mcsat::ClauseChain::appendPropagating">
+<area shape="rect" id="node1" title="Append a clause that implies impliedTseitinLiteral under the current assignment." alt="" coords="944,50,1147,91"/>
+<area shape="rect" id="node2" href="$db/d0c/namespacesmtrat_1_1mcsat.html#a4598e6a48dcdf768f765d42e94acad14" title=" " alt="" coords="704,50,896,91"/>
+<area shape="rect" id="node3" href="$d2/d58/classsmtrat_1_1mcsat_1_1ClauseChain.html#a2198b21bd1933fa654aa10820a4529d6" title="Transforms a given Boolean conjunction over AND and OR to CNF via Tseitin&#45;Transformation so that,..." alt="" coords="453,50,656,91"/>
+<area shape="rect" id="node4" href="$d4/dd8/classsmtrat_1_1mcsat_1_1vs_1_1ExplanationGenerator.html#ab5947080b220091441d307da4548c870" title=" " alt="" coords="233,5,397,61"/>
+<area shape="rect" id="node6" href="$d1/db1/structsmtrat_1_1mcsat_1_1onecell_1_1Explanation.html#aeab36fdf69696fc5f2c4b25542d92f72" title=" " alt="" coords="225,86,405,127"/>
+<area shape="rect" id="node5" href="$d4/d3b/structsmtrat_1_1mcsat_1_1vs_1_1Explanation.html#af1a07174df769e31e433488ae0f61b53" title=" " alt="" coords="5,13,177,54"/>
+</map>

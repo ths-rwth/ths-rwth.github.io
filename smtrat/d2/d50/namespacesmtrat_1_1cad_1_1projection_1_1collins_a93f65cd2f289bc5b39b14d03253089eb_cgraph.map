@@ -1,0 +1,6 @@
+<map id="smtrat::cad::projection::collins::single" name="smtrat::cad::projection::collins::single">
+<area shape="rect" id="node1" title="Implements the part of Collins projection operator from &#160;that deals with a single polynomial p: ." alt="" coords="5,64,175,105"/>
+<area shape="rect" id="node2" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="239,5,409,47"/>
+<area shape="rect" id="node3" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac472631e043d741a3cd933e3b2109956" title="Computes the Principal Subresultant Coefficients of two polynomials." alt="" coords="223,71,425,98"/>
+<area shape="rect" id="node4" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#aaadb11de9ea92393506042cc35c8f8fe" title=" " alt="" coords="239,123,409,164"/>
+</map>

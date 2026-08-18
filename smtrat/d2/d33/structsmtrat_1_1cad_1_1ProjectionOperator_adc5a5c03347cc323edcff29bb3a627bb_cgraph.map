@@ -1,0 +1,14 @@
+<map id="smtrat::cad::ProjectionOperator::operator()" name="smtrat::cad::ProjectionOperator::operator()">
+<area shape="rect" id="node1" title=" " alt="" coords="5,159,232,200"/>
+<area shape="rect" id="node2" href="$d7/d11/namespacesmtrat_1_1cad_1_1projection_1_1brown.html#ab3786c50fea06d51f7cfae00b50e26d6" title="Implements the part of Browns projection operator from &#160;that deals with two polynomials p and q which..." alt="" coords="291,188,461,229"/>
+<area shape="rect" id="node3" href="$d3/d93/namespacesmtrat_1_1cad_1_1projection_1_1mccallum.html#a774fc2fa0b1473df4bd1f18de31ab747" title="Implements the part of McCallums projection operator from &#160;that deals with two polynomials p and q: ." alt="" coords="520,127,689,168"/>
+<area shape="rect" id="node8" href="$d2/d50/namespacesmtrat_1_1cad_1_1projection_1_1collins.html#a51286119a9b2c150440c4f0d17aca065" title="Implements the part of Collins projection operator from &#160;that deals with two polynomials p and q: ." alt="" coords="520,308,689,349"/>
+<area shape="rect" id="node10" href="$da/df8/namespacesmtrat_1_1cad_1_1projection_1_1hong.html#ad569f436171051013b631f516212dcff" title="Implements the part of Hongs projection operator from &#160;that deals with two polynomials p and q: ." alt="" coords="520,243,689,284"/>
+<area shape="rect" id="node11" href="$d3/d26/namespacesmtrat_1_1cad_1_1projection_1_1lazard.html#a05010a34e7ebb7f058ecf1042e8b93f3" title="Implements the part of Lazard projection operator from &#160;that deals with two polynomials p and q which..." alt="" coords="291,5,461,47"/>
+<area shape="rect" id="node12" href="$de/dbb/namespacesmtrat_1_1cad_1_1projection_1_1mccallum__partial.html#aa33946e74734cff77d697b924b7e8a2d" title=" " alt="" coords="280,71,472,112"/>
+<area shape="rect" id="node4" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#a391a9f68fa5ee4e488ee00847b69ac8f" title="Computes the resultant of two polynomials." alt="" coords="754,124,923,165"/>
+<area shape="rect" id="node7" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#aaadb11de9ea92393506042cc35c8f8fe" title=" " alt="" coords="754,189,923,231"/>
+<area shape="rect" id="node5" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac9d461c63533b1fa4cf28ac4883cd2c0" title="Normalizes the given Poly by removing constant and duplicate factors." alt="" coords="999,248,1168,289"/>
+<area shape="rect" id="node6" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#ae78f1ba02e35a73db902d0714ea7f1c6" title=" " alt="" coords="988,124,1179,165"/>
+<area shape="rect" id="node9" href="$d2/deb/namespacesmtrat_1_1cad_1_1projection.html#ac472631e043d741a3cd933e3b2109956" title="Computes the Principal Subresultant Coefficients of two polynomials." alt="" coords="737,306,940,333"/>
+</map>

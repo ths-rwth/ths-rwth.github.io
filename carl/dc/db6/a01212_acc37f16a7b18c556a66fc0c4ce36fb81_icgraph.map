@@ -1,0 +1,4 @@
+<map id="carl::set_difference" name="carl::set_difference">
+<area shape="rect" id="node1" title="Calculates the difference of two intervals in a set&#45;theoretic manner: lhs \ rhs (can result in two di..." alt="" coords="204,13,351,39"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a26a2da3ff540f49e71d47ed6a82da231" title="Calculates the symmetric difference of two intervals in a set&#45;theoretic manner (can result in two dis..." alt="" coords="5,5,156,47"/>
+</map>

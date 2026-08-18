@@ -1,0 +1,6 @@
+<map id="smtrat::mcsat::vs::helper::generateTestCandidates" name="smtrat::mcsat::vs::helper::generateTestCandidates">
+<area shape="rect" id="node1" title="Generate all test candidates according to &quot;vanilla&quot; virtual substitution." alt="" coords="5,39,233,80"/>
+<area shape="rect" id="node2" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a6e9bf4d22615f1b9d59238c28d90bc6a" title="Adds a new substitution to the given list of substitutions or merges it to an existing one." alt="" coords="281,5,524,47"/>
+<area shape="rect" id="node4" href="$dc/dd3/namespacesmtrat_1_1mcsat_1_1vs_1_1helper.html#a1b6e43fbd05fde4441b7e45c303ea838" title="Get zeros with side conditions of the given constraint." alt="" coords="319,71,486,112"/>
+<area shape="rect" id="node3" href="$d6/d0b/namespaceMinisat.html#a8dde6eed0840d1092688c12829715cd6" title=" " alt="" coords="572,13,675,39"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="carl::MultivariateRoot::substituteIn" name="carl::MultivariateRoot::substituteIn">
+<area shape="rect" id="node1" title="Create a copy of the underlying polynomial with the given variable replaced by the given polynomial." alt="" coords="233,5,396,47"/>
+<area shape="rect" id="node2" href="$d3/d51/a01264.html#acec48430ff7fa5926948a1f7215ddf3d" title="Substitutes a variable with a rational within a MultivariateRoot." alt="" coords="5,13,185,39"/>
+</map>

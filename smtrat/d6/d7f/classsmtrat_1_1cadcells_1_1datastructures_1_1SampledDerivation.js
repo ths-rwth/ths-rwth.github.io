@@ -1,0 +1,26 @@
+var classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation =
+[
+    [ "SampledDerivation", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#af014a0455e26004f4d96e8e88b49d445", null ],
+    [ "base", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a70b1500340d2a5e37fb326cf6ddd7687", null ],
+    [ "base", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#af31a170ed62432f80e4f2c08e107f9fc", null ],
+    [ "cell", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#afadae9a517419dcc900515ee5f2945a7", null ],
+    [ "contains", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a955d05bff1c318eb585b3a41acd2c1e3", null ],
+    [ "delin", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a192292e7995578a9fe6dc69124d1497d", null ],
+    [ "delineate_cell", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a6b3ed734ad55c728a6467a33bd33335c", null ],
+    [ "delineated", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#aca97715eb892c5f7d9a57d5dc467c37a", null ],
+    [ "delineated", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#af898dad7cc53e268e8e6bf6731886c69", null ],
+    [ "insert", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a5389a8fb0d89465fea63af7467a4e773", null ],
+    [ "level", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#aa0f694e0188a1cc698d19ac17916aed8", null ],
+    [ "main_var", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#af5e8705ebbd51d5ec651f917394ff1cd", null ],
+    [ "main_var_sample", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#ab7aefa0668833f76b2b86f8d537139dc", null ],
+    [ "merge_with", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a90f197467e5478bad07abafb2c2b276d", null ],
+    [ "polys", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#aea08d90a6806ff15d72193084e01ace7", null ],
+    [ "proj", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a0109c16f024b0ba049deaf2c9fd41963", null ],
+    [ "properties", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#ae390e38293e1958b1a4ee7f90db74f86", null ],
+    [ "sample", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a6e65cf4329cee03ad499b9dd51424af5", null ],
+    [ "underlying", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a938d72b6f86a86619a98eaffef4cc005", null ],
+    [ "underlying_sample", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a869f35cac1713d32678b9017502d090d", null ],
+    [ "m_cell", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a4f1726828f7feb701a3b34cbbbf0ced5", null ],
+    [ "m_delineated", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a0acf088c0bc12a7e9d4caa6957e20656", null ],
+    [ "m_sample", "d6/d7f/classsmtrat_1_1cadcells_1_1datastructures_1_1SampledDerivation.html#a9a533a26db5ab71b59dbe17376a5f60a", null ]
+];

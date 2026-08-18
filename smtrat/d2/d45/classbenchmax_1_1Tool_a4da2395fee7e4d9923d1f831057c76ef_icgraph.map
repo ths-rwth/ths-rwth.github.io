@@ -1,0 +1,6 @@
+<map id="benchmax::Tool::getCommandline" name="benchmax::Tool::getCommandline">
+<area shape="rect" id="node1" title="Compose commandline for this tool and the given input file." alt="" coords="312,78,556,105"/>
+<area shape="rect" id="node2" href="$df/d9e/classbenchmax_1_1LocalBackend.html#a1f281d9c286668778466d51cfa1fb17e" title="Execute the tool on the file manually." alt="" coords="41,5,228,47"/>
+<area shape="rect" id="node3" href="$dd/ddb/classbenchmax_1_1CondorBackend.html#aeff12e9cafaf0b95ba7dfab0a638783f" title="Generate a submit file for the given job." alt="" coords="35,71,234,112"/>
+<area shape="rect" id="node4" href="$d2/d45/classbenchmax_1_1Tool.html#aa2685f6fad41bc4c672380a62f72553c" title="Compose commandline for this tool and the given input file." alt="" coords="5,137,264,163"/>
+</map>

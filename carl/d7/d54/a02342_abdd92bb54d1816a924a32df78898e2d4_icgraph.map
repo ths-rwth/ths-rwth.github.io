@@ -1,0 +1,5 @@
+<map id="carl::FLOAT_T::acos" name="carl::FLOAT_T::acos">
+<area shape="rect" id="node1" title="Function which calculates the arcus cosine of this number and puts it into a passed result parameter." alt="" coords="332,13,479,39"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a5ca73eb9b4bde1b9e2bee65c7f26093a" title=" " alt="" coords="200,13,284,39"/>
+<area shape="rect" id="node3" href="$d7/d54/a02342.html#aef6446d7928119766a7fd955d2189e40" title="Assigns the number the arcus cosine of this number." alt="" coords="5,5,152,47"/>
+</map>

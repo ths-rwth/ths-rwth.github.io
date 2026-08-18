@@ -1,0 +1,4 @@
+<map id="smtrat::createAuxiliaryVariable" name="smtrat::createAuxiliaryVariable">
+<area shape="rect" id="node1" title="create an auxiliary variable e.g." alt="" coords="261,5,487,32"/>
+<area shape="rect" id="node2" href="$de/dc5/namespacesmtrat.html#ade882a41016d02801388397697356fce" title="| x1 | &lt;= | x1 | = (and (=&gt; (x1 &gt;= 0) (y1 = x1)) (=&gt; (x1 &lt; 0) (y1 = &#45;x1)) (=&gt; (x2 &gt;= 0) (y2 = x2)) (=..." alt="" coords="5,5,213,32"/>
+</map>

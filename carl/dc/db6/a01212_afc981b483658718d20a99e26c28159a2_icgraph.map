@@ -1,0 +1,9 @@
+<map id="carl::total_degree" name="carl::total_degree">
+<area shape="rect" id="node1" title="Gives the total degree, i.e." alt="" coords="440,107,576,133"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a69bb2518166d66ce4a90d6972277058b" title=" " alt="" coords="241,5,374,32"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a368f083629ffcf99ef50bf7fd3090265" title="Checks whether the monomial has at most degree one." alt="" coords="223,56,392,83"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#a9cc2f7f3c081d4856a654898f6871206" title="Checks whether the monomial is a constant." alt="" coords="243,107,371,133"/>
+<area shape="rect" id="node6" href="$dc/db6/a01212.html#a9b7403f6556f643fc180b0ef2f61edb8" title="Checks whether the monomial has exactly degree one." alt="" coords="253,157,362,184"/>
+<area shape="rect" id="node7" href="$dc/db6/a01212.html#ae076b354bf48b890d86dec05e4a5e5fe" title="Gives the total degree, i.e." alt="" coords="239,208,375,235"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#ab81745ba9c9b528fc521795e34240e2e" title="Checks whether the monomial has at most degree one." alt="" coords="5,56,175,83"/>
+</map>

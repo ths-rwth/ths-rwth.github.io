@@ -1,0 +1,14 @@
+<map id="carl::UnivariatePolynomial::normalized" name="carl::UnivariatePolynomial::normalized">
+<area shape="rect" id="node1" title="The normal part of a polynomial is the polynomial divided by the unit part." alt="" coords="739,144,933,185"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#a02a8f01df86d27fd2e24313e3dab716f" title="Calculates the extended greatest common divisor g of two polynomials." alt="" coords="527,50,672,77"/>
+<area shape="rect" id="node7" href="$d7/dc5/a01242.html#a03d2e55941274b16cc4434ec9a545970" title="Calculates the greatest common divisor of two polynomials." alt="" coords="561,101,638,127"/>
+<area shape="rect" id="node8" href="$d7/dc5/a01242.html#ac2b216eaf8da91b9a816264e3e0a95aa" title="Computes the GCD of two univariate polynomial with coefficients from a unique factorization domain us..." alt="" coords="508,151,691,178"/>
+<area shape="rect" id="node11" href="$d7/dc5/a01242.html#a183f443c45e61ca68ad5c72e9edd618b" title=" " alt="" coords="543,202,655,229"/>
+<area shape="rect" id="node12" href="$d9/de7/a01257.html#a8706232b35b25f033b1c07a5fcb93680" title="A reimplementation of the resultant algorithm from z3." alt="" coords="520,253,679,295"/>
+<area shape="rect" id="node3" href="$da/dd2/a02701.html#a412e65e91b24e0f84c5f1ce8c787340b" title="EEAlift computes s,t such that s*a + tb == 1 (mod p^k) with deg(s) &lt; deg(b) and deg(t) &lt; deg(a)." alt="" coords="257,5,454,47"/>
+<area shape="rect" id="node5" href="$d7/dc5/a01242.html#a598db2a85288fd3d66fb84d9e129ee4d" title=" " alt="" coords="251,71,460,98"/>
+<area shape="rect" id="node4" href="$da/dd2/a02701.html#a799225910c5f2b0c2497dcfea44a5bd9" title="Solve in Z_(p^k)[x] the univariate polynomial Diophantine equation: s_1 x b_1 + ....." alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node6" href="$d7/dc5/a01242.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="36,71,172,98"/>
+<area shape="rect" id="node9" href="$d6/d0f/a01256.html#a4fea6065a4a0696ca75fac75e7d6ccd2" title=" " alt="" coords="279,144,431,185"/>
+<area shape="rect" id="node10" href="$d7/dc5/a01242.html#af5dd729b6f9a5bb6abbf84261214ef0b" title=" " alt="" coords="65,151,143,178"/>
+</map>

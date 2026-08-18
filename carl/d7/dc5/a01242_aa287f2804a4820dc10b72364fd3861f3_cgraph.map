@@ -1,0 +1,12 @@
+<map id="carl::to_int&lt; sint &gt;" name="carl::to_int&lt; sint &gt;">
+<area shape="rect" id="node1" title="Convert a fraction to an unsigned." alt="" coords="5,97,151,123"/>
+<area shape="rect" id="node2" href="$d7/dc5/a01242.html#addee46a930b9236b643f5973aaeb1390" title="Convert a fraction to an integer." alt="" coords="199,71,388,98"/>
+<area shape="rect" id="node10" href="$d7/dc5/a01242.html#add51fd6004177c8b81062d5cf096d988" title=" " alt="" coords="221,122,366,149"/>
+<area shape="rect" id="node3" href="$d7/dc5/a01242.html#a6b99ff3d1ab9ac9b56cbd908cf818546" title="Extract the numerator from a fraction." alt="" coords="440,46,551,73"/>
+<area shape="rect" id="node4" href="$d7/dc5/a01242.html#ab58d55dada3f8e62b64b204197bcbdc9" title=" " alt="" coords="436,97,555,123"/>
+<area shape="rect" id="node5" href="$d0/d80/a02281.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="603,60,725,101"/>
+<area shape="rect" id="node8" href="$d0/d80/a02281.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1121,122,1269,149"/>
+<area shape="rect" id="node6" href="$d0/d80/a02281.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="773,5,901,47"/>
+<area shape="rect" id="node7" href="$d0/d80/a02281.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="949,60,1072,101"/>
+<area shape="rect" id="node9" href="$d0/d80/a02281.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1120,67,1269,94"/>
+</map>

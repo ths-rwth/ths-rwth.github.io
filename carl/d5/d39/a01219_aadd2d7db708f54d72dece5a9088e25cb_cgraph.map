@@ -1,0 +1,26 @@
+<map id="carl::constraint::simplify_integer_inplace" name="carl::constraint::simplify_integer_inplace">
+<area shape="rect" id="node1" title=" " alt="" coords="5,345,184,386"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a2621c3f57bc93187374da1f40c0afd67" title="Method which returns the absolute value of the passed number." alt="" coords="267,5,345,32"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#a27d1ce2ad393e8bab62327891595dff4" title="Method which returns the next smaller integer of this number or the number itself,..." alt="" coords="1100,205,1183,232"/>
+<area shape="rect" id="node9" href="$d8/d15/a01218.html#abfa557902ca711efa9f03e7ae1679407" title="Extract the denominator from a fraction." alt="" coords="243,243,369,269"/>
+<area shape="rect" id="node10" href="$d8/d15/a01218.html#a6b99ff3d1ab9ac9b56cbd908cf818546" title="Extract the numerator from a fraction." alt="" coords="251,293,361,320"/>
+<area shape="rect" id="node11" href="$d5/d39/a01219.html#aee1582a37efe03750ff0cae9542d6201" title=" " alt="" coords="232,345,380,386"/>
+<area shape="rect" id="node13" href="$db/d87/a02076.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="611,511,793,537"/>
+<area shape="rect" id="node14" href="$db/d87/a02076.html#ae763563c9b0ec6df9b736f0095c8392f" title=" " alt="" coords="624,445,780,486"/>
+<area shape="rect" id="node23" href="$d8/d15/a01218.html#a4da6c6fda945878e9af822ca43b36607" title="Calculate the remainder of the integer division." alt="" coords="265,512,347,539"/>
+<area shape="rect" id="node24" href="$d8/d15/a01218.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="438,485,553,512"/>
+<area shape="rect" id="node3" href="$de/dc3/a02256.html#ace798498657175679c31f1213f37e340" title="Calculates the absolute value of the interval." alt="" coords="428,5,563,32"/>
+<area shape="rect" id="node5" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1251,315,1399,341"/>
+<area shape="rect" id="node6" href="$de/dc3/a02256.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="1251,133,1399,174"/>
+<area shape="rect" id="node7" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1251,264,1400,291"/>
+<area shape="rect" id="node8" href="$de/dc3/a02256.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="1251,198,1400,239"/>
+<area shape="rect" id="node12" href="$d8/d15/a01218.html#a6aa5825a5dcfebf46047bb9ccd307025" title=" " alt="" coords="440,360,551,387"/>
+<area shape="rect" id="node15" href="$d8/d15/a01218.html#ab911f291835dda642be82b78d32262a0" title=" " alt="" coords="431,219,560,245"/>
+<area shape="rect" id="node19" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="445,309,545,336"/>
+<area shape="rect" id="node16" href="$d6/d0f/a01256.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="631,180,773,207"/>
+<area shape="rect" id="node17" href="$d0/dbc/a03752.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="846,173,1027,214"/>
+<area shape="rect" id="node18" href="$d7/db8/a03060.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="841,107,1032,149"/>
+<area shape="rect" id="node20" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1080,282,1203,323"/>
+<area shape="rect" id="node21" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="641,302,763,343"/>
+<area shape="rect" id="node22" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="873,341,1001,382"/>
+</map>

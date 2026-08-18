@@ -1,0 +1,6 @@
+<map id="smtrat::SATModule::insertVarOrder" name="smtrat::SATModule::insertVarOrder">
+<area shape="rect" id="node1" title="Insert a variable in the decision order priority queue." alt="" coords="5,35,160,76"/>
+<area shape="rect" id="node2" href="$d9/d0b/classsmtrat_1_1mcsat_1_1MCSATMixin.html#a8d34708879eb61239dbefd8799dd122b" title=" " alt="" coords="208,5,411,47"/>
+<area shape="rect" id="node4" href="$de/dcd/classMinisat_1_1vec.html#a97cf3ce028b39491e502479e78e8dd77" title=" " alt="" coords="242,71,377,98"/>
+<area shape="rect" id="node3" href="$d6/df7/structsmtrat_1_1mcsat_1_1MCSATMixin_1_1VarMapping.html#a448a1c3bbd84e04fe40e9c5a98088746" title=" " alt="" coords="459,5,661,47"/>
+</map>

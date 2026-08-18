@@ -1,0 +1,5 @@
+<map id="smtrat::cad::projection::canBeForwarded" name="smtrat::cad::projection::canBeForwarded">
+<area shape="rect" id="node1" title="Checks whether a polynomial can safely be forwarded to the next level." alt="" coords="5,5,175,47"/>
+<area shape="rect" id="node2" href="$dd/d1b/namespacesmtrat_1_1mcsat_1_1constraint__type.html#ad005af051ffb47aa6f6e1abee1ff4c5a" title="Checks whether the constraint is constant, i.e." alt="" coords="223,5,409,47"/>
+<area shape="rect" id="node3" href="$d6/d36/namespacesmtrat_1_1qe.html#ab7c8a034992f171ff826b10a73e2aabf" title=" " alt="" coords="457,13,583,39"/>
+</map>

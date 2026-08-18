@@ -1,0 +1,467 @@
+\documentclass{article}
+\usepackage{ifthen}
+\usepackage{epsfig}
+\usepackage[utf8]{inputenc}
+% Packages requested by user
+\usepackage{array}
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+\usepackage{newunicodechar}
+  \newunicodechar{⁻}{${}^{-}$}% Superscript minus
+  \newunicodechar{²}{${}^{2}$}% Superscript two
+  \newunicodechar{³}{${}^{3}$}% Superscript three
+
+\pagestyle{empty}
+\begin{document}
+$>=$
+\pagebreak
+
+$m$
+\pagebreak
+
+$C_{rcv}(m)$
+\pagebreak
+
+$\varphi$
+\pagebreak
+
+$C_{inf}(m)\subseteq C_{rcv}(m)$
+\pagebreak
+
+$C_{pas}(m)$
+\pagebreak
+
+$T:=(V, E)$
+\pagebreak
+
+$V$
+\pagebreak
+
+$E\subseteq V\times \Omega\times\Sigma\times V$
+\pagebreak
+
+$\Omega$
+\pagebreak
+
+$\Sigma$
+\pagebreak
+
+$\Sigma=\{1,\ \ldots,\ |E|\}$
+\pagebreak
+
+$C_{input}$
+\pagebreak
+
+$m_r$
+\pagebreak
+
+$C_{rcv}(m_r) = C_{input}$
+\pagebreak
+
+$m\in V$
+\pagebreak
+
+$(\sigma, m, m')$
+\pagebreak
+
+$Q$
+\pagebreak
+
+$(m, \omega, \sigma, m')\in E$
+\pagebreak
+
+$\omega$
+\pagebreak
+
+$p$
+\pagebreak
+
+$m'$
+\pagebreak
+
+$C_{rcv}(m') = C_{pas}(m)$
+\pagebreak
+
+$\varphi \in C_{pas}(m)$
+\pagebreak
+
+$R_1,\ldots, R_n \subseteq C_{rcv}(m)$
+\pagebreak
+
+$R_i$
+\pagebreak
+
+$C_{pas}(SATModule)$
+\pagebreak
+
+\[c_0:x\leq0,\ c_1:x\geq 0,\ c_2:x=0\]
+\pagebreak
+
+$c_0$
+\pagebreak
+
+$c_1$
+\pagebreak
+
+$c_2$
+\pagebreak
+
+$c_2:x=0$
+\pagebreak
+
+\[c_2\ \mapsto\ (c_0 \land c_1,\ c_2).\]
+\pagebreak
+
+\[ \begin{array}{rccccccccccccc} p &\quad ::=\quad & a & | & b & | & x & | & (p + p) & | & (p \cdot p) & | & (p^e) \\ v &\quad ::=\quad & u & | & x \\ s &\quad ::=\quad & f(v,\ldots,v) & | & u & | & x \\ e &\quad ::=\quad & s = s \\ c &\quad ::=\quad & p = 0 & | & p < 0 & | & p \leq 0 & | & p > 0 & | & p \geq 0 & | & p \neq 0 \\ \varphi &\quad ::=\quad & c & | & (\neg \varphi) & | & (\varphi\land\varphi) & | & (\varphi\lor\varphi) & | & (\varphi\rightarrow\varphi) & | \\ && (\varphi\leftrightarrow\varphi) & | & (\varphi\oplus\varphi) \end{array} \]
+\pagebreak
+
+$a$
+\pagebreak
+
+$e$
+\pagebreak
+
+$b$
+\pagebreak
+
+$x$
+\pagebreak
+
+$f$
+\pagebreak
+
+$o(f)$
+\pagebreak
+
+$u$
+\pagebreak
+
+$c$
+\pagebreak
+
+\[(\neg b\ \land\ x^2-y<0\ \land\ 4x+y-8y^7=0 )\ \rightarrow\ (\neg(x^2-y<0)\ \lor\ b ),\]
+\pagebreak
+
+$y$
+\pagebreak
+
+\[v = f(u,u)\ \oplus\ w \neq u\]
+\pagebreak
+
+$v$
+\pagebreak
+
+$w$
+\pagebreak
+
+$S$
+\pagebreak
+
+$T$
+\pagebreak
+
+$T^{S\times S}$
+\pagebreak
+
+$\land$
+\pagebreak
+
+$\lor$
+\pagebreak
+
+$n$
+\pagebreak
+
+$\neg$
+\pagebreak
+
+\[a_1\overbrace{x_{1,1}^{e_{1,1}}\cdot\ldots\cdot x_{1,k_1}^{e_{1,k_1}}}^{m_1}+\ldots+a_n\overbrace{x_{n,1}^{e_{n,1}}\cdot\ldots\cdot x_{n,k_n}^{e_{n,k_n}}}^{m_n}\ + \ d\ \sim \ 0\]
+\pagebreak
+
+$n\geq0$
+\pagebreak
+
+$i$
+\pagebreak
+
+$a_i$
+\pagebreak
+
+$\neq 0$
+\pagebreak
+
+$d$
+\pagebreak
+
+$x_{i,j_i}$
+\pagebreak
+
+$e_{i,j_i}$
+\pagebreak
+
+$1\leq i\leq n$
+\pagebreak
+
+$1\leq j_i\leq k_i$
+\pagebreak
+
+$x_{i,j_i}\neq x_{i,l_i}$
+\pagebreak
+
+$j_i\neq l_i$
+\pagebreak
+
+$1\leq j_i, l_i\leq k_i$
+\pagebreak
+
+$m_{i_1}\neq m_{i_2}$
+\pagebreak
+
+$i_1\neq i_2$
+\pagebreak
+
+$1\leq i_1,i_2\leq n$
+\pagebreak
+
+$0$
+\pagebreak
+
+$\sim$
+\pagebreak
+
+$=$
+\pagebreak
+
+$<$
+\pagebreak
+
+$a_1,\ldots,\ a_n,\ d$
+\pagebreak
+
+$1$
+\pagebreak
+
+\[\frac{a_1}{g}\cdot m_1\ +\ \ldots\ +\ \frac{a_n}{g}\cdot m_n\ + \ d'\ \sim' \ 0,\]
+\pagebreak
+
+$g$
+\pagebreak
+
+$a_1,\ldots,\ a_n$
+\pagebreak
+
+\[\sim'=\left\{ \begin{array}{ll} \leq, &\text{ if }\sim\text{ is }< \\ \geq, &\text{ if }\sim\text{ is }> \\ \sim, &\text{ otherwise } \end{array} \right.\]
+\pagebreak
+
+\[ d' = \left\{ \begin{array}{ll} \lceil\frac{d}{g}\rceil &\text{ if }\sim'\text{ is }\leq \\ \lfloor\frac{d}{g}\rfloor &\text{ if }\sim'\text{ is }\geq \\ \frac{d}{g} &\text{ otherwise } \end{array} \right.\]
+\pagebreak
+
+$\frac{d}{g}$
+\pagebreak
+
+$\sim'$
+\pagebreak
+
+$0<0$
+\pagebreak
+
+$\neq$
+\pagebreak
+
+$0=0$
+\pagebreak
+
+$x^3=0$
+\pagebreak
+
+$x=0$
+\pagebreak
+
+$x^2\leq 0$
+\pagebreak
+
+$x^2=0$
+\pagebreak
+
+$ \{ leading_coeff(p), discriminant(p) \} $
+\pagebreak
+
+$ \bigcup_{B \in RED(p)} \{ ldcf(B) \} \cup PSC(B, B') $
+\pagebreak
+
+$ \bigcup_{B_1 \in RED(p), B_2 \in RED(q)} PSC(B_1, B_2) $
+\pagebreak
+
+$ \bigcup_{F \in RED(p)} PSC(F, q) $
+\pagebreak
+
+$ \{ leading_coeff(p), trailing_coeff(p), discriminant(p) \} $
+\pagebreak
+
+$ coefficients(p) \cup \{ discriminant(p) \} $
+\pagebreak
+
+$ \{ resultant(p, q) \} $
+\pagebreak
+
+$ e \land \varphi' $
+\pagebreak
+
+$ e $
+\pagebreak
+
+$ \varphi' $
+\pagebreak
+
+$ x = t $
+\pagebreak
+
+$ x $
+\pagebreak
+
+$ t $
+\pagebreak
+
+$ true $
+\pagebreak
+
+$ x^i $
+\pagebreak
+
+$ x \geq y + z $
+\pagebreak
+
+$ y,z $
+\pagebreak
+
+$ \neq $
+\pagebreak
+
+$p \sim 0$
+\pagebreak
+
+$\sim \in \{ =, \neq, \geq, >, \leq, < \}$
+\pagebreak
+
+$q$
+\pagebreak
+
+$p = q \cdot r$
+\pagebreak
+
+$q(b)$
+\pagebreak
+
+$q \cdot r \sim 0$
+\pagebreak
+
+$q(b) > 0$
+\pagebreak
+
+$q(b) \geq 0$
+\pagebreak
+
+$q(b) = 0$
+\pagebreak
+
+$q(b) < 0$
+\pagebreak
+
+$q(b) \leq 0$
+\pagebreak
+
+$p := r$
+\pagebreak
+
+$f := q=0 \vee r=0$
+\pagebreak
+
+$p := 0$
+\pagebreak
+
+$f := q>0 \wedge r \neq 0$
+\pagebreak
+
+$f := q<0 \wedge r \neq 0$
+\pagebreak
+
+$\geq$
+\pagebreak
+
+$f := q=0 \vee r \geq 0$
+\pagebreak
+
+$c := r \leq 0$
+\pagebreak
+
+$f := q=0 \vee r \leq 0$
+\pagebreak
+
+$>$
+\pagebreak
+
+$f := q>0 \wedge r>0$
+\pagebreak
+
+$c := r<0$
+\pagebreak
+
+$f := q<0 \wedge r<0$
+\pagebreak
+
+$\leq$
+\pagebreak
+
+$c := r \geq 0$
+\pagebreak
+
+$f := q>0 \wedge r<0$
+\pagebreak
+
+$c := r>0$
+\pagebreak
+
+$f := q<0 \wedge r>0$
+\pagebreak
+
+$p := p'$
+\pagebreak
+
+$c := p' \sim 0$
+\pagebreak
+
+$f := f'$
+\pagebreak
+
+$p_i$
+\pagebreak
+
+$p = \prod_{i=1}^k p_i$
+\pagebreak
+
+$P_q$
+\pagebreak
+
+$P_r$
+\pagebreak
+
+$q = \prod_{t \in P_q} t$
+\pagebreak
+
+$r = \prod_{t \in P_r}$
+\pagebreak
+
+$\cdot$
+\pagebreak
+
+$ \leq $
+\pagebreak
+
+$ \geq $
+\pagebreak
+
+$ = $
+\pagebreak
+
+\end{document}

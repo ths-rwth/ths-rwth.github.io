@@ -1,0 +1,5 @@
+<map id="delta::Consumer::reset" name="delta::Consumer::reset">
+<area shape="rect" id="node1" title="Reset this executor." alt="" coords="5,31,176,57"/>
+<area shape="rect" id="node2" href="$d6/df0/classdelta_1_1Checker.html#a5078def304c502aac9e2c4b5ced67f08" title=" " alt="" coords="224,5,417,32"/>
+<area shape="rect" id="node3" href="$d4/dff/classdelta_1_1Consumer.html#afefaf4ddc1d0a509c973a077d0d1bce9" title="Wait for at least one job to finish." alt="" coords="238,56,403,83"/>
+</map>

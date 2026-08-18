@@ -1,0 +1,41 @@
+<map id="carl::sos_decomposition" name="carl::sos_decomposition">
+<area shape="rect" id="node1" title=" " alt="" coords="5,1057,184,1083"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a27f538cfe45145c285bc67d66c882f7f" title=" " alt="" coords="271,274,399,301"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#ab911f291835dda642be82b78d32262a0" title=" " alt="" coords="271,367,400,394"/>
+<area shape="rect" id="node8" href="$dc/db6/a01212.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="795,970,895,997"/>
+<area shape="rect" id="node14" href="$d6/d51/a02535.html#a710a3efef2f7f20bdaf15c311edb9650" title="Returns the coefficient of the leading term." alt="" coords="232,1108,439,1149"/>
+<area shape="rect" id="node18" href="$dc/db6/a01212.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="295,702,376,729"/>
+<area shape="rect" id="node31" href="$d6/d51/a02535.html#a5a7bd22cd4e9774f66f208649ada5581" title=" " alt="" coords="232,1173,439,1215"/>
+<area shape="rect" id="node32" href="$d6/d51/a02535.html#a780bb9ff8aa2bb57c56fe5819166b3d0" title=" " alt="" coords="232,1239,439,1280"/>
+<area shape="rect" id="node33" href="$d6/d51/a02535.html#af17143e3b4ae109deb30e47ce97c5c47" title="Calculates the max." alt="" coords="232,1304,439,1345"/>
+<area shape="rect" id="node34" href="$dc/db6/a01212.html#aa19fe29df8e7d5a732333423ce74acf6" title=" " alt="" coords="282,495,389,522"/>
+<area shape="rect" id="node3" href="$da/dfd/a02619.html#a18ff5ebfd5c74e48865b6815a9d69df6" title=" " alt="" coords="501,223,679,264"/>
+<area shape="rect" id="node5" href="$dc/dc2/a01251.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="519,289,661,315"/>
+<area shape="rect" id="node6" href="$da/db0/a03747.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="754,5,935,47"/>
+<area shape="rect" id="node7" href="$df/d0c/a03055.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="749,71,940,112"/>
+<area shape="rect" id="node9" href="$d1/d0c/a02251.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1381,713,1504,755"/>
+<area shape="rect" id="node10" href="$d1/d0c/a02251.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1553,970,1701,997"/>
+<area shape="rect" id="node12" href="$d1/d0c/a02251.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="1015,853,1138,895"/>
+<area shape="rect" id="node11" href="$d1/d0c/a02251.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1552,543,1701,570"/>
+<area shape="rect" id="node13" href="$d1/d0c/a02251.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="1205,837,1333,879"/>
+<area shape="rect" id="node15" href="$df/d02/a02755.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="527,1174,653,1201"/>
+<area shape="rect" id="node16" href="$d6/d51/a02535.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="487,1108,693,1149"/>
+<area shape="rect" id="node17" href="$d6/d51/a02535.html#ab21eda5b3c6b94fbab51a365cb2a99f6" title="Calculate the number of terms." alt="" coords="741,1108,948,1149"/>
+<area shape="rect" id="node19" href="$dc/db6/a01212.html#a2621c3f57bc93187374da1f40c0afd67" title="Method which returns the absolute value of the passed number." alt="" coords="551,550,629,577"/>
+<area shape="rect" id="node21" href="$d1/d0c/a02251.html#a4d1dedfa64629a6509d858c9edae03f2" title="Checks if the interval contains the given value." alt="" coords="507,601,673,627"/>
+<area shape="rect" id="node22" href="$d1/d0c/a02251.html#a1e3c02ae07a636da7efc8f3845825b5d" title="Returns a reference to the included boost interval." alt="" coords="996,737,1157,763"/>
+<area shape="rect" id="node23" href="$dc/db6/a01212.html#a5c205dc504d657271c884a200a13b2d9" title=" " alt="" coords="805,737,884,763"/>
+<area shape="rect" id="node24" href="$d1/d0c/a02251.html#a1dea9c24d4b3e5d960ffdfe555d72e7d" title="The getter for the lower bound type of the interval." alt="" coords="1003,788,1151,829"/>
+<area shape="rect" id="node25" href="$d1/d0c/a02251.html#ac40cef9be8a578553d179963a8ec7a43" title="The getter for the upper bound type of the interval." alt="" coords="1002,620,1151,661"/>
+<area shape="rect" id="node26" href="$df/db6/a02455.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="503,651,677,678"/>
+<area shape="rect" id="node27" href="$d1/d0c/a02251.html#ad88c24babf3db53859977f3cfce82db7" title="Function which determines, if the interval is (&#45;oo,oo)." alt="" coords="1208,560,1331,601"/>
+<area shape="rect" id="node28" href="$dc/db6/a01212.html#a0d957abf20560cb00e51ba63d1fea986" title="Returns a polynomial to the given power." alt="" coords="549,803,631,830"/>
+<area shape="rect" id="node30" href="$dc/db6/a01212.html#a25002180a22642ffa3952656b7f8d76f" title=" " alt="" coords="546,905,634,931"/>
+<area shape="rect" id="node20" href="$d1/d0c/a02251.html#ace798498657175679c31f1213f37e340" title="Calculates the absolute value of the interval." alt="" coords="777,550,912,577"/>
+<area shape="rect" id="node29" href="$d9/dc8/a02531.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="747,788,942,829"/>
+<area shape="rect" id="node35" href="$d5/d39/a01219.html#a0e1875df6d0e8c42efbaf5d5574876d6" title=" " alt="" coords="495,339,685,366"/>
+<area shape="rect" id="node36" href="$da/d37/a02787.html#a38965085a6b18ed80a6011d44fdc9987" title=" " alt="" coords="763,267,926,308"/>
+<area shape="rect" id="node37" href="$da/d37/a02787.html#ae5a451621988dccb3706a5e877ca1b64" title=" " alt="" coords="773,332,917,373"/>
+<area shape="rect" id="node38" href="$da/d37/a02787.html#ae422960a1142381629df98a5da39f35e" title=" " alt="" coords="775,136,915,177"/>
+<area shape="rect" id="node39" href="$da/d37/a02787.html#abe0f5032c87ae2b8101733d61a141f48" title=" " alt="" coords="768,201,921,243"/>
+</map>

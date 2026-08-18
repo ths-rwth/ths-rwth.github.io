@@ -1,0 +1,5 @@
+<map id="smtrat::freelist::emplace" name="smtrat::freelist::emplace">
+<area shape="rect" id="node1" title=" " alt="" coords="5,31,188,57"/>
+<area shape="rect" id="node2" href="$df/d9f/classsmtrat_1_1freelist.html#af6fd3d67aff67524696e3d4b4b9b3ccc" title="Allocate an object of size 1&lt;&lt;mSizeShift." alt="" coords="236,5,395,32"/>
+<area shape="rect" id="node3" href="$df/d9f/classsmtrat_1_1freelist.html#a3989307768df64405a889fd0f0dc7c26" title="Freeing means just prepending the free&#39;d element to the front of the freelist." alt="" coords="239,56,392,83"/>
+</map>

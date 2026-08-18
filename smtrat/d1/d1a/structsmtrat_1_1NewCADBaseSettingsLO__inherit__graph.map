@@ -1,0 +1,19 @@
+<map id="smtrat::NewCADBaseSettingsLO" name="smtrat::NewCADBaseSettingsLO">
+<area shape="rect" id="node1" title=" " alt="" coords="499,304,731,331"/>
+<area shape="rect" id="node7" href="$d4/def/structsmtrat_1_1NewCADSettings__LOLS.html" title=" " alt="" coords="779,5,1001,32"/>
+<area shape="rect" id="node8" href="$db/d3a/structsmtrat_1_1NewCADSettings__LOLT.html" title=" " alt="" coords="779,56,1001,83"/>
+<area shape="rect" id="node9" href="$dc/df0/structsmtrat_1_1NewCADSettings__LOLTA.html" title=" " alt="" coords="799,107,981,149"/>
+<area shape="rect" id="node10" href="$d2/d02/structsmtrat_1_1NewCADSettings__LOLTS.html" title=" " alt="" coords="799,173,981,214"/>
+<area shape="rect" id="node11" href="$d4/dd9/structsmtrat_1_1NewCADSettings__LOLTSA.html" title=" " alt="" coords="799,238,981,279"/>
+<area shape="rect" id="node12" href="$dd/df5/structsmtrat_1_1NewCADSettings__LOS.html" title=" " alt="" coords="783,304,997,331"/>
+<area shape="rect" id="node13" href="$de/d4a/structsmtrat_1_1NewCADSettings__LOT.html" title=" " alt="" coords="783,355,997,381"/>
+<area shape="rect" id="node14" href="$da/de2/structsmtrat_1_1NewCADSettings__LOTLSA.html" title=" " alt="" coords="799,406,981,447"/>
+<area shape="rect" id="node15" href="$dd/d91/structsmtrat_1_1NewCADSettings__LOTS.html" title=" " alt="" coords="779,472,1001,499"/>
+<area shape="rect" id="node16" href="$d4/d08/structsmtrat_1_1NewCADSettings__LOTSA.html" title=" " alt="" coords="799,523,981,565"/>
+<area shape="rect" id="node17" href="$d3/df3/structsmtrat_1_1NewCADSettings__LOType.html" title=" " alt="" coords="799,589,981,630"/>
+<area shape="rect" id="node2" href="$da/df0/structsmtrat_1_1NewCADBaseSettings.html" title=" " alt="" coords="236,228,451,255"/>
+<area shape="rect" id="node3" href="$d7/d8b/structsmtrat_1_1cad_1_1MISHeuristicMixin.html" title="Mixin that provides settings for MIS generation." alt="" coords="5,228,188,255"/>
+<area shape="rect" id="node4" href="$d5/d4a/structsmtrat_1_1cad_1_1IncrementalityMixin.html" title="Mixin that provides settings for incrementality and backtracking." alt="" coords="260,279,427,305"/>
+<area shape="rect" id="node5" href="$dd/d64/structsmtrat_1_1cad_1_1ProjectionMixin.html" title="Mixin that provides settings for the projection operator." alt="" coords="264,329,423,356"/>
+<area shape="rect" id="node6" href="$da/d8a/structsmtrat_1_1cad_1_1ProjectionOrderMixin.html" title="Mixin that provides settings for the projection order." alt="" coords="242,380,445,407"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="carl::constraint::simplify_nonlinear_univariate_monomial_inplace" name="carl::constraint::simplify_nonlinear_univariate_monomial_inplace">
+<area shape="rect" id="node1" title=" " alt="" coords="5,302,241,358"/>
+<area shape="rect" id="node2" href="$d8/d15/a01218.html#a5579996718779de958a6f2b776d6a57d" title=" " alt="" coords="297,153,430,180"/>
+<area shape="rect" id="node11" href="$d5/d39/a01219.html#aee1582a37efe03750ff0cae9542d6201" title=" " alt="" coords="289,222,437,263"/>
+<area shape="rect" id="node13" href="$db/d87/a02076.html#aa12d56c51db2ac2e85e19de8a5f08801" title=" " alt="" coords="693,368,876,394"/>
+<area shape="rect" id="node14" href="$db/d87/a02076.html#ae763563c9b0ec6df9b736f0095c8392f" title=" " alt="" coords="707,288,863,330"/>
+<area shape="rect" id="node19" href="$d8/d15/a01218.html#aeb1e73e9b0f932d6b41382e81fd29c40" title=" " alt="" coords="306,368,421,394"/>
+<area shape="rect" id="node3" href="$d3/d55/a02760.html#a30dd63dfc71f6822a717c6dbdd23190c" title="Get the coefficient." alt="" coords="502,64,629,90"/>
+<area shape="rect" id="node4" href="$d8/d15/a01218.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="515,165,615,192"/>
+<area shape="rect" id="node10" href="$d3/d55/a02760.html#af75c58639d9f6a791d87932a84c8667c" title="Get the monomial." alt="" coords="485,114,645,141"/>
+<area shape="rect" id="node5" href="$de/dc3/a02256.html#a8c24a69039810ab8ff6824198f8fec19" title="A quick check for the bound values." alt="" coords="1163,84,1285,126"/>
+<area shape="rect" id="node6" href="$de/dc3/a02256.html#a6df2da900c049e08f13136b1f76b073d" title="The getter for the lower boundary of the interval." alt="" coords="1334,37,1482,64"/>
+<area shape="rect" id="node8" href="$de/dc3/a02256.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="723,106,846,147"/>
+<area shape="rect" id="node7" href="$de/dc3/a02256.html#a30ca757d8a4a6f6c5781a9afabdbbdf3" title="The getter for the upper boundary of the interval." alt="" coords="1333,92,1483,118"/>
+<area shape="rect" id="node9" href="$de/dc3/a02256.html#a5c54266feeac8da6a72583fa98dc1ae1" title="Function which determines, if the interval is closed." alt="" coords="955,55,1083,96"/>
+<area shape="rect" id="node12" href="$d8/d15/a01218.html#a6aa5825a5dcfebf46047bb9ccd307025" title=" " alt="" coords="510,266,621,293"/>
+<area shape="rect" id="node15" href="$d8/d15/a01218.html#ab911f291835dda642be82b78d32262a0" title=" " alt="" coords="501,216,630,242"/>
+<area shape="rect" id="node16" href="$d6/d0f/a01256.html#a1175ae045940f99ec0cc7c46aa5ad645" title=" " alt="" coords="713,230,856,257"/>
+<area shape="rect" id="node17" href="$d0/dbc/a03752.html#a2311d66d693241daab38df4ac4ceefbf" title=" " alt="" coords="929,223,1110,264"/>
+<area shape="rect" id="node18" href="$d7/db8/a03060.html#a598d5f54bbaebce73cca8ba9d036639c" title="Returns the single instance of this class by reference." alt="" coords="924,288,1115,330"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="carl::helper::UninterpretedSubstitutor&lt; Pol &gt;" name="carl::helper::UninterpretedSubstitutor&lt; Pol &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="186,303,379,344"/>
+<area shape="rect" id="node2" title=" " alt="" coords="186,199,379,240"/>
+<area shape="rect" id="node3" href="$d1/dc3/a03516.html" title="Implements an uninterpreted function instance." alt="" coords="73,95,199,121"/>
+<area shape="rect" id="node4" href="$d8/db0/a03572.html" title="Implements an uninterpreted variable." alt="" coords="224,95,341,121"/>
+<area shape="rect" id="node5" href="$dc/d29/a02116.html" title="A Variable represents an algebraic variable that can be used throughout carl." alt="" coords="5,5,112,32"/>
+<area shape="rect" id="node6" href="$db/db5/a03468.html" title="Implements a sort (for defining types of variables and functions)." alt="" coords="255,5,335,32"/>
+<area shape="rect" id="node7" title=" " alt="" coords="366,95,501,121"/>
+<area shape="rect" id="node8" title=" " alt="" coords="401,5,439,32"/>
+<area shape="rect" id="node9" title=" " alt="" coords="466,5,505,32"/>
+</map>

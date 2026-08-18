@@ -1,0 +1,15 @@
+<map id="smtrat::cad::CADConstraints::level" name="smtrat::cad::CADConstraints::level">
+<area shape="rect" id="node1" title=" " alt="" coords="812,249,1019,291"/>
+<area shape="rect" id="node2" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a00781d3f42684b5091d9a7b3e9d7fcfa" title=" " alt="" coords="525,155,764,182"/>
+<area shape="rect" id="node11" href="$d4/db3/classsmtrat_1_1cad_1_1CAD.html#ae9b866c668f3f770a607fb832253280c" title=" " alt="" coords="535,319,754,360"/>
+<area shape="rect" id="node3" href="$dd/d9a/structsmtrat_1_1analyzer_1_1Projector.html#a203544223730f933a59abe425bb91520" title=" " alt="" coords="247,13,474,39"/>
+<area shape="rect" id="node5" href="$d4/db3/classsmtrat_1_1cad_1_1CAD.html#a29f1c79b02e8dd7e3ed7525e9a690b57" title=" " alt="" coords="245,63,476,90"/>
+<area shape="rect" id="node6" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html#abbbdb681df2422146f5c8d8f36c70405" title=" " alt="" coords="283,115,439,156"/>
+<area shape="rect" id="node7" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html#a20fab858de50234331e2b031dde29e25" title=" " alt="" coords="283,180,439,221"/>
+<area shape="rect" id="node8" href="$df/d6c/classsmtrat_1_1cad_1_1CADConstraints.html#a57961a1b4b225374e9aeabb0e3eafbda" title="Removes a constraint." alt="" coords="257,245,464,287"/>
+<area shape="rect" id="node4" href="$dc/d8e/namespacesmtrat_1_1analyzer.html#a4ffd92c704a060888c948d1ce51264ce" title=" " alt="" coords="6,5,195,47"/>
+<area shape="rect" id="node9" href="$d4/db3/classsmtrat_1_1cad_1_1CAD.html#a4963c091f7435cfbb7201f838f7da62b" title=" " alt="" coords="5,213,196,255"/>
+<area shape="rect" id="node10" href="$d3/dd7/classsmtrat_1_1qe_1_1cad_1_1CAD.html#ae785a11fc0691fe763516290c45a2328" title=" " alt="" coords="23,279,179,320"/>
+<area shape="rect" id="node12" href="$d7/d9e/structsmtrat_1_1cad_1_1CADCore_3_01CoreHeuristic_1_1Interleave_01_4.html#a6338dcd9e12846b44a07e4f8dae3a207" title=" " alt="" coords="261,311,460,367"/>
+<area shape="rect" id="node13" href="$dd/d5e/structsmtrat_1_1cad_1_1CADCore_3_01CoreHeuristic_1_1PreferSampling_01_4.html#a0322c8bf6b83fdae55cb28c1e8a336df" title=" " alt="" coords="244,391,477,447"/>
+</map>

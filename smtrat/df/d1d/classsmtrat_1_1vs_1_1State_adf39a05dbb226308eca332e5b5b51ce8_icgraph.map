@@ -1,0 +1,5 @@
+<map id="smtrat::vs::State::initIndex" name="smtrat::vs::State::initIndex">
+<area shape="rect" id="node1" title="Sets, if it has not already happened, the index of the state to the name of the most adequate variabl..." alt="" coords="268,27,407,69"/>
+<area shape="rect" id="node2" href="$d7/de3/classsmtrat_1_1VSModule.html#a00f919dcbb24c5677d1cfaa65d85fdbd" title="Checks the received formula for consistency." alt="" coords="5,5,220,32"/>
+<area shape="rect" id="node3" href="$d7/de3/classsmtrat_1_1VSModule.html#a2682113d2813b6ad64df64e23f406af9" title="Applies the substitution of the given state to all conditions, which were recently added to it." alt="" coords="7,57,219,98"/>
+</map>

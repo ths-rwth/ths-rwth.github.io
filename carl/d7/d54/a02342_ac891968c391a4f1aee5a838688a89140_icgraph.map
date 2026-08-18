@@ -1,0 +1,5 @@
+<map id="carl::FLOAT_T::cos" name="carl::FLOAT_T::cos">
+<area shape="rect" id="node1" title="Function which calculates the cosine of this number and puts it into a passed result parameter." alt="" coords="212,31,351,57"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#aa4ce1340c1b16f19987cf5157c8c68ee" title=" " alt="" coords="47,5,123,32"/>
+<area shape="rect" id="node3" href="$d7/d54/a02342.html#ab80fb4bd883bcd1a5be756a6cd6addb2" title="Function required for extension of Eigen3 with FLOAT_T as a custom type which calculates the cosine." alt="" coords="5,56,164,83"/>
+</map>

@@ -1,0 +1,102 @@
+<map id="smtrat&#45;strategies/strategies/config.h" name="smtrat&#45;strategies/strategies/config.h">
+<area shape="rect" id="node1" title=" " alt="" coords="3762,5,3966,47"/>
+<area shape="rect" id="node2" href="$db/dfb/AllModulesStrategy_8h.html" title=" " alt="" coords="3785,95,3943,121"/>
+<area shape="rect" id="node3" href="$d1/da0/Manager_8h.html" title=" " alt="" coords="3721,437,3903,464"/>
+<area shape="rect" id="node11" href="$d9/df5/BEModule_8h.html" title="A module, which searches for bounds of arithmetic variables and polynomials." alt="" coords="3272,169,3467,211"/>
+<area shape="rect" id="node14" href="$d2/d4a/BVModule_8h.html" title=" " alt="" coords="4286,348,4482,389"/>
+<area shape="rect" id="node19" href="$d2/d89/NewCADModule_8h.html" title=" " alt="" coords="343,259,577,300"/>
+<area shape="rect" id="node25" href="$d6/d42/CNFerModule_8h.html" title=" " alt="" coords="3942,348,4159,389"/>
+<area shape="rect" id="node27" href="$dc/db3/EMModule_8h.html" title=" " alt="" coords="2830,169,3029,211"/>
+<area shape="rect" id="node29" href="$d7/d1f/EQModule_8h.html" title=" " alt="" coords="1754,512,1950,553"/>
+<area shape="rect" id="node52" href="$d3/d85/EQPreprocessingModule_8h.html" title=" " alt="" coords="2232,259,2475,300"/>
+<area shape="rect" id="node64" href="$de/dbb/ESModule_8h.html" title="A module, which iteratively finds boolean and arithmetic substitutions and applies them to all formul..." alt="" coords="3053,169,3248,211"/>
+<area shape="rect" id="node66" href="$d5/d77/FouMoModule_8h.html" title=" " alt="" coords="2584,169,2805,211"/>
+<area shape="rect" id="node68" href="$dc/dd8/FPPModule_8h.html" title=" " alt="" coords="5397,348,5600,389"/>
+<area shape="rect" id="node71" href="$d0/df6/GBModule_8h.html" title=" " alt="" coords="6069,512,6267,553"/>
+<area shape="rect" id="node79" href="$dc/d2b/ICPModule_8h.html" title=" " alt="" coords="4877,259,5075,300"/>
+<area shape="rect" id="node82" href="$d7/de5/LRAModule_8h.html" title=" " alt="" coords="5418,519,5614,546"/>
+<area shape="rect" id="node89" href="$da/d29/IncWidthModule_8h.html" title=" " alt="" coords="3901,169,4136,211"/>
+<area shape="rect" id="node91" href="$d6/d25/IntBlastModule_8h.html" title=" " alt="" coords="4346,169,4574,211"/>
+<area shape="rect" id="node93" href="$d7/d96/SATModule_8h.html" title=" " alt="" coords="4681,512,4884,553"/>
+<area shape="rect" id="node96" href="$d9/dc2/IntEqModule_8h.html" title=" " alt="" coords="5639,512,5849,553"/>
+<area shape="rect" id="node98" href="$dd/dfc/PFEModule_8h.html" title="Removes factors of polynomials from the formula." alt="" coords="3596,259,3799,300"/>
+<area shape="rect" id="node99" href="$de/d22/SplitSOSModule_8h.html" title="Splits the sum&#45;of&#45;squares (sos) decomposition of all constraints with a sos as left&#45;hand side." alt="" coords="3491,169,3725,211"/>
+<area shape="rect" id="node100" href="$d9/d2b/VSModule_8h.html" title=" " alt="" coords="3329,512,3524,553"/>
+<area shape="rect" id="node4" title=" " alt="" coords="2602,773,2665,799"/>
+<area shape="rect" id="node5" href="$da/ddd/StrategyGraph_8h.html" title=" " alt="" coords="3751,519,3879,546"/>
+<area shape="rect" id="node7" href="$d6/d8a/smtrat-common_8h.html" title=" " alt="" coords="3707,765,3882,807"/>
+<area shape="rect" id="node8" href="$d4/dc7/Module_8h.html" title=" " alt="" coords="3575,609,3750,635"/>
+<area shape="rect" id="node9" href="$db/d1b/ModuleInput_8h.html" title=" " alt="" coords="2739,691,2853,717"/>
+<area shape="rect" id="node6" title=" " alt="" coords="3342,609,3397,635"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1212,773,1297,799"/>
+<area shape="rect" id="node12" href="$d3/dff/PModule_8h.html" title="All preprocessing modules shall derive from this module, that is modules, which simplify their receiv..." alt="" coords="3361,437,3543,464"/>
+<area shape="rect" id="node13" href="$df/d95/BESettings_8h.html" title=" " alt="" coords="3316,266,3420,293"/>
+<area shape="rect" id="node15" href="$df/dd0/BVSettings_8h.html" title=" " alt="" coords="4454,437,4559,464"/>
+<area shape="rect" id="node16" href="$d2/da7/BVDirectEncoder_8h.html" title=" " alt="" coords="4235,437,4378,464"/>
+<area shape="rect" id="node17" title=" " alt="" coords="4105,512,4268,553"/>
+<area shape="rect" id="node18" title=" " alt="" coords="4343,512,4505,553"/>
+<area shape="rect" id="node20" href="$d7/d7c/smtrat-cad_2CAD_8h.html" title=" " alt="" coords="134,519,271,546"/>
+<area shape="rect" id="node21" href="$d5/d5c/Preprocessor_8h.html" title=" " alt="" coords="173,355,397,382"/>
+<area shape="rect" id="node22" href="$d4/df6/VariableBounds_8h.html" title=" " alt="" coords="3749,348,3918,389"/>
+<area shape="rect" id="node23" href="$de/df6/NewCADStatistics_8h.html" title=" " alt="" coords="401,519,551,546"/>
+<area shape="rect" id="node24" href="$da/d66/NewCADSettings_8h.html" title=" " alt="" coords="5,355,149,382"/>
+<area shape="rect" id="node26" href="$de/db7/CNFerModuleStatistics_8h.html" title=" " alt="" coords="3928,437,4109,464"/>
+<area shape="rect" id="node28" href="$d9/d5a/EMSettings_8h.html" title=" " alt="" coords="2956,266,3063,293"/>
+<area shape="rect" id="node30" href="$d7/db5/EQStatistics_8h.html" title=" " alt="" coords="2603,691,2715,717"/>
+<area shape="rect" id="node31" href="$de/db7/EQSettings_8h.html" title=" " alt="" coords="623,609,729,635"/>
+<area shape="rect" id="node32" title=" " alt="" coords="514,773,638,799"/>
+<area shape="rect" id="node33" href="$da/dd6/PairHash_8h.html" title=" " alt="" coords="572,691,663,717"/>
+<area shape="rect" id="node34" href="$df/d47/VariantHash_8h.html" title=" " alt="" coords="333,609,446,635"/>
+<area shape="rect" id="node35" title=" " alt="" coords="361,691,497,717"/>
+<area shape="rect" id="node36" href="$d5/d39/IterHash_8h.html" title=" " alt="" coords="1687,609,1777,635"/>
+<area shape="rect" id="node37" title=" " alt="" coords="1801,609,1903,635"/>
+<area shape="rect" id="node38" title=" " alt="" coords="1927,609,2041,635"/>
+<area shape="rect" id="node39" title=" " alt="" coords="1463,691,1521,717"/>
+<area shape="rect" id="node40" title=" " alt="" coords="2066,609,2131,635"/>
+<area shape="rect" id="node41" title=" " alt="" coords="2008,691,2077,717"/>
+<area shape="rect" id="node42" title=" " alt="" coords="1315,691,1407,717"/>
+<area shape="rect" id="node43" title=" " alt="" coords="2155,609,2338,635"/>
+<area shape="rect" id="node44" title=" " alt="" coords="2363,609,2515,635"/>
+<area shape="rect" id="node45" href="$d2/dfe/alloc_8h.html" title=" " alt="" coords="1500,609,1663,635"/>
+<area shape="rect" id="node46" href="$d5/d0b/union__find_8h.html" title=" " alt="" coords="855,601,1011,643"/>
+<area shape="rect" id="node47" href="$d3/dcd/EQModulePrinting_8tpp.html" title=" " alt="" coords="2589,609,2752,635"/>
+<area shape="rect" id="node50" href="$d2/de1/EQModuleHash_8tpp.html" title=" " alt="" coords="1087,609,1233,635"/>
+<area shape="rect" id="node51" href="$d4/d10/EQModuleEdgeList_8tpp.html" title=" " alt="" coords="1257,609,1425,635"/>
+<area shape="rect" id="node48" title=" " alt="" coords="2214,691,2287,717"/>
+<area shape="rect" id="node49" title=" " alt="" coords="1151,691,1231,717"/>
+<area shape="rect" id="node53" href="$d1/dc1/ModuleWrapper_8h.html" title=" " alt="" coords="1993,437,2129,464"/>
+<area shape="rect" id="node54" title=" " alt="" coords="1495,437,1678,464"/>
+<area shape="rect" id="node55" href="$dc/dff/EQPreprocessingStatistics_8h.html" title=" " alt="" coords="2849,519,3052,546"/>
+<area shape="rect" id="node56" href="$df/d98/EQPreprocessingSettings_8h.html" title=" " alt="" coords="2255,355,2451,382"/>
+<area shape="rect" id="node57" title=" " alt="" coords="2417,437,2561,464"/>
+<area shape="rect" id="node58" href="$db/d2f/JunctorMerger_8h.html" title=" " alt="" coords="2799,355,2923,382"/>
+<area shape="rect" id="node59" href="$d6/d9e/EQPreprocessingUFRewriter_8h.html" title=" " alt="" coords="2363,691,2578,717"/>
+<area shape="rect" id="node60" href="$da/d5b/NNFRewriter_8h.html" title=" " alt="" coords="3131,691,3247,717"/>
+<area shape="rect" id="node61" href="$d3/d11/BoolUEQRewriter_8h.html" title=" " alt="" coords="2527,355,2673,382"/>
+<area shape="rect" id="node62" href="$d6/da1/OrPathShortener_8h.html" title=" " alt="" coords="1817,355,1956,382"/>
+<area shape="rect" id="node63" href="$d7/dcb/ReplaceVariablesRewriter_8h.html" title=" " alt="" coords="2031,355,2231,382"/>
+<area shape="rect" id="node65" href="$d0/dd7/ESSettings_8h.html" title=" " alt="" coords="3189,266,3291,293"/>
+<area shape="rect" id="node67" href="$df/daa/FouMoSettings_8h.html" title=" " alt="" coords="2629,266,2760,293"/>
+<area shape="rect" id="node69" href="$d1/d4f/FPPStatistics_8h.html" title=" " alt="" coords="5525,437,5643,464"/>
+<area shape="rect" id="node70" href="$d7/d7e/FPPSettings_8h.html" title=" " alt="" coords="5390,437,5501,464"/>
+<area shape="rect" id="node72" title=" " alt="" coords="6475,691,6656,717"/>
+<area shape="rect" id="node73" href="$d5/dc9/GBSettings_8h.html" title=" " alt="" coords="5975,691,6081,717"/>
+<area shape="rect" id="node74" href="$df/d17/RewriteRules_8h.html" title=" " alt="" coords="6605,609,6725,635"/>
+<area shape="rect" id="node75" href="$da/d95/VariableRewriteRule_8h.html" title=" " alt="" coords="6106,691,6273,717"/>
+<area shape="rect" id="node76" href="$df/d4b/GBModuleState_8h.html" title=" " alt="" coords="6265,609,6399,635"/>
+<area shape="rect" id="node77" href="$d6/d87/InequalitiesTable_8h.html" title=" " alt="" coords="6096,609,6240,635"/>
+<area shape="rect" id="node78" href="$da/daf/InequalitiesTable_8tpp.html" title=" " alt="" coords="6424,609,6581,635"/>
+<area shape="rect" id="node80" href="$d8/dd7/ContractionCandidateManager_8h.html" title=" " alt="" coords="5111,519,5342,546"/>
+<area shape="rect" id="node81" href="$de/d37/IcpVariable_8h.html" title=" " alt="" coords="5208,437,5315,464"/>
+<area shape="rect" id="node83" href="$d5/da5/LRASettings_8h.html" title="Class to create a settings object for the LRAModule." alt="" coords="5171,609,5283,635"/>
+<area shape="rect" id="node85" href="$d8/d10/ICPSettings_8h.html" title="Class to create a settings object for the ICPModule." alt="" coords="4826,437,4934,464"/>
+<area shape="rect" id="node86" href="$d1/d39/smtrat-modules_2ICPModule_2utils_8h.html" title=" " alt="" coords="5070,437,5133,464"/>
+<area shape="rect" id="node87" href="$d9/de4/HistoryNode_8h.html" title=" " alt="" coords="5259,355,5373,382"/>
+<area shape="rect" id="node88" title=" " alt="" coords="5019,355,5082,382"/>
+<area shape="rect" id="node84" title=" " alt="" coords="5573,609,5640,635"/>
+<area shape="rect" id="node90" href="$db/d62/IncWidthSettings_8h.html" title=" " alt="" coords="3924,266,4068,293"/>
+<area shape="rect" id="node92" href="$d4/dc6/BVSolver_8h.html" title=" " alt="" coords="4346,259,4550,300"/>
+<area shape="rect" id="node94" href="$dc/d87/IntBlastSettings_8h.html" title=" " alt="" coords="4574,266,4711,293"/>
+<area shape="rect" id="node95" href="$d7/db5/PolyTreePool_8h.html" title=" " alt="" coords="4736,266,4853,293"/>
+<area shape="rect" id="node97" href="$d6/ddb/IntEqSettings_8h.html" title=" " alt="" coords="5684,609,5804,635"/>
+</map>

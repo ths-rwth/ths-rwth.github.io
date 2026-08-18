@@ -1,0 +1,52 @@
+<map id="carl::constant_zero::get" name="carl::constant_zero::get">
+<area shape="rect" id="node1" title=" " alt="" coords="787,1576,961,1603"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#afdcf963c8932f388540ee5c531bbe56b" title=" " alt="" coords="555,275,697,301"/>
+<area shape="rect" id="node3" href="$d6/da1/a01233.html#a1abf1d98da2f7331312905d888edadf2" title="Returns the center point of the interval." alt="" coords="579,944,673,971"/>
+<area shape="rect" id="node8" href="$d6/da1/a01233.html#a0862aa0b4d18bb95745d3ca6fee5e540" title="Searches for some point in this interval, preferably far aways from zero and with a small representat..." alt="" coords="37,995,176,1021"/>
+<area shape="rect" id="node9" href="$d6/da1/a01233.html#a240688eeccf272618e10e26a2b400a08" title="Searches for some point in this interval, preferably near zero and with a small representation." alt="" coords="38,1163,175,1189"/>
+<area shape="rect" id="node11" href="$d6/da1/a01233.html#a2a76c518ed903b081e9202cc714cc869" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="289,1046,432,1087"/>
+<area shape="rect" id="node12" href="$d1/d34/a01211.html#a7670484a58c6d02292806388a4d5d8c2" title="Set the term to zero with the canonical representation." alt="" coords="541,1467,711,1523"/>
+<area shape="rect" id="node13" href="$d6/da1/a01233.html#a0c0448ac4cee24dd4f080db6241a21de" title="Computes the n&#39;th derivative of a number, which is either the number itself (for n = 0) or zero." alt="" coords="566,325,686,352"/>
+<area shape="rect" id="node24" href="$d6/da1/a01233.html#a3a7bc83b7a9655c934b45f7c1552cb8e" title="Like substitute, but expects substitutions for all variables." alt="" coords="571,1547,681,1573"/>
+<area shape="rect" id="node25" href="$db/da5/a02919.html#af6644f073b84a273d5cb1aae46ae2189" title=" " alt="" coords="551,1598,701,1639"/>
+<area shape="rect" id="node26" href="$d3/d1b/a03227.html#a4fabcba90cfee35d1d2510e46da92df9" title=" " alt="" coords="513,1664,739,1720"/>
+<area shape="rect" id="node27" href="$d6/da1/a01233.html#a6f2f1e3841c1defdf4f8588508320b65" title=" " alt="" coords="543,1744,709,1771"/>
+<area shape="rect" id="node28" href="$db/da5/a02919.html#ab1a82b772ef45380e9684c57d49397c8" title=" " alt="" coords="551,1795,701,1837"/>
+<area shape="rect" id="node29" href="$d5/d9d/a03343.html#a73a4ec40c4e9fa3588b83cb2384ac033" title="Returns the inverse of this rational function." alt="" coords="545,1861,707,1902"/>
+<area shape="rect" id="node30" href="$d6/da1/a01233.html#a37c0b64f40bd3058e1db47b2d13d2291" title=" " alt="" coords="576,1927,676,1953"/>
+<area shape="rect" id="node31" href="$d5/d73/a02423.html#a870e6ccd00230aabfbfd73a77d57a43c" title=" " alt="" coords="535,1365,717,1392"/>
+<area shape="rect" id="node33" href="$d6/da1/a01233.html#a6ce46550875791855595237d2db27106" title=" " alt="" coords="567,2028,685,2055"/>
+<area shape="rect" id="node34" href="$d6/da1/a01233.html#a822e17789e6cb91e6b52da39bcac92f3" title=" " alt="" coords="259,1995,462,2037"/>
+<area shape="rect" id="node36" href="$d5/d73/a02423.html#a2c9be67d4c674943f5e8097a86b0b951" title=" " alt="" coords="539,1416,713,1443"/>
+<area shape="rect" id="node37" href="$d5/d73/a02423.html#a4f3d73c374f0deb2a966ccd36c8e60ca" title=" " alt="" coords="519,1188,733,1215"/>
+<area shape="rect" id="node38" href="$d5/d73/a02423.html#ad3fbfd6bcd8b1fa1f9a05174931e1b1f" title=" " alt="" coords="522,1315,730,1341"/>
+<area shape="rect" id="node41" href="$d6/da1/a01233.html#a4a66cb74487a102f0456c9a7102a603b" title="Informational functions." alt="" coords="579,2079,673,2105"/>
+<area shape="rect" id="node42" href="$d5/d73/a02423.html#ae32d2f690f60b90c946185a8052ad5c9" title="Function which determines, if the interval is the zero interval." alt="" coords="549,691,703,717"/>
+<area shape="rect" id="node45" href="$d6/da1/a01233.html#ad39ad79b773b9e5c6f397c629c751127" title=" " alt="" coords="550,2129,702,2156"/>
+<area shape="rect" id="node47" href="$d6/da1/a01233.html#a018686e9892e6449d5067b7145b9403a" title="Checks if the first arguments is less than the second." alt="" coords="566,2180,686,2207"/>
+<area shape="rect" id="node48" href="$d6/da1/a01233.html#af7f8ba61bd74bfa67e9072daca92ffab" title=" " alt="" coords="585,2231,667,2257"/>
+<area shape="rect" id="node49" href="$d6/da1/a01233.html#a6ce64aec99b53fea39b96c47924c33fd" title=" " alt="" coords="587,2281,665,2308"/>
+<area shape="rect" id="node4" href="$d5/d73/a02423.html#a4da931d166db8cee7450de93ed3e33c3" title="Returns the center point of the interval." alt="" coords="284,893,437,920"/>
+<area shape="rect" id="node5" href="$d8/df6/a02411.html#ae10384534dea0d2fea062cf173af9b46" title=" " alt="" coords="32,705,181,746"/>
+<area shape="rect" id="node6" href="$d6/da1/a01233.html#a18dd7941a668a603002cfd4e1378f8ac" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="309,792,412,819"/>
+<area shape="rect" id="node7" href="$d6/da1/a01233.html#a0eee042488989bd97a84e81bfdd5cc22" title="Searches for some point in this interval, preferably near the left endpoint and with a small represen..." alt="" coords="295,995,426,1021"/>
+<area shape="rect" id="node10" href="$d6/da1/a01233.html#ab51ff37d2bc027e91db346045a73f4c9" title="Searches for some point in this interval, preferably near the right endpoint and with a small represe..." alt="" coords="291,944,430,971"/>
+<area shape="rect" id="node14" href="$d6/da1/a01233.html#a7d966bc50ac65ad95230ac2c4873006f" title=" " alt="" coords="323,224,398,251"/>
+<area shape="rect" id="node15" href="$db/da5/a02919.html#af83f9765dab5a50812cbe40f63bc960f" title=" " alt="" coords="24,242,189,283"/>
+<area shape="rect" id="node16" href="$d6/da1/a01233.html#abfee2826a592fe0ca315daf65d147591" title="Computes the n&#39;th derivative of t with respect to v." alt="" coords="301,325,421,352"/>
+<area shape="rect" id="node17" href="$d6/da1/a01233.html#a97d31aee8d7a5c82a37385b529960948" title=" " alt="" coords="293,376,428,403"/>
+<area shape="rect" id="node18" href="$d4/dad/a02407.html#ad83862af18deb617249c013068c9cf5f" title=" " alt="" coords="292,427,429,469"/>
+<area shape="rect" id="node19" href="$d0/d82/a02831.html#a60ad2b8a2b499aa89058f907b6b38ad6" title=" " alt="" coords="258,493,463,549"/>
+<area shape="rect" id="node20" href="$d6/da1/a01233.html#a598db2a85288fd3d66fb84d9e129ee4d" title=" " alt="" coords="256,5,465,32"/>
+<area shape="rect" id="node21" href="$d6/da1/a01233.html#a7c52840d0f229608a64a9318bbcbd226" title=" " alt="" coords="285,56,436,83"/>
+<area shape="rect" id="node22" href="$d6/da1/a01233.html#a5f2501f6b7439c8baa0391a22786023b" title="Computes the sturm sequence of a polynomial as defined at , page 333, example 22." alt="" coords="280,107,441,133"/>
+<area shape="rect" id="node23" href="$d6/deb/a02915.html#afee272f05dc5672d6138ae5947fa8657" title=" " alt="" coords="267,158,455,199"/>
+<area shape="rect" id="node32" href="$d6/da1/a01233.html#abf96ed5105e79f53828abec13e968c32" title=" " alt="" coords="305,1467,416,1493"/>
+<area shape="rect" id="node35" href="$d6/da1/a01233.html#aad130db0888a2aeee7b94b05e80a5913" title="Computes a lower bound on the value of the positive real roots of the given univariate polynomial." alt="" coords="5,1995,208,2037"/>
+<area shape="rect" id="node39" href="$d6/da1/a01233.html#aaca1375243af239f67072d5edcbf15ae" title=" " alt="" coords="323,1365,398,1392"/>
+<area shape="rect" id="node40" href="$d6/da1/a01233.html#a93d4a42ad059115fe73820c716c62dd1" title=" " alt="" coords="45,1391,168,1417"/>
+<area shape="rect" id="node43" href="$dc/d5c/a02459.html#a6456aadb60a014ee0c93df3a632890b1" title=" " alt="" coords="274,625,447,666"/>
+<area shape="rect" id="node44" href="$d6/da1/a01233.html#aeede7ebc3ff0eac7c4c2b3413ffd1ba7" title=" " alt="" coords="305,691,416,717"/>
+<area shape="rect" id="node46" href="$d0/de4/a02851.html#adce23fb8a47cdca5a570b24116c28bf5" title="Use root bounds to shrink mInterval." alt="" coords="279,2115,442,2171"/>
+<area shape="rect" id="node50" href="$d6/da1/a01233.html#acb9e48799c5668d38831be5b6ba8982c" title=" " alt="" coords="309,2281,412,2308"/>
+</map>

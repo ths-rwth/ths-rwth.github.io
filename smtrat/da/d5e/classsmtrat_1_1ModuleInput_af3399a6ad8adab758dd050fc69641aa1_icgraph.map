@@ -1,0 +1,8 @@
+<map id="smtrat::ModuleInput::add" name="smtrat::ModuleInput::add">
+<area shape="rect" id="node1" title=" " alt="" coords="780,56,967,83"/>
+<area shape="rect" id="node2" href="$da/d5e/classsmtrat_1_1ModuleInput.html#a70c07ed228a9572534e5101ca91bc839" title=" " alt="" coords="525,5,711,32"/>
+<area shape="rect" id="node3" href="$d0/df0/classsmtrat_1_1Manager.html#aa691f1417f6a5bc5ecc8db1ef68648ee" title="Adds the given formula to the conjunction of formulas, which will be considered for the next satisfia..." alt="" coords="537,56,699,83"/>
+<area shape="rect" id="node6" href="$d8/da6/classsmtrat_1_1Module.html#a802225d41db4dd1b44fb9eeb545aa6ef" title="This method actually implements the adding of a formula to the passed formula." alt="" coords="504,107,732,149"/>
+<area shape="rect" id="node4" href="$dd/dce/classsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder__SMT.html#ac492f710d6b1aebff8ad82e8fe99c0f8" title=" " alt="" coords="273,41,456,97"/>
+<area shape="rect" id="node5" href="$dc/dd2/structsmtrat_1_1mcsat_1_1smtaf_1_1AssignmentFinder.html#a40e9a1213bb9a2574b61c716b8f95dbc" title=" " alt="" coords="5,49,225,90"/>
+</map>

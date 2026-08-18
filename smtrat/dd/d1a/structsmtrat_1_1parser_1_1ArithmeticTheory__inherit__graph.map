@@ -1,0 +1,4 @@
+<map id="smtrat::parser::ArithmeticTheory" name="smtrat::parser::ArithmeticTheory">
+<area shape="rect" id="node1" title="Implements the theory of arithmetic, including LRA, LIA, NRA and NIA." alt="" coords="5,95,196,136"/>
+<area shape="rect" id="node2" href="$dd/d40/structsmtrat_1_1parser_1_1AbstractTheory.html" title="Base class for all theories." alt="" coords="13,5,189,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="carl::pool::LocalPool::free" name="carl::pool::LocalPool::free">
+<area shape="rect" id="node1" title=" " alt="" coords="5,53,157,94"/>
+<area shape="rect" id="node2" href="$db/ddb/a03037.html#aad45082b56debee194062ec06fc1b914" title=" " alt="" coords="243,31,374,57"/>
+<area shape="rect" id="node6" href="$d1/df6/a03045.html#ac3c2d5f26bc865c934565db5422340b9" title=" " alt="" coords="205,82,412,123"/>
+<area shape="rect" id="node3" href="$dd/d4c/a02949.html#a9de0d41fc6b1ee50437f2e828db25412" title="Sets the given bit to a value, true by default." alt="" coords="463,5,583,32"/>
+<area shape="rect" id="node5" href="$dd/d4c/a02949.html#acf742d4731e26aa5230889d1a391e015" title="Retrieves the size of mData." alt="" coords="460,56,587,83"/>
+<area shape="rect" id="node4" href="$dd/d4c/a02949.html#a768cbba096545cdddc24c7cdcf35fc95" title="Resize mData to hold at least pos bits." alt="" coords="635,5,805,32"/>
+</map>

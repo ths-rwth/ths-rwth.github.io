@@ -1,0 +1,8 @@
+<map id="carl::derivative" name="carl::derivative">
+<area shape="rect" id="node1" title="Computes the n&#39;th derivative of p with respect to v." alt="" coords="5,64,125,91"/>
+<area shape="rect" id="node2" href="$d6/da1/a01233.html#a0c0448ac4cee24dd4f080db6241a21de" title="Computes the n&#39;th derivative of a number, which is either the number itself (for n = 0) or zero." alt="" coords="217,5,337,32"/>
+<area shape="rect" id="node4" href="$d1/d34/a01211.html#ae8c9cf4c56ae84b2661a9035bd8841b7" title="Check if the polynomial is constant." alt="" coords="173,57,380,98"/>
+<area shape="rect" id="node5" href="$d6/da1/a01233.html#a71104e01aada7f6248088eac802a5214" title=" " alt="" coords="229,123,324,149"/>
+<area shape="rect" id="node3" href="$d2/d11/a02647.html#a1ab69581287eb72769e4bf910cb46fb2" title=" " alt="" coords="444,5,619,32"/>
+<area shape="rect" id="node6" href="$d1/d34/a01211.html#ada763b69c41cbc527d38e02ee8ff53a1" title="Calculate the number of terms." alt="" coords="428,115,635,157"/>
+</map>

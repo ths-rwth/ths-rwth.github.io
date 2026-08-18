@@ -1,0 +1,9 @@
+<map id="smtrat::VarSchedulerSMTTheoryGuided&lt; theory_conflict_guided_decision_heuristic &gt;" name="smtrat::VarSchedulerSMTTheoryGuided&lt; theory_conflict_guided_decision_heuristic &gt;">
+<area shape="rect" id="node1" title="Scheduler for SMT, implementing theory guided heuristics." alt="" coords="7,511,237,567"/>
+<area shape="rect" id="node2" href="$d5/d1d/classsmtrat_1_1VarSchedulerBase.html" title="Base class for variable schedulers." alt="" coords="5,317,196,344"/>
+<area shape="rect" id="node3" href="$dc/dde/classsmtrat_1_1VarSchedulerMinisat.html" title="Minisat&#39;s activity&#45;based variable scheduling." alt="" coords="139,421,345,448"/>
+<area shape="rect" id="node4" href="$df/d6c/classMinisat_1_1Heap.html" title=" " alt="" coords="221,303,391,359"/>
+<area shape="rect" id="node5" href="$df/d6c/classMinisat_1_1Heap.html" title=" " alt="" coords="216,199,396,225"/>
+<area shape="rect" id="node6" href="$de/dcd/classMinisat_1_1vec.html" title=" " alt="" coords="232,95,380,121"/>
+<area shape="rect" id="node7" href="$de/dcd/classMinisat_1_1vec.html" title=" " alt="" coords="237,5,375,32"/>
+</map>

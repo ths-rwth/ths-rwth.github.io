@@ -1,0 +1,52 @@
+<map id="carl::bitsize" name="carl::bitsize">
+<area shape="rect" id="node1" title="Get the bit size of the representation of a integer." alt="" coords="899,682,996,709"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a98df826da90dc24a6e5254f13df7b057" title=" " alt="" coords="771,682,851,709"/>
+<area shape="rect" id="node3" href="$d5/d70/a03499.html#a02cbbe0abe2d8e4809afa3ca5ed3f000" title=" " alt="" coords="532,9,716,51"/>
+<area shape="rect" id="node5" href="$d6/d97/a02835.html#a8166101bda0b1fea4d03333382199080" title=" " alt="" coords="11,1396,181,1437"/>
+<area shape="rect" id="node6" href="$de/d04/a01209.html#af23c49e8aaf71ef5a8af7799ee239617" title="Reduces the given polynomial such that zero is not a root anymore." alt="" coords="532,217,716,243"/>
+<area shape="rect" id="node9" href="$de/d04/a01209.html#a577cfa53845dfa83eb5e97a0b70b4447" title=" " alt="" coords="33,263,159,290"/>
+<area shape="rect" id="node10" href="$d6/d1e/a01234.html#a5236c274a6413fb18713a3df16c57339" title="Exact &quot;heuristic&quot;: Computes a minimum set cover." alt="" coords="269,71,443,112"/>
+<area shape="rect" id="node12" href="$d6/d1e/a01234.html#a57d4a1446a668ea55a101a9882a5ac20" title=" " alt="" coords="537,79,711,120"/>
+<area shape="rect" id="node13" href="$dd/db9/a02883.html#af83f9765dab5a50812cbe40f63bc960f" title=" " alt="" coords="13,315,179,356"/>
+<area shape="rect" id="node14" href="$da/d8e/a02759.html#a4fabcba90cfee35d1d2510e46da92df9" title=" " alt="" coords="525,420,723,461"/>
+<area shape="rect" id="node15" href="$dc/d05/a02855.html#a0791ddaf1ccad6de71ebef2904e95463" title=" " alt="" coords="552,485,696,527"/>
+<area shape="rect" id="node16" href="$dd/db9/a02883.html#a3f72714f3c01126c90b6958ed87ac3c4" title=" " alt="" coords="281,369,431,411"/>
+<area shape="rect" id="node17" href="$dd/db9/a02883.html#aa75c4a80d2ac6d031e118553883be6bd" title=" " alt="" coords="8,893,184,935"/>
+<area shape="rect" id="node20" href="$d5/ddf/a03211.html#af9f2f05702d7fa08f9ec128d52142417" title="Returns the id of the largest set." alt="" coords="535,551,713,592"/>
+<area shape="rect" id="node24" href="$d7/d7d/a02527.html#acddfd3c68cd30f58ac566e36770978c7" title="Constructs a new polynomial q such that &#160;where p is this polynomial." alt="" coords="527,616,721,657"/>
+<area shape="rect" id="node26" href="$de/d04/a01209.html#a6ee0dc041f3f4c93742e093251e6f8a9" title="Prints the given uninterpreted function model on the given output stream." alt="" coords="559,799,689,826"/>
+<area shape="rect" id="node27" href="$de/d04/a01209.html#a4418733913b640d1f4724820de2babee" title=" " alt="" coords="547,850,701,877"/>
+<area shape="rect" id="node28" href="$de/d04/a01209.html#a349e672eaeb08c5fbfc6d508d1f86df1" title="Does the heavy lifting for the remainder computation of polynomial division." alt="" coords="539,682,709,709"/>
+<area shape="rect" id="node30" href="$d8/d8e/a01224.html#a75f92795e62cb6b83da5a7cdf630e7af" title="Shift the variable by a, i.e." alt="" coords="525,733,723,775"/>
+<area shape="rect" id="node32" href="$de/d04/a01209.html#a0a79b7272f872e10f2ead537b4501aa4" title="Convert a univariate polynomial that is currently (mis)represented by a &#39;MultivariatePolynomial&#39; into..." alt="" coords="554,1179,694,1220"/>
+<area shape="rect" id="node46" href="$de/d04/a01209.html#a29300c99b28de1c952cf504977d13682" title="Returns the total degree of the polynomial, that is the maximum degree of any monomial." alt="" coords="556,1245,692,1271"/>
+<area shape="rect" id="node47" href="$d6/d97/a02835.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="542,1296,706,1337"/>
+<area shape="rect" id="node48" href="$d1/df9/a03555.html#a476ff3f84204244f04735ff0df3ffee4" title=" " alt="" coords="543,1361,705,1403"/>
+<area shape="rect" id="node49" href="$d8/d07/a03627.html#ae65e38c020105e523a09f2150f5976bb" title=" " alt="" coords="537,1427,711,1468"/>
+<area shape="rect" id="node50" href="$d0/db0/a03631.html#a37967e56ea950cacd53bfc4ec28a8f23" title=" " alt="" coords="539,1492,709,1533"/>
+<area shape="rect" id="node4" href="$d5/d70/a03499.html#a4b62d8b8bbaa4dd13450c839d456b873" title="Gets the uninterpreted function instance with the given name, domain, arguments and codomain." alt="" coords="264,5,448,47"/>
+<area shape="rect" id="node7" href="$de/d04/a01209.html#abf2880e7cb2a2c6c1d7585d9e031b40d" title="Reduces the polynomial such that the given root is not a root anymore." alt="" coords="281,217,431,243"/>
+<area shape="rect" id="node8" href="$d6/d6c/a02819.html#aaf4c64bfb6ed062c35b0f23a84b2e764" title="The sturm sequence for mPolynomial." alt="" coords="273,137,439,193"/>
+<area shape="rect" id="node11" href="$de/d04/a01209.html#a3bc012d12145a5509f1ad58ecb56227f" title="Evaluates the square root expression." alt="" coords="41,78,151,105"/>
+<area shape="rect" id="node18" href="$dd/db9/a02883.html#a020c72d2d8b0869dc1ffacf16abcc97e" title=" " alt="" coords="5,381,187,407"/>
+<area shape="rect" id="node19" href="$dd/db9/a02883.html#acd0eef517f417e2c58a399bb94068d6a" title=" " alt="" coords="21,432,171,473"/>
+<area shape="rect" id="node21" href="$d6/d1e/a01234.html#a1ece576470279cbf50ddf89fc6b2b7fb" title="Simple greedy heuristic: Selects the largest remaining set until all elements are covered." alt="" coords="269,435,443,476"/>
+<area shape="rect" id="node22" href="$d6/d1e/a01234.html#aba80b7d172221b391822fae3a725ca1a" title="Bounded greedy heuristic: Selects the largest remaining set until at most bound constraints remain." alt="" coords="269,500,443,541"/>
+<area shape="rect" id="node23" href="$d6/d1e/a01234.html#a8d4f5be8079bd0192c3906839256f787" title="Weighted greedy heuristic: Selects the largest remaining set according to the given weight function u..." alt="" coords="269,565,443,607"/>
+<area shape="rect" id="node25" href="$de/d04/a01209.html#adddea28eb496daf0732228c24b6746ce" title="Computes an upper bound on the value of the negative real roots of the given univariate polynomial." alt="" coords="251,631,461,672"/>
+<area shape="rect" id="node29" href="$de/d04/a01209.html#abfeb486514341498d6b363229506eae8" title=" " alt="" coords="295,697,417,723"/>
+<area shape="rect" id="node31" href="$de/d04/a01209.html#a45847fb7d208553eeaac8fa2a624f27a" title="Counts the sign variations (i.e." alt="" coords="279,747,433,774"/>
+<area shape="rect" id="node33" href="$d9/da8/a01227.html#a2e5a506d3ce86f7a7f77de3f77a1fc13" title="Implements algebraic substitution by Gröbner basis computation." alt="" coords="269,1205,443,1261"/>
+<area shape="rect" id="node34" href="$d9/da8/a01227.html#ad81c8b19229c789a99c52e77f06cf9e2" title="Implements algebraic substitution by resultant computation." alt="" coords="269,1285,443,1341"/>
+<area shape="rect" id="node35" href="$de/d04/a01209.html#a78757c1311a940f5a2201764dac03063" title=" " alt="" coords="255,1365,457,1407"/>
+<area shape="rect" id="node36" href="$de/d04/a01209.html#a5c97764ba251bcc3aad1bd58315753d2" title=" " alt="" coords="235,1431,477,1458"/>
+<area shape="rect" id="node37" href="$de/d04/a01209.html#af84e5cb03c9b9390ebd461f67b92d741" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="41,1578,151,1605"/>
+<area shape="rect" id="node38" href="$d3/d7b/a01249.html#a3d0aabd214da6a348280be3b2b59834e" title=" " alt="" coords="275,1549,437,1575"/>
+<area shape="rect" id="node39" href="$de/d7e/a01222.html#a4fea6065a4a0696ca75fac75e7d6ccd2" title=" " alt="" coords="280,1600,432,1641"/>
+<area shape="rect" id="node40" href="$d9/d9a/a02879.html#a0d668f381c18fa52c494107c58065da3" title=" " alt="" coords="262,1665,450,1707"/>
+<area shape="rect" id="node41" href="$de/d04/a01209.html#aea39864845670450afc26ab268f385a3" title=" " alt="" coords="269,1731,443,1758"/>
+<area shape="rect" id="node42" href="$de/d04/a01209.html#a8211b0a0bb14f560103fdf876f80dfc1" title="Replaces the main variable in a polynomial." alt="" coords="285,1483,427,1524"/>
+<area shape="rect" id="node43" href="$de/d04/a01209.html#a3e97e4df9ce3ccbe80f1a65d0d65ca14" title="Implements a subresultants algorithm with optimizations described in &#160;." alt="" coords="285,1053,427,1079"/>
+<area shape="rect" id="node44" href="$de/d04/a01209.html#a9ff3e0716bd8ae224ff752713b0aa68b" title=" " alt="" coords="297,1103,415,1130"/>
+<area shape="rect" id="node45" href="$de/d04/a01209.html#a82eb1705bccb1d0c70e27d03620c99a4" title=" " alt="" coords="269,1154,443,1181"/>
+</map>

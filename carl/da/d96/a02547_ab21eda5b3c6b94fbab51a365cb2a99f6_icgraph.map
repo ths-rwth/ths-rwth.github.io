@@ -1,0 +1,52 @@
+<map id="carl::MultivariatePolynomial::nr_terms" name="carl::MultivariatePolynomial::nr_terms">
+<area shape="rect" id="node1" title="Calculate the number of terms." alt="" coords="981,1037,1188,1078"/>
+<area shape="rect" id="node2" href="$d8/dc9/a02671.html#a501e06e49ddfda7fea115884bb7f1d49" title=" " alt="" coords="747,388,913,415"/>
+<area shape="rect" id="node3" href="$da/d96/a02547.html#abdc9f1615b207671fee35fb00d23d37a" title=" " alt="" coords="727,439,933,481"/>
+<area shape="rect" id="node4" href="$d8/d8e/a01224.html#a2326d21064dcca28d56651b45e4ce016" title="Like substitute, but expects substitutions for all variables." alt="" coords="775,505,885,532"/>
+<area shape="rect" id="node5" href="$d8/d8e/a01224.html#a0f08750b28226855b7a0283241d885e2" title=" " alt="" coords="791,556,869,583"/>
+<area shape="rect" id="node6" href="$da/d96/a02547.html#a761a9a703b7c7fd8571047ae6451a30f" title="Check if the polynomial has a constant term that is not zero." alt="" coords="472,282,679,323"/>
+<area shape="rect" id="node8" href="$da/d96/a02547.html#aa5c86f4a82600327787eec32b6751645" title=" " alt="" coords="472,399,679,441"/>
+<area shape="rect" id="node9" href="$da/d96/a02547.html#a2f6524b8552fc389eafd79a6302ecd4a" title="Check if the polynomial is constant." alt="" coords="472,217,679,258"/>
+<area shape="rect" id="node23" href="$d8/d8e/a01224.html#a52e2c3f493c581b3c695d06fce2c5e11" title="Check if the polynomial is linear." alt="" coords="511,465,639,492"/>
+<area shape="rect" id="node24" href="$da/d96/a02547.html#ab6f6fe26935d80769f3e5ef6f82c98fc" title=" " alt="" coords="472,517,679,558"/>
+<area shape="rect" id="node25" href="$d8/d8e/a01224.html#a0904b2d62006514e4b1a92da6bbe10f3" title=" " alt="" coords="527,1305,623,1332"/>
+<area shape="rect" id="node26" href="$da/d96/a02547.html#aada91f8b8ce585c5e43b5f923d98b81f" title=" " alt="" coords="217,919,424,961"/>
+<area shape="rect" id="node27" href="$d8/d8e/a01224.html#ac67064c047e52b06066573e36336aa1d" title=" " alt="" coords="780,1399,880,1425"/>
+<area shape="rect" id="node28" href="$da/d96/a02547.html#a4ecdc894486b9c434b9821a94190022b" title="The leading term." alt="" coords="727,978,933,1019"/>
+<area shape="rect" id="node34" href="$d8/d8e/a01224.html#acd9b60d1306ef2503e330598565b7dee" title="Calculates the S&#45;Polynomial of two polynomials." alt="" coords="253,1196,388,1223"/>
+<area shape="rect" id="node37" href="$d8/d8e/a01224.html#a96cd07c72b28bef5bbac66f30da58177" title="Calculates the quotient of a polynomial division." alt="" coords="521,1356,629,1383"/>
+<area shape="rect" id="node41" href="$d8/d8e/a01224.html#ae65b77b9f9c631a11d6674fc8ba55ea9" title="Divides the polynomial by another polynomial." alt="" coords="516,1407,635,1433"/>
+<area shape="rect" id="node42" href="$d2/db0/a03595.html#a7a9168083be11f199373129d7f60c416" title=" " alt="" coords="495,1458,656,1499"/>
+<area shape="rect" id="node43" href="$dd/d15/a03667.html#a7906d87eafa83b0fe168d8cf495aadd1" title=" " alt="" coords="488,1523,663,1565"/>
+<area shape="rect" id="node44" href="$d0/ded/a03671.html#a95e884507bb12ea60fdc679d85c4fef8" title=" " alt="" coords="491,1589,660,1630"/>
+<area shape="rect" id="node45" href="$de/d8c/a02747.html#a825f76fb43ca1f5b27acfd917bcdc2a8" title="Calculates the hash of a MultivariatePolynomial." alt="" coords="727,1449,933,1505"/>
+<area shape="rect" id="node46" href="$d8/d8e/a01224.html#adc2d43a8a22aa7e0d64cf683d76e1cd9" title="Checks if the first arguments is less than the second." alt="" coords="770,1529,890,1556"/>
+<area shape="rect" id="node47" href="$d8/d8e/a01224.html#a9c4fc41f0b54843e420540255bf7947c" title="Checks if the two arguments are equal." alt="" coords="765,1580,895,1607"/>
+<area shape="rect" id="node48" href="$d8/d8e/a01224.html#a6a1262919a9ad482f10d7090e1759e6f" title=" " alt="" coords="771,1631,889,1657"/>
+<area shape="rect" id="node49" href="$d8/d8e/a01224.html#a73c056f5a398c396974aaf2dd370a47b" title=" " alt="" coords="743,1681,917,1708"/>
+<area shape="rect" id="node50" href="$da/d96/a02547.html#a22fb242dd7551b3cdd5c48badea9e539" title="Give the last term according to Ordering." alt="" coords="727,658,933,699"/>
+<area shape="rect" id="node7" href="$d8/d8e/a01224.html#a69bb2518166d66ce4a90d6972277058b" title=" " alt="" coords="254,545,387,572"/>
+<area shape="rect" id="node10" href="$d0/de4/a02851.html#a8166101bda0b1fea4d03333382199080" title=" " alt="" coords="235,57,406,98"/>
+<area shape="rect" id="node11" href="$d8/d8e/a01224.html#ae792dffae5e367394dec7b4841c345f8" title="Calculates the coprime part of p and q." alt="" coords="255,123,387,149"/>
+<area shape="rect" id="node12" href="$d8/d8e/a01224.html#ad7a511dc6457c80f2acc3b03a3efabda" title="Computes the n&#39;th derivative of p with respect to v." alt="" coords="261,173,381,200"/>
+<area shape="rect" id="node13" href="$d8/d8e/a01224.html#af5dd729b6f9a5bb6abbf84261214ef0b" title=" " alt="" coords="282,224,359,251"/>
+<area shape="rect" id="node14" href="$d0/de4/a02851.html#a193b36e60190bec7f7a0cfc144dee515" title=" " alt="" coords="223,275,418,317"/>
+<area shape="rect" id="node15" href="$da/d96/a02547.html#a60b8d21c0aa8ff1c3b28e99fe5242197" title="Check if the polynomial is a number, i.e., a constant." alt="" coords="217,341,424,382"/>
+<area shape="rect" id="node17" href="$d6/d1a/a02895.html#a0d668f381c18fa52c494107c58065da3" title=" " alt="" coords="227,635,415,677"/>
+<area shape="rect" id="node18" href="$d8/d8e/a01224.html#a69b2e34bfbd9b60900086b87db189ac6" title="Checks if the two arguments are equal." alt="" coords="255,5,386,32"/>
+<area shape="rect" id="node19" href="$dc/d44/a02899.html#a3f72714f3c01126c90b6958ed87ac3c4" title=" " alt="" coords="245,778,396,819"/>
+<area shape="rect" id="node21" href="$d8/d8e/a01224.html#a01a4afbb06a0ef14e10486b9fb2a7271" title=" " alt="" coords="245,407,396,433"/>
+<area shape="rect" id="node22" href="$d0/de4/a02851.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="5,438,169,479"/>
+<area shape="rect" id="node16" href="$d8/d8e/a01224.html#af84e5cb03c9b9390ebd461f67b92d741" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="32,361,143,388"/>
+<area shape="rect" id="node20" href="$d8/d8e/a01224.html#a577cfa53845dfa83eb5e97a0b70b4447" title=" " alt="" coords="24,785,151,812"/>
+<area shape="rect" id="node29" href="$da/d96/a02547.html#aa8aa1afea0bba3f5ba40c84ba7506b58" title=" " alt="" coords="472,751,679,793"/>
+<area shape="rect" id="node30" href="$d8/d8e/a01224.html#a7400e5cd96cfdd7abf4811099bcead45" title="Calculating the quotient and the remainder, such that for a given polynomial p we have p = divisor * ..." alt="" coords="528,817,623,844"/>
+<area shape="rect" id="node31" href="$d8/d8e/a01224.html#a5018888cd5f9fe46fd440d793a704a9e" title="Check if the polynomial is linear." alt="" coords="521,868,630,895"/>
+<area shape="rect" id="node32" href="$da/d96/a02547.html#a710a3efef2f7f20bdaf15c311edb9650" title="Returns the coefficient of the leading term." alt="" coords="472,919,679,961"/>
+<area shape="rect" id="node33" href="$da/d96/a02547.html#a78153709ecd81a2216e6a513dcc538c2" title="The leading monomial." alt="" coords="472,1189,679,1230"/>
+<area shape="rect" id="node35" href="$d8/d8e/a01224.html#a3bbbafc59811a74b30553e18a9820fd0" title="Checks if the first arguments is less than the second." alt="" coords="515,1036,635,1063"/>
+<area shape="rect" id="node36" href="$d8/d8e/a01224.html#a2d63ad5bfc867a857c762ff3694f6e28" title="Checks if the two arguments are equal." alt="" coords="510,1137,641,1164"/>
+<area shape="rect" id="node38" href="$d8/d8e/a01224.html#adf9d6c209abb44b9087d203e24604d36" title=" " alt="" coords="515,1255,636,1281"/>
+<area shape="rect" id="node39" href="$da/d96/a02547.html#ab0bdc1c66a3e292d6b36da733b3a0a14" title="For terms with exactly one variable, get this variable." alt="" coords="472,634,679,675"/>
+<area shape="rect" id="node40" href="$d8/d8e/a01224.html#afee7643dfa8a866fffe07568684fc15a" title="Calculates the max." alt="" coords="507,700,643,727"/>
+</map>

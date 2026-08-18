@@ -1,0 +1,6 @@
+<map id="smtrat::cadcells::representation::roots_above" name="smtrat::cadcells::representation::roots_above">
+<area shape="rect" id="node1" title=" " alt="" coords="5,71,235,112"/>
+<area shape="rect" id="node2" href="$d4/dfa/classsmtrat_1_1cadcells_1_1datastructures_1_1Delineation.html#a9ae29fc292a3708497adeaf9f02117d7" title="Returns the underlying root map, which is a set of real algebraic numbers to indexed root expressions..." alt="" coords="283,5,511,47"/>
+<area shape="rect" id="node3" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#ab623319f2aecdc705d59308a767ee595" title=" " alt="" coords="283,71,511,112"/>
+<area shape="rect" id="node4" href="$d9/dea/classsmtrat_1_1cadcells_1_1datastructures_1_1DelineationInterval.html#a89d10bab7fef184f8b68ea662424814b" title=" " alt="" coords="283,137,511,193"/>
+</map>

@@ -1,0 +1,52 @@
+<map id="carl::Interval::is_closed_interval" name="carl::Interval::is_closed_interval">
+<area shape="rect" id="node1" title="Function which determines, if the interval is closed." alt="" coords="832,1853,960,1895"/>
+<area shape="rect" id="node2" href="$df/d71/a02247.html#a79bd16beb26b9497194c01394cf9b9cc" title="Function which determines, if the interval is a pointinterval." alt="" coords="661,1853,784,1895"/>
+<area shape="rect" id="node3" href="$de/d04/a01209.html#af84e5cb03c9b9390ebd461f67b92d741" title="Evaluate the given polynomial with the given values for the variables." alt="" coords="479,227,589,254"/>
+<area shape="rect" id="node4" href="$de/d04/a01209.html#ab58d55dada3f8e62b64b204197bcbdc9" title=" " alt="" coords="475,1835,593,1862"/>
+<area shape="rect" id="node14" href="$df/d71/a02247.html#aca2d23c8113eb0a763cbf965039106fc" title="Function which determines, if the interval is the one interval." alt="" coords="457,1886,611,1913"/>
+<area shape="rect" id="node15" href="$de/d04/a01209.html#afe4a57a0a50b27be16805f9ea8bc2193" title="Check if this interval is a point&#45;interval containing 1." alt="" coords="486,1003,582,1030"/>
+<area shape="rect" id="node41" href="$df/d71/a02247.html#ae3890b98be455aff41c532fc58a14d58" title="Function which determines, if the interval is the zero interval." alt="" coords="455,1937,613,1963"/>
+<area shape="rect" id="node44" href="$de/d04/a01209.html#a65e1e4a153aaf5cfd56b120f17341462" title="Check if this interval is a point&#45;interval containing 0." alt="" coords="484,329,584,355"/>
+<area shape="rect" id="node47" href="$d6/d97/a02835.html#a5d87e67a8844e48813fbd9c4d6ea1943" title=" " alt="" coords="216,5,380,47"/>
+<area shape="rect" id="node48" href="$de/d04/a01209.html#a9c2412e1e4b2b88f1c954c4c926eeda5" title=" " alt="" coords="469,1987,599,2014"/>
+<area shape="rect" id="node49" href="$de/d04/a01209.html#a18dd7941a668a603002cfd4e1378f8ac" title="Searches for some point in this interval, preferably near the midpoint and with a small representatio..." alt="" coords="483,2038,585,2065"/>
+<area shape="rect" id="node50" href="$de/d04/a01209.html#a45847fb7d208553eeaac8fa2a624f27a" title="Counts the sign variations (i.e." alt="" coords="457,2089,611,2115"/>
+<area shape="rect" id="node5" href="$d8/df3/a01216.html#a34836e1d10fcc3797323372c470264d2" title=" " alt="" coords="223,887,373,928"/>
+<area shape="rect" id="node7" href="$d2/da6/a01210.html#a3f582b840b36974248cf551ce69b4f32" title=" " alt="" coords="224,1975,372,2016"/>
+<area shape="rect" id="node8" href="$df/d23/a02751.html#a9ccaae3c3131efad13eb6012bacd377c" title=" " alt="" coords="228,2040,368,2081"/>
+<area shape="rect" id="node9" href="$dc/d5e/a02891.html#a3cdc6447cdaeff296f90851fe57238fe" title=" " alt="" coords="214,1054,382,1081"/>
+<area shape="rect" id="node10" href="$de/d04/a01209.html#a0e092247891803c471a204a5762051e1" title=" " alt="" coords="239,2106,357,2133"/>
+<area shape="rect" id="node11" href="$de/d04/a01209.html#ab16f1967bf13d5d5ce2696ac45291d23" title="Calculate the least common multiple of two fractions." alt="" coords="259,1806,337,1833"/>
+<area shape="rect" id="node12" href="$de/d04/a01209.html#afd3fa8b2906e7cf6fc035db84ba08a6a" title="Convert a fraction to an integer." alt="" coords="231,1857,365,1899"/>
+<area shape="rect" id="node13" href="$de/d04/a01209.html#addee46a930b9236b643f5973aaeb1390" title="Convert a fraction to an integer." alt="" coords="203,1923,393,1950"/>
+<area shape="rect" id="node6" href="$de/d04/a01209.html#a38324a5dd7e812434081746ad6c10e09" title=" " alt="" coords="5,807,141,834"/>
+<area shape="rect" id="node16" href="$dd/dd8/a02655.html#a501e06e49ddfda7fea115884bb7f1d49" title=" " alt="" coords="215,602,381,629"/>
+<area shape="rect" id="node17" href="$dd/d87/a03235.html#a7fa683f47d0d69d85a37f012b4334f19" title=" " alt="" coords="223,653,373,695"/>
+<area shape="rect" id="node18" href="$de/d04/a01209.html#a520068bdcb9bc052331bb114fb9124c6" title="Compares _constraintA with _constraintB." alt="" coords="243,770,353,797"/>
+<area shape="rect" id="node19" href="$de/d04/a01209.html#a01ac9cb767d10987a195fe8a8701be36" title="The content of a polynomial is the gcd of the coefficients of the normal part of a polynomial." alt="" coords="247,354,349,381"/>
+<area shape="rect" id="node20" href="$d2/d40/a02307.html#a12243e6bf41327089e8d3a7936bcd621" title="Evaluate this contraction over the given assignment." alt="" coords="199,821,397,863"/>
+<area shape="rect" id="node21" href="$de/d04/a01209.html#af5dd729b6f9a5bb6abbf84261214ef0b" title=" " alt="" coords="259,953,337,979"/>
+<area shape="rect" id="node22" href="$de/d04/a01209.html#ac6a156ef415c5f9bb1839fda809b18b0" title="If this constraint represents a substitution (equation, where at least one variable occurs only linea..." alt="" coords="219,1003,377,1030"/>
+<area shape="rect" id="node23" href="$de/d04/a01209.html#a8cd53b053b1d885ff795bcca5492aec7" title="Check if a fraction is integral." alt="" coords="239,1105,357,1131"/>
+<area shape="rect" id="node24" href="$d9/dc8/a02531.html#ab6f6fe26935d80769f3e5ef6f82c98fc" title=" " alt="" coords="195,1156,401,1197"/>
+<area shape="rect" id="node25" href="$df/d23/a02751.html#a34f4e4d26e423a29fc4a17b53ead0a88" title="Checks whether the term equals one." alt="" coords="230,1222,366,1249"/>
+<area shape="rect" id="node26" href="$d6/dcf/a03219.html#a7f5b62bd7a3646ccf169e39ac825db71" title=" " alt="" coords="201,1273,395,1315"/>
+<area shape="rect" id="node27" href="$dd/dc3/a03247.html#aded17c7af1c83b0746e4feb6de02bcb5" title=" " alt="" coords="217,405,379,447"/>
+<area shape="rect" id="node28" href="$de/d04/a01209.html#a0904b2d62006514e4b1a92da6bbe10f3" title=" " alt="" coords="250,1339,346,1366"/>
+<area shape="rect" id="node29" href="$d9/dc8/a02531.html#aada91f8b8ce585c5e43b5f923d98b81f" title=" " alt="" coords="195,1391,401,1432"/>
+<area shape="rect" id="node30" href="$d9/d8b/a02863.html#a08d188828c11123ba723f222dd77e536" title=" " alt="" coords="225,1456,371,1497"/>
+<area shape="rect" id="node31" href="$d1/d34/a01211.html#ad53cfe363ccc9999e0fd1209f6d453c9" title=" " alt="" coords="195,1522,401,1549"/>
+<area shape="rect" id="node32" href="$de/d04/a01209.html#a3c0b45fdcddadd2e785d2900df118fbb" title="Checks if the two arguments are equal." alt="" coords="233,1573,363,1599"/>
+<area shape="rect" id="node33" href="$de/d04/a01209.html#a0b29da0503a9246e89a086460fc8bea7" title="Returns this/divisor where divisor is the numeric content of this polynomial." alt="" coords="198,202,398,229"/>
+<area shape="rect" id="node34" href="$de/d04/a01209.html#a96cd07c72b28bef5bbac66f30da58177" title="Calculates the quotient of a polynomial division." alt="" coords="244,253,352,279"/>
+<area shape="rect" id="node35" href="$de/d04/a01209.html#adf9d6c209abb44b9087d203e24604d36" title=" " alt="" coords="237,303,359,330"/>
+<area shape="rect" id="node36" href="$de/d04/a01209.html#ae65b77b9f9c631a11d6674fc8ba55ea9" title="Divides the polynomial by another polynomial." alt="" coords="239,1623,357,1650"/>
+<area shape="rect" id="node37" href="$dd/da4/a02295.html#a3fd2130cf4e82d148e5452fc433a777b" title="Constructs the solution formula for the given variable x in the equation p = 0, where p is the given ..." alt="" coords="207,1675,389,1716"/>
+<area shape="rect" id="node38" href="$d1/df9/a03555.html#adced9f2632358dec89b9aeec6ab813e0" title=" " alt="" coords="217,1740,379,1781"/>
+<area shape="rect" id="node39" href="$d8/d07/a03627.html#aa039a3ce61ad6e88f256849ee6da95a3" title=" " alt="" coords="211,471,385,512"/>
+<area shape="rect" id="node40" href="$d0/db0/a03631.html#ad7d20aa21226176de66a3b7cfcbfed6f" title=" " alt="" coords="213,536,383,577"/>
+<area shape="rect" id="node42" href="$de/d04/a01209.html#a7ce3f409d6d916c20b6f7b0a7586638a" title="Checks whether this constraint is consistent with the given assignment from the its variables to inte..." alt="" coords="220,2207,376,2234"/>
+<area shape="rect" id="node43" href="$de/d04/a01209.html#abf96ed5105e79f53828abec13e968c32" title=" " alt="" coords="243,2157,353,2183"/>
+<area shape="rect" id="node45" href="$da/d8e/a02759.html#a55969f2a6a79954a0763bd902ef21711" title=" " alt="" coords="199,136,397,177"/>
+<area shape="rect" id="node46" href="$d3/dcb/a02211.html#ac6dca3b99b365ec5bbee64801541426a" title=" " alt="" coords="189,71,407,112"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="carl::vs::simplify_inplace" name="carl::vs::simplify_inplace">
+<area shape="rect" id="node1" title="Simplifies the case distinction in place." alt="" coords="387,5,516,47"/>
+<area shape="rect" id="node2" href="$d3/d0b/a01253.html#a2e8b6620391ce135b0c81929328fbbe2" title="Applies a substitution to a constraint." alt="" coords="196,13,339,39"/>
+<area shape="rect" id="node3" href="$d3/d0b/a01253.html#ad5b4aa3676afed7d74cc6829a9fa4d7f" title="Applies a substitution to a variable comparison." alt="" coords="5,13,148,39"/>
+</map>

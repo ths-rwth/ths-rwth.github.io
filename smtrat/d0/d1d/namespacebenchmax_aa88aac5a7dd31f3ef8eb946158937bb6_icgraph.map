@@ -1,0 +1,10 @@
+<map id="benchmax::common_prefix" name="benchmax::common_prefix">
+<area shape="rect" id="node1" title="Computes the common prefix of two paths." alt="" coords="780,71,979,97"/>
+<area shape="rect" id="node2" href="$d0/d1d/namespacebenchmax.html#a3ed869ed4e2213365d5e54bfe9183046" title="Computes the common prefix of a list of paths." alt="" coords="533,5,732,32"/>
+<area shape="rect" id="node3" href="$d2/db3/namespacebenchmax_1_1settings.html#a246f5b67ec2f696722fc673a5b064204" title="Postprocess benchmark settings." alt="" coords="554,56,711,112"/>
+<area shape="rect" id="node7" href="$d2/db3/namespacebenchmax_1_1settings.html#a5e7606d9b1e76bc417dd56f8a7b88617" title="Postprocess settings to compute common prefix." alt="" coords="549,137,717,178"/>
+<area shape="rect" id="node4" href="$d2/db3/namespacebenchmax_1_1settings.html#a4d839bd6a36063c94cb5fcc24214f621" title="Registers benchmark settings with the settings parser." alt="" coords="279,66,485,107"/>
+<area shape="rect" id="node5" href="$de/dcc/benchmax_8cpp.html#a3ea057c6f49e14c089d66ed675437e1c" title="Initialized the application." alt="" coords="108,108,231,135"/>
+<area shape="rect" id="node6" href="$de/dcc/benchmax_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="Main program." alt="" coords="5,108,60,135"/>
+<area shape="rect" id="node8" href="$d2/db3/namespacebenchmax_1_1settings.html#a8eb10a55dda16297ed2260acd7a3da31" title="Registers tool settings with the settings parser." alt="" coords="303,133,461,174"/>
+</map>

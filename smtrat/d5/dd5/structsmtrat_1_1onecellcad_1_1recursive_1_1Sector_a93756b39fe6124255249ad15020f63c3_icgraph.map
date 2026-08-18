@@ -1,0 +1,6 @@
+<map id="smtrat::onecellcad::recursive::Sector::isHighBoundInfty" name="smtrat::onecellcad::recursive::Sector::isHighBoundInfty">
+<area shape="rect" id="node1" title=" " alt="" coords="551,31,693,87"/>
+<area shape="rect" id="node2" href="$dd/d08/namespacesmtrat_1_1onecellcad_1_1recursive.html#ab36e69bf4166ec5d012cfddc5284f2bb" title="Merge the given open OpenCADCell &#39;cell&#39; that contains the given &#39;point&#39; (called &quot;alpha&quot; in [1]) with ..." alt="" coords="280,5,503,47"/>
+<area shape="rect" id="node4" href="$dd/d08/namespacesmtrat_1_1onecellcad_1_1recursive.html#ace3129544167e5e10e1958a38bf8c8dd" title=" " alt="" coords="304,71,479,112"/>
+<area shape="rect" id="node3" href="$dd/d08/namespacesmtrat_1_1onecellcad_1_1recursive.html#a71caafda412826206b34224247d91098" title="Construct a OpenCADCell for the given set of polynomials &#39;polySet&#39; that contains the given &#39;point&#39;." alt="" coords="5,5,232,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::shrinkSingleComponent" name="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::shrinkSingleComponent">
+<area shape="rect" id="node1" title="Shrink the component of the &#39;cell&#39; at the &#39;boundCandidate&#39;s level around the given point if the &#39;boun..." alt="" coords="5,97,196,153"/>
+<area shape="rect" id="node2" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#a73cb94869a92f022153383afbc842e6c" title=" " alt="" coords="288,5,479,47"/>
+<area shape="rect" id="node3" href="$df/d87/namespacesmtrat_1_1mcsat_1_1onecellcad.html#a22cbeeb771ada404e069bcda3f2bb536" title=" " alt="" coords="288,71,479,112"/>
+<area shape="rect" id="node4" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#a61f3f6df722e6c1c35112a10bf7e400e" title="src/lib/datastructures/mcsat/onecellcad/OneCellCAD.h Given a poly p(x1,..,xn), return all roots of th..." alt="" coords="244,136,523,177"/>
+<area shape="rect" id="node6" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#a5d0c1290b9e26920b16f64a5cab92663" title="Check if an n&#45;variate &#39;poly&#39; p(x1,..,xn) with n&gt;=1 already becomes the zero poly after plugging in p(..." alt="" coords="279,201,487,243"/>
+<area shape="rect" id="node5" href="$de/d22/classsmtrat_1_1mcsat_1_1onecellcad_1_1OneCellCAD.html#ac7402bf951f56bd98143f7cde7c43fc9" title="Create a mapping from the first variables (with index 0 to &#39;componentCount&#39;) in the &#39;variableOrder&#39; t..." alt="" coords="571,169,821,211"/>
+</map>

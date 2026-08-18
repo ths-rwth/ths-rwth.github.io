@@ -1,0 +1,13 @@
+<map id="carl::FLOAT_T::value" name="carl::FLOAT_T::value">
+<area shape="rect" id="node1" title="Getter for the raw value contained." alt="" coords="260,233,413,260"/>
+<area shape="rect" id="node2" href="$dc/db6/a01212.html#a9c252b0b20f97e6cbfe02e5289e54e27" title="Implicitly converts the number to a rational and returns the denominator." alt="" coords="45,5,172,32"/>
+<area shape="rect" id="node3" href="$dc/db6/a01212.html#a928cc4261ff790cf5f3bf5d8537ce62e" title="Implicitly converts the number to a rational and returns the nominator." alt="" coords="53,56,164,83"/>
+<area shape="rect" id="node4" href="$dc/db6/a01212.html#a0e092247891803c471a204a5762051e1" title=" " alt="" coords="49,107,168,133"/>
+<area shape="rect" id="node5" href="$dc/db6/a01212.html#afea76c53e9c5e4c3ff2fb4bc4bb312b4" title=" " alt="" coords="59,157,159,184"/>
+<area shape="rect" id="node6" href="$dc/db6/a01212.html#adf3c5fe1f8247ca5cbbf847119667b26" title=" " alt="" coords="53,208,164,235"/>
+<area shape="rect" id="node7" href="$dc/db6/a01212.html#ac18da6adf963f9eef37b6cab8ff8ae84" title=" " alt="" coords="63,259,154,285"/>
+<area shape="rect" id="node8" href="$db/d17/a01148.html#a3c04138a5bfe5d72780bb7e82a18e627" title=" " alt="" coords="81,309,136,336"/>
+<area shape="rect" id="node9" href="$dd/d1b/a02351.html#ac41517c44502f2654a8248259d22d155" title=" " alt="" coords="5,361,212,402"/>
+<area shape="rect" id="node10" href="$dc/db6/a01212.html#a8b27de7fab06e49d015c8412085cb52b" title=" " alt="" coords="51,427,166,453"/>
+<area shape="rect" id="node11" href="$dc/db6/a01212.html#ad5dde503657e56e7d078b6c209cd1707" title="Casts the FLOAT_T to an arbitrary integer type which has a constructor for a native int." alt="" coords="63,477,154,504"/>
+</map>

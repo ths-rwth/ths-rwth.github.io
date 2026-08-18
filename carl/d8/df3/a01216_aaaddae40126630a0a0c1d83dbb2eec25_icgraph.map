@@ -1,0 +1,5 @@
+<map id="carl::detail::tuple_tail_impl" name="carl::detail::tuple_tail_impl">
+<area shape="rect" id="node1" title="Helper method for carl::tuple_tail that actually performs the call." alt="" coords="359,5,491,47"/>
+<area shape="rect" id="node2" href="$de/d04/a01209.html#a21dc00a634453dfde904676faf771d6c" title="Returns a new tuple containing everything but the first element." alt="" coords="196,13,311,39"/>
+<area shape="rect" id="node3" href="$d3/dca/a03171.html#a19431819e47b6fc59b4d6ebfe772f8f7" title=" " alt="" coords="5,5,148,47"/>
+</map>

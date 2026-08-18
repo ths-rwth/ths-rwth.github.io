@@ -1,0 +1,4 @@
+<map id="benchmax::slurm::archive_log_files" name="benchmax::slurm::archive_log_files">
+<area shape="rect" id="node1" title="Put all log files into an archive." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node2" href="$d0/d1d/namespacebenchmax.html#a39df508bcba44e06344e26e8c2335a3b" title="Runs an external program from some command line and records the output to stdout." alt="" coords="244,13,427,39"/>
+</map>

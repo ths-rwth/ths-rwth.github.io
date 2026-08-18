@@ -1,0 +1,6 @@
+<map id="carl::divide" name="carl::divide">
+<area shape="rect" id="node1" title=" " alt="" coords="5,78,100,105"/>
+<area shape="rect" id="node2" href="$d7/d7d/a02527.html#a2ecd948673bfe27a94f68b0563805af6" title="Retrieves the coefficients defining this polynomial." alt="" coords="148,5,343,47"/>
+<area shape="rect" id="node3" href="$d7/d7d/a02527.html#a61c640608d515e986f81c454662b35a5" title="Asserts that this polynomial over numeric coefficients complies with the requirements and assumptions..." alt="" coords="148,71,343,112"/>
+<area shape="rect" id="node4" href="$d7/d7d/a02527.html#a36a43e39b1cd9cd49db09707d3ceb8b5" title="Retrieves the main variable of this polynomial." alt="" coords="148,136,343,177"/>
+</map>

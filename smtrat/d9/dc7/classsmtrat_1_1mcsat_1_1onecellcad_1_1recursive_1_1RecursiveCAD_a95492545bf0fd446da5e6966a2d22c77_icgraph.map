@@ -1,0 +1,11 @@
+<map id="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::shrinkCellWithIrreducibleFactorsOfPoly" name="smtrat::mcsat::onecellcad::recursive::RecursiveCAD::shrinkCellWithIrreducibleFactorsOfPoly">
+<area shape="rect" id="node1" title=" " alt="" coords="1287,94,1527,164"/>
+<area shape="rect" id="node2" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a0b23f1e7aff31bc938a1bc56d589695a" title=" " alt="" coords="1048,36,1239,92"/>
+<area shape="rect" id="node3" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#abb81540ba8ec2a09e98fd70d9f38cbf0" title=" " alt="" coords="753,6,968,62"/>
+<area shape="rect" id="node7" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a7a266cb9f9a3dd980f60b1856a4d02cf" title=" " alt="" coords="721,86,1000,142"/>
+<area shape="rect" id="node8" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#ae83d2372df42b8d154e87654d53277f1" title=" " alt="" coords="1048,166,1239,222"/>
+<area shape="rect" id="node4" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a00b32f6a017505b7297faa796133c516" title="Merge the given open OpenCADCell &#39;cell&#39; that contains the given &#39;point&#39; (called &quot;alpha&quot; in [brown15])..." alt="" coords="483,126,673,182"/>
+<area shape="rect" id="node5" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a315cef555dca57b25365801f0f8539ea" title="Construct a single CADCell that contains the given &#39;point&#39; and is sign&#45;invariant for the given polyno..." alt="" coords="244,126,435,182"/>
+<area shape="rect" id="node6" href="$db/d67/structsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1Explanation.html#a327efe47bf089a969e7bf94e11c9ce04" title=" " alt="" coords="5,126,196,182"/>
+<area shape="rect" id="node9" href="$d9/dc7/classsmtrat_1_1mcsat_1_1onecellcad_1_1recursive_1_1RecursiveCAD.html#a13d63fe412341476cad62c51a04373a0" title=" " alt="" coords="736,166,985,222"/>
+</map>
